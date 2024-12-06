@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1659194366
-ModificationTime: 1733472395
+ModificationTime: 1733472519
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -7650,24 +7650,20 @@ EndChar
 StartChar: seven
 Encoding: 55 55 326
 Width: 513
-Flags: W
+Flags: WO
 LayerCount: 2
 Fore
 SplineSet
 158 0 m 1,0,1
- 171 170 171 170 234 337 c 128,-1,2
- 297 504 297 504 424 679 c 1,3,-1
- 431 650 l 1,4,-1
- 23 650 l 1,5,-1
- 23 720 l 1,6,-1
- 492 720 l 1,7,-1
- 492 662 l 1,8,9
- 415 545 415 545 364 435.5 c 128,-1,10
- 313 326 313 326 285.5 219 c 128,-1,11
- 258 112 258 112 250 0 c 1,12,-1
+ 419 679 l 1,2,-1
+ 431 650 l 1,3,-1
+ 66 650 l 1,4,-1
+ 66 720 l 1,5,-1
+ 492 720 l 1,6,-1
+ 492 662 l 1,7,-1
+ 250 0 l 1,8,-1
  158 0 l 1,0,1
 EndSplineSet
-Validated: 5
 Kerns2: 443 -82 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 438 -43 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 426 -2 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 384 -102 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 359 -28 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 325 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'tnum' Tabular Numbers in Latin lookup 19 subtable" seven.tf
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" seven.tf
@@ -8367,7 +8363,7 @@ EndChar
 StartChar: semicolon
 Encoding: 59 59 347
 Width: 268
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 Refer: 345 44 N 1 0 0 1 -7 0 3
