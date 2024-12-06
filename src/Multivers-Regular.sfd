@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1659194366
-ModificationTime: 1733472519
+ModificationTime: 1733473016
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -3173,7 +3173,7 @@ StartChar: R.ss05
 Encoding: 82 82 135
 Width: 621
 GlyphClass: 2
-Flags: W
+Flags: WO
 AnchorPoint: "Anchor-2" 322 0 basechar 0
 AnchorPoint: "Anchor-0" 313 720 basechar 0
 LayerCount: 2
@@ -3181,34 +3181,33 @@ Fore
 SplineSet
 84 0 m 1,0,-1
  84 720 l 1,1,-1
- 334 720 l 2,2,3
- 407 720 407 720 459.5 696 c 128,-1,4
- 512 672 512 672 540.5 628 c 128,-1,5
- 569 584 569 584 569 525 c 0,6,7
- 569 451 569 451 523 404 c 128,-1,8
+ 334 720 l 17,2,3
+ 407 720 407 720 459.5 696 c 129,-1,4
+ 512 672 512 672 540.5 628 c 129,-1,5
+ 569 584 569 584 569 525 c 1,6,7
+ 569 451 569 451 523 404 c 129,-1,8
  477 357 477 357 385 336 c 1,9,-1
  392 362 l 1,10,11
- 471 363 471 363 513.5 324 c 132,-1,12
- 556 285 556 285 556 221.5 c 4,13,14
- 558 93 558 93 571 21.5 c 0,15,16
- 576 0 576 0 580 0 c 0,17,18
- 536 0 536 0 492 0 c 1,19,20
- 482 22 482 22 478.75 93 c 0,21,22
- 477 125 477 125 477 199 c 0,23,24
- 477 254 477 254 440.5 287.5 c 128,-1,25
- 404 321 404 321 339 321 c 2,26,-1
- 143 321 l 1,27,-1
- 143 388 l 1,28,-1
- 331 388 l 2,29,30
- 405 388 405 388 447 423.5 c 128,-1,31
- 489 459 489 459 489 521 c 0,32,33
- 489 582 489 582 448 615.5 c 128,-1,34
- 407 649 407 649 331 649 c 2,35,-1
- 165 649 l 1,36,-1
- 165 0 l 1,37,-1
+ 471 363 471 363 510 326 c 129,-1,12
+ 549 289 549 289 557.5 210.5 c 1,13,14
+ 566 140 566 140 575.5 70.5 c 5,15,16
+ 586 19 586 19 595 0 c 1,17,18
+ 551 0 551 0 507 0 c 1,19,20
+ 501 13 501 13 489.75 93 c 1,21,22
+ 488 106 488 106 477 199 c 1,23,24
+ 470 261 470 261 440.5 287.5 c 1,25,26
+ 404 321 404 321 339 321 c 9,27,-1
+ 143 321 l 1,28,-1
+ 143 388 l 1,29,-1
+ 331 388 l 17,30,31
+ 405 388 405 388 447 423.5 c 129,-1,32
+ 489 459 489 459 489 521 c 1,33,34
+ 489 582 489 582 448 615.5 c 129,-1,35
+ 407 649 407 649 331 649 c 9,36,-1
+ 165 649 l 1,37,-1
+ 165 0 l 1,38,-1
  84 0 l 1,0,-1
 EndSplineSet
-Validated: 37
 Kerns2: 430 9 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 420 -3 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 329 18 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 328 22 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 327 23 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 322 2 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 221 14 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 196 11 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 70 14 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -3223,7 +3222,6 @@ LayerCount: 2
 Fore
 Refer: 135 82 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 175 210 2
-Validated: 5
 EndChar
 
 StartChar: Rcaron.ss05
@@ -3237,7 +3235,6 @@ LayerCount: 2
 Fore
 Refer: 135 82 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 73 210 2
-Validated: 5
 EndChar
 
 StartChar: uni0156.ss05
@@ -3251,7 +3248,6 @@ LayerCount: 2
 Fore
 Refer: 135 82 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 204 0 2
-Validated: 5
 EndChar
 
 StartChar: M.ss06
@@ -3468,7 +3464,6 @@ LayerCount: 2
 Fore
 Refer: 135 82 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 204 0 2
-Validated: 5
 EndChar
 
 StartChar: uni0122.ss01.ss07
@@ -7650,7 +7645,7 @@ EndChar
 StartChar: seven
 Encoding: 55 55 326
 Width: 513
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
