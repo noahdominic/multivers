@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1659194366
-ModificationTime: 1733473794
+ModificationTime: 1733473891
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -3500,7 +3500,7 @@ StartChar: a
 Encoding: 97 97 150
 Width: 515
 GlyphClass: 2
-Flags: WO
+Flags: W
 AnchorPoint: "Anchor-3" 456 0 basechar 0
 AnchorPoint: "Anchor-2" 258 0 basechar 0
 AnchorPoint: "Anchor-0" 266 510 basechar 0
@@ -3826,7 +3826,7 @@ StartChar: c
 Encoding: 99 99 163
 Width: 514
 GlyphClass: 2
-Flags: W
+Flags: WO
 AnchorPoint: "Anchor-2" 269 0 basechar 0
 AnchorPoint: "Anchor-0" 273 510 basechar 0
 LayerCount: 2
@@ -3840,10 +3840,10 @@ SplineSet
  100 453 100 453 152.5 486.5 c 128,-1,7
  205 520 205 520 272 520 c 0,8,9
  327 520 327 520 371 498 c 128,-1,10
- 415 476 415 476 443 435 c 128,-1,11
- 471 394 471 394 478 339 c 1,12,-1
- 405 339 l 1,13,14
- 396 390 396 390 362 421.5 c 128,-1,15
+ 415 476 415 476 441 435 c 128,-1,11
+ 467 394 467 394 474 339 c 1,12,-1
+ 398 339 l 1,13,14
+ 389 390 389 390 358.5 421.5 c 128,-1,15
  328 453 328 453 273 453 c 0,16,17
  226 453 226 453 192 429 c 128,-1,18
  158 405 158 405 139 361 c 128,-1,19
@@ -3851,14 +3851,13 @@ SplineSet
  120 197 120 197 139 152 c 128,-1,22
  158 107 158 107 192.5 82 c 128,-1,23
  227 57 227 57 274 57 c 0,24,25
- 327 57 327 57 362 88.5 c 128,-1,26
- 397 120 397 120 406 170 c 1,27,-1
- 479 170 l 1,28,29
- 471 117 471 117 442 76 c 128,-1,30
+ 327 57 327 57 358.5 88.5 c 128,-1,26
+ 390 120 390 120 399 170 c 1,27,-1
+ 475 170 l 1,28,29
+ 467 117 467 117 440 76 c 128,-1,30
  413 35 413 35 369.5 12.5 c 128,-1,31
  326 -10 326 -10 272 -10 c 0,0,1
 EndSplineSet
-Validated: 1
 Kerns2: 444 -64 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 440 -25 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 425 -72 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 391 -66 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 389 -77 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 326 -71 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 196 -7 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -3873,7 +3872,6 @@ LayerCount: 2
 Fore
 Refer: 163 99 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 135 0 2
-Validated: 1
 EndChar
 
 StartChar: ccaron
@@ -3887,7 +3885,6 @@ LayerCount: 2
 Fore
 Refer: 163 99 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 33 0 2
-Validated: 5
 Kerns2: 410 -39 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 188 -3 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -3902,7 +3899,6 @@ LayerCount: 2
 Fore
 Refer: 163 99 N 1 0 0 1 0 0 3
 Refer: 480 807 N 1 0 0 1 85 0 2
-Validated: 5
 EndChar
 
 StartChar: cdotaccent
@@ -3916,7 +3912,6 @@ LayerCount: 2
 Fore
 Refer: 163 99 N 1 0 0 1 0 0 3
 Refer: 467 775 N 1 0 0 1 168 0 2
-Validated: 1
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" cdotaccent.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" cdotaccent.ss01
 EndChar
@@ -6209,7 +6204,6 @@ LayerCount: 2
 Fore
 Refer: 163 99 N 1 0 0 1 0 0 3
 Refer: 483 -1 N 1 0 0 1 158 0 2
-Validated: 1
 EndChar
 
 StartChar: edieresis.ss01
