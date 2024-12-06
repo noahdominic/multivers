@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1659194366
-ModificationTime: 1733477904
+ModificationTime: 1733478032
 PfmFamily: 81
 TTFWeight: 600
 TTFWidth: 5
@@ -370,7 +370,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 38 14
+WinInfo: 7828 38 14
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-1" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-2" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-3" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-4" "'mark' Mark Positioning in Latin lookup 2 subtable" "Anchor-5" "'mark' Mark Positioning in Latin lookup 2 subtable" "Anchor-6" "'mkmk' Mark to Mark in Latin lookup 3 subtable" "Anchor-7" "'mkmk' Mark to Mark in Latin lookup 4 subtable"
@@ -424,7 +424,7 @@ SplineSet
  160 179 l 1,11,-1
  160 282 l 1,8,-1
 EndSplineSet
-Validated: 5
+Validated: 1048581
 Kerns2: 444 -116 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 443 -77 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 442 -81 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 440 -65 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 438 -63 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 430 -36 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 425 -139 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 420 -27 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 418 -93 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 363 -97 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 359 -52 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 358 -117 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 328 -29 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 327 -21 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 326 -69 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 324 -27 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 323 -24 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 322 -28 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 206 -23 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 187 -23 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 169 -31 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 85 -15 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 43 -15 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 42 -14 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "Single Substitution lookup 17 subtable" ordfeminine
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" ordfeminine
@@ -442,7 +442,7 @@ LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 207 210 2
-Validated: 5
+Validated: 1048581
 Kerns2: 206 -23 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 169 -31 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -458,7 +458,7 @@ LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 3
 Refer: 474 774 N 1 0 0 1 127 210 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: uni01CD
@@ -473,7 +473,7 @@ LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 102 210 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: Acircumflex
@@ -488,7 +488,7 @@ LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 3
 Refer: 472 770 N 1 0 0 1 102 210 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: Adieresis
@@ -503,7 +503,7 @@ LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 3
 Refer: 466 776 N 1 0 0 1 114 210 2
-Validated: 5
+Validated: 1048581
 Kerns2: 85 -15 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" Adieresis.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Adieresis.ss01
@@ -521,7 +521,7 @@ LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 3
 Refer: 468 768 N 1 0 0 1 114 210 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: Amacron
@@ -536,7 +536,7 @@ LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 3
 Refer: 477 772 N 1 0 0 1 119 210 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: Aogonek
@@ -551,7 +551,7 @@ LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 3
 Refer: 481 808 N 1 0 0 1 450 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: Aring
@@ -566,7 +566,7 @@ LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 3
 Refer: 475 778 N 1 0 0 1 188 210 2
-Validated: 5
+Validated: 1048581
 Kerns2: 237 -53 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 231 -17 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 182 -19 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 168 -24 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -582,7 +582,7 @@ LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 3
 Refer: 476 771 N 1 0 0 1 95 210 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: AE
@@ -707,7 +707,7 @@ SplineSet
  598 57 598 57 531 23.5 c 128,-1,33
  464 -10 464 -10 380 -10 c 0,0,1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 Kerns2: 440 -15 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 399 -65 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 391 -59 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 326 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 139 -9 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -722,7 +722,7 @@ LayerCount: 2
 Fore
 Refer: 14 67 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 226 210 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: Ccaron
@@ -736,7 +736,7 @@ LayerCount: 2
 Fore
 Refer: 14 67 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 121 210 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: Ccedilla
@@ -750,7 +750,7 @@ LayerCount: 2
 Fore
 Refer: 14 67 N 1 0 0 1 0 0 3
 Refer: 480 807 N 1 0 0 1 180 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: Cdotaccent
@@ -764,7 +764,7 @@ LayerCount: 2
 Fore
 Refer: 14 67 N 1 0 0 1 0 0 3
 Refer: 467 775 N 1 0 0 1 247 210 2
-Validated: 1
+Validated: 1048577
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" Cdotaccent.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Cdotaccent.ss01
 EndChar
@@ -804,7 +804,7 @@ SplineSet
  191 0 l 1,25,-1
  62 0 l 1,22,-1
 EndSplineSet
-Validated: 5
+Validated: 1048581
 Kerns2: 425 -72 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 420 -9 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 399 -79 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 391 -67 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 326 -52 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 322 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 139 -12 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -848,7 +848,7 @@ SplineSet
  203 0 l 1,29,-1
  74 0 l 1,26,-1
 EndSplineSet
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: Dcaron
@@ -862,7 +862,7 @@ LayerCount: 2
 Fore
 Refer: 19 68 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 114 210 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: Dcroat
@@ -875,7 +875,7 @@ AnchorPoint: "Anchor-0" 382 720 basechar 0
 LayerCount: 2
 Fore
 Refer: 20 208 N 1 0 0 1 0 0 3
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: E
@@ -910,7 +910,7 @@ SplineSet
  553 618 l 1,15,-1
  124 618 l 1,12,-1
 EndSplineSet
-Validated: 5
+Validated: 1048581
 Kerns2: 444 -75 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 443 -58 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 440 -57 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 438 -71 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 420 -29 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 419 -36 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 360 -41 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 359 -52 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 329 -5 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 328 -22 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 327 -22 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 324 -24 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 323 -27 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 322 -25 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 169 -33 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 139 -15 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 85 -21 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 70 -19 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 43 -13 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -926,7 +926,7 @@ LayerCount: 2
 Fore
 Refer: 23 69 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 168 210 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: Ecaron
@@ -941,7 +941,7 @@ LayerCount: 2
 Fore
 Refer: 23 69 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 63 210 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: Ecircumflex
@@ -956,7 +956,7 @@ LayerCount: 2
 Fore
 Refer: 23 69 N 1 0 0 1 0 0 3
 Refer: 472 770 N 1 0 0 1 63 210 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: Edieresis
@@ -971,7 +971,7 @@ LayerCount: 2
 Fore
 Refer: 23 69 N 1 0 0 1 0 0 3
 Refer: 466 776 N 1 0 0 1 76 210 2
-Validated: 5
+Validated: 1048581
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" Edieresis.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Edieresis.ss01
 EndChar
@@ -988,7 +988,7 @@ LayerCount: 2
 Fore
 Refer: 23 69 N 1 0 0 1 0 0 3
 Refer: 467 775 N 1 0 0 1 189 210 2
-Validated: 5
+Validated: 1048581
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" Edotaccent.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Edotaccent.ss01
 EndChar
@@ -1005,7 +1005,7 @@ LayerCount: 2
 Fore
 Refer: 23 69 N 1 0 0 1 0 0 3
 Refer: 468 768 N 1 0 0 1 75 210 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: Emacron
@@ -1020,7 +1020,7 @@ LayerCount: 2
 Fore
 Refer: 23 69 N 1 0 0 1 0 0 3
 Refer: 477 772 N 1 0 0 1 80 210 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: Eogonek
@@ -1035,7 +1035,7 @@ LayerCount: 2
 Fore
 Refer: 23 69 N 1 0 0 1 0 0 3
 Refer: 481 808 N 1 0 0 1 292 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: F
@@ -1103,7 +1103,7 @@ SplineSet
  628 21 628 21 539 2.5 c 0,34,35
  483.011385 -10 483.011385 -10 396 -10 c 0,0,1
 EndSplineSet
-Validated: 33
+Validated: 1048609
 Kerns2: 425 -65 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 391 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 326 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 187 0 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss07' Style Set 7 in Latin lookup 28 subtable" G.ss07
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" G.ss07
@@ -1120,7 +1120,7 @@ LayerCount: 2
 Fore
 Refer: 33 71 N 1 0 0 1 0 0 3
 Refer: 474 774 N 1 0 0 1 152 210 2
-Validated: 1
+Validated: 1048577
 Substitution2: "'ss07' Style Set 7 in Latin lookup 28 subtable" Gbreve.ss07
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Gbreve.ss07
 EndChar
@@ -1136,7 +1136,7 @@ LayerCount: 2
 Fore
 Refer: 33 71 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 246 0 2
-Validated: 5
+Validated: 1048581
 Substitution2: "'ss07' Style Set 7 in Latin lookup 28 subtable" uni0122.ss07
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" uni0122.ss01
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" uni0122.ss01 uni0122.ss07
@@ -1153,7 +1153,7 @@ LayerCount: 2
 Fore
 Refer: 33 71 N 1 0 0 1 0 0 3
 Refer: 467 775 N 1 0 0 1 253 210 2
-Validated: 1
+Validated: 1048577
 Substitution2: "'ss07' Style Set 7 in Latin lookup 28 subtable" Gdotaccent.ss07
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" Gdotaccent.ss01
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" Gdotaccent.ss01 Gdotaccent.ss07
@@ -1185,7 +1185,7 @@ SplineSet
  124 324 l 1,11,-1
  124 426 l 1,8,-1
 EndSplineSet
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: Hbar
@@ -1219,7 +1219,7 @@ SplineSet
  134 324 l 1,15,-1
  134 426 l 1,12,-1
 EndSplineSet
-Validated: 5
+Validated: 1048581
 Kerns2: 214 -6 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 172 -6 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 150 -14 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 38 34 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 1 -21 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -1240,7 +1240,7 @@ SplineSet
  191 0 l 1,3,-1
  62 0 l 1,0,-1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: IJ
@@ -1255,7 +1255,7 @@ LayerCount: 2
 Fore
 Refer: 39 73 N 1 0 0 1 0 0 2
 Refer: 48 74 N 1 0 0 1 252 0 2
-Validated: 1
+Validated: 1048577
 Kerns2: 381 -35 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 343 -32 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 231 0 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -1271,7 +1271,7 @@ LayerCount: 2
 Fore
 Refer: 39 73 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 -23 210 2
-Validated: 1
+Validated: 1048577
 Kerns2: 45 37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -1287,7 +1287,7 @@ LayerCount: 2
 Fore
 Refer: 39 73 N 1 0 0 1 0 0 3
 Refer: 472 770 N 1 0 0 1 -128 210 2
-Validated: 5
+Validated: 1048581
 Kerns2: 262 -15 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -1303,7 +1303,7 @@ LayerCount: 2
 Fore
 Refer: 39 73 N 1 0 0 1 0 0 3
 Refer: 466 776 N 1 0 0 1 -116 210 2
-Validated: 1
+Validated: 1048577
 Kerns2: 385 -39 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 381 -39 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 343 -35 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 43 140 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" Idieresis.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Idieresis.ss01
@@ -1321,7 +1321,7 @@ LayerCount: 2
 Fore
 Refer: 39 73 N 1 0 0 1 0 0 3
 Refer: 467 775 N 1 0 0 1 -2 210 2
-Validated: 1
+Validated: 1048577
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" Idotaccent.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Idotaccent.ss01
 EndChar
@@ -1338,7 +1338,7 @@ LayerCount: 2
 Fore
 Refer: 39 73 N 1 0 0 1 0 0 3
 Refer: 468 768 N 1 0 0 1 -116 210 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: Imacron
@@ -1353,7 +1353,7 @@ LayerCount: 2
 Fore
 Refer: 39 73 N 1 0 0 1 0 0 3
 Refer: 477 772 N 1 0 0 1 -111 210 2
-Validated: 1
+Validated: 1048577
 Kerns2: 46 72 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -1369,7 +1369,7 @@ LayerCount: 2
 Fore
 Refer: 39 73 N 1 0 0 1 0 0 3
 Refer: 481 808 N 1 0 0 1 -62 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: J
@@ -1422,7 +1422,7 @@ SplineSet
  674 0 l 1,11,-1
  499 0 l 1,8,-1
 EndSplineSet
-Validated: 5
+Validated: 1048581
 Kerns2: 444 -95 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 443 -148 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 442 -161 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 441 -85 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 440 -108 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 430 -55 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 424 -84 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 420 -48 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 419 -79 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 418 -159 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 380 -79 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 366 -79 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 359 -79 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 328 -41 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 327 -38 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 324 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 323 -63 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 322 -39 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 261 -48 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 229 -6 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 227 -15 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 221 -17 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 217 -51 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 206 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 194 10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 155 -31 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss04' Style Set 4 in Latin lookup 25 subtable" K.ss04
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" K.ss04
@@ -1439,7 +1439,7 @@ LayerCount: 2
 Fore
 Refer: 49 75 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 217 0 2
-Validated: 5
+Validated: 1048581
 Kerns2: 227 -15 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 196 7 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss04' Style Set 4 in Latin lookup 25 subtable" uni0136.ss04
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" uni0136.ss01
@@ -1468,7 +1468,7 @@ SplineSet
  530 0 l 1,7,-1
  124 0 l 1,4,-1
 EndSplineSet
-Validated: 5
+Validated: 1048581
 Kerns2: 444 -229 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 443 -196 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 442 -187 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 441 -69 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 440 -137 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 438 -87 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 425 -217 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 424 -67 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 420 -34 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 419 -61 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 418 -148 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 416 -135 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 415 -199 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 410 -200 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 380 -80 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 366 -80 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 363 -114 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 359 -64 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 358 -129 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 328 -38 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 327 -29 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 326 -77 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 324 -32 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 323 -32 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 322 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 317 -185 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 221 -15 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 196 -28 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 139 -13 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 70 -24 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 47 -18 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 42 -19 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -1484,7 +1484,7 @@ LayerCount: 2
 Fore
 Refer: 51 76 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 -23 210 2
-Validated: 5
+Validated: 1048581
 Kerns2: 43 -19 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -1500,7 +1500,7 @@ LayerCount: 2
 Fore
 Refer: 51 76 N 1 0 0 1 0 0 3
 Refer: 471 -1 N 1 0 0 1 301 0 2
-Validated: 5
+Validated: 1048581
 Kerns2: 389 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 385 -108 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 381 -129 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 367 -26 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 343 -106 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 289 -36 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 250 -54 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 241 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 240 -38 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 150 -23 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 90 -35 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 89 -35 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 80 -33 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 63 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -1516,7 +1516,7 @@ LayerCount: 2
 Fore
 Refer: 51 76 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 175 0 2
-Validated: 5
+Validated: 1048581
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" uni013B.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni013B.ss01
 EndChar
@@ -1553,7 +1553,7 @@ SplineSet
  536 0 l 1,15,-1
  130 0 l 1,12,-1
 EndSplineSet
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: M
@@ -1610,7 +1610,7 @@ SplineSet
  186 0 l 1,11,-1
  62 0 l 1,0,-1
 EndSplineSet
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: Nacute
@@ -1624,7 +1624,7 @@ LayerCount: 2
 Fore
 Refer: 57 78 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 205 210 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: Ncaron
@@ -1638,7 +1638,7 @@ LayerCount: 2
 Fore
 Refer: 57 78 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 100 210 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: uni0145
@@ -1652,7 +1652,7 @@ LayerCount: 2
 Fore
 Refer: 57 78 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 218 0 2
-Validated: 5
+Validated: 1048581
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" uni0145.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni0145.ss01
 EndChar
@@ -1668,7 +1668,7 @@ LayerCount: 2
 Fore
 Refer: 57 78 N 1 0 0 1 0 0 3
 Refer: 476 771 N 1 0 0 1 93 210 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: Eng
@@ -2115,7 +2115,7 @@ SplineSet
  634 0 l 1,25,-1
  458 0 l 1,22,-1
 EndSplineSet
-Validated: 5
+Validated: 1048581
 Kerns2: 420 -34 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'calt' Contextual Alternates in Latin lookup 26 subtable" R.ss05
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" R.ss05
@@ -2132,7 +2132,7 @@ LayerCount: 2
 Fore
 Refer: 76 -1 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 174 210 2
-Validated: 5
+Validated: 1048581
 Substitution2: "'calt' Contextual Alternates in Latin lookup 26 subtable" Racute.ss05
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Racute.ss05
 EndChar
@@ -2148,7 +2148,7 @@ LayerCount: 2
 Fore
 Refer: 76 -1 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 69 210 2
-Validated: 5
+Validated: 1048581
 Substitution2: "'calt' Contextual Alternates in Latin lookup 26 subtable" Rcaron.ss05
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Rcaron.ss05
 EndChar
@@ -2164,7 +2164,7 @@ LayerCount: 2
 Fore
 Refer: 76 -1 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 188 0 2
-Validated: 5
+Validated: 1048581
 Substitution2: "'calt' Contextual Alternates in Latin lookup 26 subtable" uni0156.ss05
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" uni0156.ss01
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" uni0156.ss01 uni0156.ss05
@@ -2211,7 +2211,7 @@ SplineSet
  593 100 593 100 524 45.5 c 128,-1,40
  455 -9 455 -9 331 -9 c 0,0,1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 Kerns2: 430 0 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 425 -49 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 329 18 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 327 17 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 322 8 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 244 -1 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 206 4 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 196 7 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -2226,7 +2226,7 @@ LayerCount: 2
 Fore
 Refer: 80 83 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 171 210 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: Scaron
@@ -2240,7 +2240,7 @@ LayerCount: 2
 Fore
 Refer: 80 83 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 66 210 2
-Validated: 5
+Validated: 1048581
 Kerns2: 196 7 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -2255,7 +2255,7 @@ LayerCount: 2
 Fore
 Refer: 80 83 N 1 0 0 1 0 0 3
 Refer: 480 807 N 1 0 0 1 130 0 2
-Validated: 5
+Validated: 1048581
 Substitution2: "'locl' Localized Forms in Latin lookup 12 subtable" uni0218
 Substitution2: "'locl' Localized Forms in Latin lookup 11 subtable" uni0218
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni0218
@@ -2272,7 +2272,7 @@ LayerCount: 2
 Fore
 Refer: 80 83 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 191 0 2
-Validated: 5
+Validated: 1048581
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" uni0218.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni0218.ss01
 EndChar
@@ -2340,7 +2340,7 @@ SplineSet
  387 0 l 1,7,-1
  258 0 l 1,0,-1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 Kerns2: 444 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 443 -153 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 442 -136 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 441 -52 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 440 -87 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 438 -71 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 430 -42 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 428 -36 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 424 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 420 -66 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 419 -67 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 418 -136 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 366 -79 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 359 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 356 -70 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 329 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 327 -23 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 324 -33 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 323 -116 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 322 -19 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 302 -44 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 301 -86 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 300 -89 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 298 -90 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 297 -109 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 296 -57 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 295 -61 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 294 -53 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 293 -59 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 292 -56 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 291 -68 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 290 -106 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 289 -109 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 285 -48 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 262 -89 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 261 -42 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 259 -42 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 258 -85 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 249 -81 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 248 -90 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 247 -53 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 246 -66 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 245 -56 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 244 -48 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 243 -57 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 241 -88 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 240 -90 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 233 -25 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 232 -66 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 229 -2 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 227 -106 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 226 -109 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 224 -106 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 221 -109 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 217 -46 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 208 -106 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 207 -106 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 206 -28 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 196 20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 194 0 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 190 -21 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 189 -91 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 178 -84 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 177 -101 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 173 -87 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 168 -109 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 159 -85 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 155 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 151 -103 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 139 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 70 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 11 -95 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -2355,7 +2355,7 @@ LayerCount: 2
 Fore
 Refer: 86 84 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 68 210 2
-Validated: 5
+Validated: 1048581
 Kerns2: 289 -109 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 240 -90 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 227 -106 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 224 -106 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 208 -106 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 207 -106 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -2370,7 +2370,7 @@ LayerCount: 2
 Fore
 Refer: 86 84 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 187 0 2
-Validated: 5
+Validated: 1048581
 Kerns2: 291 -68 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 289 -109 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 240 -90 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 227 -106 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 224 -106 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 208 -106 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 207 -106 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" uni021A.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni021A.ss01
@@ -2603,7 +2603,7 @@ SplineSet
  383 0 l 1,15,-1
  235 0 l 1,0,-1
 EndSplineSet
-Validated: 5
+Validated: 1048581
 Kerns2: 420 -63 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 329 -22 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 324 -33 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 323 -70 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 322 -28 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 244 -42 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 233 -26 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 227 -38 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 224 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 208 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 207 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 206 -24 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 194 8 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 155 -43 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 139 -41 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -2618,7 +2618,7 @@ LayerCount: 2
 Fore
 Refer: 100 87 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 377 210 2
-Validated: 5
+Validated: 1048581
 Kerns2: 227 -38 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 224 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 208 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 207 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -2633,7 +2633,7 @@ LayerCount: 2
 Fore
 Refer: 100 87 N 1 0 0 1 0 0 3
 Refer: 472 770 N 1 0 0 1 271 210 2
-Validated: 5
+Validated: 1048581
 Kerns2: 227 -38 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 224 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 208 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 207 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -2648,7 +2648,7 @@ LayerCount: 2
 Fore
 Refer: 100 87 N 1 0 0 1 0 0 3
 Refer: 466 776 N 1 0 0 1 284 210 2
-Validated: 5
+Validated: 1048581
 Kerns2: 227 -38 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 224 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 208 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 207 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -2663,7 +2663,7 @@ LayerCount: 2
 Fore
 Refer: 100 87 N 1 0 0 1 0 0 3
 Refer: 468 768 N 1 0 0 1 284 210 2
-Validated: 5
+Validated: 1048581
 Kerns2: 227 -38 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 224 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 208 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 207 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -2718,7 +2718,7 @@ SplineSet
  406 0 l 1,9,-1
  277 0 l 1,0,-1
 EndSplineSet
-Validated: 5
+Validated: 1048581
 Kerns2: 444 -69 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 443 -133 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 442 -106 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 440 -78 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 424 -69 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 420 -80 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 419 -75 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 418 -127 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 356 -73 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 329 -33 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 328 -35 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 327 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 324 -32 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 323 -126 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 322 -39 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 285 -47 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 247 -52 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 245 -49 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 244 -49 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 243 -73 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 241 -82 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 240 -82 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 227 -86 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 224 -85 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 208 -85 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 207 -85 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 178 -77 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 139 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -2733,7 +2733,7 @@ LayerCount: 2
 Fore
 Refer: 106 89 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 192 210 2
-Validated: 5
+Validated: 1048581
 Kerns2: 244 -49 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 240 -82 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 227 -86 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 224 -85 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 208 -85 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 207 -85 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -2748,7 +2748,7 @@ LayerCount: 2
 Fore
 Refer: 106 89 N 1 0 0 1 0 0 3
 Refer: 472 770 N 1 0 0 1 87 210 2
-Validated: 5
+Validated: 1048581
 Kerns2: 240 -82 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 227 -86 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 224 -85 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 208 -85 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 207 -85 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -2763,7 +2763,7 @@ LayerCount: 2
 Fore
 Refer: 106 89 N 1 0 0 1 0 0 3
 Refer: 466 776 N 1 0 0 1 99 210 2
-Validated: 5
+Validated: 1048581
 Kerns2: 227 -86 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 224 -85 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 208 -85 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 207 -85 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" Ydieresis.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Ydieresis.ss01
@@ -2780,7 +2780,7 @@ LayerCount: 2
 Fore
 Refer: 106 89 N 1 0 0 1 0 0 3
 Refer: 468 768 N 1 0 0 1 99 210 2
-Validated: 5
+Validated: 1048581
 Kerns2: 227 -86 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 224 -85 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 208 -85 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 207 -85 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -2808,7 +2808,7 @@ SplineSet
  574 0 l 1,11,-1
  47 0 l 1,0,-1
 EndSplineSet
-Validated: 5
+Validated: 1048581
 Kerns2: 444 -66 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 442 -97 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 440 -66 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 430 -32 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 424 -51 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 419 -53 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 418 -116 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 328 -15 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 327 -15 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 324 -21 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 323 -29 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 322 -19 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 206 -24 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 55 -14 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -2823,7 +2823,7 @@ LayerCount: 2
 Fore
 Refer: 111 90 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 160 210 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: Zcaron
@@ -2837,7 +2837,7 @@ LayerCount: 2
 Fore
 Refer: 111 90 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 54 210 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: Zdotaccent
@@ -2851,7 +2851,7 @@ LayerCount: 2
 Fore
 Refer: 111 90 N 1 0 0 1 0 0 3
 Refer: 467 775 N 1 0 0 1 180 210 2
-Validated: 5
+Validated: 1048581
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" Zdotaccent.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Zdotaccent.ss01
 EndChar
@@ -2868,7 +2868,7 @@ LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 3
 Refer: 482 -1 N 1 0 0 1 107 210 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: Cdotaccent.ss01
@@ -2882,7 +2882,7 @@ LayerCount: 2
 Fore
 Refer: 14 67 N 1 0 0 1 0 0 3
 Refer: 483 -1 N 1 0 0 1 234 210 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: Edieresis.ss01
@@ -2897,7 +2897,7 @@ LayerCount: 2
 Fore
 Refer: 23 69 N 1 0 0 1 0 0 3
 Refer: 482 -1 N 1 0 0 1 69 210 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: Edotaccent.ss01
@@ -2912,7 +2912,7 @@ LayerCount: 2
 Fore
 Refer: 23 69 N 1 0 0 1 0 0 3
 Refer: 483 -1 N 1 0 0 1 176 210 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: uni0122.ss01
@@ -2926,7 +2926,7 @@ LayerCount: 2
 Fore
 Refer: 33 71 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 259 0 2
-Validated: 5
+Validated: 1048581
 Substitution2: "'ss07' Style Set 7 in Latin lookup 28 subtable" uni0122.ss01.ss07
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni0122.ss01.ss07
 EndChar
@@ -2942,7 +2942,7 @@ LayerCount: 2
 Fore
 Refer: 33 71 N 1 0 0 1 0 0 3
 Refer: 483 -1 N 1 0 0 1 240 210 2
-Validated: 1
+Validated: 1048577
 Substitution2: "'ss07' Style Set 7 in Latin lookup 28 subtable" Gdotaccent.ss01.ss07
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Gdotaccent.ss01.ss07
 EndChar
@@ -2959,7 +2959,7 @@ LayerCount: 2
 Fore
 Refer: 39 73 N 1 0 0 1 0 0 3
 Refer: 482 -1 N 1 0 0 1 -122 210 2
-Validated: 1
+Validated: 1048577
 Kerns2: 381 -39 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 343 -35 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -2975,7 +2975,7 @@ LayerCount: 2
 Fore
 Refer: 39 73 N 1 0 0 1 0 0 3
 Refer: 483 -1 N 1 0 0 1 -15 210 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: uni0136.ss01
@@ -2989,7 +2989,7 @@ LayerCount: 2
 Fore
 Refer: 49 75 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 217 0 2
-Validated: 5
+Validated: 1048581
 Kerns2: 227 -15 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 196 7 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss04' Style Set 4 in Latin lookup 25 subtable" uni0136.ss01.ss04
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni0136.ss01.ss04
@@ -3007,7 +3007,7 @@ LayerCount: 2
 Fore
 Refer: 51 76 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 175 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: uni0145.ss01
@@ -3021,7 +3021,7 @@ LayerCount: 2
 Fore
 Refer: 57 78 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 218 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: Odieresis.ss01
@@ -3051,7 +3051,7 @@ LayerCount: 2
 Fore
 Refer: 76 -1 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 188 0 2
-Validated: 5
+Validated: 1048581
 Substitution2: "'calt' Contextual Alternates in Latin lookup 26 subtable" uni0156.ss01.ss05
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni0156.ss01.ss05
 EndChar
@@ -3067,7 +3067,7 @@ LayerCount: 2
 Fore
 Refer: 80 83 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 191 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: uni021A.ss01
@@ -3081,7 +3081,7 @@ LayerCount: 2
 Fore
 Refer: 86 84 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 187 0 2
-Validated: 5
+Validated: 1048581
 Kerns2: 291 -68 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 289 -109 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 240 -90 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 227 -106 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 224 -106 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 208 -106 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 207 -106 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -3112,7 +3112,7 @@ LayerCount: 2
 Fore
 Refer: 106 89 N 1 0 0 1 0 0 3
 Refer: 482 -1 N 1 0 0 1 93 210 2
-Validated: 5
+Validated: 1048581
 Kerns2: 227 -86 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 224 -85 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 208 -85 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 207 -85 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -3127,7 +3127,7 @@ LayerCount: 2
 Fore
 Refer: 111 90 N 1 0 0 1 0 0 3
 Refer: 483 -1 N 1 0 0 1 167 210 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: K.ss04
@@ -3158,7 +3158,7 @@ SplineSet
  674 0 l 1,13,-1
  516 0 l 1,10,-1
 EndSplineSet
-Validated: 5
+Validated: 1048581
 Kerns2: 261 -46 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -3173,7 +3173,7 @@ LayerCount: 2
 Fore
 Refer: 133 -1 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 217 0 2
-Validated: 5
+Validated: 1048581
 Kerns2: 196 8 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -3213,6 +3213,7 @@ SplineSet
  191 0 l 1,32,-1
  62 0 l 1,0,-1
 EndSplineSet
+Validated: 1572901
 Kerns2: 430 1 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 420 -3 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 329 12 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 328 13 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 327 8 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 322 6 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 221 8 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 196 4 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 70 3 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -3227,6 +3228,7 @@ LayerCount: 2
 Fore
 Refer: 135 82 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 172 210 2
+Validated: 1048581
 EndChar
 
 StartChar: Rcaron.ss05
@@ -3240,6 +3242,7 @@ LayerCount: 2
 Fore
 Refer: 135 82 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 67 210 2
+Validated: 1048581
 EndChar
 
 StartChar: uni0156.ss05
@@ -3253,6 +3256,7 @@ LayerCount: 2
 Fore
 Refer: 135 82 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 192 0 2
+Validated: 1048581
 EndChar
 
 StartChar: M.ss06
@@ -3327,7 +3331,7 @@ SplineSet
  713 333 l 1,38,-1
  622 282 l 1,34,-1
 EndSplineSet
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: Gbreve.ss07
@@ -3341,7 +3345,7 @@ LayerCount: 2
 Fore
 Refer: 140 -1 N 1 0 0 1 0 0 3
 Refer: 474 774 N 1 0 0 1 152 210 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: uni0122.ss07
@@ -3355,7 +3359,7 @@ LayerCount: 2
 Fore
 Refer: 140 -1 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 246 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: Gdotaccent.ss07
@@ -3369,7 +3373,7 @@ LayerCount: 2
 Fore
 Refer: 140 -1 N 1 0 0 1 0 0 3
 Refer: 467 775 N 1 0 0 1 253 210 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: J.ss08
@@ -3455,7 +3459,7 @@ LayerCount: 2
 Fore
 Refer: 133 -1 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 217 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: uni0156.ss01.ss05
@@ -3469,6 +3473,7 @@ LayerCount: 2
 Fore
 Refer: 135 82 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 192 0 2
+Validated: 1048581
 EndChar
 
 StartChar: uni0122.ss01.ss07
@@ -3482,7 +3487,7 @@ LayerCount: 2
 Fore
 Refer: 140 -1 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 246 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: Gdotaccent.ss01.ss07
@@ -3496,7 +3501,7 @@ LayerCount: 2
 Fore
 Refer: 140 -1 N 1 0 0 1 0 0 3
 Refer: 483 -1 N 1 0 0 1 240 210 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: a
@@ -3546,7 +3551,7 @@ SplineSet
  355 46 355 46 310.5 18 c 128,-1,47
  266 -10 266 -10 203 -10 c 0,24,25
 EndSplineSet
-Validated: 5
+Validated: 1048581
 Kerns2: 444 -81 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 443 -45 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 440 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 425 -105 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 417 -71 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 415 -71 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 411 -88 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 410 -88 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 391 -49 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 389 -69 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 358 -83 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 329 -12 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 326 -83 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 322 -21 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 273 -13 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 250 -28 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 206 -7 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 196 -13 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 187 -13 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 169 -12 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 86 -120 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss02' Style Set 2 in Latin lookup 23 subtable" a.ss02
 Substitution2: "Single Substitution lookup 17 subtable" ordfeminine
@@ -3565,7 +3570,7 @@ LayerCount: 2
 Fore
 Refer: 150 97 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 129 0 2
-Validated: 5
+Validated: 1048581
 Kerns2: 169 -12 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss02' Style Set 2 in Latin lookup 23 subtable" aacute.ss02
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" aacute.ss02
@@ -3583,7 +3588,7 @@ LayerCount: 2
 Fore
 Refer: 150 97 N 1 0 0 1 0 0 3
 Refer: 474 774 N 1 0 0 1 49 0 2
-Validated: 5
+Validated: 1048581
 Substitution2: "'ss02' Style Set 2 in Latin lookup 23 subtable" abreve.ss02
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" abreve.ss02
 EndChar
@@ -3600,7 +3605,7 @@ LayerCount: 2
 Fore
 Refer: 150 97 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 24 0 2
-Validated: 5
+Validated: 1048581
 Substitution2: "'ss02' Style Set 2 in Latin lookup 23 subtable" uni01CE.ss02
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni01CE.ss02
 EndChar
@@ -3617,7 +3622,7 @@ LayerCount: 2
 Fore
 Refer: 150 97 N 1 0 0 1 0 0 3
 Refer: 472 770 N 1 0 0 1 24 0 2
-Validated: 5
+Validated: 1048581
 Substitution2: "'ss02' Style Set 2 in Latin lookup 23 subtable" acircumflex.ss02
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" acircumflex.ss02
 EndChar
@@ -3634,7 +3639,7 @@ LayerCount: 2
 Fore
 Refer: 150 97 N 1 0 0 1 0 0 3
 Refer: 466 776 N 1 0 0 1 36 0 2
-Validated: 5
+Validated: 1048581
 Substitution2: "'ss02' Style Set 2 in Latin lookup 23 subtable" adieresis.ss02
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" adieresis.ss01
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" adieresis.ss01 adieresis.ss02
@@ -3652,7 +3657,7 @@ LayerCount: 2
 Fore
 Refer: 150 97 N 1 0 0 1 0 0 3
 Refer: 468 768 N 1 0 0 1 36 0 2
-Validated: 5
+Validated: 1048581
 Kerns2: 411 -87 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 410 -87 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss02' Style Set 2 in Latin lookup 23 subtable" agrave.ss02
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" agrave.ss02
@@ -3670,7 +3675,7 @@ LayerCount: 2
 Fore
 Refer: 150 97 N 1 0 0 1 0 0 3
 Refer: 477 772 N 1 0 0 1 41 0 2
-Validated: 5
+Validated: 1048581
 Substitution2: "'ss02' Style Set 2 in Latin lookup 23 subtable" amacron.ss02
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" amacron.ss02
 EndChar
@@ -3687,7 +3692,7 @@ LayerCount: 2
 Fore
 Refer: 150 97 N 1 0 0 1 0 0 3
 Refer: 481 808 N 1 0 0 1 266 0 2
-Validated: 5
+Validated: 1048581
 Kerns2: 206 -7 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss02' Style Set 2 in Latin lookup 23 subtable" aogonek.ss02
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" aogonek.ss02
@@ -3705,7 +3710,7 @@ LayerCount: 2
 Fore
 Refer: 150 97 N 1 0 0 1 0 0 3
 Refer: 475 778 N 1 0 0 1 110 0 2
-Validated: 5
+Validated: 1048581
 Substitution2: "'ss02' Style Set 2 in Latin lookup 23 subtable" aring.ss02
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" aring.ss02
 EndChar
@@ -3722,7 +3727,7 @@ LayerCount: 2
 Fore
 Refer: 150 97 N 1 0 0 1 0 0 3
 Refer: 476 771 N 1 0 0 1 17 0 2
-Validated: 5
+Validated: 1048581
 Substitution2: "'ss02' Style Set 2 in Latin lookup 23 subtable" atilde.ss02
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" atilde.ss02
 EndChar
@@ -3872,7 +3877,7 @@ SplineSet
  443 37 443 37 393 13.5 c 128,-1,31
  343 -10 343 -10 282 -10 c 0,0,1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 Kerns2: 444 -73 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 440 -21 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 425 -84 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 391 -67 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 389 -93 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 326 -85 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 196 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -3887,7 +3892,7 @@ LayerCount: 2
 Fore
 Refer: 163 99 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 136 0 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: ccaron
@@ -3901,7 +3906,7 @@ LayerCount: 2
 Fore
 Refer: 163 99 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 30 0 2
-Validated: 5
+Validated: 1048581
 Kerns2: 410 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 188 -5 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -3916,7 +3921,7 @@ LayerCount: 2
 Fore
 Refer: 163 99 N 1 0 0 1 0 0 3
 Refer: 480 807 N 1 0 0 1 80 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: cdotaccent
@@ -3930,7 +3935,7 @@ LayerCount: 2
 Fore
 Refer: 163 99 N 1 0 0 1 0 0 3
 Refer: 467 775 N 1 0 0 1 157 0 2
-Validated: 1
+Validated: 1048577
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" cdotaccent.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" cdotaccent.ss01
 EndChar
@@ -3974,7 +3979,7 @@ SplineSet
  160 176 160 176 195.5 134.5 c 128,-1,32
  231 93 231 93 290 93 c 0,21,22
 EndSplineSet
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: eth
@@ -4040,7 +4045,7 @@ LayerCount: 2
 Fore
 Refer: 168 100 N 1 0 0 1 0 0 2
 Refer: 471 -1 N 1 0 0 1 538 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: dcroat
@@ -4087,7 +4092,7 @@ SplineSet
  160 176 160 176 195.5 134.5 c 128,-1,36
  231 93 231 93 290 93 c 0,25,26
 EndSplineSet
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: e
@@ -4129,7 +4134,7 @@ SplineSet
  495 75 495 75 436.5 32.5 c 128,-1,34
  378 -10 378 -10 290 -10 c 0,0,1
 EndSplineSet
-Validated: 5
+Validated: 1048581
 Kerns2: 444 -77 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 443 -22 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 440 -13 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 425 -89 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 391 -67 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 348 -31 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 329 -11 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 326 -82 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 257 -15 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 221 9 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 206 6 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -4145,7 +4150,7 @@ LayerCount: 2
 Fore
 Refer: 172 101 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 141 0 2
-Validated: 5
+Validated: 1048581
 Kerns2: 389 -72 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -4161,7 +4166,7 @@ LayerCount: 2
 Fore
 Refer: 172 101 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 35 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: ecircumflex
@@ -4176,7 +4181,7 @@ LayerCount: 2
 Fore
 Refer: 172 101 N 1 0 0 1 0 0 3
 Refer: 472 770 N 1 0 0 1 35 0 2
-Validated: 5
+Validated: 1048581
 Kerns2: 389 -84 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -4192,7 +4197,7 @@ LayerCount: 2
 Fore
 Refer: 172 101 N 1 0 0 1 0 0 3
 Refer: 466 776 N 1 0 0 1 48 0 2
-Validated: 5
+Validated: 1048581
 Kerns2: 410 -35 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" edieresis.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" edieresis.ss01
@@ -4210,7 +4215,7 @@ LayerCount: 2
 Fore
 Refer: 172 101 N 1 0 0 1 0 0 3
 Refer: 467 775 N 1 0 0 1 162 0 2
-Validated: 5
+Validated: 1048581
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" edotaccent.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" edotaccent.ss01
 EndChar
@@ -4227,7 +4232,7 @@ LayerCount: 2
 Fore
 Refer: 172 101 N 1 0 0 1 0 0 3
 Refer: 468 768 N 1 0 0 1 47 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: emacron
@@ -4242,7 +4247,7 @@ LayerCount: 2
 Fore
 Refer: 172 101 N 1 0 0 1 0 0 3
 Refer: 477 772 N 1 0 0 1 53 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: eogonek
@@ -4257,7 +4262,7 @@ LayerCount: 2
 Fore
 Refer: 172 101 N 1 0 0 1 0 0 3
 Refer: 481 808 N 1 0 0 1 183 20 2
-Validated: 5
+Validated: 1048581
 Kerns2: 206 6 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -4337,7 +4342,7 @@ SplineSet
  160 187 160 187 196 146 c 128,-1,44
  232 105 232 105 291 105 c 0,33,34
 EndSplineSet
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: gbreve
@@ -4351,7 +4356,7 @@ LayerCount: 2
 Fore
 Refer: 182 103 N 1 0 0 1 0 0 3
 Refer: 474 774 N 1 0 0 1 60 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: uni0123
@@ -4365,7 +4370,7 @@ LayerCount: 2
 Fore
 Refer: 182 103 N 1 0 0 1 0 0 3
 Refer: 478 786 N 1 0 0 1 154 0 2
-Validated: 5
+Validated: 1048581
 Kerns2: 196 -17 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" uni0123.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni0123.ss01
@@ -4382,7 +4387,7 @@ LayerCount: 2
 Fore
 Refer: 182 103 N 1 0 0 1 0 0 3
 Refer: 467 775 N 1 0 0 1 161 0 2
-Validated: 5
+Validated: 1048581
 Kerns2: 198 -4 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" gdotaccent.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" gdotaccent.ss01
@@ -4418,7 +4423,7 @@ SplineSet
  540 0 l 1,20,-1
  414 0 l 1,4,-1
 EndSplineSet
-Validated: 5
+Validated: 1048581
 Kerns2: 444 -74 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 443 -38 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 440 -31 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 425 -99 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 391 -49 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 358 -75 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 326 -79 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 322 -15 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 221 3 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 196 -13 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -4457,7 +4462,7 @@ SplineSet
  540 0 l 1,24,-1
  414 0 l 1,8,-1
 EndSplineSet
-Validated: 5
+Validated: 1048581
 Kerns2: 187 -13 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -4473,7 +4478,7 @@ LayerCount: 2
 Fore
 Refer: 189 305 N 1 0 0 1 0 0 3
 Refer: 467 775 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 1048577
 Kerns2: 444 -44 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 443 -39 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 440 -27 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 391 -23 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 221 4 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 169 -7 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" i.ss01
 Substitution2: "'locl' Localized Forms in Latin lookup 10 subtable" i.loclTRK
@@ -4503,7 +4508,7 @@ SplineSet
  191 0 l 1,3,-1
  65 0 l 1,0,-1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: iacute
@@ -4518,7 +4523,7 @@ LayerCount: 2
 Fore
 Refer: 189 305 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 -21 0 2
-Validated: 1
+Validated: 1048577
 Kerns2: 264 17 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 233 28 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 206 21 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 169 23 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -4534,7 +4539,7 @@ LayerCount: 2
 Fore
 Refer: 189 305 N 1 0 0 1 0 0 3
 Refer: 472 770 N 1 0 0 1 -126 0 2
-Validated: 5
+Validated: 1048581
 Kerns2: 411 12 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 410 12 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 407 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 389 -19 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 381 -42 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 369 -21 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 368 -38 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 367 -38 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 357 -34 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 345 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 344 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 343 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 262 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 257 -7 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 256 -17 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 150 -11 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -4550,7 +4555,7 @@ LayerCount: 2
 Fore
 Refer: 189 305 N 1 0 0 1 0 0 3
 Refer: 466 776 N 1 0 0 1 -114 0 2
-Validated: 1
+Validated: 1048577
 Kerns2: 381 -42 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 368 -38 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 367 -38 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 343 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 314 -9 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 256 -23 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 251 -9 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 250 -9 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 237 -6 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 231 -5 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 226 -4 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 168 -4 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 150 -11 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" idieresis.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" idieresis.ss01
@@ -4568,7 +4573,7 @@ LayerCount: 2
 Fore
 Refer: 189 305 N 1 0 0 1 0 0 3
 Refer: 467 775 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 1048577
 Kerns2: 221 28 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 169 17 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" i.loclTRK.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" i.loclTRK.ss01
@@ -4586,7 +4591,7 @@ LayerCount: 2
 Fore
 Refer: 189 305 N 1 0 0 1 0 0 3
 Refer: 468 768 N 1 0 0 1 -114 0 2
-Validated: 1
+Validated: 1048577
 Kerns2: 389 -45 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -4602,7 +4607,7 @@ Refer: 189 305 N 1 0 0 1 0 0 2
 Refer: 467 775 N 1 0 0 1 0 0 2
 Refer: 199 567 N 1 0 0 1 248 0 2
 Refer: 467 775 N 1 0 0 1 248 0 2
-Validated: 1
+Validated: 1048577
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" ij.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" ij.ss01
 EndChar
@@ -4619,7 +4624,7 @@ LayerCount: 2
 Fore
 Refer: 189 305 N 1 0 0 1 0 0 3
 Refer: 477 772 N 1 0 0 1 -109 0 2
-Validated: 1
+Validated: 1048577
 Kerns2: 410 0 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 389 -2 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -4636,7 +4641,7 @@ Fore
 Refer: 189 305 N 1 0 0 1 0 0 3
 Refer: 467 775 N 1 0 0 1 0 0 2
 Refer: 481 808 N 1 0 0 1 -43 0 2
-Validated: 5
+Validated: 1048581
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" iogonek.ss01
 MultipleSubs2: "Multiple Substitution lookup 5 subtable" dotlessi uni0328
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" iogonek.ss01
@@ -4653,7 +4658,7 @@ LayerCount: 2
 Fore
 Refer: 199 567 N 1 0 0 1 0 0 3
 Refer: 467 775 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 1048577
 Kerns2: 221 2 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 198 0 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" j.ss01
 Substitution2: "Single Substitution lookup 4 subtable" uni0237
@@ -4685,7 +4690,7 @@ SplineSet
  191 -135 191 -135 151 -175 c 128,-1,15
  111 -215 111 -215 27 -215 c 0,0,1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: k
@@ -4712,7 +4717,7 @@ SplineSet
  540 0 l 1,10,-1
  387 0 l 1,4,-1
 EndSplineSet
-Validated: 5
+Validated: 1048581
 Kerns2: 443 -78 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 425 -82 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 420 -35 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 326 -68 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 323 -52 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 206 -22 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 196 -11 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 172 -34 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 163 -34 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss04' Style Set 4 in Latin lookup 25 subtable" k.ss04
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" k.ss04
@@ -4729,7 +4734,7 @@ LayerCount: 2
 Fore
 Refer: 200 107 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 146 0 2
-Validated: 5
+Validated: 1048581
 Kerns2: 196 -11 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss04' Style Set 4 in Latin lookup 25 subtable" uni0137.ss04
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" uni0137.ss01
@@ -4753,7 +4758,7 @@ SplineSet
  191 0 l 1,3,-1
  65 0 l 1,0,-1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: lacute
@@ -4768,7 +4773,7 @@ LayerCount: 2
 Fore
 Refer: 202 108 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 -21 210 2
-Validated: 1
+Validated: 1048577
 Kerns2: 264 -16 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 262 -16 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 210 -17 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -4784,7 +4789,7 @@ LayerCount: 2
 Fore
 Refer: 202 108 N 1 0 0 1 0 0 2
 Refer: 471 -1 N 1 0 0 1 187 0 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: uni013C
@@ -4799,7 +4804,7 @@ LayerCount: 2
 Fore
 Refer: 202 108 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 -7 0 2
-Validated: 5
+Validated: 1048581
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" uni013C.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni013C.ss01
 EndChar
@@ -4831,7 +4836,7 @@ SplineSet
  207 0 l 1,11,-1
  82 0 l 1,8,-1
 EndSplineSet
-Validated: 5
+Validated: 1048581
 Kerns2: 411 -22 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 389 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 381 -47 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 368 -49 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 367 -49 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 345 -46 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 344 -46 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 343 -17 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 257 6 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 237 12 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 215 -2 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 214 -2 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 206 9 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 182 2 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 180 -1 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 172 -1 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 168 1 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 163 -1 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 158 -6 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 150 -6 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -4914,7 +4919,7 @@ SplineSet
  540 0 l 1,22,-1
  414 0 l 1,6,-1
 EndSplineSet
-Validated: 5
+Validated: 1048581
 Kerns2: 444 -74 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 443 -38 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 440 -31 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 438 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 425 -99 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 419 -7 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 391 -49 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 358 -75 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 329 -6 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 326 -79 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 322 -15 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 318 -62 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 250 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 221 3 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 214 0 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 196 -13 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 187 -13 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -4929,7 +4934,7 @@ LayerCount: 2
 Fore
 Refer: 208 110 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 174 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: ncaron
@@ -4943,7 +4948,7 @@ LayerCount: 2
 Fore
 Refer: 208 110 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 69 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: uni0146
@@ -4957,7 +4962,7 @@ LayerCount: 2
 Fore
 Refer: 208 110 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 175 0 2
-Validated: 5
+Validated: 1048581
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" uni0146.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni0146.ss01
 EndChar
@@ -4973,7 +4978,7 @@ LayerCount: 2
 Fore
 Refer: 208 110 N 1 0 0 1 0 0 3
 Refer: 476 771 N 1 0 0 1 62 0 2
-Validated: 5
+Validated: 1048581
 Kerns2: 410 -61 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -5428,7 +5433,7 @@ SplineSet
  261 400 261 400 226 368.5 c 128,-1,18
  191 337 191 337 191 269 c 1,6,-1
 EndSplineSet
-Validated: 5
+Validated: 1048581
 Kerns2: 443 -47 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 425 -66 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 420 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 391 -77 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 348 -96 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 326 -82 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 323 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 221 -11 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 214 -6 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 196 -9 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 169 -25 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -5443,7 +5448,7 @@ LayerCount: 2
 Fore
 Refer: 227 114 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 63 0 2
-Validated: 5
+Validated: 1048581
 Kerns2: 381 -65 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 368 -110 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 367 -110 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 345 -101 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 344 -101 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 237 12 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 231 -9 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 210 -9 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 168 -12 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -5458,7 +5463,7 @@ LayerCount: 2
 Fore
 Refer: 227 114 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 -42 0 2
-Validated: 5
+Validated: 1048581
 Kerns2: 381 -65 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 368 -110 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 367 -110 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 345 -101 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 344 -101 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 343 -31 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 290 -12 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 289 -12 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 249 -6 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 240 -6 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 231 -8 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 214 -11 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 190 -8 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 172 -11 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 163 -12 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 151 -17 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 150 -17 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -5473,7 +5478,7 @@ LayerCount: 2
 Fore
 Refer: 227 114 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 -9 0 2
-Validated: 5
+Validated: 1048581
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" uni0157.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni0157.ss01
 EndChar
@@ -5518,7 +5523,7 @@ SplineSet
  463 70 463 70 408.5 30 c 128,-1,39
  354 -10 354 -10 255 -10 c 0,0,1
 EndSplineSet
-Validated: 1
+Validated: 1048577
 Kerns2: 444 -62 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 443 -33 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 440 -17 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 425 -83 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 391 -49 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 326 -69 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 221 21 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 206 6 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 198 3 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 172 17 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 163 16 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -5533,7 +5538,7 @@ LayerCount: 2
 Fore
 Refer: 231 115 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 93 0 2
-Validated: 1
+Validated: 1048577
 Kerns2: 389 -47 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 381 -27 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 368 -12 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 367 -13 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 343 -21 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 314 -2 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 251 -2 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 249 13 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 240 13 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 214 26 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 209 9 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 188 12 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 174 26 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 172 26 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 164 26 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 163 26 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 150 17 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -5548,7 +5553,7 @@ LayerCount: 2
 Fore
 Refer: 231 115 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 -12 0 2
-Validated: 5
+Validated: 1048581
 Kerns2: 410 -39 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 389 -35 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 196 4 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 165 16 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 47 8 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -5563,7 +5568,7 @@ LayerCount: 2
 Fore
 Refer: 231 115 N 1 0 0 1 0 0 3
 Refer: 480 807 N 1 0 0 1 57 0 2
-Validated: 5
+Validated: 1048581
 Kerns2: 368 -14 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'locl' Localized Forms in Latin lookup 12 subtable" uni0219
 Substitution2: "'locl' Localized Forms in Latin lookup 11 subtable" uni0219
@@ -5581,7 +5586,7 @@ LayerCount: 2
 Fore
 Refer: 231 115 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 117 0 2
-Validated: 5
+Validated: 1048581
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" uni0219.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni0219.ss01
 EndChar
@@ -5666,7 +5671,7 @@ SplineSet
  371 412 l 1,19,-1
  15 412 l 1,16,-1
 EndSplineSet
-Validated: 5
+Validated: 1048581
 Kerns2: 443 -52 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 440 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 425 -75 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 391 -34 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 326 -63 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 323 -24 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 172 -15 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 163 -15 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -5682,7 +5687,7 @@ LayerCount: 2
 Fore
 Refer: 237 116 N 1 0 0 1 0 0 3
 Refer: 471 -1 N 1 0 0 1 253 66 2
-Validated: 5
+Validated: 1048581
 Kerns2: 200 0 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -5698,7 +5703,7 @@ LayerCount: 2
 Fore
 Refer: 237 116 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 122 0 2
-Validated: 5
+Validated: 1048581
 Kerns2: 368 -12 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" uni021B.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni021B.ss01
@@ -5940,7 +5945,7 @@ SplineSet
  287 0 l 1,15,-1
  169 0 l 1,0,-1
 EndSplineSet
-Validated: 5
+Validated: 1048581
 Kerns2: 443 -42 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 425 -76 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 391 -76 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 326 -89 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 206 -4 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 196 -9 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 187 -9 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -5955,7 +5960,7 @@ LayerCount: 2
 Fore
 Refer: 251 119 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 245 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: wcircumflex
@@ -5969,7 +5974,7 @@ LayerCount: 2
 Fore
 Refer: 251 119 N 1 0 0 1 0 0 3
 Refer: 472 770 N 1 0 0 1 139 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: wdieresis
@@ -5983,7 +5988,7 @@ LayerCount: 2
 Fore
 Refer: 251 119 N 1 0 0 1 0 0 3
 Refer: 466 776 N 1 0 0 1 152 0 2
-Validated: 5
+Validated: 1048581
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" wdieresis.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" wdieresis.ss01
 EndChar
@@ -5999,7 +6004,7 @@ LayerCount: 2
 Fore
 Refer: 251 119 N 1 0 0 1 0 0 3
 Refer: 468 768 N 1 0 0 1 151 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: x
@@ -6054,7 +6059,7 @@ SplineSet
  309 53 l 1,9,-1
  208 4 l 1,6,-1
 EndSplineSet
-Validated: 5
+Validated: 1048581
 Kerns2: 443 -45 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 425 -72 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 420 -31 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 391 -78 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 348 -88 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 326 -90 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 206 -6 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 169 -26 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'calt' Contextual Alternates in Latin lookup 24 subtable" y.ss03
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" y.ss03
@@ -6071,7 +6076,7 @@ LayerCount: 2
 Fore
 Refer: 257 -1 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 115 0 2
-Validated: 5
+Validated: 1048581
 Kerns2: 389 -52 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 169 -26 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'calt' Contextual Alternates in Latin lookup 24 subtable" yacute.ss03
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" yacute.ss03
@@ -6088,7 +6093,7 @@ LayerCount: 2
 Fore
 Refer: 257 -1 N 1 0 0 1 0 0 3
 Refer: 472 770 N 1 0 0 1 10 0 2
-Validated: 5
+Validated: 1048581
 Kerns2: 411 -25 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'calt' Contextual Alternates in Latin lookup 24 subtable" ycircumflex.ss03
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" ycircumflex.ss03
@@ -6105,7 +6110,7 @@ LayerCount: 2
 Fore
 Refer: 257 -1 N 1 0 0 1 0 0 3
 Refer: 466 776 N 1 0 0 1 22 0 2
-Validated: 5
+Validated: 1048581
 Substitution2: "'calt' Contextual Alternates in Latin lookup 24 subtable" ydieresis.ss03
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" ydieresis.ss01
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" ydieresis.ss01 ydieresis.ss03
@@ -6122,7 +6127,7 @@ LayerCount: 2
 Fore
 Refer: 257 -1 N 1 0 0 1 0 0 3
 Refer: 468 768 N 1 0 0 1 22 0 2
-Validated: 5
+Validated: 1048581
 Substitution2: "'calt' Contextual Alternates in Latin lookup 24 subtable" ygrave.ss03
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" ygrave.ss03
 EndChar
@@ -6151,7 +6156,7 @@ SplineSet
  461 0 l 1,11,-1
  46 0 l 1,0,-1
 EndSplineSet
-Validated: 5
+Validated: 1048581
 Kerns2: 443 -55 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 425 -85 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 326 -78 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 206 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 196 -14 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -6166,7 +6171,7 @@ LayerCount: 2
 Fore
 Refer: 262 122 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 102 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: zcaron
@@ -6180,7 +6185,7 @@ LayerCount: 2
 Fore
 Refer: 262 122 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 -3 0 2
-Validated: 5
+Validated: 1048581
 Kerns2: 389 -36 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -6195,7 +6200,7 @@ LayerCount: 2
 Fore
 Refer: 262 122 N 1 0 0 1 0 0 3
 Refer: 467 775 N 1 0 0 1 123 0 2
-Validated: 5
+Validated: 1048581
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" zdotaccent.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" zdotaccent.ss01
 EndChar
@@ -6212,7 +6217,7 @@ LayerCount: 2
 Fore
 Refer: 150 97 N 1 0 0 1 0 0 3
 Refer: 482 -1 N 1 0 0 1 30 0 2
-Validated: 5
+Validated: 1048581
 Substitution2: "'ss02' Style Set 2 in Latin lookup 23 subtable" adieresis.ss01.ss02
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" adieresis.ss01.ss02
 EndChar
@@ -6228,7 +6233,7 @@ LayerCount: 2
 Fore
 Refer: 163 99 N 1 0 0 1 0 0 3
 Refer: 483 -1 N 1 0 0 1 143 0 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: edieresis.ss01
@@ -6243,7 +6248,7 @@ LayerCount: 2
 Fore
 Refer: 172 101 N 1 0 0 1 0 0 3
 Refer: 482 -1 N 1 0 0 1 41 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: edotaccent.ss01
@@ -6258,7 +6263,7 @@ LayerCount: 2
 Fore
 Refer: 172 101 N 1 0 0 1 0 0 3
 Refer: 483 -1 N 1 0 0 1 148 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: uni0123.ss01
@@ -6272,7 +6277,7 @@ LayerCount: 2
 Fore
 Refer: 182 103 N 1 0 0 1 0 0 3
 Refer: 484 -1 N 1 0 0 1 154 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: gdotaccent.ss01
@@ -6286,7 +6291,7 @@ LayerCount: 2
 Fore
 Refer: 182 103 N 1 0 0 1 0 0 3
 Refer: 483 -1 N 1 0 0 1 148 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: i.ss01
@@ -6301,7 +6306,7 @@ LayerCount: 2
 Fore
 Refer: 189 305 N 1 0 0 1 0 0 3
 Refer: 483 -1 N 1 0 0 1 -13 0 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: idieresis.ss01
@@ -6316,7 +6321,7 @@ LayerCount: 2
 Fore
 Refer: 189 305 N 1 0 0 1 0 0 3
 Refer: 482 -1 N 1 0 0 1 -120 0 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: i.loclTRK.ss01
@@ -6331,7 +6336,7 @@ LayerCount: 2
 Fore
 Refer: 189 305 N 1 0 0 1 0 0 3
 Refer: 483 -1 N 1 0 0 1 -13 0 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: ij.ss01
@@ -6346,7 +6351,7 @@ Refer: 189 305 N 1 0 0 1 0 0 2
 Refer: 483 -1 N 1 0 0 1 -13 0 2
 Refer: 199 567 N 1 0 0 1 246 0 2
 Refer: 483 -1 N 1 0 0 1 232 0 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: iogonek.ss01
@@ -6362,7 +6367,7 @@ Fore
 Refer: 189 305 N 1 0 0 1 0 0 3
 Refer: 483 -1 N 1 0 0 1 -13 0 2
 Refer: 481 808 N 1 0 0 1 -43 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: j.ss01
@@ -6376,7 +6381,7 @@ LayerCount: 2
 Fore
 Refer: 199 567 N 1 0 0 1 0 0 3
 Refer: 483 -1 N 1 0 0 1 -13 0 2
-Validated: 1
+Validated: 1048577
 EndChar
 
 StartChar: uni0137.ss01
@@ -6390,7 +6395,7 @@ LayerCount: 2
 Fore
 Refer: 200 107 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 146 0 2
-Validated: 5
+Validated: 1048581
 Substitution2: "'ss04' Style Set 4 in Latin lookup 25 subtable" uni0137.ss01.ss04
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni0137.ss01.ss04
 EndChar
@@ -6407,7 +6412,7 @@ LayerCount: 2
 Fore
 Refer: 202 108 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 -7 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: uni0146.ss01
@@ -6421,7 +6426,7 @@ LayerCount: 2
 Fore
 Refer: 208 110 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 175 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: odieresis.ss01
@@ -6451,7 +6456,7 @@ LayerCount: 2
 Fore
 Refer: 227 114 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 -9 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: uni0219.ss01
@@ -6465,7 +6470,7 @@ LayerCount: 2
 Fore
 Refer: 231 115 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 117 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: uni021B.ss01
@@ -6480,7 +6485,7 @@ LayerCount: 2
 Fore
 Refer: 237 116 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 122 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: udieresis.ss01
@@ -6510,7 +6515,7 @@ LayerCount: 2
 Fore
 Refer: 251 119 N 1 0 0 1 0 0 3
 Refer: 482 -1 N 1 0 0 1 145 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: ydieresis.ss01
@@ -6524,7 +6529,7 @@ LayerCount: 2
 Fore
 Refer: 257 -1 N 1 0 0 1 0 0 3
 Refer: 482 -1 N 1 0 0 1 16 0 2
-Validated: 5
+Validated: 1048581
 Substitution2: "'calt' Contextual Alternates in Latin lookup 24 subtable" ydieresis.ss01.ss03
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" ydieresis.ss01.ss03
 EndChar
@@ -6540,7 +6545,7 @@ LayerCount: 2
 Fore
 Refer: 262 122 N 1 0 0 1 0 0 3
 Refer: 483 -1 N 1 0 0 1 110 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: a.ss02
@@ -6582,7 +6587,7 @@ SplineSet
  160 176 160 176 195 134.5 c 128,-1,32
  230 93 230 93 290 93 c 0,21,22
 EndSplineSet
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: aacute.ss02
@@ -6597,7 +6602,7 @@ LayerCount: 2
 Fore
 Refer: 289 -1 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 155 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: abreve.ss02
@@ -6612,7 +6617,7 @@ LayerCount: 2
 Fore
 Refer: 289 -1 N 1 0 0 1 0 0 3
 Refer: 474 774 N 1 0 0 1 75 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: uni01CE.ss02
@@ -6627,7 +6632,7 @@ LayerCount: 2
 Fore
 Refer: 289 -1 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 50 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: acircumflex.ss02
@@ -6642,7 +6647,7 @@ LayerCount: 2
 Fore
 Refer: 289 -1 N 1 0 0 1 0 0 3
 Refer: 472 770 N 1 0 0 1 50 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: adieresis.ss02
@@ -6657,7 +6662,7 @@ LayerCount: 2
 Fore
 Refer: 289 -1 N 1 0 0 1 0 0 3
 Refer: 466 776 N 1 0 0 1 62 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: agrave.ss02
@@ -6672,7 +6677,7 @@ LayerCount: 2
 Fore
 Refer: 289 -1 N 1 0 0 1 0 0 3
 Refer: 468 768 N 1 0 0 1 62 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: amacron.ss02
@@ -6687,7 +6692,7 @@ LayerCount: 2
 Fore
 Refer: 289 -1 N 1 0 0 1 0 0 3
 Refer: 477 772 N 1 0 0 1 67 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: aogonek.ss02
@@ -6702,7 +6707,7 @@ LayerCount: 2
 Fore
 Refer: 289 -1 N 1 0 0 1 0 0 3
 Refer: 481 808 N 1 0 0 1 308 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: aring.ss02
@@ -6717,7 +6722,7 @@ LayerCount: 2
 Fore
 Refer: 289 -1 N 1 0 0 1 0 0 3
 Refer: 475 778 N 1 0 0 1 136 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: atilde.ss02
@@ -6732,7 +6737,7 @@ LayerCount: 2
 Fore
 Refer: 289 -1 N 1 0 0 1 0 0 3
 Refer: 476 771 N 1 0 0 1 43 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: y.ss03
@@ -6767,7 +6772,7 @@ SplineSet
  311 61 l 1,22,-1
  215 4 l 1,19,-1
 EndSplineSet
-Validated: 5
+Validated: 1048581
 Kerns2: 169 -24 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -6782,7 +6787,7 @@ LayerCount: 2
 Fore
 Refer: 300 121 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 117 0 2
-Validated: 5
+Validated: 1048581
 Kerns2: 169 -24 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -6797,7 +6802,7 @@ LayerCount: 2
 Fore
 Refer: 300 121 N 1 0 0 1 0 0 3
 Refer: 472 770 N 1 0 0 1 11 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: ydieresis.ss03
@@ -6811,7 +6816,7 @@ LayerCount: 2
 Fore
 Refer: 300 121 N 1 0 0 1 0 0 3
 Refer: 466 776 N 1 0 0 1 24 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: ygrave.ss03
@@ -6825,7 +6830,7 @@ LayerCount: 2
 Fore
 Refer: 300 121 N 1 0 0 1 0 0 3
 Refer: 468 768 N 1 0 0 1 23 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: k.ss04
@@ -6856,7 +6861,7 @@ SplineSet
  228 270 l 1,13,-1
  332 315 l 1,10,-1
 EndSplineSet
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: uni0137.ss04
@@ -6870,7 +6875,7 @@ LayerCount: 2
 Fore
 Refer: 305 -1 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 146 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: adieresis.ss01.ss02
@@ -6885,7 +6890,7 @@ LayerCount: 2
 Fore
 Refer: 289 -1 N 1 0 0 1 0 0 3
 Refer: 482 -1 N 1 0 0 1 56 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: ydieresis.ss01.ss03
@@ -6899,7 +6904,7 @@ LayerCount: 2
 Fore
 Refer: 300 121 N 1 0 0 1 0 0 3
 Refer: 482 -1 N 1 0 0 1 17 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: uni0137.ss01.ss04
@@ -6913,7 +6918,7 @@ LayerCount: 2
 Fore
 Refer: 305 -1 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 146 0 2
-Validated: 5
+Validated: 1048581
 EndChar
 
 StartChar: f_f_i
@@ -8339,15 +8344,15 @@ EndChar
 StartChar: comma
 Encoding: 44 44 345
 Width: 271
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-127 -119 m 5,0,-1
+133 -119 m 5,0,-1
  36 -119 l 1,1,-1
  96 128 l 1,2,-1
- 232 128 l 5,3,-1
- 127 -119 l 5,0,-1
+ 238 128 l 5,3,-1
+ 133 -119 l 5,0,-1
 EndSplineSet
 Kerns2: 403 -135 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" comma.ss01
@@ -9692,8 +9697,8 @@ LayerCount: 2
 Fore
 SplineSet
 201 477 m 1,0,-1
- 79 477 l 5,1,-1
- 172 723 l 5,2,-1
+ 73 477 l 5,1,-1
+ 166 723 l 5,2,-1
  255 723 l 1,3,-1
  201 477 l 1,0,-1
 EndSplineSet
@@ -9705,15 +9710,15 @@ EndChar
 StartChar: quoteright
 Encoding: 8217 8217 405
 Width: 271
-Flags: W
+Flags: WO
 LayerCount: 2
 Fore
 SplineSet
-163 477 m 1,0,-1
- 77 477 l 5,1,-1
- 133 723 l 5,2,-1
- 256 723 l 1,3,-1
- 163 477 l 1,0,-1
+169 477 m 5,0,-1
+ 77 477 l 1,1,-1
+ 133 723 l 1,2,-1
+ 262 723 l 5,3,-1
+ 169 477 l 5,0,-1
 EndSplineSet
 Kerns2: 408 -135 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 406 -135 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 389 -42 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 381 -135 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 345 -135 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 344 -135 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" quoteright.ss01
@@ -10515,7 +10520,7 @@ SplineSet
  443 37 443 37 393 13.5 c 128,-1,39
  343 -10 343 -10 282 -10 c 0,8,9
 EndSplineSet
-Validated: 5
+Validated: 1048581
 Kerns2: 389 -90 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 326 -82 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss12' Style Set 12 in Latin lookup 33 subtable" cent.ss12
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" cent.ss12
@@ -10572,7 +10577,7 @@ SplineSet
  593 100 593 100 524 45.5 c 128,-1,48
  455 -9 455 -9 331 -9 c 0,8,9
 EndSplineSet
-Validated: 5
+Validated: 1048581
 Substitution2: "'ss12' Style Set 12 in Latin lookup 33 subtable" dollar.ss12
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" dollar.ss12
 EndChar
