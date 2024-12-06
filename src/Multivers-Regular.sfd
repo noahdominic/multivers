@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1659194366
-ModificationTime: 1733474704
+ModificationTime: 1733474906
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -4075,7 +4075,7 @@ StartChar: e
 Encoding: 101 101 172
 Width: 544
 GlyphClass: 2
-Flags: WO
+Flags: W
 AnchorPoint: "Anchor-3" 399 19 basechar 0
 AnchorPoint: "Anchor-2" 272 0 basechar 0
 AnchorPoint: "Anchor-0" 283 510 basechar 0
@@ -4266,49 +4266,50 @@ StartChar: g
 Encoding: 103 103 182
 Width: 586
 GlyphClass: 2
-Flags: W
+Flags: WO
 AnchorPoint: "Anchor-2" 293 -205 basechar 0
 AnchorPoint: "Anchor-0" 278 510 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-274 -215 m 0,0,1
- 186 -215 186 -215 128 -173 c 128,-1,2
- 70 -131 70 -131 58 -61 c 1,3,-1
- 132 -61 l 1,4,5
- 142 -101 142 -101 179 -124.5 c 128,-1,6
- 216 -148 216 -148 279 -148 c 0,7,8
- 354 -148 354 -148 392 -107 c 128,-1,9
- 430 -66 430 -66 430 13 c 2,10,-1
- 430 127 l 1,11,-1
- 439 125 l 1,12,13
- 424 68 424 68 375 34 c 128,-1,14
- 326 0 326 0 258 0 c 0,15,16
- 193 0 193 0 144 32.5 c 128,-1,17
- 95 65 95 65 68.5 122.5 c 128,-1,18
- 42 180 42 180 42 258 c 256,19,20
- 42 336 42 336 69.5 395 c 128,-1,21
- 97 454 97 454 148 486.5 c 128,-1,22
- 199 519 199 519 267 519 c 0,23,24
- 336 519 336 519 382.5 484.5 c 128,-1,25
- 429 450 429 450 444 387 c 1,26,-1
- 435 386 l 1,27,-1
- 435 510 l 1,28,-1
- 508 510 l 1,29,-1
- 508 14 l 2,30,31
- 508 -92 508 -92 445.5 -153.5 c 128,-1,32
- 383 -215 383 -215 274 -215 c 0,0,1
-278 68 m 256,33,34
- 350 68 350 68 392 119.5 c 128,-1,35
- 434 171 434 171 434 262 c 0,36,37
- 434 350 434 350 392 400.5 c 128,-1,38
- 350 451 350 451 278 451 c 0,39,40
- 205 451 205 451 163.5 400.5 c 128,-1,41
- 122 350 122 350 122 259 c 0,42,43
- 122 171 122 171 164 119.5 c 128,-1,44
- 206 68 206 68 278 68 c 256,33,34
+508 394 m 1041,0,1
+274 -215 m 0,2,3
+ 179 -215 179 -215 128 -177 c 0,4,5
+ 70 -135 70 -135 58 -61 c 1,6,-1
+ 132 -61 l 1,7,8
+ 142 -105 142 -105 179 -128.5 c 0,9,10
+ 210 -148 210 -148 279 -148 c 0,11,12
+ 358 -148 358 -148 392 -111 c 0,13,14
+ 430 -70 430 -70 430 13 c 2,15,-1
+ 430 127 l 1,16,-1
+ 439 125 l 1,17,18
+ 424 68 424 68 375 34 c 128,-1,19
+ 326 0 326 0 258 0 c 0,20,21
+ 193 0 193 0 144 32.5 c 128,-1,22
+ 95 65 95 65 68.5 122.5 c 128,-1,23
+ 42 180 42 180 42 258 c 256,24,25
+ 42 336 42 336 69.5 395 c 128,-1,26
+ 97 454 97 454 148 486.5 c 128,-1,27
+ 199 519 199 519 267 519 c 0,28,29
+ 336 519 336 519 382.5 484.5 c 128,-1,30
+ 429 450 429 450 444 387 c 1,31,-1
+ 435 386 l 1,32,-1
+ 442 510 l 1,33,-1
+ 515 510 l 1,34,35
+ 511.317970419 480.267230905 511.317970419 480.267230905 508 394 c 1,36,-1
+ 508 14 l 2,37,38
+ 508 -96 508 -96 445.5 -157.5 c 0,39,40
+ 387 -215 387 -215 274 -215 c 0,2,3
+278 68 m 256,41,42
+ 350 68 350 68 392 119.5 c 128,-1,43
+ 434 171 434 171 434 262 c 0,44,45
+ 434 350 434 350 392 400.5 c 128,-1,46
+ 350 451 350 451 278 451 c 0,47,48
+ 205 451 205 451 163.5 400.5 c 128,-1,49
+ 122 350 122 350 122 259 c 0,50,51
+ 122 171 122 171 164 119.5 c 128,-1,52
+ 206 68 206 68 278 68 c 256,41,42
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: gbreve
@@ -4322,7 +4323,6 @@ LayerCount: 2
 Fore
 Refer: 182 103 N 1 0 0 1 0 0 3
 Refer: 474 774 N 1 0 0 1 57 0 2
-Validated: 5
 EndChar
 
 StartChar: uni0123
@@ -4336,7 +4336,6 @@ LayerCount: 2
 Fore
 Refer: 182 103 N 1 0 0 1 0 0 3
 Refer: 478 786 N 1 0 0 1 161 0 2
-Validated: 5
 Kerns2: 196 -6 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" uni0123.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni0123.ss01
@@ -4353,7 +4352,6 @@ LayerCount: 2
 Fore
 Refer: 182 103 N 1 0 0 1 0 0 3
 Refer: 467 775 N 1 0 0 1 172 0 2
-Validated: 5
 Kerns2: 198 0 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" gdotaccent.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" gdotaccent.ss01
@@ -6235,7 +6233,6 @@ LayerCount: 2
 Fore
 Refer: 182 103 N 1 0 0 1 0 0 3
 Refer: 484 -1 N 1 0 0 1 161 0 2
-Validated: 5
 EndChar
 
 StartChar: gdotaccent.ss01
@@ -6249,7 +6246,6 @@ LayerCount: 2
 Fore
 Refer: 182 103 N 1 0 0 1 0 0 3
 Refer: 483 -1 N 1 0 0 1 163 0 2
-Validated: 5
 EndChar
 
 StartChar: i.ss01
