@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1659194366
-ModificationTime: 1733477737
+ModificationTime: 1733477904
 PfmFamily: 81
 TTFWeight: 600
 TTFWidth: 5
@@ -370,7 +370,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 7866 38 14
+WinInfo: 0 38 14
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-1" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-2" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-3" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-4" "'mark' Mark Positioning in Latin lookup 2 subtable" "Anchor-5" "'mark' Mark Positioning in Latin lookup 2 subtable" "Anchor-6" "'mkmk' Mark to Mark in Latin lookup 3 subtable" "Anchor-7" "'mkmk' Mark to Mark in Latin lookup 4 subtable"
@@ -8339,23 +8339,16 @@ EndChar
 StartChar: comma
 Encoding: 44 44 345
 Width: 271
-Flags: W
+Flags: WO
 LayerCount: 2
 Fore
 SplineSet
-65 -159 m 1,0,-1
- 65 -97 l 1,1,2
- 106 -84 106 -84 120 -58.5 c 128,-1,3
- 134 -33 134 -33 134 12 c 1,4,-1
- 184 0 l 1,5,-1
- 64 0 l 1,6,-1
- 64 143 l 1,7,-1
- 207 143 l 1,8,-1
- 207 39 l 2,9,10
- 207 -35 207 -35 174.5 -86.5 c 128,-1,11
- 142 -138 142 -138 65 -159 c 1,0,-1
+127 -119 m 5,0,-1
+ 36 -119 l 1,1,-1
+ 96 128 l 1,2,-1
+ 232 128 l 5,3,-1
+ 127 -119 l 5,0,-1
 EndSplineSet
-Validated: 5
 Kerns2: 403 -135 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" comma.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" comma.ss01
@@ -8384,7 +8377,6 @@ LayerCount: 2
 Fore
 Refer: 345 44 N 1 0 0 1 0 0 3
 Refer: 344 46 N 1 0 0 1 0 344 2
-Validated: 5
 Kerns2: 389 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" semicolon.ss01
 Substitution2: "'case' Case-Sensitive Forms in Latin lookup 20 subtable" semicolon.case
@@ -8695,7 +8687,6 @@ LayerCount: 2
 Fore
 Refer: 345 44 N 1 0 0 1 0 131 3
 Refer: 344 46 N 1 0 0 1 0 474 2
-Validated: 5
 Kerns2: 395 -73 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 385 -74 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -9650,7 +9641,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 345 44 N 1 0 0 1 -3 -32 2
-Validated: 5
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" quotesinglbase.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" quotesinglbase.ss01
 EndChar
@@ -9663,7 +9653,6 @@ LayerCount: 2
 Fore
 Refer: 345 44 N 1 0 0 1 189 -32 2
 Refer: 345 44 N 1 0 0 1 -3 -32 2
-Validated: 5
 Kerns2: 403 -222 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" quotedblbase.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" quotedblbase.ss01
@@ -9698,7 +9687,7 @@ EndChar
 StartChar: quoteleft
 Encoding: 8216 8216 404
 Width: 271
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
