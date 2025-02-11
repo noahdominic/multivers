@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1659194366
-ModificationTime: 1739283030
+ModificationTime: 1739283083
 PfmFamily: 81
 TTFWeight: 600
 TTFWidth: 5
@@ -678,7 +678,7 @@ StartChar: C
 Encoding: 67 67 14
 Width: 726
 GlyphClass: 2
-Flags: HWO
+Flags: HW
 AnchorPoint: "Anchor-2" 375 0 basechar 0
 AnchorPoint: "Anchor-0" 375 720 basechar 0
 LayerCount: 3
@@ -791,7 +791,7 @@ StartChar: D
 Encoding: 68 68 19
 Width: 735
 GlyphClass: 2
-Flags: HW
+Flags: HWO
 AnchorPoint: "Anchor-2" 369 0 basechar 0
 AnchorPoint: "Anchor-0" 369 720 basechar 0
 LayerCount: 3
@@ -801,10 +801,10 @@ SplineSet
  140 103 l 1
  318 103 l 2
  370.666666667 103 415.666666667 114 453 136 c 128
- 490.333333333 158 518.833333333 188.5 538.5 227.5 c 128
- 558.166666667 266.5 568 312 568 364 c 0
- 568 415.333333333 558.333333333 459.833333333 539 497.5 c 128
- 519.666666667 535.166666667 491.333333333 564.5 454 585.5 c 128
+ 490.333333333 158 508.833007812 188.5 528.5 227.5 c 128
+ 548.166992188 266.5 558 312 558 364 c 0
+ 558 415.333007812 548.333007812 459.833007812 529 497.5 c 128
+ 509.666992188 535.166992188 491.333333333 564.5 454 585.5 c 128
  416.666666667 606.5 371.333333333 617 318 617 c 2
  142 617 l 1
  142 720 l 1
@@ -818,11 +818,10 @@ SplineSet
  140 0 l 1
 62 0 m 1
  62 720 l 1
- 191 720 l 1
- 191 0 l 1
+ 201 720 l 5
+ 201 0 l 5
  62 0 l 1
 EndSplineSet
-Validated: 5
 Kerns2: 425 -72 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 420 -9 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 399 -79 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 391 -67 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 326 -52 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 322 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 139 -12 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -880,7 +879,6 @@ LayerCount: 3
 Fore
 Refer: 19 68 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 114 210 2
-Validated: 5
 EndChar
 
 StartChar: Dcroat
