@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1659194366
-ModificationTime: 1739283154
+ModificationTime: 1739283190
 PfmFamily: 81
 TTFWeight: 600
 TTFWidth: 5
@@ -1228,7 +1228,7 @@ StartChar: I
 Encoding: 73 73 39
 Width: 252
 GlyphClass: 2
-Flags: HWO
+Flags: HW
 AnchorPoint: "Anchor-3" 172 0 basechar 0
 AnchorPoint: "Anchor-2" 126 0 basechar 0
 AnchorPoint: "Anchor-0" 126 720 basechar 0
@@ -1367,7 +1367,7 @@ EndChar
 StartChar: J
 Encoding: 74 74 48
 Width: 417
-Flags: HW
+Flags: HWO
 LayerCount: 3
 Fore
 SplineSet
@@ -1376,8 +1376,8 @@ SplineSet
  13 100 l 1
  46.3333333333 95.3333333333 81.3333333333 93 118 93 c 128
  154.666666667 93 182.166666667 100.5 200.5 115.5 c 128
- 218.833333333 130.5 228 155.333333333 228 190 c 6
- 228 720 l 5
+ 218.833333333 130.5 226 155.333007812 226 190 c 6
+ 226 720 l 5
  359 720 l 1
  359 184 l 2
  359 118.666666667 339.666666667 70 301 38 c 128
