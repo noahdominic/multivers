@@ -12,9 +12,10 @@ Ascent: 800
 Descent: 200
 InvalidEm: 0
 sfntRevision: 0x00010000
-LayerCount: 2
+LayerCount: 3
 Layer: 0 1 "Back" 1
 Layer: 1 1 "Fore" 0
+Layer: 2 0 "Back 2" 1
 XUID: [1021 473 -325923738 4484261]
 StyleMap: 0x0040
 FSType: 0
@@ -22,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1659194366
-ModificationTime: 1738759738
+ModificationTime: 1738851214
 PfmFamily: 81
 TTFWeight: 600
 TTFWidth: 5
@@ -370,9 +371,13 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 38 14
+WinInfo: 38 19 14
 BeginPrivate: 0
 EndPrivate
+Grid
+-1000 -158.5 m 0
+ 2000 -158.5 l 1024
+EndSplineSet
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-1" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-2" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-3" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-4" "'mark' Mark Positioning in Latin lookup 2 subtable" "Anchor-5" "'mark' Mark Positioning in Latin lookup 2 subtable" "Anchor-6" "'mkmk' Mark to Mark in Latin lookup 3 subtable" "Anchor-7" "'mkmk' Mark to Mark in Latin lookup 4 subtable"
 BeginChars: 65694 501
 
@@ -380,7 +385,7 @@ StartChar: .notdef
 Encoding: 65536 -1 0
 Width: 652
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 62 0 m 1,0,-1
@@ -405,7 +410,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 685 0 basechar 0
 AnchorPoint: "Anchor-2" 356 0 basechar 0
 AnchorPoint: "Anchor-0" 356 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 27 0 m 1,0,-1
@@ -438,7 +443,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 685 0 basechar 0
 AnchorPoint: "Anchor-2" 356 0 basechar 0
 AnchorPoint: "Anchor-0" 356 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 207 210 2
@@ -454,7 +459,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 685 0 basechar 0
 AnchorPoint: "Anchor-2" 356 0 basechar 0
 AnchorPoint: "Anchor-0" 356 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 3
 Refer: 474 774 N 1 0 0 1 127 210 2
@@ -469,7 +474,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 685 0 basechar 0
 AnchorPoint: "Anchor-2" 356 0 basechar 0
 AnchorPoint: "Anchor-0" 356 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 102 210 2
@@ -484,7 +489,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 685 0 basechar 0
 AnchorPoint: "Anchor-2" 356 0 basechar 0
 AnchorPoint: "Anchor-0" 356 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 3
 Refer: 472 770 N 1 0 0 1 102 210 2
@@ -499,7 +504,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 685 0 basechar 0
 AnchorPoint: "Anchor-2" 356 0 basechar 0
 AnchorPoint: "Anchor-0" 356 942 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 3
 Refer: 466 776 N 1 0 0 1 114 210 2
@@ -517,7 +522,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 685 0 basechar 0
 AnchorPoint: "Anchor-2" 356 0 basechar 0
 AnchorPoint: "Anchor-0" 356 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 3
 Refer: 468 768 N 1 0 0 1 114 210 2
@@ -532,7 +537,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 685 0 basechar 0
 AnchorPoint: "Anchor-2" 356 0 basechar 0
 AnchorPoint: "Anchor-0" 356 926 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 3
 Refer: 477 772 N 1 0 0 1 119 210 2
@@ -547,7 +552,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 685 0 basechar 0
 AnchorPoint: "Anchor-2" 356 0 basechar 0
 AnchorPoint: "Anchor-0" 356 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 3
 Refer: 481 808 N 1 0 0 1 450 0 2
@@ -562,7 +567,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 685 0 basechar 0
 AnchorPoint: "Anchor-2" 356 0 basechar 0
 AnchorPoint: "Anchor-0" 356 986 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 3
 Refer: 475 778 N 1 0 0 1 188 210 2
@@ -578,7 +583,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 685 0 basechar 0
 AnchorPoint: "Anchor-2" 356 0 basechar 0
 AnchorPoint: "Anchor-0" 356 945 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 3
 Refer: 476 771 N 1 0 0 1 95 210 2
@@ -589,7 +594,7 @@ StartChar: AE
 Encoding: 198 198 12
 Width: 945
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 27 0 m 1,0,-1
@@ -626,7 +631,7 @@ StartChar: B
 Encoding: 66 66 13
 Width: 629
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 163 0 m 1,0,-1
@@ -676,7 +681,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 375 0 basechar 0
 AnchorPoint: "Anchor-0" 375 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 380 -10 m 0,0,1
@@ -717,7 +722,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 375 0 basechar 0
 AnchorPoint: "Anchor-0" 375 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 14 67 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 226 210 2
@@ -730,7 +735,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 375 0 basechar 0
 AnchorPoint: "Anchor-0" 375 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 14 67 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 121 210 2
@@ -743,7 +748,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 366 -215 basechar 0
 AnchorPoint: "Anchor-0" 375 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 14 67 N 1 0 0 1 0 0 3
 Refer: 480 807 N 1 0 0 1 180 0 2
@@ -756,7 +761,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 375 0 basechar 0
 AnchorPoint: "Anchor-0" 375 942 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 14 67 N 1 0 0 1 0 0 3
 Refer: 467 775 N 1 0 0 1 247 210 2
@@ -771,7 +776,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 369 0 basechar 0
 AnchorPoint: "Anchor-0" 369 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 140 0 m 1,0,-1
@@ -810,7 +815,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 382 0 basechar 0
 AnchorPoint: "Anchor-0" 382 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 7 310 m 1,0,-1
@@ -853,7 +858,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 369 0 basechar 0
 AnchorPoint: "Anchor-0" 369 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 19 68 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 114 210 2
@@ -867,7 +872,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 382 0 basechar 0
 AnchorPoint: "Anchor-0" 382 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 20 208 N 1 0 0 1 0 0 3
 Validated: 5
@@ -881,7 +886,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 526 0 basechar 0
 AnchorPoint: "Anchor-2" 307 0 basechar 0
 AnchorPoint: "Anchor-0" 317 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 62 0 m 1,0,-1
@@ -917,7 +922,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 526 0 basechar 0
 AnchorPoint: "Anchor-2" 307 0 basechar 0
 AnchorPoint: "Anchor-0" 317 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 23 69 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 168 210 2
@@ -932,7 +937,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 526 0 basechar 0
 AnchorPoint: "Anchor-2" 307 0 basechar 0
 AnchorPoint: "Anchor-0" 317 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 23 69 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 63 210 2
@@ -947,7 +952,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 526 0 basechar 0
 AnchorPoint: "Anchor-2" 307 0 basechar 0
 AnchorPoint: "Anchor-0" 317 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 23 69 N 1 0 0 1 0 0 3
 Refer: 472 770 N 1 0 0 1 63 210 2
@@ -962,7 +967,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 526 0 basechar 0
 AnchorPoint: "Anchor-2" 307 0 basechar 0
 AnchorPoint: "Anchor-0" 317 942 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 23 69 N 1 0 0 1 0 0 3
 Refer: 466 776 N 1 0 0 1 76 210 2
@@ -979,7 +984,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 526 0 basechar 0
 AnchorPoint: "Anchor-2" 307 0 basechar 0
 AnchorPoint: "Anchor-0" 317 942 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 23 69 N 1 0 0 1 0 0 3
 Refer: 467 775 N 1 0 0 1 189 210 2
@@ -996,7 +1001,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 526 0 basechar 0
 AnchorPoint: "Anchor-2" 307 0 basechar 0
 AnchorPoint: "Anchor-0" 317 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 23 69 N 1 0 0 1 0 0 3
 Refer: 468 768 N 1 0 0 1 75 210 2
@@ -1011,7 +1016,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 526 0 basechar 0
 AnchorPoint: "Anchor-2" 307 0 basechar 0
 AnchorPoint: "Anchor-0" 317 926 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 23 69 N 1 0 0 1 0 0 3
 Refer: 477 772 N 1 0 0 1 80 210 2
@@ -1026,7 +1031,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 526 0 basechar 0
 AnchorPoint: "Anchor-2" 307 0 basechar 0
 AnchorPoint: "Anchor-0" 317 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 23 69 N 1 0 0 1 0 0 3
 Refer: 481 808 N 1 0 0 1 292 0 2
@@ -1037,7 +1042,7 @@ StartChar: F
 Encoding: 70 70 32
 Width: 577
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 62 0 m 1,0,-1
@@ -1067,7 +1072,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 381 0 basechar 0
 AnchorPoint: "Anchor-0" 381 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 396 -10 m 0,0,1
@@ -1094,8 +1099,8 @@ SplineSet
  400 287 l 1,29,-1
  400 389 l 1,30,-1
  694 389 l 1,31,-1
- 694 61 l 5,32,33
- 654 28 654 28 539 2.5 c 0,34,35
+ 694 51 l 5,32,33
+ 671 32 671 32 539 2.5 c 0,34,35
  483 -10 483 -10 396 -10 c 0,0,1
 EndSplineSet
 Kerns2: 425 -65 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 391 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 326 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 187 0 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
@@ -1110,7 +1115,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 381 0 basechar 0
 AnchorPoint: "Anchor-0" 381 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 33 71 N 1 0 0 1 0 0 3
 Refer: 474 774 N 1 0 0 1 152 210 2
@@ -1125,7 +1130,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 381 -331 basechar 0
 AnchorPoint: "Anchor-0" 381 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 33 71 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 246 0 2
@@ -1141,7 +1146,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 381 0 basechar 0
 AnchorPoint: "Anchor-0" 381 942 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 33 71 N 1 0 0 1 0 0 3
 Refer: 467 775 N 1 0 0 1 253 210 2
@@ -1157,7 +1162,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 354 0 basechar 0
 AnchorPoint: "Anchor-0" 354 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 62 0 m 1,0,-1
@@ -1186,7 +1191,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 364 0 basechar 0
 AnchorPoint: "Anchor-0" 364 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 7 529 m 1,0,-1
@@ -1222,7 +1227,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 172 0 basechar 0
 AnchorPoint: "Anchor-2" 126 0 basechar 0
 AnchorPoint: "Anchor-0" 126 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 62 0 m 1,0,-1
@@ -1242,11 +1247,10 @@ Flags: W
 AnchorPoint: "Anchor-3" 172 0 basechar 0
 AnchorPoint: "Anchor-2" 126 0 basechar 0
 AnchorPoint: "Anchor-0" 126 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 39 73 N 1 0 0 1 0 0 2
 Refer: 48 74 N 1 0 0 1 252 0 2
-Validated: 1
 Kerns2: 381 -35 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 343 -32 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 231 0 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -1258,7 +1262,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 172 0 basechar 0
 AnchorPoint: "Anchor-2" 126 0 basechar 0
 AnchorPoint: "Anchor-0" 126 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 39 73 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 -23 210 2
@@ -1274,7 +1278,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 172 0 basechar 0
 AnchorPoint: "Anchor-2" 126 0 basechar 0
 AnchorPoint: "Anchor-0" 126 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 39 73 N 1 0 0 1 0 0 3
 Refer: 472 770 N 1 0 0 1 -128 210 2
@@ -1290,7 +1294,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 172 0 basechar 0
 AnchorPoint: "Anchor-2" 126 0 basechar 0
 AnchorPoint: "Anchor-0" 126 942 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 39 73 N 1 0 0 1 0 0 3
 Refer: 466 776 N 1 0 0 1 -116 210 2
@@ -1308,7 +1312,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 172 0 basechar 0
 AnchorPoint: "Anchor-2" 126 0 basechar 0
 AnchorPoint: "Anchor-0" 126 942 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 39 73 N 1 0 0 1 0 0 3
 Refer: 467 775 N 1 0 0 1 -2 210 2
@@ -1325,7 +1329,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 172 0 basechar 0
 AnchorPoint: "Anchor-2" 126 0 basechar 0
 AnchorPoint: "Anchor-0" 126 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 39 73 N 1 0 0 1 0 0 3
 Refer: 468 768 N 1 0 0 1 -116 210 2
@@ -1340,7 +1344,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 172 0 basechar 0
 AnchorPoint: "Anchor-2" 126 0 basechar 0
 AnchorPoint: "Anchor-0" 126 926 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 39 73 N 1 0 0 1 0 0 3
 Refer: 477 772 N 1 0 0 1 -111 210 2
@@ -1356,7 +1360,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 172 0 basechar 0
 AnchorPoint: "Anchor-2" 126 0 basechar 0
 AnchorPoint: "Anchor-0" 126 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 39 73 N 1 0 0 1 0 0 3
 Refer: 481 808 N 1 0 0 1 -62 0 2
@@ -1367,22 +1371,21 @@ StartChar: J
 Encoding: 74 74 48
 Width: 417
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
-133 -10 m 4,0,1
- 78 -10 78 -10 13 -4 c 5,2,-1
- 13 100 l 5,3,4
+133 -10 m 0,0,1
+ 78 -10 78 -10 13 -4 c 1,2,-1
+ 13 100 l 1,3,4
  63 93 63 93 118 93 c 128,-1,5
- 173 93 173 93 201.5 115.5 c 128,-1,6
- 230 138 230 138 230 190 c 2,7,-1
- 230 720 l 1,8,-1
+ 173 93 173 93 200.5 115.5 c 128,-1,6
+ 228 138 228 138 228 190 c 6,7,-1
+ 228 720 l 5,8,-1
  359 720 l 1,9,-1
  359 184 l 2,10,11
  359 86 359 86 301 38 c 128,-1,12
- 243 -10 243 -10 133 -10 c 4,0,1
+ 243 -10 243 -10 133 -10 c 0,0,1
 EndSplineSet
-Validated: 1
 Substitution2: "'ss08' Style Set 8 in Latin lookup 29 subtable" J.ss08
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" J.ss08
 EndChar
@@ -1394,7 +1397,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 352 0 basechar 0
 AnchorPoint: "Anchor-0" 348 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 62 0 m 1,0,-1
@@ -1425,7 +1428,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 352 -331 basechar 0
 AnchorPoint: "Anchor-0" 348 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 49 75 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 217 0 2
@@ -1443,7 +1446,7 @@ Flags: W
 AnchorPoint: "Anchor-2" 310 0 basechar 0
 AnchorPoint: "Anchor-1" 361 720 basechar 0
 AnchorPoint: "Anchor-0" 126 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 62 0 m 1,0,-1
@@ -1469,7 +1472,7 @@ Flags: W
 AnchorPoint: "Anchor-2" 310 0 basechar 0
 AnchorPoint: "Anchor-1" 361 720 basechar 0
 AnchorPoint: "Anchor-0" 126 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 51 76 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 -23 210 2
@@ -1485,7 +1488,7 @@ Flags: W
 AnchorPoint: "Anchor-2" 310 0 basechar 0
 AnchorPoint: "Anchor-1" 361 720 basechar 0
 AnchorPoint: "Anchor-0" 126 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 51 76 N 1 0 0 1 0 0 3
 Refer: 471 -1 N 1 0 0 1 301 0 2
@@ -1501,7 +1504,7 @@ Flags: W
 AnchorPoint: "Anchor-2" 310 -331 basechar 0
 AnchorPoint: "Anchor-1" 361 720 basechar 0
 AnchorPoint: "Anchor-0" 126 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 51 76 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 175 0 2
@@ -1518,7 +1521,7 @@ Flags: W
 AnchorPoint: "Anchor-2" 317 0 basechar 0
 AnchorPoint: "Anchor-1" 368 720 basechar 0
 AnchorPoint: "Anchor-0" 132 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 150 331 m 1,0,-1
@@ -1549,7 +1552,7 @@ StartChar: M
 Encoding: 77 77 56
 Width: 881
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 62 0 m 1,0,-1
@@ -1560,14 +1563,14 @@ SplineSet
  619 720 l 1,5,-1
  819 720 l 1,6,-1
  819 0 l 1,7,-1
- 684 0 l 5,8,-1
- 692 672 l 1,9,-1
+ 674 0 l 1,8,-1
+ 682 672 l 5,9,-1
  713 672 l 1,10,-1
  505 0 l 1,11,-1
  370 0 l 1,12,-1
  163 667 l 1,13,-1
- 191 667 l 1,14,-1
- 191 0 l 1,15,-1
+ 201 667 l 1,14,-1
+ 201 0 l 1,15,-1
  62 0 l 1,0,-1
 EndSplineSet
 Substitution2: "'ss06' Style Set 6 in Latin lookup 27 subtable" M.ss06
@@ -1581,7 +1584,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 354 0 basechar 0
 AnchorPoint: "Anchor-0" 354 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 62 0 m 1,0,-1
@@ -1608,7 +1611,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 354 0 basechar 0
 AnchorPoint: "Anchor-0" 354 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 57 78 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 205 210 2
@@ -1622,7 +1625,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 354 0 basechar 0
 AnchorPoint: "Anchor-0" 354 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 57 78 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 100 210 2
@@ -1636,7 +1639,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 354 -331 basechar 0
 AnchorPoint: "Anchor-0" 354 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 57 78 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 218 0 2
@@ -1652,7 +1655,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 354 0 basechar 0
 AnchorPoint: "Anchor-0" 354 945 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 57 78 N 1 0 0 1 0 0 3
 Refer: 476 771 N 1 0 0 1 93 210 2
@@ -1663,7 +1666,7 @@ StartChar: Eng
 Encoding: 330 330 62
 Width: 703
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 59 0 m 1,0,-1
@@ -1705,7 +1708,7 @@ AnchorPoint: "Anchor-3" 532 20 basechar 0
 AnchorPoint: "Anchor-2" 386 0 basechar 0
 AnchorPoint: "Anchor-1" 752 720 basechar 0
 AnchorPoint: "Anchor-0" 386 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 386 -10 m 0,0,1
@@ -1752,7 +1755,7 @@ AnchorPoint: "Anchor-3" 532 20 basechar 0
 AnchorPoint: "Anchor-2" 386 0 basechar 0
 AnchorPoint: "Anchor-1" 752 720 basechar 0
 AnchorPoint: "Anchor-0" 386 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 63 79 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 237 210 2
@@ -1768,7 +1771,7 @@ AnchorPoint: "Anchor-3" 532 20 basechar 0
 AnchorPoint: "Anchor-2" 386 0 basechar 0
 AnchorPoint: "Anchor-1" 752 720 basechar 0
 AnchorPoint: "Anchor-0" 386 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 63 79 N 1 0 0 1 0 0 3
 Refer: 472 770 N 1 0 0 1 131 210 2
@@ -1784,7 +1787,7 @@ AnchorPoint: "Anchor-3" 532 20 basechar 0
 AnchorPoint: "Anchor-2" 386 0 basechar 0
 AnchorPoint: "Anchor-1" 752 720 basechar 0
 AnchorPoint: "Anchor-0" 386 942 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 63 79 N 1 0 0 1 0 0 3
 Refer: 466 776 N 1 0 0 1 144 210 2
@@ -1802,7 +1805,7 @@ AnchorPoint: "Anchor-3" 532 20 basechar 0
 AnchorPoint: "Anchor-2" 386 0 basechar 0
 AnchorPoint: "Anchor-1" 752 720 basechar 0
 AnchorPoint: "Anchor-0" 386 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 63 79 N 1 0 0 1 0 0 3
 Refer: 468 768 N 1 0 0 1 143 210 2
@@ -1818,7 +1821,7 @@ AnchorPoint: "Anchor-3" 532 20 basechar 0
 AnchorPoint: "Anchor-2" 386 0 basechar 0
 AnchorPoint: "Anchor-1" 752 720 basechar 0
 AnchorPoint: "Anchor-0" 386 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 63 79 N 1 0 0 1 0 0 3
 Refer: 470 779 N 1 0 0 1 157 210 2
@@ -1834,7 +1837,7 @@ AnchorPoint: "Anchor-3" 532 20 basechar 0
 AnchorPoint: "Anchor-2" 386 0 basechar 0
 AnchorPoint: "Anchor-1" 752 720 basechar 0
 AnchorPoint: "Anchor-0" 386 926 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 63 79 N 1 0 0 1 0 0 3
 Refer: 477 772 N 1 0 0 1 149 210 2
@@ -1850,7 +1853,7 @@ AnchorPoint: "Anchor-3" 532 20 basechar 0
 AnchorPoint: "Anchor-2" 386 0 basechar 0
 AnchorPoint: "Anchor-1" 752 720 basechar 0
 AnchorPoint: "Anchor-0" 386 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 115 -10 m 1,0,-1
@@ -1900,7 +1903,7 @@ AnchorPoint: "Anchor-3" 532 20 basechar 0
 AnchorPoint: "Anchor-2" 386 0 basechar 0
 AnchorPoint: "Anchor-1" 752 720 basechar 0
 AnchorPoint: "Anchor-0" 386 945 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 63 79 N 1 0 0 1 0 0 3
 Refer: 476 771 N 1 0 0 1 124 210 2
@@ -1911,7 +1914,7 @@ StartChar: OE
 Encoding: 338 338 72
 Width: 1049
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 415 -10 m 0,0,1
@@ -1958,7 +1961,7 @@ StartChar: P
 Encoding: 80 80 73
 Width: 649
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 62 0 m 1,0,-1
@@ -1989,7 +1992,7 @@ StartChar: Thorn
 Encoding: 222 222 74
 Width: 647
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 159 154 m 1,0,-1
@@ -2023,7 +2026,7 @@ StartChar: Q
 Encoding: 81 81 75
 Width: 783
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 392 -10 m 1,0,1
@@ -2055,9 +2058,9 @@ SplineSet
  320 90 320 90 385 90 c 256,17,18
 392 -10 m 1,33,-1
  390 52 l 1,34,-1
- 768 110 l 5,35,-1
- 768 0 l 1,36,37
- 707 0 707 0 661 -1.5 c 128,-1,38
+ 777 119 l 5,35,-1
+ 777 0 l 5,36,37
+ 716 0 716 0 665.5 -1.5 c 128,-1,38
  615 -3 615 -3 574.5 -5 c 128,-1,39
  534 -7 534 -7 490.5 -8.5 c 128,-1,40
  447 -10 447 -10 392 -10 c 1,33,-1
@@ -2074,7 +2077,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 323 0 basechar 0
 AnchorPoint: "Anchor-0" 323 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 59 0 m 1,0,-1
@@ -2115,7 +2118,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 323 0 basechar 0
 AnchorPoint: "Anchor-0" 323 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 76 -1 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 174 210 2
@@ -2131,7 +2134,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 323 0 basechar 0
 AnchorPoint: "Anchor-0" 323 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 76 -1 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 69 210 2
@@ -2147,7 +2150,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 323 -331 basechar 0
 AnchorPoint: "Anchor-0" 323 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 76 -1 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 188 0 2
@@ -2164,7 +2167,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 326 0 basechar 0
 AnchorPoint: "Anchor-0" 320 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 331 -9 m 0,0,1
@@ -2173,32 +2176,26 @@ SplineSet
  154 230 l 1,4,5
  162 163 162 163 209.5 126.5 c 128,-1,6
  257 90 257 90 336 90 c 0,7,8
- 400 90 400 90 434 114.5 c 128,-1,9
- 468 139 468 139 468 182 c 0,10,11
- 468 221 468 221 446.5 245.5 c 128,-1,12
- 425 270 425 270 374 286 c 2,13,-1
- 249 327 l 2,14,15
- 153 358 153 358 108.5 407 c 128,-1,16
- 64 456 64 456 64 529 c 0,17,18
- 64 591 64 591 95 636.5 c 128,-1,19
- 126 682 126 682 183 706.5 c 128,-1,20
- 240 731 240 731 316 731 c 0,21,22
- 433 731 433 731 503 672.5 c 128,-1,23
- 573 614 573 614 582 514 c 1,24,-1
- 458 514 l 1,25,26
- 448 575 448 575 410.5 603 c 128,-1,27
- 373 631 373 631 310 631 c 0,28,29
- 253 631 253 631 220.5 608.5 c 128,-1,30
- 188 586 188 586 188 546 c 0,31,32
- 188 514 188 514 208.5 490 c 128,-1,33
- 229 466 229 466 283 449 c 2,34,-1
- 411 407 l 2,35,36
- 506 377 506 377 549.5 326.5 c 128,-1,37
- 593 276 593 276 593 201 c 0,38,39
- 593 100 593 100 524 45.5 c 128,-1,40
- 455 -9 455 -9 331 -9 c 0,0,1
+ 468 90 468 90 468 182 c 0,9,10
+ 468 221 468 221 446.5 245.5 c 128,-1,11
+ 425 270 425 270 374 286 c 2,12,-1
+ 249 327 l 2,13,14
+ 153 358 153 358 108.5 407 c 128,-1,15
+ 64 456 64 456 64 529 c 0,16,17
+ 64 731 64 731 316 731 c 0,18,19
+ 433 731 433 731 503 672.5 c 128,-1,20
+ 573 614 573 614 582 514 c 1,21,-1
+ 458 514 l 1,22,23
+ 448 575 448 575 410.5 603 c 128,-1,24
+ 373 631 373 631 310 631 c 0,25,26
+ 188 631 188 631 188 546 c 4,27,28
+ 188 514 188 514 208.5 490 c 128,-1,29
+ 229 466 229 466 283 449 c 2,30,-1
+ 411 407 l 2,31,32
+ 506 377 506 377 549.5 326.5 c 128,-1,33
+ 593 276 593 276 593 201 c 0,34,35
+ 593 -9 593 -9 331 -9 c 0,0,1
 EndSplineSet
-Validated: 1
 Kerns2: 430 0 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 425 -49 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 329 18 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 327 17 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 322 8 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 244 -1 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 206 4 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 196 7 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -2209,11 +2206,10 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 326 0 basechar 0
 AnchorPoint: "Anchor-0" 320 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 80 83 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 171 210 2
-Validated: 1
 EndChar
 
 StartChar: Scaron
@@ -2223,11 +2219,10 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 326 0 basechar 0
 AnchorPoint: "Anchor-0" 320 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 80 83 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 66 210 2
-Validated: 5
 Kerns2: 196 7 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -2238,11 +2233,10 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 316 -215 basechar 0
 AnchorPoint: "Anchor-0" 320 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 80 83 N 1 0 0 1 0 0 3
 Refer: 480 807 N 1 0 0 1 130 0 2
-Validated: 5
 Substitution2: "'locl' Localized Forms in Latin lookup 12 subtable" uni0218
 Substitution2: "'locl' Localized Forms in Latin lookup 11 subtable" uni0218
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni0218
@@ -2255,11 +2249,10 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 326 -331 basechar 0
 AnchorPoint: "Anchor-0" 320 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 80 83 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 191 0 2
-Validated: 5
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" uni0218.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni0218.ss01
 EndChar
@@ -2268,7 +2261,7 @@ StartChar: uni1E9E
 Encoding: 7838 7838 85
 Width: 698
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 404 -9 m 0,0,1
@@ -2314,7 +2307,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 322 0 basechar 0
 AnchorPoint: "Anchor-0" 322 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 258 0 m 1,0,-1
@@ -2338,7 +2331,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 322 0 basechar 0
 AnchorPoint: "Anchor-0" 322 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 86 84 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 68 210 2
@@ -2353,7 +2346,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 322 -331 basechar 0
 AnchorPoint: "Anchor-0" 322 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 86 84 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 187 0 2
@@ -2372,7 +2365,7 @@ AnchorPoint: "Anchor-3" 489 20 basechar 0
 AnchorPoint: "Anchor-2" 343 0 basechar 0
 AnchorPoint: "Anchor-1" 670 720 basechar 0
 AnchorPoint: "Anchor-0" 343 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 342 -10 m 0,0,1
@@ -2404,7 +2397,7 @@ AnchorPoint: "Anchor-3" 489 20 basechar 0
 AnchorPoint: "Anchor-2" 343 0 basechar 0
 AnchorPoint: "Anchor-1" 670 720 basechar 0
 AnchorPoint: "Anchor-0" 343 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 89 85 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 194 210 2
@@ -2420,7 +2413,7 @@ AnchorPoint: "Anchor-3" 489 20 basechar 0
 AnchorPoint: "Anchor-2" 343 0 basechar 0
 AnchorPoint: "Anchor-1" 670 720 basechar 0
 AnchorPoint: "Anchor-0" 343 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 89 85 N 1 0 0 1 0 0 3
 Refer: 474 774 N 1 0 0 1 114 210 2
@@ -2436,7 +2429,7 @@ AnchorPoint: "Anchor-3" 489 20 basechar 0
 AnchorPoint: "Anchor-2" 343 0 basechar 0
 AnchorPoint: "Anchor-1" 670 720 basechar 0
 AnchorPoint: "Anchor-0" 343 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 89 85 N 1 0 0 1 0 0 3
 Refer: 472 770 N 1 0 0 1 89 210 2
@@ -2452,7 +2445,7 @@ AnchorPoint: "Anchor-3" 489 20 basechar 0
 AnchorPoint: "Anchor-2" 343 0 basechar 0
 AnchorPoint: "Anchor-1" 670 720 basechar 0
 AnchorPoint: "Anchor-0" 343 942 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 89 85 N 1 0 0 1 0 0 3
 Refer: 466 776 N 1 0 0 1 101 210 2
@@ -2470,7 +2463,7 @@ AnchorPoint: "Anchor-3" 489 20 basechar 0
 AnchorPoint: "Anchor-2" 343 0 basechar 0
 AnchorPoint: "Anchor-1" 670 720 basechar 0
 AnchorPoint: "Anchor-0" 343 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 89 85 N 1 0 0 1 0 0 3
 Refer: 468 768 N 1 0 0 1 101 210 2
@@ -2486,7 +2479,7 @@ AnchorPoint: "Anchor-3" 489 20 basechar 0
 AnchorPoint: "Anchor-2" 343 0 basechar 0
 AnchorPoint: "Anchor-1" 670 720 basechar 0
 AnchorPoint: "Anchor-0" 343 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 89 85 N 1 0 0 1 0 0 3
 Refer: 470 779 N 1 0 0 1 114 210 2
@@ -2502,7 +2495,7 @@ AnchorPoint: "Anchor-3" 489 20 basechar 0
 AnchorPoint: "Anchor-2" 343 0 basechar 0
 AnchorPoint: "Anchor-1" 670 720 basechar 0
 AnchorPoint: "Anchor-0" 343 926 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 89 85 N 1 0 0 1 0 0 3
 Refer: 477 772 N 1 0 0 1 106 210 2
@@ -2518,7 +2511,7 @@ AnchorPoint: "Anchor-3" 489 20 basechar 0
 AnchorPoint: "Anchor-2" 343 0 basechar 0
 AnchorPoint: "Anchor-1" 670 720 basechar 0
 AnchorPoint: "Anchor-0" 343 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 89 85 N 1 0 0 1 0 0 3
 Refer: 481 808 N 1 0 0 1 255 20 2
@@ -2534,7 +2527,7 @@ AnchorPoint: "Anchor-3" 489 20 basechar 0
 AnchorPoint: "Anchor-2" 343 0 basechar 0
 AnchorPoint: "Anchor-1" 670 720 basechar 0
 AnchorPoint: "Anchor-0" 343 986 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 89 85 N 1 0 0 1 0 0 3
 Refer: 475 778 N 1 0 0 1 175 210 2
@@ -2545,7 +2538,7 @@ StartChar: V
 Encoding: 86 86 99
 Width: 712
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 282 0 m 1,0,-1
@@ -2569,19 +2562,19 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 526 0 basechar 0
 AnchorPoint: "Anchor-0" 526 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 235 0 m 1,0,-1
  38 720 l 1,1,-1
- 169 720 l 1,2,-1
- 335 58 l 1,3,-1
+ 179 720 l 1,2,-1
+ 345 58 l 1,3,-1
  299 58 l 1,4,-1
  455 720 l 1,5,-1
  603 720 l 1,6,-1
  757 58 l 1,7,-1
- 722 58 l 1,8,-1
- 889 720 l 1,9,-1
+ 712 58 l 5,8,-1
+ 879 720 l 5,9,-1
  1013 720 l 1,10,-1
  816 0 l 1,11,-1
  669 0 l 1,12,-1
@@ -2590,7 +2583,6 @@ SplineSet
  383 0 l 1,15,-1
  235 0 l 1,0,-1
 EndSplineSet
-Validated: 5
 Kerns2: 420 -63 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 329 -22 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 324 -33 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 323 -70 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 322 -28 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 244 -42 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 233 -26 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 227 -38 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 224 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 208 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 207 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 206 -24 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 194 8 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 155 -43 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 139 -41 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -2601,11 +2593,10 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 526 0 basechar 0
 AnchorPoint: "Anchor-0" 526 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 100 87 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 377 210 2
-Validated: 5
 Kerns2: 227 -38 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 224 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 208 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 207 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -2616,11 +2607,10 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 526 0 basechar 0
 AnchorPoint: "Anchor-0" 526 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 100 87 N 1 0 0 1 0 0 3
 Refer: 472 770 N 1 0 0 1 271 210 2
-Validated: 5
 Kerns2: 227 -38 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 224 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 208 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 207 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -2631,11 +2621,10 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 526 0 basechar 0
 AnchorPoint: "Anchor-0" 526 942 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 100 87 N 1 0 0 1 0 0 3
 Refer: 466 776 N 1 0 0 1 284 210 2
-Validated: 5
 Kerns2: 227 -38 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 224 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 208 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 207 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -2646,11 +2635,10 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 526 0 basechar 0
 AnchorPoint: "Anchor-0" 526 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 100 87 N 1 0 0 1 0 0 3
 Refer: 468 768 N 1 0 0 1 284 210 2
-Validated: 5
 Kerns2: 227 -38 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 224 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 208 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 207 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -2658,7 +2646,7 @@ StartChar: X
 Encoding: 88 88 105
 Width: 686
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 511 0 m 1,0,-1
@@ -2690,7 +2678,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 341 0 basechar 0
 AnchorPoint: "Anchor-0" 341 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 277 0 m 1,0,-1
@@ -2716,7 +2704,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 341 0 basechar 0
 AnchorPoint: "Anchor-0" 341 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 106 89 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 192 210 2
@@ -2731,7 +2719,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 341 0 basechar 0
 AnchorPoint: "Anchor-0" 341 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 106 89 N 1 0 0 1 0 0 3
 Refer: 472 770 N 1 0 0 1 87 210 2
@@ -2746,7 +2734,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 341 0 basechar 0
 AnchorPoint: "Anchor-0" 341 942 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 106 89 N 1 0 0 1 0 0 3
 Refer: 466 776 N 1 0 0 1 99 210 2
@@ -2763,7 +2751,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 341 0 basechar 0
 AnchorPoint: "Anchor-0" 341 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 106 89 N 1 0 0 1 0 0 3
 Refer: 468 768 N 1 0 0 1 99 210 2
@@ -2778,7 +2766,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 309 0 basechar 0
 AnchorPoint: "Anchor-0" 309 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 47 0 m 1,0,-1
@@ -2806,7 +2794,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 309 0 basechar 0
 AnchorPoint: "Anchor-0" 309 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 111 90 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 160 210 2
@@ -2820,7 +2808,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 309 0 basechar 0
 AnchorPoint: "Anchor-0" 309 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 111 90 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 54 210 2
@@ -2834,7 +2822,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 309 0 basechar 0
 AnchorPoint: "Anchor-0" 309 942 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 111 90 N 1 0 0 1 0 0 3
 Refer: 467 775 N 1 0 0 1 180 210 2
@@ -2851,7 +2839,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 685 0 basechar 0
 AnchorPoint: "Anchor-2" 356 0 basechar 0
 AnchorPoint: "Anchor-0" 356 952 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 3
 Refer: 482 -1 N 1 0 0 1 107 210 2
@@ -2865,7 +2853,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 375 0 basechar 0
 AnchorPoint: "Anchor-0" 375 953 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 14 67 N 1 0 0 1 0 0 3
 Refer: 483 -1 N 1 0 0 1 234 210 2
@@ -2879,7 +2867,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 526 0 basechar 0
 AnchorPoint: "Anchor-2" 307 0 basechar 0
 AnchorPoint: "Anchor-0" 317 952 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 23 69 N 1 0 0 1 0 0 3
 Refer: 482 -1 N 1 0 0 1 69 210 2
@@ -2894,7 +2882,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 526 0 basechar 0
 AnchorPoint: "Anchor-2" 307 0 basechar 0
 AnchorPoint: "Anchor-0" 317 953 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 23 69 N 1 0 0 1 0 0 3
 Refer: 483 -1 N 1 0 0 1 176 210 2
@@ -2908,7 +2896,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 395 -331 basechar 0
 AnchorPoint: "Anchor-0" 381 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 33 71 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 259 0 2
@@ -2923,7 +2911,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 381 0 basechar 0
 AnchorPoint: "Anchor-0" 381 953 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 33 71 N 1 0 0 1 0 0 3
 Refer: 483 -1 N 1 0 0 1 240 210 2
@@ -2939,7 +2927,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 172 0 basechar 0
 AnchorPoint: "Anchor-2" 126 0 basechar 0
 AnchorPoint: "Anchor-0" 126 952 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 39 73 N 1 0 0 1 0 0 3
 Refer: 482 -1 N 1 0 0 1 -122 210 2
@@ -2955,7 +2943,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 172 0 basechar 0
 AnchorPoint: "Anchor-2" 126 0 basechar 0
 AnchorPoint: "Anchor-0" 126 953 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 39 73 N 1 0 0 1 0 0 3
 Refer: 483 -1 N 1 0 0 1 -15 210 2
@@ -2969,7 +2957,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 352 -331 basechar 0
 AnchorPoint: "Anchor-0" 348 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 49 75 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 217 0 2
@@ -2986,7 +2974,7 @@ Flags: W
 AnchorPoint: "Anchor-2" 310 -331 basechar 0
 AnchorPoint: "Anchor-1" 361 720 basechar 0
 AnchorPoint: "Anchor-0" 126 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 51 76 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 175 0 2
@@ -3000,7 +2988,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 354 -331 basechar 0
 AnchorPoint: "Anchor-0" 354 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 57 78 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 218 0 2
@@ -3016,7 +3004,7 @@ AnchorPoint: "Anchor-3" 532 20 basechar 0
 AnchorPoint: "Anchor-2" 386 0 basechar 0
 AnchorPoint: "Anchor-1" 752 720 basechar 0
 AnchorPoint: "Anchor-0" 386 952 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 63 79 N 1 0 0 1 0 0 3
 Refer: 482 -1 N 1 0 0 1 137 210 2
@@ -3030,7 +3018,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 323 -331 basechar 0
 AnchorPoint: "Anchor-0" 323 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 76 -1 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 188 0 2
@@ -3046,11 +3034,10 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 326 -331 basechar 0
 AnchorPoint: "Anchor-0" 320 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 80 83 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 191 0 2
-Validated: 5
 EndChar
 
 StartChar: uni021A.ss01
@@ -3060,7 +3047,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 322 -331 basechar 0
 AnchorPoint: "Anchor-0" 322 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 86 84 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 187 0 2
@@ -3077,7 +3064,7 @@ AnchorPoint: "Anchor-3" 489 20 basechar 0
 AnchorPoint: "Anchor-2" 343 0 basechar 0
 AnchorPoint: "Anchor-1" 670 720 basechar 0
 AnchorPoint: "Anchor-0" 343 952 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 89 85 N 1 0 0 1 0 0 3
 Refer: 482 -1 N 1 0 0 1 95 210 2
@@ -3091,7 +3078,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 341 0 basechar 0
 AnchorPoint: "Anchor-0" 341 952 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 106 89 N 1 0 0 1 0 0 3
 Refer: 482 -1 N 1 0 0 1 93 210 2
@@ -3106,7 +3093,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 309 0 basechar 0
 AnchorPoint: "Anchor-0" 309 953 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 111 90 N 1 0 0 1 0 0 3
 Refer: 483 -1 N 1 0 0 1 167 210 2
@@ -3120,7 +3107,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 352 0 basechar 0
 AnchorPoint: "Anchor-0" 348 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 62 0 m 1,0,-1
@@ -3152,7 +3139,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 352 -331 basechar 0
 AnchorPoint: "Anchor-0" 348 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 133 -1 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 217 0 2
@@ -3167,7 +3154,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 327 0 basechar 0
 AnchorPoint: "Anchor-0" 321 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 62 0 m 1,0,-1
@@ -3176,24 +3163,23 @@ SplineSet
  436 720 436 720 490 696 c 128,-1,4
  544 672 544 672 573 627.5 c 128,-1,5
  602 583 602 583 602 522 c 0,6,7
- 602 447 602 447 555.5 401.5 c 128,-1,8
- 509 356 509 356 414 335 c 1,9,-1
- 417 363 l 1,10,11
- 469 367 469 367 516.770507812 331.194335938 c 0,12,13
- 572 291 572 291 588.578125 183.432617188 c 0,14,15
- 611 41 611 41 632.87890625 0 c 1,16,-1
- 486.87890625 0 l 1,17,18
- 480 29 480 29 472.669921875 94 c 0,19,20
- 452 304 452 304 336 304 c 2,21,-1
- 124 304 l 1,22,-1
- 124 402 l 1,23,-1
- 346 402 l 2,24,25
- 407 402 407 402 440 431 c 128,-1,26
- 473 460 473 460 473 511 c 0,27,28
- 473 563 473 563 440.5 590.5 c 128,-1,29
- 408 618 408 618 346 618 c 2,30,-1
- 191 618 l 1,31,-1
- 191 0 l 1,32,-1
+ 602 374 602 374 414 351 c 1,8,-1
+ 417 363 l 1,9,10
+ 469 367 469 367 516.770507812 331.194335938 c 0,11,12
+ 572 291 572 291 588.578125 183.432617188 c 0,13,14
+ 606 65 606 65 640.87890625 0 c 1,15,-1
+ 512.87890625 0 l 5,16,17
+ 494 65 494 65 473 184.5 c 128,-1,18
+ 452 304 452 304 336 304 c 2,19,-1
+ 124 304 l 1,20,-1
+ 124 402 l 1,21,-1
+ 346 402 l 2,22,23
+ 407 402 407 402 440 431 c 128,-1,24
+ 473 460 473 460 473 511 c 0,25,26
+ 473 563 473 563 440.5 590.5 c 128,-1,27
+ 408 618 408 618 346 618 c 2,28,-1
+ 191 618 l 1,29,-1
+ 191 0 l 1,30,-1
  62 0 l 1,0,-1
 EndSplineSet
 Kerns2: 430 1 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 420 -3 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 329 12 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 328 13 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 327 8 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 322 6 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 221 8 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 196 4 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 70 3 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
@@ -3206,7 +3192,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 327 0 basechar 0
 AnchorPoint: "Anchor-0" 321 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 135 82 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 172 210 2
@@ -3219,7 +3205,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 327 0 basechar 0
 AnchorPoint: "Anchor-0" 321 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 135 82 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 67 210 2
@@ -3232,7 +3218,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 327 -331 basechar 0
 AnchorPoint: "Anchor-0" 321 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 135 82 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 192 0 2
@@ -3242,7 +3228,7 @@ StartChar: M.ss06
 Encoding: 65561 -1 139
 Width: 860
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 42 0 m 1,0,-1
@@ -3273,7 +3259,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 381 0 basechar 0
 AnchorPoint: "Anchor-0" 381 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 388 -10 m 0,0,1
@@ -3320,7 +3306,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 381 0 basechar 0
 AnchorPoint: "Anchor-0" 381 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 140 -1 N 1 0 0 1 0 0 3
 Refer: 474 774 N 1 0 0 1 152 210 2
@@ -3334,7 +3320,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 381 -331 basechar 0
 AnchorPoint: "Anchor-0" 381 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 140 -1 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 246 0 2
@@ -3348,7 +3334,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 381 0 basechar 0
 AnchorPoint: "Anchor-0" 381 942 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 140 -1 N 1 0 0 1 0 0 3
 Refer: 467 775 N 1 0 0 1 253 210 2
@@ -3359,7 +3345,7 @@ StartChar: J.ss08
 Encoding: 65566 -1 144
 Width: 619
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 301 -10 m 0,0,1
@@ -3386,7 +3372,7 @@ StartChar: Q.ss09
 Encoding: 65567 -1 145
 Width: 772
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 386 -10 m 0,0,1
@@ -3434,7 +3420,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 352 -331 basechar 0
 AnchorPoint: "Anchor-0" 348 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 133 -1 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 217 0 2
@@ -3448,7 +3434,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 327 -331 basechar 0
 AnchorPoint: "Anchor-0" 321 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 135 82 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 192 0 2
@@ -3461,7 +3447,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 381 -331 basechar 0
 AnchorPoint: "Anchor-0" 381 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 140 -1 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 246 0 2
@@ -3475,7 +3461,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 381 0 basechar 0
 AnchorPoint: "Anchor-0" 381 953 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 140 -1 N 1 0 0 1 0 0 3
 Refer: 483 -1 N 1 0 0 1 240 210 2
@@ -3490,7 +3476,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 500 0 basechar 0
 AnchorPoint: "Anchor-2" 278 0 basechar 0
 AnchorPoint: "Anchor-0" 286 510 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 375 0 m 1,0,1
@@ -3514,13 +3500,13 @@ SplineSet
 203 -10 m 0,24,25
  128 -10 128 -10 84 28 c 128,-1,26
  40 66 40 66 40 131 c 0,27,28
- 40 199 40 199 88.5 240 c 0,29,30
- 142.50130719 285.579084967 142.50130719 285.579084967 251 297 c 2,31,-1
- 384 311 l 1,32,-1
- 384 230 l 1,33,-1
- 274 221 l 6,34,35
- 211 216 211 216 186 195 c 0,36,37
- 164 177 164 177 164 145 c 0,38,39
+ 40 213 40 213 88.5 254 c 4,29,30
+ 142.50130719 299.579084967 142.50130719 299.579084967 251 311 c 6,31,-1
+ 384 325 l 5,32,-1
+ 384 244 l 5,33,-1
+ 274 235 l 6,34,35
+ 211 230 211 230 186 209 c 4,36,37
+ 164 191 164 191 164 145 c 0,38,39
  164 116 164 116 184.5 100.5 c 128,-1,40
  205 85 205 85 241 85 c 0,41,42
  292 85 292 85 326.5 111.5 c 128,-1,43
@@ -3529,7 +3515,6 @@ SplineSet
  355 46 355 46 310.5 18 c 128,-1,47
  266 -10 266 -10 203 -10 c 0,24,25
 EndSplineSet
-Validated: 5
 Kerns2: 444 -81 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 443 -45 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 440 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 425 -105 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 417 -71 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 415 -71 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 411 -88 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 410 -88 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 391 -49 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 389 -69 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 358 -83 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 329 -12 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 326 -83 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 322 -21 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 273 -13 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 250 -28 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 206 -7 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 196 -13 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 187 -13 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 169 -12 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 86 -120 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss02' Style Set 2 in Latin lookup 23 subtable" a.ss02
 Substitution2: "Single Substitution lookup 17 subtable" ordfeminine
@@ -3544,11 +3529,10 @@ Flags: W
 AnchorPoint: "Anchor-3" 500 0 basechar 0
 AnchorPoint: "Anchor-2" 278 0 basechar 0
 AnchorPoint: "Anchor-0" 278 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 150 97 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 129 0 2
-Validated: 5
 Kerns2: 169 -12 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss02' Style Set 2 in Latin lookup 23 subtable" aacute.ss02
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" aacute.ss02
@@ -3562,11 +3546,10 @@ Flags: W
 AnchorPoint: "Anchor-3" 500 0 basechar 0
 AnchorPoint: "Anchor-2" 278 0 basechar 0
 AnchorPoint: "Anchor-0" 278 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 150 97 N 1 0 0 1 0 0 3
 Refer: 474 774 N 1 0 0 1 49 0 2
-Validated: 5
 Substitution2: "'ss02' Style Set 2 in Latin lookup 23 subtable" abreve.ss02
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" abreve.ss02
 EndChar
@@ -3579,11 +3562,10 @@ Flags: W
 AnchorPoint: "Anchor-3" 500 0 basechar 0
 AnchorPoint: "Anchor-2" 278 0 basechar 0
 AnchorPoint: "Anchor-0" 278 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 150 97 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 24 0 2
-Validated: 5
 Substitution2: "'ss02' Style Set 2 in Latin lookup 23 subtable" uni01CE.ss02
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni01CE.ss02
 EndChar
@@ -3596,11 +3578,10 @@ Flags: W
 AnchorPoint: "Anchor-3" 500 0 basechar 0
 AnchorPoint: "Anchor-2" 278 0 basechar 0
 AnchorPoint: "Anchor-0" 278 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 150 97 N 1 0 0 1 0 0 3
 Refer: 472 770 N 1 0 0 1 24 0 2
-Validated: 5
 Substitution2: "'ss02' Style Set 2 in Latin lookup 23 subtable" acircumflex.ss02
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" acircumflex.ss02
 EndChar
@@ -3613,11 +3594,10 @@ Flags: W
 AnchorPoint: "Anchor-3" 500 0 basechar 0
 AnchorPoint: "Anchor-2" 278 0 basechar 0
 AnchorPoint: "Anchor-0" 278 732 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 150 97 N 1 0 0 1 0 0 3
 Refer: 466 776 N 1 0 0 1 36 0 2
-Validated: 5
 Substitution2: "'ss02' Style Set 2 in Latin lookup 23 subtable" adieresis.ss02
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" adieresis.ss01
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" adieresis.ss01 adieresis.ss02
@@ -3631,11 +3611,10 @@ Flags: W
 AnchorPoint: "Anchor-3" 500 0 basechar 0
 AnchorPoint: "Anchor-2" 278 0 basechar 0
 AnchorPoint: "Anchor-0" 278 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 150 97 N 1 0 0 1 0 0 3
 Refer: 468 768 N 1 0 0 1 36 0 2
-Validated: 5
 Kerns2: 411 -87 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 410 -87 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss02' Style Set 2 in Latin lookup 23 subtable" agrave.ss02
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" agrave.ss02
@@ -3649,11 +3628,10 @@ Flags: W
 AnchorPoint: "Anchor-3" 500 0 basechar 0
 AnchorPoint: "Anchor-2" 278 0 basechar 0
 AnchorPoint: "Anchor-0" 278 716 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 150 97 N 1 0 0 1 0 0 3
 Refer: 477 772 N 1 0 0 1 41 0 2
-Validated: 5
 Substitution2: "'ss02' Style Set 2 in Latin lookup 23 subtable" amacron.ss02
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" amacron.ss02
 EndChar
@@ -3666,11 +3644,10 @@ Flags: W
 AnchorPoint: "Anchor-3" 500 0 basechar 0
 AnchorPoint: "Anchor-2" 278 0 basechar 0
 AnchorPoint: "Anchor-0" 278 510 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 150 97 N 1 0 0 1 0 0 3
 Refer: 481 808 N 1 0 0 1 266 0 2
-Validated: 5
 Kerns2: 206 -7 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss02' Style Set 2 in Latin lookup 23 subtable" aogonek.ss02
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" aogonek.ss02
@@ -3684,11 +3661,10 @@ Flags: W
 AnchorPoint: "Anchor-3" 500 0 basechar 0
 AnchorPoint: "Anchor-2" 278 0 basechar 0
 AnchorPoint: "Anchor-0" 278 776 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 150 97 N 1 0 0 1 0 0 3
 Refer: 475 778 N 1 0 0 1 110 0 2
-Validated: 5
 Substitution2: "'ss02' Style Set 2 in Latin lookup 23 subtable" aring.ss02
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" aring.ss02
 EndChar
@@ -3701,11 +3677,10 @@ Flags: W
 AnchorPoint: "Anchor-3" 500 0 basechar 0
 AnchorPoint: "Anchor-2" 278 0 basechar 0
 AnchorPoint: "Anchor-0" 278 735 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 150 97 N 1 0 0 1 0 0 3
 Refer: 476 771 N 1 0 0 1 17 0 2
-Validated: 5
 Substitution2: "'ss02' Style Set 2 in Latin lookup 23 subtable" atilde.ss02
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" atilde.ss02
 EndChar
@@ -3714,7 +3689,7 @@ StartChar: ae
 Encoding: 230 230 161
 Width: 860
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 358 139 m 1,0,-1
@@ -3784,7 +3759,7 @@ StartChar: b
 Encoding: 98 98 162
 Width: 608
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 351 -10 m 0,0,1
@@ -3827,7 +3802,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 276 0 basechar 0
 AnchorPoint: "Anchor-0" 285 510 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 282 -10 m 0,0,1
@@ -3840,17 +3815,17 @@ SplineSet
  344 520 344 520 394 496.5 c 128,-1,10
  444 473 444 473 475.5 430.5 c 128,-1,11
  507 388 507 388 516 330 c 1,12,-1
- 393 330 l 1,13,14
- 383 373 383 373 355 396 c 128,-1,15
+ 390 330 l 5,13,14
+ 380 373 380 373 353.5 396 c 128,-1,15
  327 419 327 419 284 419 c 0,16,17
  245 419 245 419 216.5 399.5 c 128,-1,18
  188 380 188 380 174 343.5 c 128,-1,19
- 160 307 160 307 160 256 c 260,20,21
+ 160 307 160 307 160 256 c 256,20,21
  160 205 160 205 174 168 c 128,-1,22
  188 131 188 131 216.5 111 c 128,-1,23
  245 91 245 91 284 91 c 0,24,25
- 326 91 326 91 355 114 c 128,-1,26
- 384 137 384 137 393 180 c 1,27,-1
+ 326 91 326 91 353.5 114 c 128,-1,26
+ 381 137 381 137 390 180 c 5,27,-1
  516 180 l 1,28,29
  507 122 507 122 475 79.5 c 128,-1,30
  443 37 443 37 393 13.5 c 128,-1,31
@@ -3866,7 +3841,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 276 0 basechar 0
 AnchorPoint: "Anchor-0" 285 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 163 99 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 136 0 2
@@ -3879,7 +3854,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 276 0 basechar 0
 AnchorPoint: "Anchor-0" 285 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 163 99 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 30 0 2
@@ -3893,7 +3868,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 266 -215 basechar 0
 AnchorPoint: "Anchor-0" 285 510 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 163 99 N 1 0 0 1 0 0 3
 Refer: 480 807 N 1 0 0 1 80 0 2
@@ -3906,7 +3881,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 276 0 basechar 0
 AnchorPoint: "Anchor-0" 285 732 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 163 99 N 1 0 0 1 0 0 3
 Refer: 467 775 N 1 0 0 1 157 0 2
@@ -3922,7 +3897,7 @@ Flags: W
 AnchorPoint: "Anchor-2" 304 0 basechar 0
 AnchorPoint: "Anchor-1" 598 720 basechar 0
 AnchorPoint: "Anchor-0" 304 738 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 426 0 m 1,0,-1
@@ -3961,7 +3936,7 @@ StartChar: eth
 Encoding: 240 240 169
 Width: 596
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 291 -10 m 0,0,1
@@ -4016,7 +3991,7 @@ Flags: W
 AnchorPoint: "Anchor-2" 304 0 basechar 0
 AnchorPoint: "Anchor-1" 598 720 basechar 0
 AnchorPoint: "Anchor-0" 304 738 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 168 100 N 1 0 0 1 0 0 2
 Refer: 471 -1 N 1 0 0 1 538 0 2
@@ -4031,7 +4006,7 @@ Flags: W
 AnchorPoint: "Anchor-2" 304 0 basechar 0
 AnchorPoint: "Anchor-1" 598 720 basechar 0
 AnchorPoint: "Anchor-0" 304 738 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 245 584 m 1,0,-1
@@ -4078,7 +4053,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 417 20 basechar 0
 AnchorPoint: "Anchor-2" 279 0 basechar 0
 AnchorPoint: "Anchor-0" 290 510 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 290 -10 m 0,0,1
@@ -4096,20 +4071,19 @@ SplineSet
  105 218 l 1,16,-1
  105 305 l 1,17,-1
  434 305 l 1,18,-1
- 408 280 l 1,19,20
- 408 353 408 353 376 389.5 c 128,-1,21
+ 398 280 l 5,19,20
+ 398 353 398 353 371 389.5 c 128,-1,21
  344 426 344 426 287 426 c 0,22,23
  224 426 224 426 188 382 c 128,-1,24
  152 338 152 338 152 254 c 0,25,26
  152 171 152 171 188 127.5 c 128,-1,27
  224 84 224 84 291 84 c 0,28,29
- 330 84 330 84 359 99.5 c 128,-1,30
- 388 115 388 115 401 148 c 1,31,-1
+ 330 84 330 84 354 99.5 c 128,-1,30
+ 378 115 378 115 391 148 c 5,31,-1
  519 148 l 1,32,33
  495 75 495 75 436.5 32.5 c 128,-1,34
  378 -10 378 -10 290 -10 c 0,0,1
 EndSplineSet
-Validated: 5
 Kerns2: 444 -77 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 443 -22 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 440 -13 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 425 -89 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 391 -67 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 348 -31 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 329 -11 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 326 -82 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 257 -15 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 221 9 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 206 6 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -4121,11 +4095,10 @@ Flags: W
 AnchorPoint: "Anchor-3" 417 20 basechar 0
 AnchorPoint: "Anchor-2" 279 0 basechar 0
 AnchorPoint: "Anchor-0" 290 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 172 101 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 141 0 2
-Validated: 5
 Kerns2: 389 -72 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -4137,11 +4110,10 @@ Flags: W
 AnchorPoint: "Anchor-3" 417 20 basechar 0
 AnchorPoint: "Anchor-2" 279 0 basechar 0
 AnchorPoint: "Anchor-0" 290 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 172 101 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 35 0 2
-Validated: 5
 EndChar
 
 StartChar: ecircumflex
@@ -4152,11 +4124,10 @@ Flags: W
 AnchorPoint: "Anchor-3" 417 20 basechar 0
 AnchorPoint: "Anchor-2" 279 0 basechar 0
 AnchorPoint: "Anchor-0" 290 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 172 101 N 1 0 0 1 0 0 3
 Refer: 472 770 N 1 0 0 1 35 0 2
-Validated: 5
 Kerns2: 389 -84 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -4168,11 +4139,10 @@ Flags: W
 AnchorPoint: "Anchor-3" 417 20 basechar 0
 AnchorPoint: "Anchor-2" 279 0 basechar 0
 AnchorPoint: "Anchor-0" 290 732 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 172 101 N 1 0 0 1 0 0 3
 Refer: 466 776 N 1 0 0 1 48 0 2
-Validated: 5
 Kerns2: 410 -35 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" edieresis.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" edieresis.ss01
@@ -4186,11 +4156,10 @@ Flags: W
 AnchorPoint: "Anchor-3" 417 20 basechar 0
 AnchorPoint: "Anchor-2" 279 0 basechar 0
 AnchorPoint: "Anchor-0" 290 732 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 172 101 N 1 0 0 1 0 0 3
 Refer: 467 775 N 1 0 0 1 162 0 2
-Validated: 5
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" edotaccent.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" edotaccent.ss01
 EndChar
@@ -4203,11 +4172,10 @@ Flags: W
 AnchorPoint: "Anchor-3" 417 20 basechar 0
 AnchorPoint: "Anchor-2" 279 0 basechar 0
 AnchorPoint: "Anchor-0" 290 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 172 101 N 1 0 0 1 0 0 3
 Refer: 468 768 N 1 0 0 1 47 0 2
-Validated: 5
 EndChar
 
 StartChar: emacron
@@ -4218,11 +4186,10 @@ Flags: W
 AnchorPoint: "Anchor-3" 417 20 basechar 0
 AnchorPoint: "Anchor-2" 279 0 basechar 0
 AnchorPoint: "Anchor-0" 290 716 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 172 101 N 1 0 0 1 0 0 3
 Refer: 477 772 N 1 0 0 1 53 0 2
-Validated: 5
 EndChar
 
 StartChar: eogonek
@@ -4233,11 +4200,10 @@ Flags: W
 AnchorPoint: "Anchor-3" 417 20 basechar 0
 AnchorPoint: "Anchor-2" 279 0 basechar 0
 AnchorPoint: "Anchor-0" 290 510 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 172 101 N 1 0 0 1 0 0 3
 Refer: 481 808 N 1 0 0 1 183 20 2
-Validated: 5
 Kerns2: 206 6 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -4245,7 +4211,7 @@ StartChar: f
 Encoding: 102 102 181
 Width: 363
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 104 0 m 1,0,-1
@@ -4274,49 +4240,47 @@ Encoding: 103 103 182
 Width: 608
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-2" 304 -205 basechar 0
+AnchorPoint: "Anchor-2" 304 -159 basechar 0
 AnchorPoint: "Anchor-0" 289 510 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
-286 -215 m 0,0,1
- 183 -215 183 -215 121.5 -173 c 128,-1,2
- 60 -131 60 -131 49 -52 c 1,3,-1
- 168 -52 l 1,4,5
- 176 -80 176 -80 205.5 -95 c 4,6,7
- 231 -108 231 -108 283 -108 c 0,8,9
- 355 -108 355 -108 386 -79 c 128,-1,10
- 417 -50 417 -50 417 16 c 2,11,-1
- 417 129 l 1,12,-1
- 426 133 l 1,13,14
- 414 77 414 77 366 41 c 128,-1,15
- 318 5 318 5 250 5 c 0,16,17
- 183 5 183 5 134 37 c 128,-1,18
- 85 69 85 69 57.5 126 c 128,-1,19
- 30 183 30 183 30 261 c 256,20,21
- 30 339 30 339 58.5 397 c 128,-1,22
- 87 455 87 455 138 487.5 c 128,-1,23
- 189 520 189 520 258 520 c 0,24,25
- 328 520 328 520 373 484 c 128,-1,26
- 418 448 418 448 429 387 c 1,27,-1
- 421 391 l 1,28,-1
- 425 510 l 1,29,-1
- 547 510 l 1,30,-1
- 543 394 l 0,31,-1
- 543 19 l 2,32,33
- 543 -94 543 -94 476.5 -154.5 c 128,-1,34
- 410 -215 410 -215 286 -215 c 0,0,1
-291 105 m 0,35,36
- 349 105 349 105 384.5 146.5 c 128,-1,37
- 420 188 420 188 420 263 c 256,38,39
- 420 338 420 338 384.5 379 c 128,-1,40
- 349 420 349 420 289 420 c 0,41,42
- 231 420 231 420 195.5 378.5 c 128,-1,43
- 160 337 160 337 160 262 c 256,44,45
- 160 187 160 187 196 146 c 128,-1,46
- 232 105 232 105 291 105 c 0,35,36
+286 -169 m 0,0,1
+ 183 -169 183 -169 121.5 -127 c 128,-1,2
+ 60 -85 60 -85 49 -6 c 1,3,-1
+ 168 -6 l 1,4,5
+ 176 -34 176 -34 205.5 -49 c 0,6,7
+ 231 -62 231 -62 283 -62 c 0,8,9
+ 417 -62 417 -62 417 41 c 2,10,-1
+ 417 136 l 1,11,-1
+ 426 140 l 1,12,13
+ 414 84 414 84 366 48 c 128,-1,14
+ 318 12 318 12 250 12 c 0,15,16
+ 183 12 183 12 134 44 c 128,-1,17
+ 85 76 85 76 57.5 133 c 128,-1,18
+ 30 190 30 190 30 261 c 256,19,20
+ 30 339 30 339 58.5 397 c 128,-1,21
+ 87 455 87 455 138 487.5 c 128,-1,22
+ 189 520 189 520 258 520 c 0,23,24
+ 328 520 328 520 373 484 c 128,-1,25
+ 418 448 418 448 429 387 c 1,26,-1
+ 421 391 l 1,27,-1
+ 425 510 l 1,28,-1
+ 547 510 l 1,29,-1
+ 543 394 l 0,30,-1
+ 543 46 l 2,31,32
+ 543 -60 543 -60 476.5 -114.5 c 128,-1,33
+ 410 -169 410 -169 286 -169 c 0,0,1
+291 112 m 0,34,35
+ 349 112 349 112 379.5 155.5 c 128,-1,36
+ 410 199 410 199 410 267 c 260,37,38
+ 410 342 410 342 379.5 381 c 128,-1,39
+ 349 420 349 420 289 420 c 0,40,41
+ 231 420 231 420 200.5 378.5 c 128,-1,42
+ 170 337 170 337 170 262 c 256,43,44
+ 170 194 170 194 201 153 c 128,-1,45
+ 232 112 232 112 291 112 c 0,34,35
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: gbreve
@@ -4326,11 +4290,10 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 304 -205 basechar 0
 AnchorPoint: "Anchor-0" 289 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 182 103 N 1 0 0 1 0 0 3
 Refer: 474 774 N 1 0 0 1 60 0 2
-Validated: 5
 EndChar
 
 StartChar: uni0123
@@ -4340,11 +4303,10 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 304 -205 basechar 0
 AnchorPoint: "Anchor-0" 289 840 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 182 103 N 1 0 0 1 0 0 3
 Refer: 478 786 N 1 0 0 1 154 0 2
-Validated: 5
 Kerns2: 196 -17 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" uni0123.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni0123.ss01
@@ -4357,11 +4319,10 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 304 -205 basechar 0
 AnchorPoint: "Anchor-0" 289 732 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 182 103 N 1 0 0 1 0 0 3
 Refer: 467 775 N 1 0 0 1 161 0 2
-Validated: 5
 Kerns2: 198 -4 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" gdotaccent.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" gdotaccent.ss01
@@ -4374,7 +4335,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 293 0 basechar 0
 AnchorPoint: "Anchor-0" 293 510 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 65 0 m 1,0,-1
@@ -4408,7 +4369,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 293 0 basechar 0
 AnchorPoint: "Anchor-0" 293 510 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 0 584 m 1,0,-1
@@ -4448,7 +4409,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 191 0 basechar 0
 AnchorPoint: "Anchor-2" 140 0 basechar 0
 AnchorPoint: "Anchor-0" 128 732 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 189 305 N 1 0 0 1 0 0 3
 Refer: 467 775 N 1 0 0 1 0 0 2
@@ -4473,7 +4434,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 191 0 basechar 0
 AnchorPoint: "Anchor-2" 128 0 basechar 0
 AnchorPoint: "Anchor-0" 128 510 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 65 0 m 1,0,-1
@@ -4493,7 +4454,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 191 0 basechar 0
 AnchorPoint: "Anchor-2" 128 0 basechar 0
 AnchorPoint: "Anchor-0" 128 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 189 305 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 -21 0 2
@@ -4509,7 +4470,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 191 0 basechar 0
 AnchorPoint: "Anchor-2" 128 0 basechar 0
 AnchorPoint: "Anchor-0" 128 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 189 305 N 1 0 0 1 0 0 3
 Refer: 472 770 N 1 0 0 1 -126 0 2
@@ -4525,7 +4486,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 191 0 basechar 0
 AnchorPoint: "Anchor-2" 128 0 basechar 0
 AnchorPoint: "Anchor-0" 128 732 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 189 305 N 1 0 0 1 0 0 3
 Refer: 466 776 N 1 0 0 1 -114 0 2
@@ -4543,7 +4504,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 191 0 basechar 0
 AnchorPoint: "Anchor-2" 128 0 basechar 0
 AnchorPoint: "Anchor-0" 128 732 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 189 305 N 1 0 0 1 0 0 3
 Refer: 467 775 N 1 0 0 1 0 0 2
@@ -4561,7 +4522,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 191 0 basechar 0
 AnchorPoint: "Anchor-2" 128 0 basechar 0
 AnchorPoint: "Anchor-0" 128 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 189 305 N 1 0 0 1 0 0 3
 Refer: 468 768 N 1 0 0 1 -114 0 2
@@ -4575,13 +4536,12 @@ Width: 504
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-3" 191 0 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 189 305 N 1 0 0 1 0 0 2
 Refer: 467 775 N 1 0 0 1 0 0 2
 Refer: 199 567 N 1 0 0 1 248 0 2
 Refer: 467 775 N 1 0 0 1 248 0 2
-Validated: 1
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" ij.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" ij.ss01
 EndChar
@@ -4594,7 +4554,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 191 0 basechar 0
 AnchorPoint: "Anchor-2" 128 0 basechar 0
 AnchorPoint: "Anchor-0" 128 716 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 189 305 N 1 0 0 1 0 0 3
 Refer: 477 772 N 1 0 0 1 -109 0 2
@@ -4610,7 +4570,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 191 0 basechar 0
 AnchorPoint: "Anchor-2" 128 0 basechar 0
 AnchorPoint: "Anchor-0" 128 732 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 189 305 N 1 0 0 1 0 0 3
 Refer: 467 775 N 1 0 0 1 0 0 2
@@ -4628,11 +4588,10 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 128 -205 basechar 0
 AnchorPoint: "Anchor-0" 128 732 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 199 567 N 1 0 0 1 0 0 3
 Refer: 467 775 N 1 0 0 1 0 0 2
-Validated: 1
 Kerns2: 221 2 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 198 0 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" j.ss01
 Substitution2: "Single Substitution lookup 4 subtable" uni0237
@@ -4645,24 +4604,23 @@ Encoding: 567 567 199
 Width: 256
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-2" 128 -205 basechar 0
+AnchorPoint: "Anchor-2" 128 -165 basechar 0
 AnchorPoint: "Anchor-0" 128 510 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
-27 -207 m 4,0,1
- 27 -207 27 -207 -31 -207 c 1,2,-1
- -31 -110 l 1,3,4
- -12 -110 -12 -110 8 -110 c 0,5,6
- 37 -110 37 -110 51 -99.5 c 128,-1,7
- 65 -89 65 -89 65 -61 c 2,8,-1
+27 -167 m 4,0,1
+ 27 -167 27 -167 -31 -167 c 5,2,-1
+ -31 -70 l 5,3,4
+ -12 -70 -12 -70 8 -70 c 4,5,6
+ 37 -70 37 -70 51 -59.5 c 132,-1,7
+ 65 -49 65 -49 65 -21 c 6,8,-1
  65 510 l 1,9,-1
  191 510 l 1,10,-1
- 191 -64 l 2,11,12
- 191 -135 191 -135 151 -171 c 128,-1,13
- 111 -207 111 -207 27 -207 c 4,0,1
+ 191 -24 l 6,11,12
+ 191 -95 191 -95 151 -131 c 132,-1,13
+ 111 -167 111 -167 27 -167 c 4,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: k
@@ -4672,7 +4630,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 309 0 basechar 0
 AnchorPoint: "Anchor-0" 274 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 65 0 m 1,0,-1
@@ -4702,7 +4660,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 281 -331 basechar 0
 AnchorPoint: "Anchor-0" 274 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 200 107 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 146 0 2
@@ -4721,7 +4679,7 @@ Flags: W
 AnchorPoint: "Anchor-2" 128 0 basechar 0
 AnchorPoint: "Anchor-1" 247 720 basechar 0
 AnchorPoint: "Anchor-0" 128 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 65 0 m 1,0,-1
@@ -4741,7 +4699,7 @@ Flags: W
 AnchorPoint: "Anchor-2" 128 0 basechar 0
 AnchorPoint: "Anchor-1" 247 720 basechar 0
 AnchorPoint: "Anchor-0" 128 950 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 202 108 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 -21 210 2
@@ -4757,7 +4715,7 @@ Flags: W
 AnchorPoint: "Anchor-2" 128 0 basechar 0
 AnchorPoint: "Anchor-1" 247 720 basechar 0
 AnchorPoint: "Anchor-0" 128 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 202 108 N 1 0 0 1 0 0 2
 Refer: 471 -1 N 1 0 0 1 187 0 2
@@ -4772,7 +4730,7 @@ Flags: W
 AnchorPoint: "Anchor-2" 128 -331 basechar 0
 AnchorPoint: "Anchor-1" 247 720 basechar 0
 AnchorPoint: "Anchor-0" 128 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 202 108 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 -7 0 2
@@ -4789,7 +4747,7 @@ Flags: W
 AnchorPoint: "Anchor-2" 145 0 basechar 0
 AnchorPoint: "Anchor-1" 263 720 basechar 0
 AnchorPoint: "Anchor-0" 145 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 149 335 m 1,0,-1
@@ -4816,7 +4774,7 @@ StartChar: m
 Encoding: 109 109 207
 Width: 919
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 65 0 m 1,0,-1
@@ -4867,7 +4825,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 310 0 basechar 0
 AnchorPoint: "Anchor-0" 323 510 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 65 0 m 1,0,-1
@@ -4904,7 +4862,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 310 0 basechar 0
 AnchorPoint: "Anchor-0" 323 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 208 110 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 174 0 2
@@ -4918,7 +4876,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 310 0 basechar 0
 AnchorPoint: "Anchor-0" 323 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 208 110 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 69 0 2
@@ -4932,7 +4890,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 310 -331 basechar 0
 AnchorPoint: "Anchor-0" 323 510 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 208 110 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 175 0 2
@@ -4948,7 +4906,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 310 0 basechar 0
 AnchorPoint: "Anchor-0" 323 735 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 208 110 N 1 0 0 1 0 0 3
 Refer: 476 771 N 1 0 0 1 62 0 2
@@ -4960,7 +4918,7 @@ StartChar: eng
 Encoding: 331 331 213
 Width: 599
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 376 -215 m 0,0,1
@@ -5006,7 +4964,7 @@ AnchorPoint: "Anchor-3" 424 20 basechar 0
 AnchorPoint: "Anchor-2" 293 0 basechar 0
 AnchorPoint: "Anchor-1" 565 510 basechar 0
 AnchorPoint: "Anchor-0" 293 510 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 293 -10 m 0,0,1
@@ -5022,17 +4980,17 @@ SplineSet
  556 179 556 179 524 118.5 c 128,-1,14
  492 58 492 58 432 24 c 128,-1,15
  372 -10 372 -10 293 -10 c 0,0,1
-293 91 m 0,16,17
- 332 91 332 91 362.5 111 c 128,-1,18
- 393 131 393 131 408.5 168.5 c 128,-1,19
- 424 206 424 206 424 258 c 0,20,21
- 424 334 424 334 388 376.5 c 128,-1,22
- 352 419 352 419 293 419 c 256,23,24
- 234 419 234 419 197 376.5 c 128,-1,25
- 160 334 160 334 160 258 c 0,26,27
- 160 206 160 206 176 168.5 c 128,-1,28
- 192 131 192 131 222.5 111 c 128,-1,29
- 253 91 253 91 293 91 c 0,16,17
+295.799804688 91 m 4,16,17
+ 332 91 332 91 359.740234375 111 c 4
+ 388 131 388 131 402.059570312 168.5 c 132,-1,19
+ 416 206 416 206 416.3203125 258 c 4,20,21
+ 416 334 416 334 383.200195312 376.5 c 4
+ 350 419 350 419 295.799804688 419 c 260,23,24
+ 242 419 242 419 207.48046875 376.5 c 132,-1,25
+ 173 334 173 334 173.440429688 258 c 4,26,27
+ 173 206 173 206 188.16015625 168.5 c 4
+ 203 131 203 131 230.940429688 111 c 132,-1,29
+ 259 91 259 91 295.799804688 91 c 4,16,17
 EndSplineSet
 Kerns2: 444 -80 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 443 -22 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 440 -13 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 425 -91 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 417 -67 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 415 -67 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 411 -80 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 410 -80 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 393 -80 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 391 -67 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 389 -95 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 326 -79 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 257 -16 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 214 0 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 206 6 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 169 -2 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 86 -109 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "Single Substitution lookup 17 subtable" ordmasculine
@@ -5048,7 +5006,7 @@ AnchorPoint: "Anchor-3" 424 20 basechar 0
 AnchorPoint: "Anchor-2" 293 0 basechar 0
 AnchorPoint: "Anchor-1" 565 510 basechar 0
 AnchorPoint: "Anchor-0" 293 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 214 111 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 144 0 2
@@ -5064,7 +5022,7 @@ AnchorPoint: "Anchor-3" 424 20 basechar 0
 AnchorPoint: "Anchor-2" 293 0 basechar 0
 AnchorPoint: "Anchor-1" 565 510 basechar 0
 AnchorPoint: "Anchor-0" 293 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 214 111 N 1 0 0 1 0 0 3
 Refer: 472 770 N 1 0 0 1 38 0 2
@@ -5079,7 +5037,7 @@ AnchorPoint: "Anchor-3" 424 20 basechar 0
 AnchorPoint: "Anchor-2" 293 0 basechar 0
 AnchorPoint: "Anchor-1" 565 510 basechar 0
 AnchorPoint: "Anchor-0" 293 732 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 214 111 N 1 0 0 1 0 0 3
 Refer: 466 776 N 1 0 0 1 51 0 2
@@ -5097,7 +5055,7 @@ AnchorPoint: "Anchor-3" 424 20 basechar 0
 AnchorPoint: "Anchor-2" 293 0 basechar 0
 AnchorPoint: "Anchor-1" 565 510 basechar 0
 AnchorPoint: "Anchor-0" 293 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 214 111 N 1 0 0 1 0 0 3
 Refer: 468 768 N 1 0 0 1 50 0 2
@@ -5112,7 +5070,7 @@ AnchorPoint: "Anchor-3" 424 20 basechar 0
 AnchorPoint: "Anchor-2" 293 0 basechar 0
 AnchorPoint: "Anchor-1" 565 510 basechar 0
 AnchorPoint: "Anchor-0" 293 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 214 111 N 1 0 0 1 0 0 3
 Refer: 470 779 N 1 0 0 1 64 0 2
@@ -5128,7 +5086,7 @@ AnchorPoint: "Anchor-3" 424 20 basechar 0
 AnchorPoint: "Anchor-2" 293 0 basechar 0
 AnchorPoint: "Anchor-1" 565 510 basechar 0
 AnchorPoint: "Anchor-0" 293 716 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 214 111 N 1 0 0 1 0 0 3
 Refer: 477 772 N 1 0 0 1 56 0 2
@@ -5138,7 +5096,7 @@ StartChar: oslash
 Encoding: 248 248 221
 Width: 585
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 293 -10 m 0,0,1
@@ -5184,7 +5142,7 @@ AnchorPoint: "Anchor-3" 424 20 basechar 0
 AnchorPoint: "Anchor-2" 293 0 basechar 0
 AnchorPoint: "Anchor-1" 565 510 basechar 0
 AnchorPoint: "Anchor-0" 293 735 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 214 111 N 1 0 0 1 0 0 3
 Refer: 476 771 N 1 0 0 1 31 0 2
@@ -5194,7 +5152,7 @@ StartChar: oe
 Encoding: 339 339 223
 Width: 925
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 283 -10 m 0,0,1
@@ -5260,15 +5218,15 @@ StartChar: p
 Encoding: 112 112 224
 Width: 608
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
-351 -10 m 0,0,1
- 281 -10 281 -10 236 26 c 128,-1,2
- 191 62 191 62 180 122 c 1,3,-1
- 191 120 l 1,4,-1
- 191 -205 l 1,5,-1
- 65 -205 l 1,6,-1
+351 16 m 0,0,1
+ 281 16 281 16 236 52 c 128,-1,2
+ 191 88 191 88 180 148 c 1,3,-1
+ 191 146 l 1,4,-1
+ 189 -158.5 l 1,5,-1
+ 63 -158.5 l 1,6,-1
  65 406 l 1,7,-1
  60 510 l 1,8,-1
  182 510 l 1,9,-1
@@ -5277,20 +5235,18 @@ SplineSet
  191 451 191 451 240 485.5 c 128,-1,13
  289 520 289 520 359 520 c 0,14,15
  426 520 426 520 475 487.5 c 128,-1,16
- 524 455 524 455 549.5 396 c 128,-1,17
- 575 337 575 337 575 257 c 4,18,19
- 575 176 575 176 548.5 116 c 128,-1,20
- 522 56 522 56 471 23 c 128,-1,21
- 420 -10 420 -10 351 -10 c 0,0,1
-319 93 m 0,22,23
- 378 93 378 93 411 135.5 c 128,-1,24
- 444 178 444 178 444 256 c 256,25,26
- 444 334 444 334 410.5 375.5 c 128,-1,27
- 377 417 377 417 318 417 c 256,28,29
- 259 417 259 417 223.5 374.5 c 128,-1,30
- 188 332 188 332 188 255 c 0,31,32
- 188 177 188 177 223.5 135 c 128,-1,33
- 259 93 259 93 319 93 c 0,22,23
+ 524 455 524 455 549.5 397.5 c 128,-1,17
+ 575 340 575 340 575 272.5 c 128,-1,18
+ 575 205 575 205 548.5 143.5 c 128,-1,19
+ 522 82 522 82 471 49 c 128,-1,20
+ 420 16 420 16 351 16 c 0,0,1
+319 119 m 0,21,22
+ 444 119 444 119 444 259 c 256,23,24
+ 444 417 444 417 318 417 c 256,25,26
+ 259 417 259 417 223.5 376 c 128,-1,27
+ 188 335 188 335 188 270.5 c 132,-1,28
+ 188 206 188 206 223.5 162.5 c 128,-1,29
+ 259 119 259 119 319 119 c 0,21,22
 EndSplineSet
 Kerns2: 444 -76 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 425 -91 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 391 -67 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 326 -79 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 221 10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 196 -5 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
@@ -5299,7 +5255,7 @@ StartChar: thorn
 Encoding: 254 254 225
 Width: 608
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 351 -10 m 0,0,1
@@ -5337,37 +5293,33 @@ StartChar: q
 Encoding: 113 113 226
 Width: 608
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
-417 -205 m 1,0,-1
- 417 114 l 1,1,-1
- 431 115 l 1,2,3
- 418 60 418 60 369 25 c 128,-1,4
- 320 -10 320 -10 253 -10 c 0,5,6
- 185 -10 185 -10 135 22.5 c 128,-1,7
- 85 55 85 55 59 114 c 128,-1,8
- 33 173 33 173 33 253 c 4,9,10
- 33 334 33 334 59.5 394 c 128,-1,11
- 86 454 86 454 137.5 487 c 128,-1,12
- 189 520 189 520 257 520 c 0,13,14
- 328 520 328 520 373.5 484 c 128,-1,15
- 419 448 419 448 430 388 c 1,16,-1
- 421 390 l 1,17,-1
- 426 510 l 1,18,-1
- 548 510 l 1,19,-1
- 543 398 l 2,20,21
- 542 376 542 376 543 -205 c 1,22,-1
- 417 -205 l 1,0,-1
-290 93 m 0,23,24
- 351 93 351 93 385.5 135.5 c 128,-1,25
- 420 178 420 178 420 255 c 0,26,27
- 420 333 420 333 385 375 c 128,-1,28
- 350 417 350 417 289 417 c 0,29,30
- 229 417 229 417 197 374.5 c 128,-1,31
- 165 332 165 332 165 254 c 256,32,33
- 165 176 165 176 197.5 134.5 c 128,-1,34
- 230 93 230 93 290 93 c 0,23,24
+417 -158.5 m 1,0,-1
+ 417 139 l 1,1,-1
+ 431 140 l 1,2,3
+ 418 85 418 85 369 50 c 128,-1,4
+ 320 15 320 15 253 15 c 0,5,6
+ 185 15 185 15 135 47.5 c 128,-1,7
+ 85 80 85 80 59 139 c 128,-1,8
+ 33 198 33 198 33 262 c 128,-1,9
+ 33 326 33 326 59.5 386 c 128,-1,10
+ 86 446 86 446 137.5 483 c 128,-1,11
+ 189 520 189 520 257 520 c 0,12,13
+ 328 520 328 520 373.5 484 c 128,-1,14
+ 419 448 419 448 430 388 c 1,15,-1
+ 421 390 l 1,16,-1
+ 426 510 l 1,17,-1
+ 548 510 l 1,18,-1
+ 543 398 l 2,19,20
+ 542 376 542 376 543 -158.5 c 1,21,-1
+ 417 -158.5 l 1,0,-1
+290 118 m 4,22,23
+ 424.342857143 118 424.342857143 118 420 270 c 0,24,25
+ 415.393608074 422.010933558 415.393608074 422.010933558 289 418.5 c 0,26,27
+ 165 415.055555556 165 415.055555556 165 269 c 260,28,29
+ 165 118 165 118 290 118 c 4,22,23
 EndSplineSet
 EndChar
 
@@ -5378,7 +5330,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 126 0 basechar 0
 AnchorPoint: "Anchor-0" 212 510 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 65 0 m 1,0,-1
@@ -5410,7 +5362,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 126 0 basechar 0
 AnchorPoint: "Anchor-0" 212 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 227 114 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 63 0 2
@@ -5425,7 +5377,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 126 0 basechar 0
 AnchorPoint: "Anchor-0" 212 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 227 114 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 -42 0 2
@@ -5440,7 +5392,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 126 -331 basechar 0
 AnchorPoint: "Anchor-0" 212 510 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 227 114 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 -9 0 2
@@ -5456,7 +5408,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 253 0 basechar 0
 AnchorPoint: "Anchor-0" 242 510 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 255 -10 m 0,0,1
@@ -5500,7 +5452,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 253 0 basechar 0
 AnchorPoint: "Anchor-0" 242 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 231 115 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 93 0 2
@@ -5515,7 +5467,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 253 0 basechar 0
 AnchorPoint: "Anchor-0" 242 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 231 115 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 -12 0 2
@@ -5530,7 +5482,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 243 -215 basechar 0
 AnchorPoint: "Anchor-0" 242 510 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 231 115 N 1 0 0 1 0 0 3
 Refer: 480 807 N 1 0 0 1 57 0 2
@@ -5548,7 +5500,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 253 -331 basechar 0
 AnchorPoint: "Anchor-0" 242 510 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 231 115 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 117 0 2
@@ -5561,7 +5513,7 @@ StartChar: germandbls
 Encoding: 223 223 236
 Width: 618
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 342 -10 m 0,0,1
@@ -5615,7 +5567,7 @@ Flags: W
 AnchorPoint: "Anchor-2" 257 0 basechar 0
 AnchorPoint: "Anchor-1" 313 786 basechar 0
 AnchorPoint: "Anchor-0" 157 510 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 290 0 m 0,0,1
@@ -5647,7 +5599,7 @@ Flags: W
 AnchorPoint: "Anchor-2" 257 0 basechar 0
 AnchorPoint: "Anchor-1" 313 786 basechar 0
 AnchorPoint: "Anchor-0" 157 510 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 237 116 N 1 0 0 1 0 0 3
 Refer: 471 -1 N 1 0 0 1 253 66 2
@@ -5663,7 +5615,7 @@ Flags: W
 AnchorPoint: "Anchor-2" 257 -331 basechar 0
 AnchorPoint: "Anchor-1" 313 786 basechar 0
 AnchorPoint: "Anchor-0" 157 510 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 237 116 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 122 0 2
@@ -5682,7 +5634,7 @@ AnchorPoint: "Anchor-3" 529 0 basechar 0
 AnchorPoint: "Anchor-2" 296 0 basechar 0
 AnchorPoint: "Anchor-1" 571 510 basechar 0
 AnchorPoint: "Anchor-0" 296 510 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 226 -10 m 0,0,1
@@ -5722,7 +5674,7 @@ AnchorPoint: "Anchor-3" 525 0 basechar 0
 AnchorPoint: "Anchor-2" 296 0 basechar 0
 AnchorPoint: "Anchor-1" 571 510 basechar 0
 AnchorPoint: "Anchor-0" 296 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 240 117 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 147 0 2
@@ -5739,7 +5691,7 @@ AnchorPoint: "Anchor-3" 525 0 basechar 0
 AnchorPoint: "Anchor-2" 296 0 basechar 0
 AnchorPoint: "Anchor-1" 571 510 basechar 0
 AnchorPoint: "Anchor-0" 296 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 240 117 N 1 0 0 1 0 0 3
 Refer: 474 774 N 1 0 0 1 67 0 2
@@ -5755,7 +5707,7 @@ AnchorPoint: "Anchor-3" 525 0 basechar 0
 AnchorPoint: "Anchor-2" 296 0 basechar 0
 AnchorPoint: "Anchor-1" 571 510 basechar 0
 AnchorPoint: "Anchor-0" 296 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 240 117 N 1 0 0 1 0 0 3
 Refer: 472 770 N 1 0 0 1 41 0 2
@@ -5771,7 +5723,7 @@ AnchorPoint: "Anchor-3" 525 0 basechar 0
 AnchorPoint: "Anchor-2" 296 0 basechar 0
 AnchorPoint: "Anchor-1" 571 510 basechar 0
 AnchorPoint: "Anchor-0" 296 732 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 240 117 N 1 0 0 1 0 0 3
 Refer: 466 776 N 1 0 0 1 54 0 2
@@ -5789,7 +5741,7 @@ AnchorPoint: "Anchor-3" 525 0 basechar 0
 AnchorPoint: "Anchor-2" 296 0 basechar 0
 AnchorPoint: "Anchor-1" 571 510 basechar 0
 AnchorPoint: "Anchor-0" 296 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 240 117 N 1 0 0 1 0 0 3
 Refer: 468 768 N 1 0 0 1 53 0 2
@@ -5805,7 +5757,7 @@ AnchorPoint: "Anchor-3" 525 0 basechar 0
 AnchorPoint: "Anchor-2" 296 0 basechar 0
 AnchorPoint: "Anchor-1" 571 510 basechar 0
 AnchorPoint: "Anchor-0" 296 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 240 117 N 1 0 0 1 0 0 3
 Refer: 470 779 N 1 0 0 1 67 0 2
@@ -5821,7 +5773,7 @@ AnchorPoint: "Anchor-3" 525 0 basechar 0
 AnchorPoint: "Anchor-2" 296 0 basechar 0
 AnchorPoint: "Anchor-1" 571 510 basechar 0
 AnchorPoint: "Anchor-0" 296 716 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 240 117 N 1 0 0 1 0 0 3
 Refer: 477 772 N 1 0 0 1 59 0 2
@@ -5837,7 +5789,7 @@ AnchorPoint: "Anchor-3" 525 0 basechar 0
 AnchorPoint: "Anchor-2" 296 0 basechar 0
 AnchorPoint: "Anchor-1" 571 510 basechar 0
 AnchorPoint: "Anchor-0" 296 510 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 240 117 N 1 0 0 1 0 0 3
 Refer: 481 808 N 1 0 0 1 291 0 2
@@ -5854,7 +5806,7 @@ AnchorPoint: "Anchor-3" 525 0 basechar 0
 AnchorPoint: "Anchor-2" 296 0 basechar 0
 AnchorPoint: "Anchor-1" 571 510 basechar 0
 AnchorPoint: "Anchor-0" 296 776 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 240 117 N 1 0 0 1 0 0 3
 Refer: 475 778 N 1 0 0 1 128 0 2
@@ -5865,7 +5817,7 @@ StartChar: v
 Encoding: 118 118 250
 Width: 526
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 204 0 m 1,0,-1
@@ -5886,22 +5838,22 @@ StartChar: w
 Encoding: 119 119 251
 Width: 787
 GlyphClass: 2
-Flags: W
+Flags: WO
 AnchorPoint: "Anchor-2" 394 0 basechar 0
 AnchorPoint: "Anchor-0" 394 510 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 169 0 m 1,0,-1
  17 510 l 1,1,-1
- 148 510 l 1,2,-1
- 237 127 l 1,3,-1
+ 158 510 l 1,2,-1
+ 247 127 l 1,3,-1
  228 127 l 1,4,-1
  338 510 l 1,5,-1
  453 510 l 1,6,-1
  564 127 l 1,7,-1
- 555 127 l 1,8,-1
- 643 510 l 1,9,-1
+ 545 127 l 5,8,-1
+ 633 510 l 5,9,-1
  770 510 l 1,10,-1
  618 0 l 1,11,-1
  500 0 l 1,12,-1
@@ -5910,7 +5862,6 @@ SplineSet
  287 0 l 1,15,-1
  169 0 l 1,0,-1
 EndSplineSet
-Validated: 5
 Kerns2: 443 -42 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 425 -76 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 391 -76 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 326 -89 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 206 -4 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 196 -9 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 187 -9 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -5921,11 +5872,10 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 394 0 basechar 0
 AnchorPoint: "Anchor-0" 394 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 251 119 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 245 0 2
-Validated: 5
 EndChar
 
 StartChar: wcircumflex
@@ -5935,11 +5885,10 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 394 0 basechar 0
 AnchorPoint: "Anchor-0" 394 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 251 119 N 1 0 0 1 0 0 3
 Refer: 472 770 N 1 0 0 1 139 0 2
-Validated: 5
 EndChar
 
 StartChar: wdieresis
@@ -5949,11 +5898,10 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 394 0 basechar 0
 AnchorPoint: "Anchor-0" 394 732 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 251 119 N 1 0 0 1 0 0 3
 Refer: 466 776 N 1 0 0 1 152 0 2
-Validated: 5
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" wdieresis.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" wdieresis.ss01
 EndChar
@@ -5965,18 +5913,17 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 394 0 basechar 0
 AnchorPoint: "Anchor-0" 394 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 251 119 N 1 0 0 1 0 0 3
 Refer: 468 768 N 1 0 0 1 151 0 2
-Validated: 5
 EndChar
 
 StartChar: x
 Encoding: 120 120 256
 Width: 572
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 406 0 m 1,0,-1
@@ -6008,7 +5955,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 264 0 basechar 0
 AnchorPoint: "Anchor-0" 266 510 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 122 -207 m 0,0,1
@@ -6043,7 +5990,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 264 0 basechar 0
 AnchorPoint: "Anchor-0" 264 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 257 -1 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 115 0 2
@@ -6059,7 +6006,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 264 0 basechar 0
 AnchorPoint: "Anchor-0" 264 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 257 -1 N 1 0 0 1 0 0 3
 Refer: 472 770 N 1 0 0 1 10 0 2
@@ -6075,7 +6022,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 264 0 basechar 0
 AnchorPoint: "Anchor-0" 264 732 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 257 -1 N 1 0 0 1 0 0 3
 Refer: 466 776 N 1 0 0 1 22 0 2
@@ -6091,7 +6038,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 264 0 basechar 0
 AnchorPoint: "Anchor-0" 264 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 257 -1 N 1 0 0 1 0 0 3
 Refer: 468 768 N 1 0 0 1 22 0 2
@@ -6106,7 +6053,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 251 0 basechar 0
 AnchorPoint: "Anchor-0" 251 510 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 46 0 m 1,0,-1
@@ -6134,7 +6081,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 251 0 basechar 0
 AnchorPoint: "Anchor-0" 251 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 262 122 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 102 0 2
@@ -6148,7 +6095,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 251 0 basechar 0
 AnchorPoint: "Anchor-0" 251 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 262 122 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 -3 0 2
@@ -6163,7 +6110,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 251 0 basechar 0
 AnchorPoint: "Anchor-0" 251 732 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 262 122 N 1 0 0 1 0 0 3
 Refer: 467 775 N 1 0 0 1 123 0 2
@@ -6180,11 +6127,10 @@ Flags: W
 AnchorPoint: "Anchor-3" 500 0 basechar 0
 AnchorPoint: "Anchor-2" 278 0 basechar 0
 AnchorPoint: "Anchor-0" 278 742 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 150 97 N 1 0 0 1 0 0 3
 Refer: 482 -1 N 1 0 0 1 30 0 2
-Validated: 5
 Substitution2: "'ss02' Style Set 2 in Latin lookup 23 subtable" adieresis.ss01.ss02
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" adieresis.ss01.ss02
 EndChar
@@ -6196,7 +6142,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 276 0 basechar 0
 AnchorPoint: "Anchor-0" 285 743 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 163 99 N 1 0 0 1 0 0 3
 Refer: 483 -1 N 1 0 0 1 143 0 2
@@ -6210,11 +6156,10 @@ Flags: W
 AnchorPoint: "Anchor-3" 417 20 basechar 0
 AnchorPoint: "Anchor-2" 279 0 basechar 0
 AnchorPoint: "Anchor-0" 290 742 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 172 101 N 1 0 0 1 0 0 3
 Refer: 482 -1 N 1 0 0 1 41 0 2
-Validated: 5
 EndChar
 
 StartChar: edotaccent.ss01
@@ -6225,11 +6170,10 @@ Flags: W
 AnchorPoint: "Anchor-3" 417 20 basechar 0
 AnchorPoint: "Anchor-2" 279 0 basechar 0
 AnchorPoint: "Anchor-0" 290 743 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 172 101 N 1 0 0 1 0 0 3
 Refer: 483 -1 N 1 0 0 1 148 0 2
-Validated: 5
 EndChar
 
 StartChar: uni0123.ss01
@@ -6239,11 +6183,10 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 304 -205 basechar 0
 AnchorPoint: "Anchor-0" 289 840 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 182 103 N 1 0 0 1 0 0 3
 Refer: 484 -1 N 1 0 0 1 154 0 2
-Validated: 5
 EndChar
 
 StartChar: gdotaccent.ss01
@@ -6253,11 +6196,10 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 304 -205 basechar 0
 AnchorPoint: "Anchor-0" 289 743 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 182 103 N 1 0 0 1 0 0 3
 Refer: 483 -1 N 1 0 0 1 148 0 2
-Validated: 5
 EndChar
 
 StartChar: i.ss01
@@ -6268,7 +6210,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 191 0 basechar 0
 AnchorPoint: "Anchor-2" 142 0 basechar 0
 AnchorPoint: "Anchor-0" 128 743 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 189 305 N 1 0 0 1 0 0 3
 Refer: 483 -1 N 1 0 0 1 -13 0 2
@@ -6283,7 +6225,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 191 0 basechar 0
 AnchorPoint: "Anchor-2" 128 0 basechar 0
 AnchorPoint: "Anchor-0" 128 742 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 189 305 N 1 0 0 1 0 0 3
 Refer: 482 -1 N 1 0 0 1 -120 0 2
@@ -6298,7 +6240,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 191 0 basechar 0
 AnchorPoint: "Anchor-2" 128 0 basechar 0
 AnchorPoint: "Anchor-0" 128 743 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 189 305 N 1 0 0 1 0 0 3
 Refer: 483 -1 N 1 0 0 1 -13 0 2
@@ -6311,13 +6253,12 @@ Width: 502
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-3" 191 0 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 189 305 N 1 0 0 1 0 0 2
 Refer: 483 -1 N 1 0 0 1 -13 0 2
 Refer: 199 567 N 1 0 0 1 246 0 2
 Refer: 483 -1 N 1 0 0 1 232 0 2
-Validated: 1
 EndChar
 
 StartChar: iogonek.ss01
@@ -6328,7 +6269,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 191 0 basechar 0
 AnchorPoint: "Anchor-2" 128 0 basechar 0
 AnchorPoint: "Anchor-0" 128 743 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 189 305 N 1 0 0 1 0 0 3
 Refer: 483 -1 N 1 0 0 1 -13 0 2
@@ -6343,11 +6284,10 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 128 -205 basechar 0
 AnchorPoint: "Anchor-0" 128 743 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 199 567 N 1 0 0 1 0 0 3
 Refer: 483 -1 N 1 0 0 1 -13 0 2
-Validated: 1
 EndChar
 
 StartChar: uni0137.ss01
@@ -6357,7 +6297,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 281 -331 basechar 0
 AnchorPoint: "Anchor-0" 274 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 200 107 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 146 0 2
@@ -6374,7 +6314,7 @@ Flags: W
 AnchorPoint: "Anchor-2" 128 -331 basechar 0
 AnchorPoint: "Anchor-1" 247 720 basechar 0
 AnchorPoint: "Anchor-0" 128 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 202 108 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 -7 0 2
@@ -6388,7 +6328,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 310 -331 basechar 0
 AnchorPoint: "Anchor-0" 323 510 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 208 110 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 175 0 2
@@ -6404,7 +6344,7 @@ AnchorPoint: "Anchor-3" 424 20 basechar 0
 AnchorPoint: "Anchor-2" 293 0 basechar 0
 AnchorPoint: "Anchor-1" 565 510 basechar 0
 AnchorPoint: "Anchor-0" 293 742 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 214 111 N 1 0 0 1 0 0 3
 Refer: 482 -1 N 1 0 0 1 44 0 2
@@ -6417,7 +6357,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 126 -331 basechar 0
 AnchorPoint: "Anchor-0" 212 510 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 227 114 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 -9 0 2
@@ -6431,7 +6371,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 253 -331 basechar 0
 AnchorPoint: "Anchor-0" 242 510 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 231 115 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 117 0 2
@@ -6446,7 +6386,7 @@ Flags: W
 AnchorPoint: "Anchor-2" 257 -331 basechar 0
 AnchorPoint: "Anchor-1" 313 786 basechar 0
 AnchorPoint: "Anchor-0" 157 510 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 237 116 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 122 0 2
@@ -6462,7 +6402,7 @@ AnchorPoint: "Anchor-3" 525 0 basechar 0
 AnchorPoint: "Anchor-2" 296 0 basechar 0
 AnchorPoint: "Anchor-1" 571 510 basechar 0
 AnchorPoint: "Anchor-0" 296 742 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 240 117 N 1 0 0 1 0 0 3
 Refer: 482 -1 N 1 0 0 1 47 0 2
@@ -6476,11 +6416,10 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 394 0 basechar 0
 AnchorPoint: "Anchor-0" 394 742 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 251 119 N 1 0 0 1 0 0 3
 Refer: 482 -1 N 1 0 0 1 145 0 2
-Validated: 5
 EndChar
 
 StartChar: ydieresis.ss01
@@ -6490,7 +6429,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 264 0 basechar 0
 AnchorPoint: "Anchor-0" 264 742 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 257 -1 N 1 0 0 1 0 0 3
 Refer: 482 -1 N 1 0 0 1 16 0 2
@@ -6505,7 +6444,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 251 0 basechar 0
 AnchorPoint: "Anchor-0" 251 743 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 262 122 N 1 0 0 1 0 0 3
 Refer: 483 -1 N 1 0 0 1 110 0 2
@@ -6520,7 +6459,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 543 0 basechar 0
 AnchorPoint: "Anchor-2" 304 0 basechar 0
 AnchorPoint: "Anchor-0" 304 510 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 253 -10 m 0,0,1
@@ -6562,7 +6501,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 543 0 basechar 0
 AnchorPoint: "Anchor-2" 304 0 basechar 0
 AnchorPoint: "Anchor-0" 304 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 289 -1 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 155 0 2
@@ -6577,7 +6516,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 543 0 basechar 0
 AnchorPoint: "Anchor-2" 304 0 basechar 0
 AnchorPoint: "Anchor-0" 304 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 289 -1 N 1 0 0 1 0 0 3
 Refer: 474 774 N 1 0 0 1 75 0 2
@@ -6592,7 +6531,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 543 0 basechar 0
 AnchorPoint: "Anchor-2" 304 0 basechar 0
 AnchorPoint: "Anchor-0" 304 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 289 -1 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 50 0 2
@@ -6607,7 +6546,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 543 0 basechar 0
 AnchorPoint: "Anchor-2" 304 0 basechar 0
 AnchorPoint: "Anchor-0" 304 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 289 -1 N 1 0 0 1 0 0 3
 Refer: 472 770 N 1 0 0 1 50 0 2
@@ -6622,7 +6561,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 543 0 basechar 0
 AnchorPoint: "Anchor-2" 304 0 basechar 0
 AnchorPoint: "Anchor-0" 304 732 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 289 -1 N 1 0 0 1 0 0 3
 Refer: 466 776 N 1 0 0 1 62 0 2
@@ -6637,7 +6576,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 543 0 basechar 0
 AnchorPoint: "Anchor-2" 304 0 basechar 0
 AnchorPoint: "Anchor-0" 304 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 289 -1 N 1 0 0 1 0 0 3
 Refer: 468 768 N 1 0 0 1 62 0 2
@@ -6652,7 +6591,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 543 0 basechar 0
 AnchorPoint: "Anchor-2" 304 0 basechar 0
 AnchorPoint: "Anchor-0" 304 716 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 289 -1 N 1 0 0 1 0 0 3
 Refer: 477 772 N 1 0 0 1 67 0 2
@@ -6667,7 +6606,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 543 0 basechar 0
 AnchorPoint: "Anchor-2" 304 0 basechar 0
 AnchorPoint: "Anchor-0" 304 510 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 289 -1 N 1 0 0 1 0 0 3
 Refer: 481 808 N 1 0 0 1 308 0 2
@@ -6682,7 +6621,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 543 0 basechar 0
 AnchorPoint: "Anchor-2" 304 0 basechar 0
 AnchorPoint: "Anchor-0" 304 776 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 289 -1 N 1 0 0 1 0 0 3
 Refer: 475 778 N 1 0 0 1 136 0 2
@@ -6697,7 +6636,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 543 0 basechar 0
 AnchorPoint: "Anchor-2" 304 0 basechar 0
 AnchorPoint: "Anchor-0" 304 735 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 289 -1 N 1 0 0 1 0 0 3
 Refer: 476 771 N 1 0 0 1 43 0 2
@@ -6711,16 +6650,16 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 264 0 basechar 0
 AnchorPoint: "Anchor-0" 264 510 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
-99 -205 m 1,0,-1
+118 -158.5 m 5,0,-1
  226 91 l 1,1,-1
  249 128 l 1,2,-1
  388 510 l 1,3,-1
  520 510 l 1,4,-1
- 225 -205 l 1,5,-1
- 99 -205 l 1,0,-1
+ 244 -158.5 l 5,5,-1
+ 118 -158.5 l 5,0,-1
 208 4 m 1,6,-1
  6 510 l 1,7,-1
  142 510 l 1,8,-1
@@ -6737,7 +6676,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 264 0 basechar 0
 AnchorPoint: "Anchor-0" 266 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 300 121 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 117 0 2
@@ -6751,7 +6690,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 264 0 basechar 0
 AnchorPoint: "Anchor-0" 266 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 300 121 N 1 0 0 1 0 0 3
 Refer: 472 770 N 1 0 0 1 11 0 2
@@ -6764,7 +6703,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 264 0 basechar 0
 AnchorPoint: "Anchor-0" 266 732 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 300 121 N 1 0 0 1 0 0 3
 Refer: 466 776 N 1 0 0 1 24 0 2
@@ -6777,7 +6716,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 264 0 basechar 0
 AnchorPoint: "Anchor-0" 266 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 300 121 N 1 0 0 1 0 0 3
 Refer: 468 768 N 1 0 0 1 23 0 2
@@ -6790,7 +6729,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 281 0 basechar 0
 AnchorPoint: "Anchor-0" 274 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 65 0 m 1,0,-1
@@ -6821,7 +6760,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 281 -331 basechar 0
 AnchorPoint: "Anchor-0" 274 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 305 -1 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 146 0 2
@@ -6836,7 +6775,7 @@ Flags: W
 AnchorPoint: "Anchor-3" 543 0 basechar 0
 AnchorPoint: "Anchor-2" 304 0 basechar 0
 AnchorPoint: "Anchor-0" 304 742 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 289 -1 N 1 0 0 1 0 0 3
 Refer: 482 -1 N 1 0 0 1 56 0 2
@@ -6850,7 +6789,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 264 0 basechar 0
 AnchorPoint: "Anchor-0" 266 742 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 300 121 N 1 0 0 1 0 0 3
 Refer: 482 -1 N 1 0 0 1 17 0 2
@@ -6863,7 +6802,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 281 -331 basechar 0
 AnchorPoint: "Anchor-0" 274 740 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 305 -1 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 146 0 2
@@ -6876,7 +6815,7 @@ Width: 932
 GlyphClass: 3
 LigCaretCntFixed: 1
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 104 0 m 1,0,-1
@@ -6935,7 +6874,7 @@ Width: 935
 GlyphClass: 3
 LigCaretCntFixed: 1
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 424 0 m 1,0,-1
@@ -6989,7 +6928,7 @@ AnchorPoint: "Anchor-5" 150 0 baselig 0
 AnchorPoint: "Anchor-4" 150 740 baselig 0
 AnchorPoint: "Anchor-5" 449 0 baselig 1
 AnchorPoint: "Anchor-4" 449 740 baselig 1
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 104 0 m 1,0,-1
@@ -7039,7 +6978,7 @@ AnchorPoint: "Anchor-5" 154 0 baselig 0
 AnchorPoint: "Anchor-4" 154 740 baselig 0
 AnchorPoint: "Anchor-5" 461 0 baselig 1
 AnchorPoint: "Anchor-4" 461 740 baselig 1
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 104 0 m 1,0,-1
@@ -7082,7 +7021,7 @@ AnchorPoint: "Anchor-5" 1046 0 baselig 1
 AnchorPoint: "Anchor-4" 1046 510 baselig 1
 AnchorPoint: "Anchor-5" 1744 0 baselig 2
 AnchorPoint: "Anchor-4" 1744 510 baselig 2
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 169 0 m 1,0,-1
@@ -7153,7 +7092,7 @@ AnchorPoint: "Anchor-5" 465 0 baselig 1
 AnchorPoint: "Anchor-4" 465 740 baselig 1
 AnchorPoint: "Anchor-5" 774 0 baselig 2
 AnchorPoint: "Anchor-4" 774 740 baselig 2
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 424 0 m 1,0,-1
@@ -7217,7 +7156,7 @@ AnchorPoint: "Anchor-5" 156 0 baselig 0
 AnchorPoint: "Anchor-4" 156 740 baselig 0
 AnchorPoint: "Anchor-5" 466 0 baselig 1
 AnchorPoint: "Anchor-4" 466 740 baselig 1
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 104 0 m 1,0,-1
@@ -7262,7 +7201,7 @@ StartChar: ordfeminine
 Encoding: 170 170 317
 Width: 367
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 232 418 m 1,0,1
@@ -7309,7 +7248,7 @@ StartChar: ordmasculine
 Encoding: 186 186 318
 Width: 404
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 202 412 m 0,0,1
@@ -7340,7 +7279,7 @@ StartChar: zero
 Encoding: 48 48 319
 Width: 661
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 330 -10 m 0,0,1
@@ -7380,7 +7319,7 @@ StartChar: one
 Encoding: 49 49 320
 Width: 382
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 195 0 m 1,0,-1
@@ -7403,7 +7342,7 @@ StartChar: two
 Encoding: 50 50 321
 Width: 545
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 31 0 m 1,0,-1
@@ -7440,7 +7379,7 @@ StartChar: three
 Encoding: 51 51 322
 Width: 567
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 291 -10 m 0,0,1
@@ -7491,7 +7430,7 @@ StartChar: four
 Encoding: 52 52 323
 Width: 600
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 368 0 m 1,0,-1
@@ -7520,7 +7459,7 @@ StartChar: five
 Encoding: 53 53 324
 Width: 570
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 287 -10 m 0,0,1
@@ -7562,7 +7501,7 @@ StartChar: six
 Encoding: 54 54 325
 Width: 602
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 316 -10 m 0,0,1
@@ -7610,7 +7549,7 @@ StartChar: seven
 Encoding: 55 55 326
 Width: 548
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 150 0 m 1,0,1
@@ -7633,7 +7572,7 @@ StartChar: eight
 Encoding: 56 56 327
 Width: 586
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 293 -10 m 0,0,1
@@ -7692,7 +7631,7 @@ StartChar: nine
 Encoding: 57 57 328
 Width: 606
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 285 -10 m 0,0,1
@@ -7743,7 +7682,7 @@ StartChar: two.ss10
 Encoding: 65624 -1 329
 Width: 545
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 31 0 m 1,0,-1
@@ -7783,7 +7722,7 @@ StartChar: zero.tf
 Encoding: 65625 -1 330
 Width: 592
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 296 -10 m 0,0,1
@@ -7822,7 +7761,7 @@ StartChar: one.tf
 Encoding: 65626 -1 331
 Width: 592
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 278 30 m 1,0,-1
@@ -7853,7 +7792,7 @@ StartChar: two.tf
 Encoding: 65627 -1 332
 Width: 592
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 66 0 m 1,0,-1
@@ -7890,7 +7829,7 @@ StartChar: three.tf
 Encoding: 65628 -1 333
 Width: 592
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 303 -10 m 0,0,1
@@ -7940,7 +7879,7 @@ StartChar: four.tf
 Encoding: 65629 -1 334
 Width: 592
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 352 0 m 1,0,-1
@@ -7968,7 +7907,7 @@ StartChar: five.tf
 Encoding: 65630 -1 335
 Width: 592
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 298 -10 m 0,0,1
@@ -8009,7 +7948,7 @@ StartChar: six.tf
 Encoding: 65631 -1 336
 Width: 592
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 309 -10 m 0,0,1
@@ -8056,7 +7995,7 @@ StartChar: seven.tf
 Encoding: 65632 -1 337
 Width: 592
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 172 0 m 1,0,1
@@ -8080,7 +8019,7 @@ StartChar: eight.tf
 Encoding: 65633 -1 338
 Width: 592
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 297 -10 m 256,0,1
@@ -8138,7 +8077,7 @@ StartChar: nine.tf
 Encoding: 65634 -1 339
 Width: 592
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 278 -10 m 0,0,1
@@ -8187,7 +8126,7 @@ StartChar: two.tf.ss10
 Encoding: 65635 -1 340
 Width: 592
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 67 0 m 1,0,-1
@@ -8226,7 +8165,7 @@ StartChar: space
 Encoding: 32 32 341
 Width: 189
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Validated: 1
 EndChar
@@ -8235,7 +8174,7 @@ StartChar: uni00A0
 Encoding: 160 160 342
 Width: 189
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Validated: 1
 EndChar
@@ -8246,7 +8185,7 @@ Width: 833
 GlyphClass: 3
 LigCaretCntFixed: 1
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 60 418 m 1,0,-1
@@ -8272,7 +8211,7 @@ StartChar: period
 Encoding: 46 46 344
 Width: 271
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 64 0 m 1,0,-1
@@ -8291,7 +8230,7 @@ StartChar: comma
 Encoding: 44 44 345
 Width: 271
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 133 -119 m 5,0,-1
@@ -8310,7 +8249,7 @@ StartChar: colon
 Encoding: 58 58 346
 Width: 271
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 344 46 N 1 0 0 1 0 0 3
 Refer: 344 46 N 1 0 0 1 0 344 2
@@ -8325,7 +8264,7 @@ StartChar: semicolon
 Encoding: 59 59 347
 Width: 271
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 345 44 N 1 0 0 1 0 0 3
 Refer: 344 46 N 1 0 0 1 0 344 2
@@ -8340,7 +8279,7 @@ StartChar: ellipsis
 Encoding: 8230 8230 348
 Width: 718
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 344 46 N 1 0 0 1 0 0 2
 Refer: 344 46 N 1 0 0 1 223 0 2
@@ -8355,7 +8294,7 @@ StartChar: exclam
 Encoding: 33 33 349
 Width: 291
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 95 251 m 1,0,-1
@@ -8380,7 +8319,7 @@ StartChar: exclamdown
 Encoding: 161 161 350
 Width: 291
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 76 -205 m 1,0,-1
@@ -8405,36 +8344,36 @@ StartChar: question
 Encoding: 63 63 351
 Width: 528
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
-157 251 m 1,0,1
- 157 302 157 302 170 336.5 c 128,-1,2
- 183 371 183 371 203.5 395 c 128,-1,3
- 224 419 224 419 246.5 437.5 c 128,-1,4
- 269 456 269 456 289.5 473 c 128,-1,5
- 310 490 310 490 323 510.5 c 128,-1,6
- 336 531 336 531 336 559 c 0,7,8
- 336 601 336 601 306.5 623 c 128,-1,9
+157 251 m 5,0,1
+ 157 302 157 302 170 336.5 c 132,-1,2
+ 183 371 183 371 203.5 395 c 132,-1,3
+ 224 419 224 419 246.5 437.5 c 132,-1,4
+ 269 456 269 456 289.5 473 c 132,-1,5
+ 310 490 310 490 323 510.5 c 132,-1,6
+ 336 531 336 531 336 559 c 4,7,8
+ 336 601 336 601 306.5 623 c 132,-1,9
  277 645 277 645 225 645 c 4,10,11
  144 646 144 646 86 614 c 5,12,-1
- 84 725 l 1,13,14
- 142 751 142 751 227 750 c 0,15,16
- 299 750 299 750 352 726.5 c 128,-1,17
- 405 703 405 703 435 660 c 128,-1,18
- 465 617 465 617 465 560 c 0,19,20
- 465 517 465 517 451.5 487 c 128,-1,21
- 438 457 438 457 417 435 c 128,-1,22
- 396 413 396 413 371.5 395 c 128,-1,23
- 347 377 347 377 326 357 c 128,-1,24
- 305 337 305 337 291.5 312 c 128,-1,25
- 278 287 278 287 278 251 c 1,26,-1
- 157 251 l 1,0,1
-146 0 m 1,27,-1
- 146 144 l 1,28,-1
- 290 144 l 1,29,-1
- 290 0 l 1,30,-1
- 146 0 l 1,27,-1
+ 84 725 l 5,13,14
+ 142 751 142 751 227 750 c 4,15,16
+ 299 750 299 750 352 726.5 c 132,-1,17
+ 405 703 405 703 435 660 c 132,-1,18
+ 465 617 465 617 465 560 c 4,19,20
+ 465 517 465 517 451.5 487 c 132,-1,21
+ 438 457 438 457 417 435 c 132,-1,22
+ 396 413 396 413 371.5 395 c 132,-1,23
+ 347 377 347 377 326 357 c 132,-1,24
+ 305 337 305 337 291.5 312 c 132,-1,25
+ 278 287 278 287 278 251 c 5,26,-1
+ 157 251 l 5,0,1
+146 0 m 5,27,-1
+ 146 144 l 5,28,-1
+ 290 144 l 5,29,-1
+ 290 0 l 5,30,-1
+ 146 0 l 5,27,-1
 EndSplineSet
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" question.ss01
 Substitution2: "'case' Case-Sensitive Forms in Latin lookup 20 subtable" question.case
@@ -8445,41 +8384,37 @@ StartChar: questiondown
 Encoding: 191 191 352
 Width: 566
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
-265 -215 m 0,0,1
- 195 -215 195 -215 141.5 -192.5 c 128,-1,2
- 88 -170 88 -170 57.5 -129 c 128,-1,3
- 27 -88 27 -88 27 -34 c 0,4,5
- 27 9 27 9 40.5 38.5 c 128,-1,6
- 54 68 54 68 75 89.5 c 128,-1,7
- 96 111 96 111 120.5 128 c 128,-1,8
- 145 145 145 145 166 163 c 128,-1,9
- 187 181 187 181 200.5 204 c 128,-1,10
- 214 227 214 227 214 259 c 1,11,-1
- 335 259 l 1,12,13
- 335 211 335 211 322.5 179 c 128,-1,14
- 310 147 310 147 289.5 125 c 128,-1,15
- 269 103 269 103 246 86 c 128,-1,16
- 223 69 223 69 202.5 53 c 128,-1,17
- 182 37 182 37 169.5 17 c 128,-1,18
- 157 -3 157 -3 157 -32 c 0,19,20
- 157 -69 157 -69 187.5 -91 c 128,-1,21
- 218 -113 218 -113 272 -113 c 0,22,23
- 325 -113 325 -113 363.5 -88.5 c 128,-1,24
- 402 -64 402 -64 409 -16 c 1,25,-1
- 533 -16 l 1,26,27
- 525 -78 525 -78 489 -122.5 c 128,-1,28
- 453 -167 453 -167 395.5 -191 c 128,-1,29
- 338 -215 338 -215 265 -215 c 0,0,1
-346 510 m 1,30,-1
- 346 366 l 1,31,-1
- 203 366 l 1,32,-1
- 203 510 l 1,33,-1
- 346 510 l 1,30,-1
+333 330 m 5,0,1
+ 333 279 333 279 320 244.5 c 132,-1,2
+ 306.999511719 210 306.999511719 210 286.5 186 c 132,-1,3
+ 265.999511719 162 265.999511719 162 243.5 143.5 c 132,-1,4
+ 221.196671071 125.162191338 221.196671071 125.162191338 200.5 108 c 132,-1,5
+ 179.999511719 91.0004882812 179.999511719 91.0004882812 167 70.5 c 132,-1,6
+ 153.999511719 49.9995117188 153.999511719 49.9995117188 154 22 c 4,7,8
+ 154 -20 154 -20 183.5 -42 c 132,-1,9
+ 213.000488281 -64.0004882812 213.000488281 -64.0004882812 265 -64 c 4,10,11
+ 346 -65.0004882812 346 -65.0004882812 404 -33 c 5,12,-1
+ 406 -144 l 5,13,14
+ 347.999511719 -169.999511719 347.999511719 -169.999511719 263 -169 c 4,15,16
+ 191 -169 191 -169 138 -145.5 c 132,-1,17
+ 85.0004882812 -121.999511719 85.0004882812 -121.999511719 55 -79 c 132,-1,18
+ 25 -35.9995117188 25 -35.9995117188 25 21 c 4,19,20
+ 25 64.0004882812 25 64.0004882812 38.5 94 c 132,-1,21
+ 52 124 52 124 73 146 c 132,-1,22
+ 94 168.000488281 94 168.000488281 118.5 186 c 132,-1,23
+ 142.999511719 204 142.999511719 204 164 224 c 132,-1,24
+ 185 243.999511719 185 243.999511719 198.5 269 c 132,-1,25
+ 212 294.000488281 212 294.000488281 212 330 c 5,26,-1
+ 333 330 l 5,0,1
+344 581 m 5,27,-1
+ 344 437 l 5,28,-1
+ 200 437 l 5,29,-1
+ 200 581 l 5,30,-1
+ 344 581 l 5,27,-1
 EndSplineSet
-Validated: 1
 Kerns2: 226 -73 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 172 -76 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 163 -76 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 145 -100 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 106 -160 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 99 -151 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 86 -146 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 80 -82 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 75 -100 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 63 -100 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 14 -99 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" questiondown.ss01
 Substitution2: "'case' Case-Sensitive Forms in Latin lookup 20 subtable" questiondown.case
@@ -8490,7 +8425,7 @@ StartChar: periodcentered
 Encoding: 183 183 353
 Width: 144
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 344 46 N 1 0 0 1 -64 305 2
 Validated: 1
@@ -8504,7 +8439,7 @@ StartChar: bullet
 Encoding: 8226 8226 354
 Width: 332
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 64 263 m 1,0,-1
@@ -8524,7 +8459,7 @@ StartChar: asterisk
 Encoding: 42 42 355
 Width: 427
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 160 417 m 1,0,-1
@@ -8554,7 +8489,7 @@ StartChar: numbersign
 Encoding: 35 35 356
 Width: 706
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 126 0 m 1,0,-1
@@ -8586,7 +8521,7 @@ StartChar: slash
 Encoding: 47 47 357
 Width: 432
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 37 -73 m 1,0,-1
@@ -8603,7 +8538,7 @@ StartChar: backslash
 Encoding: 92 92 358
 Width: 432
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 37 763 m 1,0,-1
@@ -8620,7 +8555,7 @@ StartChar: colon.case
 Encoding: 65637 -1 359
 Width: 271
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 344 46 N 1 0 0 1 0 131 3
 Refer: 344 46 N 1 0 0 1 0 474 2
@@ -8632,7 +8567,7 @@ StartChar: semicolon.case
 Encoding: 65638 -1 360
 Width: 271
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 345 44 N 1 0 0 1 0 131 3
 Refer: 344 46 N 1 0 0 1 0 474 2
@@ -8644,7 +8579,7 @@ StartChar: exclam.case
 Encoding: 65639 -1 361
 Width: 291
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 95 251 m 1,0,-1
@@ -8666,7 +8601,7 @@ StartChar: exclamdown.case
 Encoding: 65640 -1 362
 Width: 291
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 76 0 m 1,0,-1
@@ -8687,7 +8622,7 @@ StartChar: question.case
 Encoding: 65641 -1 363
 Width: 566
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 231 251 m 1,0,1
@@ -8728,7 +8663,7 @@ StartChar: questiondown.case
 Encoding: 65642 -1 364
 Width: 566
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 265 -10 m 0,0,1
@@ -8770,7 +8705,7 @@ StartChar: bullet.case
 Encoding: 65643 -1 365
 Width: 705
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 64 90 m 1,0,-1
@@ -8788,7 +8723,7 @@ StartChar: periodcentered.loclCAT
 Encoding: 65644 -1 366
 Width: 161
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 367 -1 N 1 0 0 1 -55 305 2
 Validated: 1
@@ -8801,7 +8736,7 @@ StartChar: period.ss01
 Encoding: 65645 -1 367
 Width: 271
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 136 -10 m 0,0,1
@@ -8822,7 +8757,7 @@ StartChar: comma.ss01
 Encoding: 65646 -1 368
 Width: 271
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 71 -159 m 1,0,-1
@@ -8849,7 +8784,7 @@ StartChar: colon.ss01
 Encoding: 65647 -1 369
 Width: 271
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 367 -1 N 1 0 0 1 0 0 3
 Refer: 367 -1 N 1 0 0 1 0 344 2
@@ -8861,7 +8796,7 @@ StartChar: semicolon.ss01
 Encoding: 65648 -1 370
 Width: 273
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 368 -1 N 1 0 0 1 0 0 2
 Refer: 367 -1 N 1 0 0 1 2 344 2
@@ -8873,7 +8808,7 @@ StartChar: ellipsis.ss01
 Encoding: 65649 -1 371
 Width: 718
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 367 -1 N 1 0 0 1 0 0 2
 Refer: 367 -1 N 1 0 0 1 223 0 2
@@ -8886,7 +8821,7 @@ StartChar: exclam.ss01
 Encoding: 65650 -1 372
 Width: 291
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 95 251 m 1,0,-1
@@ -8912,7 +8847,7 @@ StartChar: exclamdown.ss01
 Encoding: 65651 -1 373
 Width: 308
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 84 -205 m 1,0,-1
@@ -8938,7 +8873,7 @@ StartChar: question.ss01
 Encoding: 65652 -1 374
 Width: 566
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 231 251 m 1,0,1
@@ -8984,7 +8919,7 @@ StartChar: questiondown.ss01
 Encoding: 65653 -1 375
 Width: 566
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 265 -215 m 0,0,1
@@ -9030,7 +8965,7 @@ StartChar: periodcentered.ss01
 Encoding: 65654 -1 376
 Width: 161
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 367 -1 N 1 0 0 1 -55 305 2
 Validated: 1
@@ -9040,7 +8975,7 @@ StartChar: bullet.ss01
 Encoding: 65655 -1 377
 Width: 357
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 179 249 m 0,0,1
@@ -9060,7 +8995,7 @@ StartChar: periodcentered.loclCAT.case
 Encoding: 65656 -1 378
 Width: 144
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 344 46 N 1 0 0 1 -64 357 2
 Validated: 1
@@ -9072,7 +9007,7 @@ StartChar: bullet.case.ss01
 Encoding: 65657 -1 379
 Width: 774
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 389 48 m 0,0,1
@@ -9092,7 +9027,7 @@ StartChar: periodcentered.loclCAT.case.ss01
 Encoding: 65658 -1 380
 Width: 161
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 367 -1 N 1 0 0 1 -55 357 2
 Validated: 513
@@ -9103,7 +9038,7 @@ StartChar: hyphen
 Encoding: 45 45 381
 Width: 481
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 65 219 m 1,0,-1
@@ -9122,7 +9057,7 @@ StartChar: endash
 Encoding: 8211 8211 382
 Width: 587
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 65 224 m 1,0,-1
@@ -9141,7 +9076,7 @@ StartChar: emdash
 Encoding: 8212 8212 383
 Width: 879
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 65 224 m 1,0,-1
@@ -9160,7 +9095,7 @@ StartChar: underscore
 Encoding: 95 95 384
 Width: 456
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 382 8211 N 1 0 0 1 -65 -376 2
 Validated: 1
@@ -9171,7 +9106,7 @@ StartChar: hyphen.case
 Encoding: 65659 -1 385
 Width: 481
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 65 307 m 1,0,-1
@@ -9188,7 +9123,7 @@ StartChar: endash.case
 Encoding: 65660 -1 386
 Width: 587
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 65 312 m 1,0,-1
@@ -9204,7 +9139,7 @@ StartChar: emdash.case
 Encoding: 65661 -1 387
 Width: 879
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 65 312 m 1,0,-1
@@ -9220,7 +9155,7 @@ StartChar: parenleft
 Encoding: 40 40 388
 Width: 433
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 268 -110 m 1,0,1
@@ -9245,7 +9180,7 @@ StartChar: parenright
 Encoding: 41 41 389
 Width: 433
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 165 754 m 1,0,1
@@ -9270,7 +9205,7 @@ StartChar: braceleft
 Encoding: 123 123 390
 Width: 433
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 286 -108 m 2,0,1
@@ -9316,7 +9251,7 @@ StartChar: braceright
 Encoding: 125 125 391
 Width: 433
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 147 750 m 2,0,1
@@ -9362,7 +9297,7 @@ StartChar: bracketleft
 Encoding: 91 91 392
 Width: 433
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 83 -108 m 1,0,-1
@@ -9385,7 +9320,7 @@ StartChar: bracketright
 Encoding: 93 93 393
 Width: 433
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 350 750 m 1,0,-1
@@ -9407,7 +9342,7 @@ StartChar: parenleft.case
 Encoding: 65662 -1 394
 Width: 433
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 268 -40 m 1,0,1
@@ -9432,7 +9367,7 @@ StartChar: parenright.case
 Encoding: 65663 -1 395
 Width: 433
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 165 760 m 1,0,1
@@ -9457,7 +9392,7 @@ StartChar: braceleft.case
 Encoding: 65664 -1 396
 Width: 433
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 286 -40 m 2,0,1
@@ -9502,7 +9437,7 @@ StartChar: braceright.case
 Encoding: 65665 -1 397
 Width: 433
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 147 760 m 2,0,1
@@ -9547,7 +9482,7 @@ StartChar: bracketleft.case
 Encoding: 65666 -1 398
 Width: 433
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 83 -40 m 1,0,-1
@@ -9568,7 +9503,7 @@ StartChar: bracketright.case
 Encoding: 65667 -1 399
 Width: 433
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 350 760 m 1,0,-1
@@ -9588,7 +9523,7 @@ StartChar: quotesinglbase
 Encoding: 8218 8218 400
 Width: 268
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 345 44 N 1 0 0 1 -3 -32 2
 Validated: 1
@@ -9600,7 +9535,7 @@ StartChar: quotedblbase
 Encoding: 8222 8222 401
 Width: 460
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 345 44 N 1 0 0 1 189 -32 2
 Refer: 345 44 N 1 0 0 1 -3 -32 2
@@ -9614,7 +9549,7 @@ StartChar: quotedblleft
 Encoding: 8220 8220 402
 Width: 466
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 404 8216 N 1 0 0 1 195 0 2
 Refer: 404 8216 N 1 0 0 1 0 0 2
@@ -9628,7 +9563,7 @@ StartChar: quotedblright
 Encoding: 8221 8221 403
 Width: 466
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 405 8217 N 1 0 0 1 195 0 2
 Refer: 405 8217 N 1 0 0 1 0 0 2
@@ -9642,7 +9577,7 @@ StartChar: quoteleft
 Encoding: 8216 8216 404
 Width: 271
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 201 477 m 1,0,-1
@@ -9661,7 +9596,7 @@ StartChar: quoteright
 Encoding: 8217 8217 405
 Width: 271
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 169 477 m 5,0,-1
@@ -9680,7 +9615,7 @@ StartChar: guillemotleft
 Encoding: 171 171 406
 Width: 539
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 408 8249 N 1 0 0 1 0 0 2
 Refer: 408 8249 N 1 0 0 1 185 0 2
@@ -9692,7 +9627,7 @@ StartChar: guillemotright
 Encoding: 187 187 407
 Width: 539
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 362 434 m 1,0,-1
@@ -9718,7 +9653,7 @@ StartChar: guilsinglleft
 Encoding: 8249 8249 408
 Width: 354
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 177 68 m 1,0,-1
@@ -9736,7 +9671,7 @@ StartChar: guilsinglright
 Encoding: 8250 8250 409
 Width: 354
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 177 68 m 1,0,-1
@@ -9755,7 +9690,7 @@ StartChar: quotedbl
 Encoding: 34 34 410
 Width: 444
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 411 39 N 1 0 0 1 0 0 2
 Refer: 411 39 N 1 0 0 1 192 0 2
@@ -9767,7 +9702,7 @@ StartChar: quotesingle
 Encoding: 39 39 411
 Width: 252
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 105 447 m 1,0,-1
@@ -9793,7 +9728,7 @@ StartChar: quotesinglbase.ss01
 Encoding: 65668 -1 412
 Width: 287
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 417 -1 N 1 0 0 1 7 -634 2
 Validated: 5
@@ -9804,7 +9739,7 @@ StartChar: quotedblbase.ss01
 Encoding: 65669 -1 413
 Width: 481
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 417 -1 N 1 0 0 1 7 -634 2
 Refer: 417 -1 N 1 0 0 1 201 -634 2
@@ -9816,7 +9751,7 @@ StartChar: quotedblleft.ss01
 Encoding: 65670 -1 414
 Width: 481
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 416 -1 N 1 0 0 1 0 0 2
 Refer: 416 -1 N 1 0 0 1 195 0 2
@@ -9828,7 +9763,7 @@ StartChar: quotedblright.ss01
 Encoding: 65671 -1 415
 Width: 481
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 417 -1 N 1 0 0 1 7 0 2
 Refer: 417 -1 N 1 0 0 1 201 0 2
@@ -9840,7 +9775,7 @@ StartChar: quoteleft.ss01
 Encoding: 65672 -1 416
 Width: 287
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 148 443 m 0,0,1
@@ -9867,7 +9802,7 @@ StartChar: quoteright.ss01
 Encoding: 65673 -1 417
 Width: 271
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 61 456 m 1,0,-1
@@ -9896,7 +9831,7 @@ Width: 833
 GlyphClass: 3
 LigCaretCntFixed: 1
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 790 302 m 1,0,-1
@@ -9922,7 +9857,7 @@ StartChar: at
 Encoding: 64 64 419
 Width: 859
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 427 -10 m 0,0,1
@@ -10001,7 +9936,7 @@ StartChar: ampersand
 Encoding: 65675 -1 420
 Width: 752
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 580 0 m 1,0,-1
@@ -10062,7 +9997,7 @@ StartChar: paragraph
 Encoding: 182 182 421
 Width: 652
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 279 -130 m 1,0,-1
@@ -10089,7 +10024,7 @@ StartChar: section
 Encoding: 167 167 422
 Width: 506
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 269 182 m 1,0,-1
@@ -10150,7 +10085,7 @@ StartChar: copyright
 Encoding: 169 169 423
 Width: 823
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 411 -15 m 256,0,1
@@ -10217,7 +10152,7 @@ StartChar: registered
 Encoding: 174 174 424
 Width: 823
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 411 -15 m 256,0,1
@@ -10291,7 +10226,7 @@ StartChar: trademark
 Encoding: 8482 8482 425
 Width: 836
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 163 360 m 1,0,-1
@@ -10330,7 +10265,7 @@ StartChar: degree
 Encoding: 176 176 426
 Width: 373
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 187 449 m 0,0,1
@@ -10364,7 +10299,7 @@ StartChar: bar
 Encoding: 124 124 427
 Width: 232
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 62 -130 m 1,0,-1
@@ -10380,7 +10315,7 @@ StartChar: ampersand.ss11
 Encoding: 38 38 428
 Width: 752
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 251 0 m 2,0,1
@@ -10431,7 +10366,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 276 0 basechar 0
 AnchorPoint: "Anchor-0" 285 510 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 232 482 m 1,0,-1
@@ -10483,7 +10418,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-2" 326 0 basechar 0
 AnchorPoint: "Anchor-0" 320 720 basechar 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 268 696 m 1,0,-1
@@ -10536,7 +10471,7 @@ StartChar: Euro
 Encoding: 8364 8364 431
 Width: 697
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 393 -10 m 256,0,1
@@ -10585,7 +10520,7 @@ StartChar: sterling
 Encoding: 163 163 432
 Width: 586
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 42 0 m 1,0,-1
@@ -10631,7 +10566,7 @@ StartChar: yen
 Encoding: 165 165 433
 Width: 624
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 248 0 m 1,0,-1
@@ -10669,7 +10604,7 @@ StartChar: cent.ss12
 Encoding: 65676 -1 434
 Width: 540
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 282 -10 m 0,0,1
@@ -10716,7 +10651,7 @@ StartChar: dollar.ss12
 Encoding: 65677 -1 435
 Width: 621
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 331 -9 m 0,0,1
@@ -10770,7 +10705,7 @@ StartChar: plus
 Encoding: 43 43 436
 Width: 544
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 224 140 m 1,0,-1
@@ -10794,7 +10729,7 @@ StartChar: minus
 Encoding: 8722 8722 437
 Width: 544
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 53 324 m 1,0,-1
@@ -10812,7 +10747,7 @@ StartChar: multiply
 Encoding: 215 215 438
 Width: 544
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 422 154 m 1,0,-1
@@ -10836,7 +10771,7 @@ StartChar: divide
 Encoding: 247 247 439
 Width: 544
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 53 324 m 1,0,-1
@@ -10872,7 +10807,7 @@ StartChar: equal
 Encoding: 61 61 440
 Width: 544
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 53 424 m 1,0,-1
@@ -10896,7 +10831,7 @@ StartChar: greater
 Encoding: 62 62 441
 Width: 544
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 53 166 m 1,0,-1
@@ -10919,7 +10854,7 @@ StartChar: less
 Encoding: 60 60 442
 Width: 544
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 491 576 m 1,0,-1
@@ -10942,7 +10877,7 @@ StartChar: asciitilde
 Encoding: 126 126 443
 Width: 544
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 387 277 m 0,0,1
@@ -10975,7 +10910,7 @@ StartChar: asciicircum
 Encoding: 94 94 444
 Width: 544
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 163 491 m 1,0,-1
@@ -10996,7 +10931,7 @@ StartChar: percent
 Encoding: 37 37 445
 Width: 772
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 76 0 m 1,0,-1
@@ -11059,7 +10994,7 @@ StartChar: perthousand
 Encoding: 8240 8240 446
 Width: 823
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 170 363 m 256,0,1
@@ -11139,7 +11074,7 @@ StartChar: plus.tf
 Encoding: 65678 -1 447
 Width: 592
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 247 140 m 1,0,-1
@@ -11162,7 +11097,7 @@ StartChar: minus.tf
 Encoding: 65679 -1 448
 Width: 592
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 66 324 m 1,0,-1
@@ -11180,7 +11115,7 @@ StartChar: multiply.tf
 Encoding: 65680 -1 449
 Width: 592
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 457 154 m 1,0,-1
@@ -11203,7 +11138,7 @@ StartChar: divide.tf
 Encoding: 65681 -1 450
 Width: 592
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 66 324 m 1,0,-1
@@ -11239,7 +11174,7 @@ StartChar: equal.tf
 Encoding: 65682 -1 451
 Width: 592
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 65 424 m 1,0,-1
@@ -11262,7 +11197,7 @@ StartChar: greater.tf
 Encoding: 65683 -1 452
 Width: 592
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 66 166 m 1,0,-1
@@ -11284,7 +11219,7 @@ StartChar: less.tf
 Encoding: 65684 -1 453
 Width: 592
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 491 576 m 1,0,-1
@@ -11306,7 +11241,7 @@ StartChar: percent.tf
 Encoding: 65685 -1 454
 Width: 592
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 27 0 m 1,0,-1
@@ -11368,7 +11303,7 @@ StartChar: perthousand.tf
 Encoding: 65686 -1 455
 Width: 592
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 57 279 m 1,0,-1
@@ -11440,7 +11375,7 @@ StartChar: arrowup
 Encoding: 8593 8593 456
 Width: 804
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 344 5 m 1,0,-1
@@ -11463,7 +11398,7 @@ StartChar: uni2197
 Encoding: 8599 8599 457
 Width: 718
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 99 180 m 1,0,-1
@@ -11486,7 +11421,7 @@ StartChar: arrowright
 Encoding: 8594 8594 458
 Width: 850
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 60 418 m 1,0,-1
@@ -11509,7 +11444,7 @@ StartChar: uni2198
 Encoding: 8600 8600 459
 Width: 718
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 182 620 m 1,0,-1
@@ -11532,7 +11467,7 @@ StartChar: arrowdown
 Encoding: 8595 8595 460
 Width: 804
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 344 715 m 1,0,-1
@@ -11555,7 +11490,7 @@ StartChar: uni2199
 Encoding: 8601 8601 461
 Width: 718
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 619 537 m 1,0,-1
@@ -11578,7 +11513,7 @@ StartChar: arrowleft
 Encoding: 8592 8592 462
 Width: 850
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 790 302 m 1,0,-1
@@ -11601,7 +11536,7 @@ StartChar: uni2196
 Encoding: 8598 8598 463
 Width: 718
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 536 100 m 1,0,-1
@@ -11624,7 +11559,7 @@ StartChar: arrowboth
 Encoding: 8596 8596 464
 Width: 1147
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 401 18 m 1,0,-1
@@ -11650,7 +11585,7 @@ StartChar: arrowupdn
 Encoding: 8597 8597 465
 Width: 804
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 402 -154 m 1,0,-1
@@ -11681,7 +11616,7 @@ AnchorPoint: "Anchor-7" 242 732 basemark 0
 AnchorPoint: "Anchor-7" 242 510 mark 0
 AnchorPoint: "Anchor-4" 242 510 mark 0
 AnchorPoint: "Anchor-0" 242 510 mark 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 287 593 m 1,0,-1
@@ -11709,7 +11644,7 @@ AnchorPoint: "Anchor-7" 128 732 basemark 0
 AnchorPoint: "Anchor-7" 128 510 mark 0
 AnchorPoint: "Anchor-4" 128 510 mark 0
 AnchorPoint: "Anchor-0" 128 510 mark 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 60 594 m 1,0,-1
@@ -11732,7 +11667,7 @@ AnchorPoint: "Anchor-7" 242 740 basemark 0
 AnchorPoint: "Anchor-7" 242 510 mark 0
 AnchorPoint: "Anchor-4" 242 510 mark 0
 AnchorPoint: "Anchor-0" 242 510 mark 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 220 583 m 1,0,-1
@@ -11753,7 +11688,7 @@ AnchorPoint: "Anchor-7" 149 740 basemark 0
 AnchorPoint: "Anchor-7" 149 510 mark 0
 AnchorPoint: "Anchor-4" 149 510 mark 0
 AnchorPoint: "Anchor-0" 149 510 mark 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 171 583 m 1,0,-1
@@ -11774,7 +11709,7 @@ AnchorPoint: "Anchor-7" 229 740 basemark 0
 AnchorPoint: "Anchor-7" 229 510 mark 0
 AnchorPoint: "Anchor-4" 229 510 mark 0
 AnchorPoint: "Anchor-0" 229 510 mark 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 155 583 m 1,0,-1
@@ -11797,7 +11732,7 @@ Width: 0
 GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-1" 60 720 mark 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 143 490 m 1,0,-1
@@ -11818,7 +11753,7 @@ AnchorPoint: "Anchor-7" 254 740 basemark 0
 AnchorPoint: "Anchor-7" 254 510 mark 0
 AnchorPoint: "Anchor-4" 254 510 mark 0
 AnchorPoint: "Anchor-0" 254 510 mark 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 60 583 m 1,0,-1
@@ -11843,7 +11778,7 @@ AnchorPoint: "Anchor-7" 254 740 basemark 0
 AnchorPoint: "Anchor-7" 254 510 mark 0
 AnchorPoint: "Anchor-4" 254 510 mark 0
 AnchorPoint: "Anchor-0" 254 510 mark 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 189 583 m 1,0,-1
@@ -11868,7 +11803,7 @@ AnchorPoint: "Anchor-7" 229 740 basemark 0
 AnchorPoint: "Anchor-7" 229 510 mark 0
 AnchorPoint: "Anchor-4" 229 510 mark 0
 AnchorPoint: "Anchor-0" 229 510 mark 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 229 576 m 256,0,1
@@ -11897,7 +11832,7 @@ AnchorPoint: "Anchor-7" 168 776 basemark 0
 AnchorPoint: "Anchor-7" 168 510 mark 0
 AnchorPoint: "Anchor-4" 168 510 mark 0
 AnchorPoint: "Anchor-0" 168 510 mark 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 168 561 m 256,0,1
@@ -11931,7 +11866,7 @@ AnchorPoint: "Anchor-7" 261 735 basemark 0
 AnchorPoint: "Anchor-7" 261 510 mark 0
 AnchorPoint: "Anchor-4" 261 510 mark 0
 AnchorPoint: "Anchor-0" 261 510 mark 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 336 592 m 0,0,1
@@ -11968,7 +11903,7 @@ AnchorPoint: "Anchor-7" 237 716 basemark 0
 AnchorPoint: "Anchor-7" 237 510 mark 0
 AnchorPoint: "Anchor-4" 237 510 mark 0
 AnchorPoint: "Anchor-0" 237 510 mark 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 60 626 m 1,0,-1
@@ -11989,7 +11924,7 @@ AnchorPoint: "Anchor-7" 135 840 basemark 0
 AnchorPoint: "Anchor-7" 135 510 mark 0
 AnchorPoint: "Anchor-4" 135 510 mark 0
 AnchorPoint: "Anchor-0" 135 510 mark 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 67 583 m 1,0,-1
@@ -12018,7 +11953,7 @@ AnchorPoint: "Anchor-6" 135 -331 basemark 0
 AnchorPoint: "Anchor-6" 135 0 mark 0
 AnchorPoint: "Anchor-5" 135 0 mark 0
 AnchorPoint: "Anchor-2" 135 0 mark 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 67 -331 m 1,0,-1
@@ -12047,7 +11982,7 @@ AnchorPoint: "Anchor-6" 186 -215 basemark 0
 AnchorPoint: "Anchor-6" 196 0 mark 0
 AnchorPoint: "Anchor-5" 196 0 mark 0
 AnchorPoint: "Anchor-2" 196 0 mark 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 188 -215 m 0,0,1
@@ -12077,7 +12012,7 @@ Width: 0
 GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-3" 234 0 mark 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 164 -216 m 0,0,1
@@ -12107,7 +12042,7 @@ AnchorPoint: "Anchor-7" 249 742 basemark 0
 AnchorPoint: "Anchor-7" 249 510 mark 0
 AnchorPoint: "Anchor-4" 249 510 mark 0
 AnchorPoint: "Anchor-0" 249 510 mark 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 135 590 m 0,0,1
@@ -12141,7 +12076,7 @@ AnchorPoint: "Anchor-7" 141 743 basemark 0
 AnchorPoint: "Anchor-7" 141 510 mark 0
 AnchorPoint: "Anchor-4" 141 510 mark 0
 AnchorPoint: "Anchor-0" 141 510 mark 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 143 578 m 0,0,1
@@ -12166,7 +12101,7 @@ AnchorPoint: "Anchor-7" 135 840 basemark 0
 AnchorPoint: "Anchor-7" 135 510 mark 0
 AnchorPoint: "Anchor-4" 135 510 mark 0
 AnchorPoint: "Anchor-0" 135 510 mark 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 138 576 m 0,0,1
@@ -12198,7 +12133,7 @@ AnchorPoint: "Anchor-6" 135 -331 basemark 0
 AnchorPoint: "Anchor-6" 135 0 mark 0
 AnchorPoint: "Anchor-5" 135 0 mark 0
 AnchorPoint: "Anchor-2" 135 0 mark 0
-LayerCount: 2
+LayerCount: 3
 Fore
 SplineSet
 75 -331 m 1,0,-1
@@ -12225,7 +12160,7 @@ StartChar: dieresis
 Encoding: 168 168 486
 Width: 483
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 466 776 N 1 0 0 1 0 0 2
 Validated: 1
@@ -12237,7 +12172,7 @@ StartChar: dotaccent
 Encoding: 729 729 487
 Width: 256
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 467 775 N 1 0 0 1 0 0 2
 Validated: 1
@@ -12249,7 +12184,7 @@ StartChar: grave
 Encoding: 96 96 488
 Width: 354
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 468 768 N 1 0 0 1 0 0 2
 Validated: 1
@@ -12259,7 +12194,7 @@ StartChar: acute
 Encoding: 180 180 489
 Width: 354
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 469 769 N 1 0 0 1 0 0 2
 Validated: 1
@@ -12269,7 +12204,7 @@ StartChar: hungarumlaut
 Encoding: 733 733 490
 Width: 414
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 470 779 N 1 0 0 1 0 0 2
 Validated: 1
@@ -12279,7 +12214,7 @@ StartChar: circumflex
 Encoding: 710 710 491
 Width: 433
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 472 770 N 1 0 0 1 0 0 2
 Validated: 5
@@ -12289,7 +12224,7 @@ StartChar: caron
 Encoding: 711 711 492
 Width: 433
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 473 780 N 1 0 0 1 0 0 2
 Validated: 5
@@ -12299,7 +12234,7 @@ StartChar: breve
 Encoding: 728 728 493
 Width: 408
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 474 774 N 1 0 0 1 0 0 2
 Validated: 1
@@ -12309,7 +12244,7 @@ StartChar: ring
 Encoding: 730 730 494
 Width: 335
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 475 778 N 1 0 0 1 0 0 2
 Validated: 1
@@ -12319,7 +12254,7 @@ StartChar: tilde
 Encoding: 732 732 495
 Width: 452
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 476 771 N 1 0 0 1 0 0 2
 Validated: 1
@@ -12329,7 +12264,7 @@ StartChar: macron
 Encoding: 175 175 496
 Width: 411
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 477 772 N 1 0 0 1 0 0 2
 Validated: 1
@@ -12339,7 +12274,7 @@ StartChar: cedilla
 Encoding: 184 184 497
 Width: 301
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 480 807 N 1 0 0 1 0 0 2
 Validated: 1
@@ -12349,7 +12284,7 @@ StartChar: ogonek
 Encoding: 731 731 498
 Width: 269
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 481 808 N 1 0 0 1 0 0 2
 Validated: 1
@@ -12359,7 +12294,7 @@ StartChar: dieresis.ss01
 Encoding: 65692 -1 499
 Width: 497
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 482 -1 N 1 0 0 1 0 0 2
 Validated: 1
@@ -12369,7 +12304,7 @@ StartChar: dotaccent.ss01
 Encoding: 65693 -1 500
 Width: 282
 Flags: W
-LayerCount: 2
+LayerCount: 3
 Fore
 Refer: 483 -1 N 1 0 0 1 0 0 2
 Validated: 1
