@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1659194366
-ModificationTime: 1739283390
+ModificationTime: 1739283553
 PfmFamily: 81
 TTFWeight: 600
 TTFWidth: 5
@@ -2291,7 +2291,7 @@ StartChar: T
 Encoding: 84 84 86
 Width: 644
 GlyphClass: 2
-Flags: HWO
+Flags: HW
 AnchorPoint: "Anchor-2" 322 0 basechar 0
 AnchorPoint: "Anchor-0" 322 720 basechar 0
 LayerCount: 3
@@ -2344,31 +2344,44 @@ StartChar: U
 Encoding: 85 85 89
 Width: 686
 GlyphClass: 2
-Flags: HW
+Flags: HWO
 AnchorPoint: "Anchor-3" 489 20 basechar 0
 AnchorPoint: "Anchor-2" 343 0 basechar 0
 AnchorPoint: "Anchor-1" 670 720 basechar 0
 AnchorPoint: "Anchor-0" 343 720 basechar 0
 LayerCount: 3
+Back
+SplineSet
+342 -10 m 4
+ 247.333333333 -10 175.666666667 16.8333333333 127 70.5 c 132
+ 78.3333333333 124.166666667 54 201.333333333 54 302 c 6
+ 54 720 l 5
+ 193 720 l 5
+ 193 282 l 6
+ 193 222.842075725 208.553841507 95 343 95 c 260
+ 414.093401939 95 503 126.154120554 503 282 c 6
+ 503 720 l 5
+ 632 720 l 5
+ 632 301 l 6
+ 632 201 607.5 124.166666667 558.5 70.5 c 132
+ 509.5 16.8333333333 437.333333333 -10 342 -10 c 4
+EndSplineSet
 Fore
 SplineSet
 342 -10 m 0
  247.333333333 -10 175.666666667 16.8333333333 127 70.5 c 128
- 78.3333333333 124.166666667 54 201.333333333 54 302 c 2
+ 78.3333333333 124.166666667 54 171.333333333 54 302 c 6
  54 720 l 1
- 183 720 l 1
- 183 282 l 2
- 183 219.333333333 197 172.5 225 141.5 c 128
- 253 110.5 292.333333333 95 343 95 c 256
- 393.666666667 95 433 110.5 461 141.5 c 128
- 489 172.5 503 219.333333333 503 282 c 2
- 503 720 l 1
+ 213 720 l 1
+ 213 282 l 2
+ 213 134 277 93 343 95 c 256
+ 414.060782804 97.1533570547 483 126.154296875 483 282 c 2
+ 483 720 l 1
  632 720 l 1
- 632 301 l 2
- 632 201 607.5 124.166666667 558.5 70.5 c 128
+ 632 301 l 6
+ 632 161 607.5 124.166666667 558.5 70.5 c 128
  509.5 16.8333333333 437.333333333 -10 342 -10 c 0
 EndSplineSet
-Validated: 1
 Kerns2: 443 -34 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 359 -16 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 139 -15 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 85 -9 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -2384,8 +2397,7 @@ AnchorPoint: "Anchor-0" 343 950 basechar 0
 LayerCount: 3
 Fore
 Refer: 89 85 N 1 0 0 1 0 0 3
-Refer: 469 769 N 1 0 0 1 194 210 2
-Validated: 1
+Refer: 469 769 N 1 0 0 1 746 210 2
 EndChar
 
 StartChar: Ubreve
@@ -2400,8 +2412,7 @@ AnchorPoint: "Anchor-0" 343 950 basechar 0
 LayerCount: 3
 Fore
 Refer: 89 85 N 1 0 0 1 0 0 3
-Refer: 474 774 N 1 0 0 1 114 210 2
-Validated: 1
+Refer: 474 774 N 1 0 0 1 666 210 2
 EndChar
 
 StartChar: Ucircumflex
@@ -2416,8 +2427,7 @@ AnchorPoint: "Anchor-0" 343 950 basechar 0
 LayerCount: 3
 Fore
 Refer: 89 85 N 1 0 0 1 0 0 3
-Refer: 472 770 N 1 0 0 1 89 210 2
-Validated: 5
+Refer: 472 770 N 1 0 0 1 641 210 2
 EndChar
 
 StartChar: Udieresis
@@ -2432,8 +2442,7 @@ AnchorPoint: "Anchor-0" 343 942 basechar 0
 LayerCount: 3
 Fore
 Refer: 89 85 N 1 0 0 1 0 0 3
-Refer: 466 776 N 1 0 0 1 101 210 2
-Validated: 1
+Refer: 466 776 N 1 0 0 1 653 210 2
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" Udieresis.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Udieresis.ss01
 EndChar
@@ -2450,8 +2459,7 @@ AnchorPoint: "Anchor-0" 343 950 basechar 0
 LayerCount: 3
 Fore
 Refer: 89 85 N 1 0 0 1 0 0 3
-Refer: 468 768 N 1 0 0 1 101 210 2
-Validated: 1
+Refer: 468 768 N 1 0 0 1 653 210 2
 EndChar
 
 StartChar: Uhungarumlaut
@@ -2466,8 +2474,7 @@ AnchorPoint: "Anchor-0" 343 950 basechar 0
 LayerCount: 3
 Fore
 Refer: 89 85 N 1 0 0 1 0 0 3
-Refer: 470 779 N 1 0 0 1 114 210 2
-Validated: 1
+Refer: 470 779 N 1 0 0 1 666 210 2
 EndChar
 
 StartChar: Umacron
@@ -2482,8 +2489,7 @@ AnchorPoint: "Anchor-0" 343 926 basechar 0
 LayerCount: 3
 Fore
 Refer: 89 85 N 1 0 0 1 0 0 3
-Refer: 477 772 N 1 0 0 1 106 210 2
-Validated: 1
+Refer: 477 772 N 1 0 0 1 658 210 2
 EndChar
 
 StartChar: Uogonek
@@ -2498,8 +2504,7 @@ AnchorPoint: "Anchor-0" 343 720 basechar 0
 LayerCount: 3
 Fore
 Refer: 89 85 N 1 0 0 1 0 0 3
-Refer: 481 808 N 1 0 0 1 255 20 2
-Validated: 5
+Refer: 481 808 N 1 0 0 1 807 20 2
 EndChar
 
 StartChar: Uring
@@ -2514,8 +2519,7 @@ AnchorPoint: "Anchor-0" 343 986 basechar 0
 LayerCount: 3
 Fore
 Refer: 89 85 N 1 0 0 1 0 0 3
-Refer: 475 778 N 1 0 0 1 175 210 2
-Validated: 1
+Refer: 475 778 N 1 0 0 1 727 210 2
 EndChar
 
 StartChar: V
@@ -3044,8 +3048,7 @@ AnchorPoint: "Anchor-0" 343 952 basechar 0
 LayerCount: 3
 Fore
 Refer: 89 85 N 1 0 0 1 0 0 3
-Refer: 482 -1 N 1 0 0 1 95 210 2
-Validated: 1
+Refer: 482 -1 N 1 0 0 1 647 210 2
 EndChar
 
 StartChar: Ydieresis.ss01
