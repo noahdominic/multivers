@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1659194366
-ModificationTime: 1739283273
+ModificationTime: 1739283313
 PfmFamily: 81
 TTFWeight: 600
 TTFWidth: 5
@@ -1439,7 +1439,7 @@ StartChar: L
 Encoding: 76 76 51
 Width: 572
 GlyphClass: 2
-Flags: HWO
+Flags: HW
 AnchorPoint: "Anchor-2" 310 0 basechar 0
 AnchorPoint: "Anchor-1" 361 720 basechar 0
 AnchorPoint: "Anchor-0" 126 720 basechar 0
@@ -1544,7 +1544,7 @@ EndChar
 StartChar: M
 Encoding: 77 77 56
 Width: 881
-Flags: HW
+Flags: HWO
 LayerCount: 3
 Fore
 SplineSet
@@ -1556,14 +1556,14 @@ SplineSet
  619 720 l 1
  819 720 l 1
  819 0 l 1
- 674 0 l 1
- 682 672 l 5
+ 664 0 l 5
+ 672 672 l 5
  713 672 l 1
  505 0 l 1
  370 0 l 1
  163 667 l 1
- 201 667 l 1
- 201 0 l 1
+ 211 667 l 1
+ 211 0 l 1
  62 0 l 1
 EndSplineSet
 Substitution2: "'ss06' Style Set 6 in Latin lookup 27 subtable" M.ss06
