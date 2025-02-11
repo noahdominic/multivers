@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1659194366
-ModificationTime: 1739283313
+ModificationTime: 1739283335
 PfmFamily: 81
 TTFWeight: 600
 TTFWidth: 5
@@ -1544,7 +1544,7 @@ EndChar
 StartChar: M
 Encoding: 77 77 56
 Width: 881
-Flags: HWO
+Flags: HW
 LayerCount: 3
 Fore
 SplineSet
@@ -1574,7 +1574,7 @@ StartChar: N
 Encoding: 78 78 57
 Width: 708
 GlyphClass: 2
-Flags: HW
+Flags: HWO
 AnchorPoint: "Anchor-2" 354 0 basechar 0
 AnchorPoint: "Anchor-0" 354 720 basechar 0
 LayerCount: 3
@@ -1584,17 +1584,16 @@ SplineSet
  62 720 l 1
  221 720 l 1
  557 95 l 1
- 522 87 l 1
- 522 720 l 1
+ 512 87 l 5
+ 512 720 l 5
  646 720 l 1
  646 0 l 1
  487 0 l 1
  150 625 l 1
- 186 633 l 1
- 186 0 l 1
+ 196 633 l 1
+ 196 0 l 1
  62 0 l 1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: Nacute
@@ -1608,7 +1607,6 @@ LayerCount: 3
 Fore
 Refer: 57 78 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 205 210 2
-Validated: 5
 EndChar
 
 StartChar: Ncaron
@@ -1622,7 +1620,6 @@ LayerCount: 3
 Fore
 Refer: 57 78 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 100 210 2
-Validated: 5
 EndChar
 
 StartChar: uni0145
@@ -1636,7 +1633,6 @@ LayerCount: 3
 Fore
 Refer: 57 78 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 218 0 2
-Validated: 5
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" uni0145.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni0145.ss01
 EndChar
@@ -1652,7 +1648,6 @@ LayerCount: 3
 Fore
 Refer: 57 78 N 1 0 0 1 0 0 3
 Refer: 476 771 N 1 0 0 1 93 210 2
-Validated: 5
 EndChar
 
 StartChar: Eng
@@ -2980,7 +2975,6 @@ LayerCount: 3
 Fore
 Refer: 57 78 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 218 0 2
-Validated: 5
 EndChar
 
 StartChar: Odieresis.ss01
