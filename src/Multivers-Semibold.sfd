@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1659194366
-ModificationTime: 1739283132
+ModificationTime: 1739283154
 PfmFamily: 81
 TTFWeight: 600
 TTFWidth: 5
@@ -1228,20 +1228,19 @@ StartChar: I
 Encoding: 73 73 39
 Width: 252
 GlyphClass: 2
-Flags: HW
+Flags: HWO
 AnchorPoint: "Anchor-3" 172 0 basechar 0
 AnchorPoint: "Anchor-2" 126 0 basechar 0
 AnchorPoint: "Anchor-0" 126 720 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-62 0 m 1
- 62 720 l 1
- 191 720 l 1
- 191 0 l 1
- 62 0 l 1
+52 0 m 5
+ 52 720 l 5
+ 201 720 l 1
+ 201 0 l 1
+ 52 0 l 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: IJ
@@ -1271,7 +1270,6 @@ LayerCount: 3
 Fore
 Refer: 39 73 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 -23 210 2
-Validated: 1
 Kerns2: 45 37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -1287,7 +1285,6 @@ LayerCount: 3
 Fore
 Refer: 39 73 N 1 0 0 1 0 0 3
 Refer: 472 770 N 1 0 0 1 -128 210 2
-Validated: 5
 Kerns2: 262 -15 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -1303,7 +1300,6 @@ LayerCount: 3
 Fore
 Refer: 39 73 N 1 0 0 1 0 0 3
 Refer: 466 776 N 1 0 0 1 -116 210 2
-Validated: 1
 Kerns2: 385 -39 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 381 -39 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 343 -35 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 43 140 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" Idieresis.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Idieresis.ss01
@@ -1321,7 +1317,6 @@ LayerCount: 3
 Fore
 Refer: 39 73 N 1 0 0 1 0 0 3
 Refer: 467 775 N 1 0 0 1 -2 210 2
-Validated: 1
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" Idotaccent.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Idotaccent.ss01
 EndChar
@@ -1338,7 +1333,6 @@ LayerCount: 3
 Fore
 Refer: 39 73 N 1 0 0 1 0 0 3
 Refer: 468 768 N 1 0 0 1 -116 210 2
-Validated: 1
 EndChar
 
 StartChar: Imacron
@@ -1353,7 +1347,6 @@ LayerCount: 3
 Fore
 Refer: 39 73 N 1 0 0 1 0 0 3
 Refer: 477 772 N 1 0 0 1 -111 210 2
-Validated: 1
 Kerns2: 46 72 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -1369,7 +1362,6 @@ LayerCount: 3
 Fore
 Refer: 39 73 N 1 0 0 1 0 0 3
 Refer: 481 808 N 1 0 0 1 -62 0 2
-Validated: 5
 EndChar
 
 StartChar: J
@@ -2934,7 +2926,6 @@ LayerCount: 3
 Fore
 Refer: 39 73 N 1 0 0 1 0 0 3
 Refer: 482 -1 N 1 0 0 1 -122 210 2
-Validated: 1
 Kerns2: 381 -39 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 343 -35 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -2950,7 +2941,6 @@ LayerCount: 3
 Fore
 Refer: 39 73 N 1 0 0 1 0 0 3
 Refer: 483 -1 N 1 0 0 1 -15 210 2
-Validated: 1
 EndChar
 
 StartChar: uni0136.ss01
