@@ -1,0 +1,27 @@
+StartChar: F
+Encoding: 70 70 32
+Width: 532
+Flags: HW
+HStem: 0 21G<79 168> 300 70<120 480> 638 70<120 506>
+VStem: 79 89<0 300 370 638> 120 48<300 370 638 708>
+LayerCount: 3
+Fore
+SplineSet
+79 0 m 1xf0
+ 79 708 l 1xf0
+ 168 708 l 1xe8
+ 168 0 l 1
+ 79 0 l 1xf0
+120 300 m 1xe8
+ 120 370 l 1
+ 480 370 l 1
+ 480 300 l 1
+ 120 300 l 1xe8
+120 638 m 5
+ 120 708 l 1
+ 506 708 l 1
+ 506 638 l 5
+ 120 638 l 5
+EndSplineSet
+Validated: 5
+EndChar

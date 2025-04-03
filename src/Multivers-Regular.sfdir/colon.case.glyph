@@ -1,0 +1,12 @@
+StartChar: colon.case
+Encoding: 65637 -1 359
+Width: 257
+Flags: HW
+HStem: 130 100<84 184> 504 100<84 184>
+VStem: 84 100<130 231 504 604>
+LayerCount: 3
+Fore
+Refer: 344 46 N 1 0 0 1 0 130 3
+Refer: 344 46 N 1 0 0 1 0 504 2
+Validated: 1
+EndChar

@@ -1,0 +1,15 @@
+StartChar: Yacute
+Encoding: 221 221 107
+Width: 599
+GlyphClass: 2
+Flags: HW
+HStem: 0 21G<262 351> 689 19G<5 123 497 598> 780 155
+VStem: 235 225 262 88<0 322>
+AnchorPoint: "Anchor-2" 319 0 basechar 0
+AnchorPoint: "Anchor-0" 319 935 basechar 0
+LayerCount: 3
+Fore
+Refer: 106 89 N 1 0 0 1 0 0 3
+Refer: 469 769 N 1 0 0 1 165 207 2
+Validated: 5
+EndChar

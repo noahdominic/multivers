@@ -1,0 +1,33 @@
+StartChar: two.tf
+Encoding: 65627 -1 332
+Width: 589
+Flags: HW
+HStem: 0 80<143 497> 504 21G<39 148> 649 70<196 352>
+VStem: 39 104<504 587> 401 97<430 598>
+LayerCount: 3
+Fore
+SplineSet
+46 0 m 1
+ 46 68 l 1
+ 113 127 170 178 215 222 c 0
+ 260 266 297 305 325 341 c 0
+ 353 377 371 408 383 437 c 0
+ 395 466 401 494 401 522 c 0
+ 401 562 390 593 367 615 c 0
+ 344 637 312 649 271 649 c 0
+ 185 649 154 597 143 504 c 1
+ 39 504 l 1
+ 45 568 69 620 110 659 c 0
+ 151 698 208 719 277 719 c 0
+ 317 719 499 707 499 523 c 0
+ 499 394 417 276 143 42 c 1
+ 109 80 l 5
+ 497 80 l 5
+ 497 0 l 1
+ 46 0 l 1
+EndSplineSet
+Validated: 5
+Substitution2: "'ss10' Style Set 10 in Latin lookup 31 subtable" two.tf.ss10
+Substitution2: "'pnum' Proportional Numbers in Latin lookup 18 subtable" two
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" two two.tf.ss10
+EndChar

@@ -1,0 +1,15 @@
+StartChar: Scaron
+Encoding: 352 352 82
+Width: 568
+GlyphClass: 2
+Flags: HW
+HStem: -9 75<204 397> 505 21G<431 523> 645 75<196 379> 780 155
+VStem: 37 94<135 227> 67 87<474 606> 432 90<505 594> 445 86<110 255>
+AnchorPoint: "Anchor-2" 296 0 basechar 0
+AnchorPoint: "Anchor-0" 296 935 basechar 0
+LayerCount: 3
+Fore
+Refer: 80 83 N 1 0 0 1 0 0 3
+Refer: 473 780 N 1 0 0 1 133 207 2
+Validated: 5
+EndChar

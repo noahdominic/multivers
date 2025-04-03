@@ -1,0 +1,34 @@
+StartChar: A
+Encoding: 65 65 1
+Width: 634
+GlyphClass: 2
+Flags: HW
+HStem: 0 21G<10 102.09 525.91 624> 215 70<139 491> 688 20G<259.74 372.316>
+AnchorPoint: "Anchor-1" 328 716 basechar 0
+AnchorPoint: "Anchor-4" 638 0 basechar 0
+AnchorPoint: "Anchor-3" 624 0 basechar 0
+AnchorPoint: "Anchor-2" 317 0 basechar 0
+AnchorPoint: "Anchor-0" 317 708 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+10 0 m 1
+ 267 708 l 1
+ 346 708 l 1
+ 95 0 l 1
+ 10 0 l 1
+533 0 m 1
+ 282 708 l 1
+ 365 708 l 1
+ 624 0 l 1
+ 533 0 l 1
+139 285 m 5
+ 491 285 l 5
+ 491 215 l 1
+ 139 215 l 1
+ 139 285 l 5
+EndSplineSet
+Validated: 5
+Substitution2: "Single Substitution lookup 17 subtable" ordfeminine
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" ordfeminine
+EndChar

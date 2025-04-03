@@ -1,0 +1,30 @@
+StartChar: uni0326
+Encoding: 806 806 479
+Width: 11
+GlyphClass: 4
+Flags: HW
+HStem: -170 99<70 127> -170 5<127 155>
+VStem: 70 102<-164 -71>
+AnchorPoint: "Anchor-6" 121 -288 basemark 0
+AnchorPoint: "Anchor-6" 121 0 mark 0
+AnchorPoint: "Anchor-5" 121 0 mark 0
+AnchorPoint: "Anchor-2" 121 0 mark 0
+LayerCount: 3
+Fore
+SplineSet
+70 -288 m 1xa0
+ 70 -249 l 1
+ 87 -241 100 -230 111 -217 c 0
+ 122 -204 127 -186 127 -165 c 1
+ 155 -170 l 1x60
+ 70 -170 l 1
+ 70 -71 l 1
+ 172 -71 l 1
+ 172 -148 l 2
+ 172 -180 163 -208 147 -234 c 0
+ 131 -260 105 -277 70 -288 c 1xa0
+EndSplineSet
+Validated: 5
+Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" uni0326.ss01
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni0326.ss01
+EndChar

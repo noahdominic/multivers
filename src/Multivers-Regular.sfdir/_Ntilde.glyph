@@ -1,0 +1,15 @@
+StartChar: Ntilde
+Encoding: 209 209 61
+Width: 690
+GlyphClass: 2
+Flags: HW
+HStem: 0 21G<81 170 510 611> 689 19G<81 177 522 611> 791 58<386 471> 859 58<243 327>
+VStem: 81 89<0 597> 177 55<801 845> 482 55<864 907> 522 89<112 708>
+AnchorPoint: "Anchor-2" 348 0 basechar 0
+AnchorPoint: "Anchor-0" 348 917 basechar 0
+LayerCount: 3
+Fore
+Refer: 57 78 N 1 0 0 1 0 0 3
+Refer: 476 771 N 1 0 0 1 107 207 2
+Validated: 5
+EndChar

@@ -1,0 +1,15 @@
+StartChar: Gbreve.ss07
+Encoding: 65563 -1 141
+Width: 728
+GlyphClass: 2
+Flags: HW
+HStem: -10 72<281 489> 295 30<604 623> 295 70<406 604> 647 72<283 489> 776 65<311 447>
+VStem: 59 81<218 486> 221 61<872 935> 477 62<872 935> 589 80<484 550>
+AnchorPoint: "Anchor-2" 369 0 basechar 0
+AnchorPoint: "Anchor-0" 369 935 basechar 0
+LayerCount: 3
+Fore
+Refer: 140 -1 N 1 0 0 1 0 0 3
+Refer: 474 774 N 1 0 0 1 152 207 2
+Validated: 5
+EndChar

@@ -1,0 +1,29 @@
+StartChar: four
+Encoding: 52 52 323
+Width: 579
+Flags: HW
+HStem: 0 21G<374 463> 154 73<117 374 376 555> 688 20G<363.008 463>
+VStem: 376 87<0 206>
+LayerCount: 3
+Fore
+SplineSet
+374 0 m 1
+ 374 186 l 1
+ 376 206 l 1
+ 376 606 l 1
+ 400 606 l 1
+ 117 201 l 1
+ 91 227 l 1
+ 555 227 l 1
+ 555 154 l 1
+ 37 154 l 1
+ 37 222 l 1
+ 377 708 l 1
+ 463 708 l 5
+ 463 0 l 5
+ 374 0 l 1
+EndSplineSet
+Validated: 5
+Substitution2: "'tnum' Tabular Numbers in Latin lookup 19 subtable" four.tf
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" four.tf
+EndChar

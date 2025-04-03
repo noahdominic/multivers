@@ -1,0 +1,46 @@
+StartChar: braceleft
+Encoding: 123 123 390
+Width: 402
+Flags: HW
+HStem: -107 63<204.589 339> 285 61<44 149.008> 676 62<204.589 339>
+VStem: 44 295
+LayerCount: 3
+Fore
+SplineSet
+253 -107 m 2
+ 219 -107 192 -99 171 -86 c 0
+ 150 -73 136 -55 128 -32 c 0
+ 120 -9 119 16 124 42 c 2
+ 155 199 l 2
+ 162 230 159 252 148 265 c 0
+ 137 278 117 285 89 285 c 2
+ 44 285 l 1
+ 44 346 l 1
+ 89 346 l 2
+ 117 346 137 353 148 366 c 0
+ 159 379 162 402 155 433 c 2
+ 124 589 l 2
+ 119 616 120 641 128 664 c 0
+ 136 687 150 705 171 718 c 0
+ 192 731 219 738 253 738 c 2
+ 339 738 l 1
+ 339 676 l 1
+ 258 676 l 2
+ 233 676 216 668 204 654 c 0
+ 192 640 191 620 197 592 c 2
+ 226 454 l 2
+ 235 415 233 383 221 362 c 0
+ 209 341 191 326 166 316 c 1
+ 191 306 209 290 221 269 c 0
+ 233 248 235 217 226 178 c 2
+ 197 39 l 2
+ 191 11 192 -9 204 -23 c 0
+ 216 -37 233 -44 258 -44 c 2
+ 339 -44 l 1
+ 339 -107 l 1
+ 253 -107 l 2
+EndSplineSet
+Validated: 33
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 20 subtable" braceleft.case
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" braceleft.case
+EndChar

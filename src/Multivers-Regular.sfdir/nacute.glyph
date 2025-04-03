@@ -1,0 +1,15 @@
+StartChar: nacute
+Encoding: 324 324 209
+Width: 564
+GlyphClass: 2
+Flags: HW
+HStem: 0 21G<75 161 413 499> 448 63<229 369> 481 19G<69 157> 574 155
+VStem: 75 86<0 502> 247 225 413 86<0 396>
+AnchorPoint: "Anchor-2" 299 0 basechar 0
+AnchorPoint: "Anchor-0" 313 728 basechar 0
+LayerCount: 3
+Fore
+Refer: 208 110 N 1 0 0 1 0 0 3
+Refer: 469 769 N 1 0 0 1 177 0 2
+Validated: 5
+EndChar

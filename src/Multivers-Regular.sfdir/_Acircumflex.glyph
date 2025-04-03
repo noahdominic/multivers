@@ -1,0 +1,15 @@
+StartChar: Acircumflex
+Encoding: 194 194 5
+Width: 634
+GlyphClass: 2
+Flags: HW
+HStem: 0 21G<10 102 526 624> 215 74<139 491> 689 19G<261 372> 780 155 896 19G<288 365>
+AnchorPoint: "Anchor-3" 649 0 basechar 0
+AnchorPoint: "Anchor-2" 341 0 basechar 0
+AnchorPoint: "Anchor-0" 341 935 basechar 0
+LayerCount: 3
+Fore
+Refer: 1 65 N 1 0 0 1 0 0 3
+Refer: 472 770 N 1 0 0 1 80 207 2
+Validated: 5
+EndChar

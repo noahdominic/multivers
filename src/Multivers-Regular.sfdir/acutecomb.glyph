@@ -1,0 +1,22 @@
+StartChar: acutecomb
+Encoding: 769 769 469
+Width: 11
+GlyphClass: 4
+Flags: HW
+HStem: 574 155
+VStem: 65 225
+AnchorPoint: "Anchor-7" 142 728 basemark 0
+AnchorPoint: "Anchor-7" 142 502 mark 0
+AnchorPoint: "Anchor-4" 142 502 mark 0
+AnchorPoint: "Anchor-0" 142 502 mark 0
+LayerCount: 3
+Fore
+SplineSet
+136 574 m 1
+ 65 574 l 1
+ 173 728 l 1
+ 290 728 l 1
+ 136 574 l 1
+EndSplineSet
+Validated: 1
+EndChar

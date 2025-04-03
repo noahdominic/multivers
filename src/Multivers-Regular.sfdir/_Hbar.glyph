@@ -1,0 +1,35 @@
+StartChar: Hbar
+Encoding: 294 294 38
+Width: 706
+GlyphClass: 2
+Flags: HW
+HStem: 0 21G<88 168 539 619> 334 69<130 573> 533 65<6 701> 689 19G<88 168 539 619>
+VStem: 88 80<0 334 404 708> 130 38<334 404> 539 80<0 334 404 708> 539 35<334 404>
+AnchorPoint: "Anchor-2" 353 0 basechar 0
+AnchorPoint: "Anchor-0" 353 708 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+6 533 m 1xf0
+ 6 599 l 1
+ 701 599 l 1
+ 701 533 l 1
+ 6 533 l 1xf0
+88 0 m 1xf8
+ 88 708 l 1
+ 168 708 l 1
+ 168 0 l 1
+ 88 0 l 1xf8
+539 0 m 1xf2
+ 539 708 l 1
+ 619 708 l 1
+ 619 0 l 1
+ 539 0 l 1xf2
+130 404 m 1xf5
+ 573 404 l 1
+ 573 334 l 1
+ 130 334 l 1
+ 130 404 l 1xf5
+EndSplineSet
+Validated: 5
+EndChar

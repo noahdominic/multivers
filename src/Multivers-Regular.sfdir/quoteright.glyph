@@ -1,0 +1,19 @@
+StartChar: quoteright
+Encoding: 8217 8217 405
+Width: 257
+Flags: HW
+HStem: 500 209<129 151>
+VStem: 81 148
+LayerCount: 3
+Fore
+SplineSet
+151 500 m 1
+ 81 500 l 1
+ 129 708 l 1
+ 229 708 l 1
+ 151 500 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" quoteright.ss01
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" quoteright.ss01
+EndChar

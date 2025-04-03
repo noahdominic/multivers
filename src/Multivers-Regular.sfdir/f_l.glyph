@@ -1,0 +1,39 @@
+StartChar: f_l
+Encoding: 65620 -1 313
+Width: 587
+GlyphClass: 3
+LigCaretCntFixed: 1
+Flags: HW
+HStem: 0 21G<111 198 419 505> 436 66<22 309> 647 62<223 419>
+VStem: 111 86<0 624> 419 86<0 647>
+AnchorPoint: "Anchor-5" 150 0 baselig 0
+AnchorPoint: "Anchor-4" 150 728 baselig 0
+AnchorPoint: "Anchor-5" 439 0 baselig 1
+AnchorPoint: "Anchor-4" 439 728 baselig 1
+LayerCount: 3
+Fore
+SplineSet
+22 436 m 1
+ 22 502 l 1
+ 309 502 l 1
+ 309 436 l 1
+ 22 436 l 1
+111 0 m 1
+ 111 568 l 2
+ 111 640 154 708 280 708 c 2
+ 419 708 l 1
+ 459 708 l 1
+ 505 708 l 1
+ 505 0 l 1
+ 419 0 l 1
+ 419 647 l 1
+ 282 647 l 2
+ 253 647 231 639 218 625 c 0
+ 205 611 198 590 198 563 c 2
+ 198 0 l 1
+ 111 0 l 1
+EndSplineSet
+Validated: 5
+Ligature2: "'liga' Standard Ligatures in Latin lookup 21 subtable" f l
+LCarets2: 1 287
+EndChar

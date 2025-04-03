@@ -1,0 +1,16 @@
+StartChar: Abreve
+Encoding: 258 258 3
+Width: 634
+GlyphClass: 2
+Flags: HW
+HStem: 0 21G<10 102 526 624> 215 74<139 491> 689 19G<261 372> 776 65<260 395>
+VStem: 169 61<872 935> 424 62<872 935>
+AnchorPoint: "Anchor-3" 649 0 basechar 0
+AnchorPoint: "Anchor-2" 341 0 basechar 0
+AnchorPoint: "Anchor-0" 341 935 basechar 0
+LayerCount: 3
+Fore
+Refer: 1 65 N 1 0 0 1 0 0 3
+Refer: 474 774 N 1 0 0 1 99 207 2
+Validated: 5
+EndChar

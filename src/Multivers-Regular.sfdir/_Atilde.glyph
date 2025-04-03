@@ -1,0 +1,16 @@
+StartChar: Atilde
+Encoding: 195 195 11
+Width: 634
+GlyphClass: 2
+Flags: HW
+HStem: 0 21G<10 102 526 624> 215 74<139 491> 689 19G<261 372> 791 58<356 440> 859 58<213 298>
+VStem: 146 55<801 845> 452 55<864 907>
+AnchorPoint: "Anchor-3" 649 0 basechar 0
+AnchorPoint: "Anchor-2" 341 0 basechar 0
+AnchorPoint: "Anchor-0" 341 917 basechar 0
+LayerCount: 3
+Fore
+Refer: 1 65 N 1 0 0 1 0 0 3
+Refer: 476 771 N 1 0 0 1 77 207 2
+Validated: 5
+EndChar

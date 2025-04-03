@@ -1,0 +1,15 @@
+StartChar: wdieresis.ss01
+Encoding: 65598 -1 286
+Width: 722
+GlyphClass: 2
+Flags: HW
+HStem: 0 21G<144 242 487 585> 482 19G<10 112 310 422 621 711> 598 110<228 303 449 524>
+VStem: 210 109<613 691> 432 109<613 691>
+AnchorPoint: "Anchor-2" 368 0 basechar 0
+AnchorPoint: "Anchor-0" 368 706 basechar 0
+LayerCount: 3
+Fore
+Refer: 251 119 N 1 0 0 1 0 0 3
+Refer: 482 -1 N 1 0 0 1 141 0 2
+Validated: 5
+EndChar

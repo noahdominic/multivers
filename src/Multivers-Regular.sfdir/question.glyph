@@ -1,0 +1,30 @@
+StartChar: question
+Encoding: 63 63 351
+Width: 502
+Flags: HW
+HStem: 0 100<155 253> 635 86<90 188.49>
+VStem: 155 98<0 100> 155 86<206 312.5> 346 90<484.582 618.459>
+LayerCount: 3
+Fore
+SplineSet
+155 206 m 1xd8
+ 155 289 159 338 250 413 c 0
+ 326 475 344 494 346 554 c 0
+ 349 674 209 674 90 635 c 1
+ 88 721 l 1
+ 125 733 169 739 222 739 c 0
+ 257 739 436 731 436 553 c 4
+ 436 492 416 439 336 384 c 0
+ 261 331 241 300 241 206 c 1
+ 155 206 l 1xd8
+155 0 m 1xe8
+ 155 100 l 1
+ 253 100 l 1
+ 253 0 l 1
+ 155 0 l 1xe8
+EndSplineSet
+Validated: 33
+Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" question.ss01
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 20 subtable" question.case
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" question.case question.ss01
+EndChar

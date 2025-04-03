@@ -1,0 +1,21 @@
+StartChar: bullet.ss01
+Encoding: 65655 -1 377
+Width: 324
+Flags: HW
+HStem: 280 168<106 219>
+VStem: 79 168<307 420>
+LayerCount: 3
+Fore
+SplineSet
+163 280 m 0
+ 139 280 120 288 104 303 c 0
+ 88 318 79 338 79 364 c 0
+ 79 388 88 408 104 424 c 0
+ 120 440 139 448 163 448 c 0
+ 185 448 206 440 222 424 c 0
+ 238 408 247 388 247 364 c 0
+ 247 338 238 318 222 303 c 0
+ 206 288 185 280 163 280 c 0
+EndSplineSet
+Validated: 1
+EndChar

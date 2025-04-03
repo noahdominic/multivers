@@ -1,0 +1,24 @@
+StartChar: plus
+Encoding: 43 43 436
+Width: 533
+Flags: HW
+HStem: 332 66<65 470>
+VStem: 234 67<151 580>
+LayerCount: 3
+Fore
+SplineSet
+234 151 m 1
+ 234 580 l 1
+ 301 580 l 1
+ 301 151 l 1
+ 234 151 l 1
+65 332 m 1
+ 65 398 l 1
+ 470 398 l 1
+ 470 332 l 1
+ 65 332 l 1
+EndSplineSet
+Validated: 5
+Substitution2: "'tnum' Tabular Numbers in Latin lookup 19 subtable" plus.tf
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" plus.tf
+EndChar

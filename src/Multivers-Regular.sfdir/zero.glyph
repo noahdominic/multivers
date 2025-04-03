@@ -1,0 +1,24 @@
+StartChar: zero
+Encoding: 48 48 319
+Width: 640
+Flags: HW
+HStem: -10 75<243.643 396.33> 644 75<244.413 400.331>
+VStem: 54 98<201.886 504.685> 491 97<200.577 512.092>
+LayerCount: 3
+Fore
+SplineSet
+321 -10 m 0
+ 158 -10 54 141 54 357 c 256
+ 54 399 63 719 321 719 c 0
+ 485 719 588 569 588 357 c 0
+ 588 145 487 -10 321 -10 c 0
+321 65 m 260
+ 433 65 491 167 491 358 c 0
+ 491 465 480 644 321 644 c 0
+ 210 644 152 551 152 358 c 0
+ 152 273 158 65 321 65 c 260
+EndSplineSet
+Validated: 1
+Substitution2: "'tnum' Tabular Numbers in Latin lookup 19 subtable" zero.tf
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" zero.tf
+EndChar

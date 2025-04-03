@@ -1,0 +1,57 @@
+StartChar: f_f_i
+Encoding: 65617 -1 310
+Width: 900
+GlyphClass: 3
+LigCaretCntFixed: 1
+Flags: HW
+HStem: 0 21G<102 188 429 517 738 824> 436 66<11 806> 617 91<732 831> 651 61<273 316 600 645> 656 62<212 316 539 645>
+VStem: 102 86<0 634> 429 87<0 634> 732 99<617 708> 738 86<0 436> 738 68<436 502>
+LayerCount: 3
+Fore
+SplineSet
+102 0 m 1xce
+ 102 578 l 2
+ 102 639 136 719 267 719 c 0xce
+ 280 719 289 717 297 716 c 0
+ 305 715 311 713 316 711 c 1
+ 316 651 l 1xd6
+ 311 652 305 653 297 654 c 0
+ 289 655 282 656 273 656 c 0
+ 244 656 221 648 208 634 c 0
+ 195 620 188 600 188 573 c 2
+ 188 0 l 1
+ 102 0 l 1xce
+429 0 m 1
+ 429 578 l 2
+ 429 634 461 719 595 719 c 0xce
+ 608 719 617 717 625 716 c 0
+ 633 715 640 713 645 711 c 1
+ 645 651 l 1xd6
+ 640 652 633 653 625 654 c 0
+ 617 655 610 656 600 656 c 0
+ 571 656 550 648 537 634 c 0
+ 524 620 517 600 517 573 c 2
+ 517 0 l 1
+ 429 0 l 1
+738 0 m 1xc680
+ 738 502 l 1xc640
+ 824 502 l 1
+ 824 0 l 1
+ 738 0 l 1xc680
+11 436 m 1
+ 11 502 l 1
+ 806 502 l 1
+ 806 436 l 1
+ 11 436 l 1
+732 617 m 1xe7
+ 732 708 l 1
+ 831 708 l 1
+ 831 617 l 1
+ 732 617 l 1xe7
+EndSplineSet
+Validated: 5
+Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" f_f_i.ss01
+Ligature2: "'liga' Standard Ligatures in Latin lookup 21 subtable" f f i
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" f_f_i.ss01
+LCarets2: 2 359 708
+EndChar

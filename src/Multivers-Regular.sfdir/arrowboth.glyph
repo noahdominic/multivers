@@ -1,0 +1,26 @@
+StartChar: arrowboth
+Encoding: 8596 8596 464
+Width: 1010
+Flags: HW
+HStem: 320 69<196 817>
+LayerCount: 3
+Fore
+SplineSet
+388 30 m 1
+ 65 355 l 1
+ 387 679 l 1
+ 483 679 l 1
+ 196 388 l 1
+ 817 388 l 1
+ 528 679 l 1
+ 624 679 l 1
+ 946 355 l 1
+ 623 30 l 1
+ 527 30 l 1
+ 817 320 l 1
+ 196 320 l 1
+ 484 30 l 1
+ 388 30 l 1
+EndSplineSet
+Validated: 1
+EndChar

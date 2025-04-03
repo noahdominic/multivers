@@ -1,0 +1,18 @@
+StartChar: edieresis
+Encoding: 235 235 176
+Width: 518
+GlyphClass: 2
+Flags: HW
+HStem: -10 61<207 358> 229 65<92 405> 451 61<203 348> 617 91<130 219 351 440>
+VStem: 92 34<229 293> 130 89<617 708> 351 89<617 708> 401 87<95 159>
+AnchorPoint: "Anchor-3" 388 19 basechar 0
+AnchorPoint: "Anchor-2" 268 0 basechar 0
+AnchorPoint: "Anchor-0" 279 708 basechar 0
+LayerCount: 3
+Fore
+Refer: 172 101 N 1 0 0 1 0 0 3
+Refer: 466 776 N 1 0 0 1 60 0 2
+Validated: 1
+Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" edieresis.ss01
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" edieresis.ss01
+EndChar

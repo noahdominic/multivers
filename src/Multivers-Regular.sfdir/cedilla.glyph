@@ -1,0 +1,11 @@
+StartChar: cedilla
+Encoding: 184 184 497
+Width: 307
+Flags: HW
+HStem: -211 50<134 241> -85 96<177 216>
+VStem: 76 54<-154 -125> 244 57<-156 -99>
+LayerCount: 3
+Fore
+Refer: 480 807 N 1 0 0 1 6 0 2
+Validated: 1
+EndChar

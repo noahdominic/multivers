@@ -1,0 +1,21 @@
+StartChar: l
+Encoding: 108 108 202
+Width: 231
+GlyphClass: 2
+Flags: HW
+HStem: 0 21G<73 159> 688 20G<73 159>
+VStem: 73 86<0 708>
+AnchorPoint: "Anchor-2" 115 0 basechar 0
+AnchorPoint: "Anchor-1" 220 719 basechar 0
+AnchorPoint: "Anchor-0" 115 708 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+73 0 m 1
+ 73 708 l 5
+ 159 708 l 5
+ 159 0 l 1
+ 73 0 l 1
+EndSplineSet
+Validated: 1
+EndChar

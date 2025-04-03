@@ -1,0 +1,18 @@
+StartChar: minus
+Encoding: 8722 8722 437
+Width: 533
+Flags: HW
+HStem: 332 65<65 470>
+LayerCount: 3
+Fore
+SplineSet
+65 332 m 1
+ 65 398 l 1
+ 470 398 l 1
+ 470 332 l 1
+ 65 332 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'tnum' Tabular Numbers in Latin lookup 19 subtable" minus.tf
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" minus.tf
+EndChar

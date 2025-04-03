@@ -1,0 +1,18 @@
+StartChar: emdash
+Encoding: 8212 8212 383
+Width: 905
+Flags: HW
+HStem: 234 66<75 839>
+LayerCount: 3
+Fore
+SplineSet
+75 234 m 1
+ 75 301 l 1
+ 839 301 l 1
+ 839 234 l 1
+ 75 234 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 20 subtable" emdash.case
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" emdash.case
+EndChar

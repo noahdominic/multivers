@@ -1,0 +1,51 @@
+StartChar: f_i.ss01
+Encoding: 65623 -1 316
+Width: 595
+GlyphClass: 3
+LigCaretCntFixed: 1
+Flags: HW
+HStem: 0 21G<121 198 427 504> 436 66<22 470> 598 110<429 504> 656 62<219 326>
+VStem: 121 77<0 634> 412 109<613 691> 427 78<0 436> 427 42<436 502>
+AnchorPoint: "Anchor-5" 153 0 baselig 0
+AnchorPoint: "Anchor-4" 153 728 baselig 0
+AnchorPoint: "Anchor-5" 445 0 baselig 1
+AnchorPoint: "Anchor-4" 445 728 baselig 1
+LayerCount: 3
+Fore
+SplineSet
+121 0 m 1xd8
+ 121 578 l 2
+ 121 622 133 656 159 681 c 0
+ 185 706 224 719 277 719 c 0
+ 290 719 299 717 307 716 c 0
+ 315 715 321 713 326 711 c 1
+ 326 651 l 1
+ 321 652 315 653 307 654 c 0
+ 299 655 291 656 282 656 c 0
+ 253 656 231 648 218 634 c 0
+ 205 620 198 600 198 573 c 2
+ 198 0 l 1
+ 121 0 l 1xd8
+427 0 m 1xca
+ 427 502 l 1xc9
+ 504 502 l 1
+ 504 0 l 1
+ 427 0 l 1xca
+466 598 m 0xea
+ 452 598 439 602 428 613 c 0
+ 417 624 412 637 412 652 c 0xec
+ 412 668 417 682 428 692 c 0
+ 439 702 452 706 466 706 c 0
+ 481 706 493 702 504 692 c 0xea
+ 515 682 521 668 521 652 c 0xec
+ 521 637 515 624 504 613 c 0
+ 493 602 481 598 466 598 c 0xea
+22 436 m 1
+ 22 502 l 1
+ 470 502 l 1
+ 470 436 l 1xc9
+ 22 436 l 1
+EndSplineSet
+Validated: 5
+LCarets2: 1 292
+EndChar

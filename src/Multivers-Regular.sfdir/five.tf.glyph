@@ -1,0 +1,38 @@
+StartChar: five.tf
+Encoding: 65630 -1 335
+Width: 589
+Flags: HW
+HStem: -10 70<211 358> 397 64<201 359> 640 69<200 475>
+VStem: 48 93<134 195> 427 98<128 325>
+LayerCount: 3
+Fore
+SplineSet
+283 -10 m 0
+ 215 -10 161 10 121 47 c 0
+ 81 84 56 134 48 195 c 1
+ 142 195 l 1
+ 150 152 166 118 193 95 c 0
+ 220 72 243 60 281 60 c 0
+ 321 60 357 73 385 99 c 0
+ 413 125 427 167 427 225 c 256
+ 427 283 413 327 385 355 c 0
+ 357 383 322 397 278 397 c 0
+ 247 397 220 390 197 377 c 0
+ 174 364 160 348 152 331 c 1
+ 81 331 l 1
+ 112 708 l 1
+ 475 708 l 1
+ 475 640 l 1
+ 160 640 l 1
+ 200 667 l 1
+ 179 385 l 1
+ 147 391 l 1
+ 159 410 177 427 202 440 c 0
+ 227 453 257 460 294 460 c 0
+ 412 460 525 383 525 225 c 260
+ 525 175 496 -10 283 -10 c 0
+EndSplineSet
+Validated: 5
+Substitution2: "'pnum' Proportional Numbers in Latin lookup 18 subtable" five
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" five
+EndChar

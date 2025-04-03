@@ -1,0 +1,14 @@
+StartChar: quotedblleft
+Encoding: 8220 8220 402
+Width: 536
+Flags: HW
+HStem: 500 209<249 272 401 423>
+VStem: 171 148 323 148
+LayerCount: 3
+Fore
+Refer: 404 8216 N 1 0 0 1 220 0 2
+Refer: 404 8216 N 1 0 0 1 69 0 2
+Validated: 1
+Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" quotedblleft.ss01
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" quotedblleft.ss01
+EndChar

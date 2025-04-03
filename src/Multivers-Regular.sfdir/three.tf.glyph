@@ -1,0 +1,38 @@
+StartChar: three.tf
+Encoding: 65628 -1 333
+Width: 589
+Flags: HW
+HStem: -10 75<214 371> 337 67<206 315> 363 21<324 425> 513 21G<54 149> 644 75<201 365>
+VStem: 44 92<146 213> 54 92<513 588> 410 94<453 599> 425 95<115 277>
+LayerCount: 3
+Fore
+SplineSet
+286 -10 m 0xb880
+ 240 -10 201 -1 166 16 c 0
+ 131 33 103 58 82 92 c 0
+ 61 126 49 166 44 213 c 1
+ 136 213 l 1
+ 143 155 182 69 287 65 c 4
+ 372 62 425 109 425 193 c 0xbc80
+ 425 235 413 270 389 297 c 0
+ 365 324 331 337 291 337 c 2
+ 206 337 l 1
+ 206 405 l 1
+ 288 405 l 2
+ 364 405 410 454 410 528 c 0
+ 410 558 400 644 283 644 c 256
+ 160 644 152 554 147 513 c 1
+ 54 513 l 1
+ 57 555 69 591 89 622 c 0
+ 109 653 136 676 170 693 c 0
+ 204 710 243 719 285 719 c 0
+ 404 719 504 651 504 533 c 0xdb
+ 504 434 426 363 324 363 c 1
+ 318 383 l 1
+ 435 383 521 304 521 190 c 0
+ 521 77 425 -10 286 -10 c 0xb880
+EndSplineSet
+Validated: 37
+Substitution2: "'pnum' Proportional Numbers in Latin lookup 18 subtable" three
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" three
+EndChar

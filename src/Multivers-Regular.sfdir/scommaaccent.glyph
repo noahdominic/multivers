@@ -1,0 +1,17 @@
+StartChar: scommaaccent
+Encoding: 537 537 235
+Width: 457
+GlyphClass: 2
+Flags: HW
+HStem: -170 5<247 276> -170 99<190 247> -10 62<148 312> 448 64<154 302>
+VStem: 32 79<86 155> 46 82<333 423> 190 102<-164 -71> 327 79<363 421> 340 86<79 180>
+AnchorPoint: "Anchor-2" 236 -288 basechar 0
+AnchorPoint: "Anchor-0" 228 502 basechar 0
+LayerCount: 3
+Fore
+Refer: 231 115 N 1 0 0 1 0 0 3
+Refer: 479 806 N 1 0 0 1 115 0 2
+Validated: 5
+Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" scommaaccent.ss01
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" scommaaccent.ss01
+EndChar

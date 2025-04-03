@@ -1,0 +1,33 @@
+StartChar: uni0312.ss01
+Encoding: 65690 -1 484
+Width: 11
+GlyphClass: 4
+Flags: HW
+HStem: 567 110<87 160>
+VStem: 65 112<586 660>
+AnchorPoint: "Anchor-7" 121 789 basemark 0
+AnchorPoint: "Anchor-7" 121 502 mark 0
+AnchorPoint: "Anchor-4" 121 502 mark 0
+AnchorPoint: "Anchor-0" 121 502 mark 0
+LayerCount: 3
+Fore
+SplineSet
+123 567 m 0
+ 108 567 94 573 82 585 c 0
+ 70 597 65 619 65 649 c 0
+ 65 671 69 690 78 708 c 0
+ 87 726 97 743 111 757 c 0
+ 125 771 144 781 166 789 c 1
+ 166 750 l 1
+ 149 742 136 732 125 719 c 0
+ 114 706 109 687 109 666 c 1
+ 86 663 l 1
+ 91 666 96 669 102 672 c 0
+ 108 675 113 676 120 676 c 0
+ 136 676 150 672 161 661 c 0
+ 172 650 177 637 177 622 c 256
+ 177 607 172 593 161 582 c 0
+ 150 571 138 567 123 567 c 0
+EndSplineSet
+Validated: 5
+EndChar

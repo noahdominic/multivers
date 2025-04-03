@@ -1,0 +1,14 @@
+StartChar: ellipsis.ss01
+Encoding: 65649 -1 371
+Width: 640
+Flags: HW
+HStem: -10 112<101 179 292 371 484 562>
+VStem: 83 112<7 86> 276 112<7 86> 468 112<7 86>
+CounterMasks: 1 70
+LayerCount: 3
+Fore
+Refer: 367 -1 N 1 0 0 1 6 0 2
+Refer: 367 -1 N 1 0 0 1 198 0 2
+Refer: 367 -1 N 1 0 0 1 390 0 2
+Validated: 1
+EndChar

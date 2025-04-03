@@ -1,0 +1,16 @@
+StartChar: imacron
+Encoding: 299 299 196
+Width: 242
+GlyphClass: 2
+Flags: HW
+HStem: 0 21G<79 165> 482 19G<79 165> 632 55<-34 297>
+VStem: 79 86<0 502>
+AnchorPoint: "Anchor-3" 155 0 basechar 0
+AnchorPoint: "Anchor-2" 115 0 basechar 0
+AnchorPoint: "Anchor-0" 115 688 basechar 0
+LayerCount: 3
+Fore
+Refer: 189 305 N 1 0 0 1 0 0 3
+Refer: 477 772 N 1 0 0 1 -103 0 2
+Validated: 1
+EndChar

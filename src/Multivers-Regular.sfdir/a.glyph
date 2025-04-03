@@ -1,0 +1,46 @@
+StartChar: a
+Encoding: 97 97 150
+Width: 514
+GlyphClass: 2
+Flags: HW
+HStem: -10 63<158.705 309.52> 0 21G<385.5 464> 244 58<181.141 388> 448 62<195.996 340.58>
+VStem: 40 88<83.449 202.917> 78 87<363 417.952> 374 77<0.565418 92 209 244 302 413.885> 374 14<244 302> 376 23<84 132.643> 387 77<0 90.9717>
+AnchorPoint: "Anchor-3" 464 0 basechar 0
+AnchorPoint: "Anchor-2" 259 0 basechar 0
+AnchorPoint: "Anchor-0" 268 502 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+387 0 m 5x7040
+ 384 12 381 24 380 38 c 0
+ 379 52 378 70 378 92 c 1
+ 374 92 l 1
+ 374 339 l 2
+ 374 416 335 448 273 448 c 0
+ 203 448 168 418 165 363 c 1
+ 78 363 l 1
+ 81 403 97 444 125 467 c 0
+ 155 492 202 510 266 510 c 0
+ 382 510 451 463 451 339 c 2
+ 451 92 l 2x76
+ 451 78 452 62 454 45 c 0
+ 456 28 459 12 464 0 c 5
+ 387 0 l 5x7040
+212 -10 m 0xb880
+ 162 -10 123 4 94 31 c 0
+ 71 52 52 80 44 117 c 0
+ 42 127 40 137 40 149 c 3
+ 40 207 74 254 133 278 c 0
+ 195 303 286 312 388 302 c 0
+ 388 244 l 1xb9
+ 195 242 128 231 128 139 c 0
+ 128 109 145 54 231 53 c 0
+ 347 51 376 157 376 209 c 1
+ 399 100 l 1
+ 394 84 358 -10 212 -10 c 0xb880
+EndSplineSet
+Validated: 37
+Substitution2: "'ss02' Style Set 2 in Latin lookup 23 subtable" a.ss02
+Substitution2: "Single Substitution lookup 17 subtable" ordfeminine
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" a.ss02 ordfeminine
+EndChar

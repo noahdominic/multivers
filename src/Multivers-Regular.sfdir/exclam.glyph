@@ -1,0 +1,25 @@
+StartChar: exclam
+Encoding: 33 33 349
+Width: 274
+Flags: HW
+HStem: 0 100<87 188>
+VStem: 87 101<0 100> 95 84<428.372 728> 107 60<206 505.628>
+LayerCount: 3
+Fore
+SplineSet
+107 206 m 1x90
+ 95 728 l 1
+ 179 728 l 1xa0
+ 167 206 l 1
+ 107 206 l 1x90
+87 0 m 1xc0
+ 87 100 l 1
+ 188 100 l 1
+ 188 0 l 1
+ 87 0 l 1xc0
+EndSplineSet
+Validated: 1
+Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" exclam.ss01
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 20 subtable" exclam.case
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" exclam.case exclam.ss01
+EndChar

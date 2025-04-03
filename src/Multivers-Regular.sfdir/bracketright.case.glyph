@@ -1,0 +1,21 @@
+StartChar: bracketright.case
+Encoding: 65667 -1 399
+Width: 402
+Flags: HW
+HStem: -39 62<64 238> 686 62<64 238>
+VStem: 238 72<23 686>
+LayerCount: 3
+Fore
+SplineSet
+310 748 m 1
+ 310 -39 l 1
+ 64 -39 l 1
+ 64 23 l 1
+ 238 23 l 1
+ 238 686 l 1
+ 64 686 l 1
+ 64 748 l 1
+ 310 748 l 1
+EndSplineSet
+Validated: 1
+EndChar

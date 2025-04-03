@@ -1,0 +1,12 @@
+StartChar: quotedblleft.ss01
+Encoding: 65670 -1 414
+Width: 419
+Flags: HW
+HStem: 486 110<111 188 263 340>
+VStem: 89 116<505 579> 241 116<505 579>
+LayerCount: 3
+Fore
+Refer: 416 -1 N 1 0 0 1 6 0 2
+Refer: 416 -1 N 1 0 0 1 157 0 2
+Validated: 5
+EndChar

@@ -1,0 +1,37 @@
+StartChar: divide
+Encoding: 247 247 439
+Width: 533
+Flags: HW
+HStem: 146 112<228 306> 332 65<65 470> 474 111<228 306>
+VStem: 211 111<161 241 489 569>
+LayerCount: 3
+Fore
+SplineSet
+65 332 m 1
+ 65 398 l 1
+ 470 398 l 1
+ 470 332 l 1
+ 65 332 l 1
+268 474 m 0
+ 252 474 239 477 228 488 c 0
+ 217 499 211 512 211 529 c 0
+ 211 545 217 558 228 569 c 0
+ 239 580 252 584 268 584 c 0
+ 283 584 295 580 306 569 c 0
+ 317 558 323 545 323 529 c 0
+ 323 512 317 499 306 488 c 0
+ 295 477 283 474 268 474 c 0
+268 146 m 0
+ 252 146 239 149 228 160 c 0
+ 217 171 211 185 211 202 c 0
+ 211 218 217 231 228 242 c 0
+ 239 253 252 258 268 258 c 0
+ 283 258 295 253 306 242 c 0
+ 317 231 323 218 323 202 c 0
+ 323 185 317 171 306 160 c 0
+ 295 149 283 146 268 146 c 0
+EndSplineSet
+Validated: 1
+Substitution2: "'tnum' Tabular Numbers in Latin lookup 19 subtable" divide.tf
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" divide.tf
+EndChar

@@ -1,0 +1,16 @@
+StartChar: aogonek.ss02
+Encoding: 65609 -1 297
+Width: 587
+GlyphClass: 2
+Flags: HW
+HStem: -212 50<424 497> -10 68<204 363> 0 21G<439 510> 443 68<205 363> 482 19G<439 510>
+VStem: 52 79<139 361> 361 57<-157 -69> 439 72<0 111 143 358 381 502>
+AnchorPoint: "Anchor-3" 500 0 basechar 0
+AnchorPoint: "Anchor-2" 288 0 basechar 0
+AnchorPoint: "Anchor-0" 288 502 basechar 0
+LayerCount: 3
+Fore
+Refer: 289 -1 N 1 0 0 1 0 0 3
+Refer: 481 808 N 1 0 0 1 291 0 2
+Validated: 5
+EndChar

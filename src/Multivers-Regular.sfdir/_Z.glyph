@@ -1,0 +1,28 @@
+StartChar: Z
+Encoding: 90 90 111
+Width: 539
+GlyphClass: 2
+Flags: HW
+HStem: 0 70<113 519> 638 70<39 426>
+AnchorPoint: "Anchor-2" 267 0 basechar 0
+AnchorPoint: "Anchor-0" 267 708 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+30 0 m 1
+ 30 60 l 1
+ 426 678 l 1
+ 454 638 l 1
+ 39 638 l 1
+ 39 708 l 1
+ 510 708 l 1
+ 510 649 l 1
+ 113 31 l 1
+ 75 70 l 1
+ 387 70 l 4
+ 519 70 l 1
+ 519 0 l 1
+ 30 0 l 1
+EndSplineSet
+Validated: 5
+EndChar

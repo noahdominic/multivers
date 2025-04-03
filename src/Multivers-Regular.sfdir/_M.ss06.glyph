@@ -1,0 +1,29 @@
+StartChar: M.ss06
+Encoding: 65561 -1 139
+Width: 853
+Flags: HW
+HStem: 0 21G<69 144 361 486 704 785> 689 19G<132 250 602 721>
+VStem: 69 73<0 71> 706 79<0 71>
+LayerCount: 3
+Fore
+SplineSet
+69 0 m 1
+ 133 708 l 1
+ 244 708 l 1
+ 438 28 l 1
+ 415 28 l 1
+ 608 708 l 1
+ 720 708 l 1
+ 785 0 l 1
+ 706 0 l 1
+ 643 659 l 1
+ 666 659 l 1
+ 480 0 l 1
+ 367 0 l 1
+ 183 654 l 1
+ 204 654 l 1
+ 142 0 l 1
+ 69 0 l 1
+EndSplineSet
+Validated: 5
+EndChar

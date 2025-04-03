@@ -1,0 +1,24 @@
+StartChar: parenleft
+Encoding: 40 40 388
+Width: 402
+Flags: HW
+VStem: 83 72<164.24 464.093>
+LayerCount: 3
+Fore
+SplineSet
+276 -109 m 1
+ 211 -47 161 21 130 93 c 0
+ 99 165 83 239 83 315 c 0
+ 83 389 98 462 130 535 c 0
+ 162 608 211 676 276 738 c 1
+ 350 738 l 1
+ 285 676 236 609 204 539 c 0
+ 172 469 155 394 155 315 c 0
+ 155 235 171 160 204 90 c 0
+ 237 20 287 -47 350 -109 c 1
+ 276 -109 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 20 subtable" parenleft.case
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" parenleft.case
+EndChar

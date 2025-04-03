@@ -1,0 +1,23 @@
+StartChar: one
+Encoding: 49 49 320
+Width: 383
+Flags: HW
+HStem: 0 21G<219 306> 506 21G<70 154.5> 688 20G<209.609 306>
+VStem: 219 87<0 623>
+LayerCount: 3
+Fore
+SplineSet
+219 0 m 1
+ 219 628 l 1
+ 239 623 l 1
+ 239 623 239 622 70 506 c 1
+ 70 593 l 1
+ 239 708 l 1
+ 306 708 l 5
+ 306 0 l 5
+ 219 0 l 1
+EndSplineSet
+Validated: 5
+Substitution2: "'tnum' Tabular Numbers in Latin lookup 19 subtable" one.tf
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" one.tf
+EndChar

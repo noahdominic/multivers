@@ -1,0 +1,17 @@
+StartChar: ncommaaccent
+Encoding: 326 326 211
+Width: 564
+GlyphClass: 2
+Flags: HW
+HStem: -170 5<316 345> -170 99<258 316> 0 21G<75 161 413 499> 448 63<229 369> 481 19G<69 157>
+VStem: 75 86<0 502> 258 102<-164 -71> 413 86<0 396>
+AnchorPoint: "Anchor-2" 299 -288 basechar 0
+AnchorPoint: "Anchor-0" 313 502 basechar 0
+LayerCount: 3
+Fore
+Refer: 208 110 N 1 0 0 1 0 0 3
+Refer: 479 806 N 1 0 0 1 184 0 2
+Validated: 5
+Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" ncommaaccent.ss01
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" ncommaaccent.ss01
+EndChar

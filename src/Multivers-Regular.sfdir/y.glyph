@@ -1,0 +1,38 @@
+StartChar: y
+Encoding: 121 121 300
+Width: 472
+GlyphClass: 2
+Flags: HW
+HStem: 482 20G<-7 95.651 389.356 485>
+AnchorPoint: "Anchor-2" 245 0 basechar 0
+AnchorPoint: "Anchor-0" 245 502 basechar 0
+LayerCount: 3
+Back
+SplineSet
+203.607421875 -182.040039062 m 5
+ 117.015625 -182.040039062 l 5
+ 198.6875 5.9033203125 l 5
+ -12.8720703125 501.83984375 l 5
+ 85.5283203125 501.83984375 l 5
+ 241.984375 95.4482421875 l 5
+ 397.456054688 501.83984375 l 5
+ 485.032226562 501.83984375 l 5
+ 203.607421875 -182.040039062 l 5
+EndSplineSet
+Fore
+SplineSet
+130 -164 m 1
+ 222 60 l 1
+ 238 86 l 1
+ 397 502 l 1
+ 485 502 l 1
+ 212 -164 l 1
+ 130 -164 l 1
+219 15 m 1
+ -7 502 l 1
+ 87 502 l 1
+ 273 72 l 1
+ 219 15 l 1
+EndSplineSet
+Validated: 5
+EndChar

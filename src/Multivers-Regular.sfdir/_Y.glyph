@@ -1,0 +1,26 @@
+StartChar: Y
+Encoding: 89 89 106
+Width: 599
+GlyphClass: 2
+Flags: HW
+HStem: 0 21G<262 351> 688 20G<5 123.097 496.844 598>
+VStem: 262 89<0 322>
+AnchorPoint: "Anchor-2" 301 0 basechar 0
+AnchorPoint: "Anchor-0" 301 708 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+262 0 m 1
+ 262 322 l 1
+ 5 708 l 1
+ 110 708 l 5
+ 332 369 l 5
+ 287 369 l 1
+ 510 708 l 1
+ 598 708 l 1
+ 351 322 l 1
+ 351 0 l 1
+ 262 0 l 1
+EndSplineSet
+Validated: 5
+EndChar

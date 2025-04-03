@@ -1,0 +1,18 @@
+StartChar: lcommaaccent
+Encoding: 316 316 205
+Width: 231
+GlyphClass: 2
+Flags: HW
+HStem: -170 5<131 160> -170 99<75 131> 0 21G<73 159> 699 19G<73 159>
+VStem: 73 86<0 719> 75 102<-164 -71>
+AnchorPoint: "Anchor-2" 115 -288 basechar 0
+AnchorPoint: "Anchor-1" 220 708 basechar 0
+AnchorPoint: "Anchor-0" 115 708 basechar 0
+LayerCount: 3
+Fore
+Refer: 202 108 N 1 0 0 1 0 0 3
+Refer: 479 806 N 1 0 0 1 0 0 2
+Validated: 5
+Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" lcommaaccent.ss01
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" lcommaaccent.ss01
+EndChar

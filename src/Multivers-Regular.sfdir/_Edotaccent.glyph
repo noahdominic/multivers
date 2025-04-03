@@ -1,0 +1,18 @@
+StartChar: Edotaccent
+Encoding: 278 278 28
+Width: 568
+GlyphClass: 2
+Flags: HW
+HStem: 0 75<120 530> 330 74<120 496> 633 75<120 523> 824 91<273 362>
+VStem: 120 48<0 75 330 404 633 708> 273 89<824 915>
+AnchorPoint: "Anchor-3" 503 0 basechar 0
+AnchorPoint: "Anchor-2" 300 0 basechar 0
+AnchorPoint: "Anchor-0" 310 915 basechar 0
+LayerCount: 3
+Fore
+Refer: 23 69 N 1 0 0 1 0 0 3
+Refer: 467 775 N 1 0 0 1 203 207 2
+Validated: 5
+Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" Edotaccent.ss01
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Edotaccent.ss01
+EndChar

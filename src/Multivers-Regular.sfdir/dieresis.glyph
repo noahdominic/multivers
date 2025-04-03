@@ -1,0 +1,13 @@
+StartChar: dieresis
+Encoding: 168 168 486
+Width: 438
+Flags: HW
+HStem: 617 91<76 165 296 386>
+VStem: 76 89<617 708> 296 89<617 708>
+LayerCount: 3
+Fore
+Refer: 466 776 N 1 0 0 1 6 0 2
+Validated: 1
+Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" dieresis.ss01
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" dieresis.ss01
+EndChar
