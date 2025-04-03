@@ -1,0 +1,40 @@
+StartChar: trademark
+Encoding: 8482 8482 425
+Width: 846
+Flags: HW
+HStem: 360 360<168 258 389 473 700 789> 646 74<58 168 258 369> 646 58<168 258>
+VStem: 168 90<360 704> 459 14<666.167 694> 700 16<668.651 696>
+LayerCount: 3
+Fore
+SplineSet
+168 360 m 1x9c
+ 168 704 l 1
+ 258 704 l 1x3c
+ 258 360 l 1
+ 168 360 l 1x9c
+58 646 m 1x5c
+ 58 720 l 1
+ 369 720 l 1
+ 369 646 l 1
+ 58 646 l 1x5c
+389 360 m 1x9c
+ 389 720 l 1x9c
+ 521 720 l 1
+ 615 374 l 1
+ 562 374 l 1
+ 655 720 l 1x5c
+ 789 720 l 1
+ 789 360 l 1
+ 700 360 l 1
+ 700 696 l 1
+ 716 696 l 1
+ 630 360 l 1
+ 543 360 l 1
+ 459 694 l 1
+ 473 694 l 1
+ 473 360 l 1
+ 389 360 l 1x9c
+EndSplineSet
+Validated: 5
+Kerns2: 368 -135 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 367 -135 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 357 -93 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 345 -135 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 344 -135 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

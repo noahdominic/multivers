@@ -1,0 +1,28 @@
+StartChar: hyphen_greater.liga
+Encoding: 65636 -1 343
+Width: 843
+GlyphClass: 3
+LigCaretCntFixed: 1
+Flags: HW
+HStem: 302 116<65 630>
+LayerCount: 3
+Fore
+SplineSet
+65 418 m 1
+ 700 418 l 1
+ 630 368 l 1
+ 296 702 l 1
+ 455 702 l 1
+ 795 360 l 1
+ 455 18 l 1
+ 296 18 l 1
+ 630 352 l 1
+ 700 302 l 1
+ 65 302 l 1
+ 65 418 l 1
+EndSplineSet
+Validated: 5
+Kerns2: 441 -70 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 389 -146 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 326 -129 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 111 -114 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 106 -126 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 105 -135 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 99 -91 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 86 -134 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 48 -119 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 1 -91 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Ligature2: "'liga' Standard Ligatures in Latin lookup 21 subtable" hyphen greater
+LCarets2: 1 417
+EndChar

@@ -1,0 +1,15 @@
+StartChar: Ccedilla
+Encoding: 199 199 17
+Width: 736
+GlyphClass: 2
+Flags: HW
+HStem: -215 63<336.147 403.486> -90 102<348 391.429> -10 105<296.161 471.057> 625 105<298.617 472.467>
+VStem: 41 139<236.373 480.668> 410 86<-147.691 -101.519> 555 144<189.663 265 455 532.404>
+AnchorPoint: "Anchor-2" 366 -215 basechar 0
+AnchorPoint: "Anchor-0" 375 720 basechar 0
+LayerCount: 3
+Fore
+Refer: 14 67 N 1 0 0 1 0 0 3
+Refer: 480 807 N 1 0 0 1 185 0 2
+Validated: 5
+EndChar

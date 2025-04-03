@@ -1,0 +1,25 @@
+StartChar: parenright.case
+Encoding: 65663 -1 395
+Width: 443
+Flags: HW
+VStem: 246 119<219.544 500.875>
+LayerCount: 3
+Fore
+SplineSet
+170 760 m 1
+ 214 722.666992188 250.5 681.833007812 279.5 637.5 c 0
+ 308.5 593.166992188 330 547.5 344 500.5 c 0
+ 358 453.5 365 407 365 361 c 256
+ 365 315 358 268.333007812 344 221 c 0
+ 330 173.666992188 308.5 127.833007812 279.5 83.5 c 0
+ 250.5 39.1669921875 214 -2 170 -40 c 1
+ 48 -40 l 1
+ 114 16.6669921875 163.5 79.5 196.5 148.5 c 0
+ 229.5 217.5 246 288.333007812 246 361 c 256
+ 246 433.666992188 229 504.166992188 195 572.5 c 0
+ 161 640.833007812 112 703.333007812 48 760 c 1
+ 170 760 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 399 -89 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 367 -83 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 360 -43 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 359 -44 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

@@ -1,0 +1,27 @@
+StartChar: y.ss03
+Encoding: 121 121 300
+Width: 536
+GlyphClass: 2
+Flags: HW
+HStem: 490 20G<11 154.309 385.723 525>
+AnchorPoint: "Anchor-2" 269 0 basechar 0
+AnchorPoint: "Anchor-0" 269 510 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+123 -158.5 m 1
+ 231 91 l 1
+ 254 128 l 1
+ 393 510 l 1
+ 525 510 l 1
+ 249 -158.5 l 1
+ 123 -158.5 l 1
+231 18 m 5
+ 11 510 l 1
+ 147 510 l 1
+ 332 67 l 5
+ 231 18 l 5
+EndSplineSet
+Validated: 5
+Kerns2: 169 -24 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

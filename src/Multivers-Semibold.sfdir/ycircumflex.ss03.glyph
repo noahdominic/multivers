@@ -1,0 +1,14 @@
+StartChar: ycircumflex.ss03
+Encoding: 375 375 302
+Width: 536
+GlyphClass: 2
+Flags: HW
+HStem: 490 20G<11 154.309 385.723 525> 583 157
+AnchorPoint: "Anchor-2" 264 0 basechar 0
+AnchorPoint: "Anchor-0" 266 740 basechar 0
+LayerCount: 3
+Fore
+Refer: 300 121 N 1 0 0 1 0 0 3
+Refer: 472 770 N 1 0 0 1 16 0 2
+Validated: 5
+EndChar

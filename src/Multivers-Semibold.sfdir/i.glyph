@@ -1,0 +1,26 @@
+StartChar: i
+Encoding: 105 105 188
+Width: 266
+GlyphClass: 2
+Flags: HW
+HStem: 0 21G<70 196> 490 20G<70 196> 594 138<65 201>
+VStem: 65 136<594 732> 70 126<0 510>
+AnchorPoint: "Anchor-3" 191 0 basechar 0
+AnchorPoint: "Anchor-2" 140 0 basechar 0
+AnchorPoint: "Anchor-0" 128 732 basechar 0
+LayerCount: 3
+Fore
+Refer: 189 305 N 1 0 0 1 0 0 3
+Refer: 467 775 N 1 0 0 1 5 0 2
+Validated: 1
+Kerns2: 444 -44 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 443 -39 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 440 -27 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 391 -23 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 221 4 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 169 -7 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" i.ss01
+Substitution2: "'locl' Localized Forms in Latin lookup 10 subtable" i.loclTRK
+Substitution2: "'locl' Localized Forms in Latin lookup 9 subtable" i.loclTRK
+Substitution2: "'locl' Localized Forms in Latin lookup 8 subtable" i.loclTRK
+Substitution2: "'locl' Localized Forms in Latin lookup 7 subtable" i.loclTRK
+Substitution2: "'locl' Localized Forms in Latin lookup 6 subtable" i.loclTRK
+Substitution2: "Single Substitution lookup 4 subtable" dotlessi
+Substitution2: "Single Substitution lookup 3 subtable" dotlessi
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" i.loclTRK i.ss01
+EndChar

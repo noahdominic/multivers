@@ -1,0 +1,17 @@
+StartChar: omacron
+Encoding: 333 333 220
+Width: 595
+GlyphClass: 2
+Flags: HW
+HStem: -10 101<233.705 366.526> 419 101<233.786 367.077> 626 90<121 474>
+VStem: 36 142.44<153.916 357.294> 421.32 139.68<151.879 359.347>
+AnchorPoint: "Anchor-3" 424 20 basechar 0
+AnchorPoint: "Anchor-2" 293 0 basechar 0
+AnchorPoint: "Anchor-1" 565 510 basechar 0
+AnchorPoint: "Anchor-0" 293 716 basechar 0
+LayerCount: 3
+Fore
+Refer: 214 111 N 1 0 0 1 0 0 3
+Refer: 477 772 N 1 0 0 1 61 0 2
+Validated: 1
+EndChar

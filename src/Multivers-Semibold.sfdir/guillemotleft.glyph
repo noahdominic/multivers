@@ -1,0 +1,12 @@
+StartChar: guillemotleft
+Encoding: 171 171 406
+Width: 549
+Flags: HW
+VStem: 53 249 238 249
+LayerCount: 3
+Fore
+Refer: 408 8249 N 1 0 0 1 5 0 2
+Refer: 408 8249 N 1 0 0 1 190 0 2
+Validated: 1
+Kerns2: 413 -53 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 375 -48 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 374 -90 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 373 -44 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 372 -43 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 191 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 70 -25 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 42 -34 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

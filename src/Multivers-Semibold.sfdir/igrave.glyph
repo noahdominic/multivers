@@ -1,0 +1,17 @@
+StartChar: igrave
+Encoding: 236 236 194
+Width: 266
+GlyphClass: 2
+Flags: HW
+HStem: 0 21G<70 196> 490 20G<70 196> 583 157<111 121>
+VStem: -49 271 70 126<0 510>
+AnchorPoint: "Anchor-3" 191 0 basechar 0
+AnchorPoint: "Anchor-2" 128 0 basechar 0
+AnchorPoint: "Anchor-0" 128 740 basechar 0
+LayerCount: 3
+Fore
+Refer: 189 305 N 1 0 0 1 0 0 3
+Refer: 468 768 N 1 0 0 1 -109 0 2
+Validated: 1
+Kerns2: 389 -45 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

@@ -1,0 +1,20 @@
+StartChar: comma
+Encoding: 44 44 345
+Width: 281
+Flags: HW
+HStem: -119 247<101 138>
+VStem: 41 202
+LayerCount: 3
+Fore
+SplineSet
+138 -119 m 5
+ 41 -119 l 1
+ 101 128 l 1
+ 243 128 l 5
+ 138 -119 l 5
+EndSplineSet
+Validated: 1
+Kerns2: 403 -135 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" comma.ss01
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" comma.ss01
+EndChar

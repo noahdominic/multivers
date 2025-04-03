@@ -1,0 +1,400 @@
+SplineFontDB: 3.2
+FontName: Multivers-Semibold
+FullName: Multivers SemiBold
+FamilyName: Multivers
+Weight: Semibold
+Copyright: 
+Version: 1.000
+ItalicAngle: 0
+UnderlinePosition: -199
+UnderlineWidth: 38
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+sfntRevision: 0x00010000
+LayerCount: 3
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+Layer: 2 0 "Back 2" 1
+XUID: [1021 473 -325923738 4484261]
+StyleMap: 0x0040
+FSType: 0
+OS2Version: 4
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 0
+CreationTime: 1659194366
+ModificationTime: 1742829463
+PfmFamily: 81
+TTFWeight: 600
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+Panose: 0 0 0 0 0 0 0 0 0 0
+OS2TypoAscent: 970
+OS2TypoAOffset: 0
+OS2TypoDescent: -250
+OS2TypoDOffset: 0
+OS2TypoLinegap: 0
+OS2WinAscent: 986
+OS2WinAOffset: 0
+OS2WinDescent: 350
+OS2WinDOffset: 0
+HheadAscent: 970
+HheadAOffset: 0
+HheadDescent: -250
+HheadDOffset: 0
+OS2SubXSize: 650
+OS2SubYSize: 600
+OS2SubXOff: 0
+OS2SubYOff: 75
+OS2SupXSize: 650
+OS2SupYSize: 600
+OS2SupXOff: 0
+OS2SupYOff: 350
+OS2StrikeYSize: 38
+OS2StrikeYPos: 301
+OS2CapHeight: 720
+OS2XHeight: 510
+OS2Vendor: 'NONE'
+OS2CodePages: 00000093.00000000
+OS2UnicodeRanges: a000006f.0000006a.00000000.00000000
+Lookup: 1 0 0 "'aalt' Access All Alternates in Latin lookup 0" { "'aalt' Access All Alternates in Latin lookup 0 subtable"  } ['aalt' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 3 0 0 "'aalt' Access All Alternates in Latin lookup 1" { "'aalt' Access All Alternates in Latin lookup 1 subtable"  } ['aalt' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 6 0 0 "'ccmp' Glyph Composition/Decomposition in Latin lookup 2" { "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 subtable"  } ['ccmp' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 3" { "Single Substitution lookup 3 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 4" { "Single Substitution lookup 4 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 5" { "Multiple Substitution lookup 5 subtable"  } []
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 6" { "'locl' Localized Forms in Latin lookup 6 subtable"  } ['locl' ('latn' <'AZE ' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 7" { "'locl' Localized Forms in Latin lookup 7 subtable"  } ['locl' ('latn' <'CRT ' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 8" { "'locl' Localized Forms in Latin lookup 8 subtable"  } ['locl' ('latn' <'KAZ ' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 9" { "'locl' Localized Forms in Latin lookup 9 subtable"  } ['locl' ('latn' <'TAT ' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 10" { "'locl' Localized Forms in Latin lookup 10 subtable"  } ['locl' ('latn' <'TRK ' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 11" { "'locl' Localized Forms in Latin lookup 11 subtable"  } ['locl' ('latn' <'ROM ' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 12" { "'locl' Localized Forms in Latin lookup 12 subtable"  } ['locl' ('latn' <'MOL ' > ) ]
+Lookup: 6 0 0 "'locl' Localized Forms in Latin lookup 13" { "'locl' Localized Forms in Latin lookup 13 subtable"  } ['locl' ('latn' <'CAT ' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 14" { "Single Substitution lookup 14 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 15" { "Single Substitution lookup 15 subtable"  } []
+Lookup: 6 0 0 "'ordn' Ordinals in Latin lookup 16" { "'ordn' Ordinals in Latin lookup 16 contextual 0"  "'ordn' Ordinals in Latin lookup 16 contextual 1"  } ['ordn' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 17" { "Single Substitution lookup 17 subtable"  } []
+Lookup: 1 0 0 "'pnum' Proportional Numbers in Latin lookup 18" { "'pnum' Proportional Numbers in Latin lookup 18 subtable"  } ['pnum' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'tnum' Tabular Numbers in Latin lookup 19" { "'tnum' Tabular Numbers in Latin lookup 19 subtable"  } ['tnum' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'case' Case-Sensitive Forms in Latin lookup 20" { "'case' Case-Sensitive Forms in Latin lookup 20 subtable"  } ['case' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 4 8 1 "'liga' Standard Ligatures in Latin lookup 21" { "'liga' Standard Ligatures in Latin lookup 21 subtable"  } ['liga' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss01' Style Set 1 in Latin lookup 22" { "'ss01' Style Set 1 in Latin lookup 22 subtable"  } ['ss01' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss02' Style Set 2 in Latin lookup 23" { "'ss02' Style Set 2 in Latin lookup 23 subtable"  } ['ss02' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'calt' Contextual Alternates in Latin lookup 24" { "'calt' Contextual Alternates in Latin lookup 24 subtable"  } ['calt' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss04' Style Set 4 in Latin lookup 25" { "'ss04' Style Set 4 in Latin lookup 25 subtable"  } ['ss04' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'calt' Contextual Alternates in Latin lookup 26" { "'calt' Contextual Alternates in Latin lookup 26 subtable"  } ['calt' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss06' Style Set 6 in Latin lookup 27" { "'ss06' Style Set 6 in Latin lookup 27 subtable"  } ['ss06' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss07' Style Set 7 in Latin lookup 28" { "'ss07' Style Set 7 in Latin lookup 28 subtable"  } ['ss07' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss08' Style Set 8 in Latin lookup 29" { "'ss08' Style Set 8 in Latin lookup 29 subtable"  } ['ss08' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss09' Style Set 9 in Latin lookup 30" { "'ss09' Style Set 9 in Latin lookup 30 subtable"  } ['ss09' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss10' Style Set 10 in Latin lookup 31" { "'ss10' Style Set 10 in Latin lookup 31 subtable"  } ['ss10' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'calt' Contextual Alternates in Latin lookup 32" { "'calt' Contextual Alternates in Latin lookup 32 subtable"  } ['calt' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss12' Style Set 12 in Latin lookup 33" { "'ss12' Style Set 12 in Latin lookup 33 subtable"  } ['ss12' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 258 8 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 1"  } ['kern' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Mark Positioning in Latin lookup 1" { "'mark' Mark Positioning in Latin lookup 1 subtable"  } ['mark' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 261 0 0 "'mark' Mark Positioning in Latin lookup 2" { "'mark' Mark Positioning in Latin lookup 2 subtable"  } ['mark' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 262 16 0 "'mkmk' Mark to Mark in Latin lookup 3" { "'mkmk' Mark to Mark in Latin lookup 3 subtable"  } ['mkmk' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 262 65552 0 "'mkmk' Mark to Mark in Latin lookup 4" { "'mkmk' Mark to Mark in Latin lookup 4 subtable"  } ['mkmk' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+MarkAttachClasses: 1
+MarkAttachSets: 2
+"MarkSet-0" 28 uni0326 uni0327 uni0326.ss01
+"MarkSet-1" 140 uni0308 uni0307 gravecomb acutecomb uni030B uni0302 uni030C uni0306 uni030A tildecomb uni0304 uni0312 uni0308.ss01 uni0307.ss01 uni0312.ss01
+DEI: 91125
+KernClass2: 106+ 75 "'kern' Horizontal Kerning in Latin lookup 0 kerning class 1"
+ 315 gbreve uni0123 gdotaccent dotlessi u uacute ubreve ucircumflex udieresis ugrave umacron uogonek uring uni0123.ss01 gdotaccent.ss01 uni013C.ss01 udieresis.ss01 a.ss02 aacute.ss02 abreve.ss02 uni01CE.ss02 acircumflex.ss02 adieresis.ss02 agrave.ss02 amacron.ss02 aogonek.ss02 aring.ss02 atilde.ss02 adieresis.ss01.ss02
+ 108 AE E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek OE Edieresis.ss01 Edotaccent.ss01
+ 137 v y yacute ycircumflex ydieresis ygrave ydieresis.ss01 y.ss03 yacute.ss03 ycircumflex.ss03 ydieresis.ss03 ygrave.ss03 ydieresis.ss01.ss03
+ 96 A Aacute Abreve uni01CD Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde Adieresis.ss01
+ 102 Iacute Idotaccent Igrave Imacron Iogonek Nacute Ncaron uni0145 Ntilde Eng Idotaccent.ss01 uni0145.ss01
+ 102 U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Udieresis.ss01 J.ss08
+ 96 a aacute abreve uni01CE acircumflex adieresis agrave amacron aogonek aring atilde adieresis.ss01
+ 91 dcroat ij imacron j uni013C uhungarumlaut i.ss01 i.loclTRK.ss01 ij.ss01 iogonek.ss01 j.ss01
+ 88 O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Otilde Odieresis.ss01 Q.ss09
+ 56 h hbar m n nacute ncaron uni0146 ntilde eng uni0146.ss01
+ 81 o oacute ocircumflex odieresis ograve ohungarumlaut omacron otilde odieresis.ss01
+ 51 C Cacute Ccaron Ccedilla Cdotaccent Cdotaccent.ss01
+ 56 G Gbreve uni0122 Gdotaccent uni0122.ss01 Gdotaccent.ss01
+ 86 G.ss07 Gbreve.ss07 uni0122.ss07 Gdotaccent.ss07 uni0122.ss01.ss07 Gdotaccent.ss01.ss07
+ 45 S Sacute Scaron Scedilla uni0218 uni0218.ss01
+ 52 Y Yacute Ycircumflex Ydieresis Ygrave Ydieresis.ss01
+ 38 ae e eacute eogonek oe edotaccent.ss01
+ 51 c cacute ccaron ccedilla cdotaccent cdotaccent.ss01
+ 52 w wacute wcircumflex wdieresis wgrave wdieresis.ss01
+ 36 R Racute Rcaron uni0156 uni0156.ss01
+ 37 W Wacute Wcircumflex Wdieresis Wgrave
+ 42 Z Zacute Zcaron Zdotaccent Zdotaccent.ss01
+ 51 ecaron ecircumflex edieresis emacron edieresis.ss01
+ 38 s scaron scedilla uni0219 uni0219.ss01
+ 42 z zacute zcaron zdotaccent zdotaccent.ss01
+ 19 D Eth Dcaron Dcroat
+ 29 L Lacute uni013B uni013B.ss01
+ 43 R.ss05 Racute.ss05 Rcaron.ss05 uni0156.ss05
+ 29 T Tcaron uni021A uni021A.ss01
+ 22 K uni0136 uni0136.ss01
+ 37 K.ss04 uni0136.ss04 uni0136.ss01.ss04
+ 9 b p thorn
+ 17 plus minus divide
+ 30 exclam exclam.case exclam.ss01
+ 22 k uni0137 uni0137.ss01
+ 37 k.ss04 uni0137.ss04 uni0137.ss01.ss04
+ 36 question question.case question.ss01
+ 22 r uni0157 uni0157.ss01
+ 22 t uni021B uni021B.ss01
+ 25 colon.ss01 semicolon.ss01
+ 12 period comma
+ 13 dcaron lcaron
+ 18 dollar dollar.ss12
+ 17 edotaccent egrave
+ 25 period.ss01 ellipsis.ss01
+ 13 endash emdash
+ 23 endash.case emdash.case
+ 9 f_f_i f_i
+ 19 f_f_i.ss01 f_i.ss01
+ 9 f_f_l f_l
+ 27 guillemotleft guilsinglleft
+ 29 guillemotright guilsinglright
+ 17 i.loclTRK iogonek
+ 13 iacute igrave
+ 9 zero nine
+ 26 parenright parenright.case
+ 20 quotedbl quotesingle
+ 27 quotesinglbase quotedblbase
+ 37 quotesinglbase.ss01 quotedblbase.ss01
+ 22 quotedblleft quoteleft
+ 32 quotedblleft.ss01 quoteleft.ss01
+ 34 quotedblright.ss01 quoteright.ss01
+ 1 B
+ 1 F
+ 1 J
+ 6 Lslash
+ 6 M.ss06
+ 1 P
+ 1 Q
+ 1 V
+ 1 X
+ 11 asciicircum
+ 10 asciitilde
+ 8 asterisk
+ 9 braceleft
+ 11 bracketleft
+ 16 bracketleft.case
+ 10 comma.ss01
+ 6 degree
+ 5 eight
+ 1 f
+ 4 five
+ 4 four
+ 6 hyphen
+ 11 hyphen.case
+ 1 i
+ 16 less_hyphen.liga
+ 3 one
+ 11 ordfeminine
+ 12 ordmasculine
+ 9 parenleft
+ 14 parenleft.case
+ 7 percent
+ 17 questiondown.ss01
+ 13 quotedblright
+ 10 quoteright
+ 5 seven
+ 3 six
+ 5 slash
+ 6 tcaron
+ 5 three
+ 3 two
+ 8 two.ss10
+ 10 underscore
+ 10 w_w_w.liga
+ 1 x
+ 378 B Dcaron Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek IJ Iacute Idotaccent Igrave Imacron uni0136 Lacute Lcaron uni013B Nacute Ncaron uni0145 Ntilde Eng Thorn R Racute Rcaron Edieresis.ss01 Edotaccent.ss01 Idotaccent.ss01 uni0136.ss01 uni013B.ss01 uni0145.ss01 K.ss04 uni0136.ss04 Racute.ss05 Rcaron.ss05 uni0156.ss05 uni0136.ss01.ss04 uni0156.ss01.ss05
+ 289 C Cacute Ccaron Ccedilla Cdotaccent G Gbreve uni0122 Gdotaccent O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Otilde OE Q Cdotaccent.ss01 uni0122.ss01 Gdotaccent.ss01 Odieresis.ss01 G.ss07 Gbreve.ss07 uni0122.ss07 Gdotaccent.ss07 Q.ss09 uni0122.ss01.ss07 Gdotaccent.ss01.ss07
+ 177 iacute i.loclTRK igrave iogonek j uni0137 lacute lcaron uni013C thorn rcaron i.ss01 i.loclTRK.ss01 ij.ss01 j.ss01 uni0137.ss01 uni013C.ss01 k.ss04 uni0137.ss04 uni0137.ss01.ss04
+ 174 d dcaron dcroat q a.ss02 aacute.ss02 abreve.ss02 uni01CE.ss02 acircumflex.ss02 adieresis.ss02 agrave.ss02 amacron.ss02 aogonek.ss02 aring.ss02 atilde.ss02 adieresis.ss01.ss02
+ 107 c cacute ccedilla cdotaccent e eacute edotaccent egrave eogonek o oacute oe cdotaccent.ss01 edotaccent.ss01
+ 99 A Aacute Abreve uni01CD Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE Adieresis.ss01
+ 131 ccaron ecaron ecircumflex edieresis emacron ocircumflex odieresis ograve ohungarumlaut omacron otilde edieresis.ss01 odieresis.ss01
+ 95 U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Udieresis.ss01
+ 93 dotlessi nacute ncaron uni0146 ntilde eng racute uni0157 germandbls uni0146.ss01 uni0157.ss01
+ 95 u uacute ubreve ucircumflex udieresis ugrave uhungarumlaut umacron uogonek uring udieresis.ss01
+ 79 abreve uni01CE acircumflex adieresis agrave amacron aring atilde adieresis.ss01
+ 41 f f_f_i f_f_l f_i f_l f_f_i.ss01 f_i.ss01
+ 54 v y yacute ycircumflex ydieresis ygrave ydieresis.ss01
+ 63 w wacute wcircumflex wdieresis wgrave wdieresis.ss01 w_w_w.liga
+ 45 S Sacute Scaron Scedilla uni0218 uni0218.ss01
+ 52 Y Yacute Ycircumflex Ydieresis Ygrave Ydieresis.ss01
+ 56 g gbreve uni0123 gdotaccent uni0123.ss01 gdotaccent.ss01
+ 45 s sacute scaron scedilla uni0219 uni0219.ss01
+ 82 y.ss03 yacute.ss03 ycircumflex.ss03 ydieresis.ss03 ygrave.ss03 ydieresis.ss01.ss03
+ 37 W Wacute Wcircumflex Wdieresis Wgrave
+ 42 Z Zacute Zcaron Zdotaccent Zdotaccent.ss01
+ 42 z zacute zcaron zdotaccent zdotaccent.ss01
+ 29 T Tcaron uni021A uni021A.ss01
+ 19 a aacute aogonek ae
+ 29 t tcaron uni021B uni021B.ss01
+ 17 plus minus divide
+ 45 quoteright quotedblright.ss01 quoteright.ss01
+ 15 colon semicolon
+ 25 colon.ss01 semicolon.ss01
+ 12 period comma
+ 22 period.ss01 comma.ss01
+ 13 endash emdash
+ 23 endash.case emdash.case
+ 18 exclam exclam.case
+ 27 guillemotleft guilsinglleft
+ 29 guillemotright guilsinglright
+ 4 i ij
+ 24 parenleft parenleft.case
+ 20 quotedbl quotesingle
+ 22 quotedblleft quoteleft
+ 32 quotedblleft.ss01 quoteleft.ss01
+ 8 zero six
+ 1 J
+ 6 J.ss08
+ 6 M.ss06
+ 1 V
+ 1 X
+ 8 asterisk
+ 12 bracketright
+ 5 eight
+ 13 ellipsis.ss01
+ 11 exclam.ss01
+ 4 five
+ 4 four
+ 6 hyphen
+ 11 hyphen.case
+ 19 hyphen_greater.liga
+ 11 icircumflex
+ 9 idieresis
+ 4 nine
+ 3 one
+ 10 parenright
+ 15 parenright.case
+ 7 percent
+ 8 question
+ 13 question.ss01
+ 13 quotedblright
+ 5 seven
+ 5 slash
+ 5 three
+ 3 two
+ 8 two.ss10
+ 10 underscore
+ 1 x
+ 0 {} -15 {} -7 {} -17 {} -5 {} -3 {} -23 {} -3 {} -11 {} -17 {} -13 {} -12 {} -6 {} -9 {} -9 {} -16 {} -84 {} -5 {} -5 {} -12 {} -56 {} -29 {} -17 {} -61 {} -12 {} -7 {} -36 {} -51 {} -18 {} -22 {} -37 {} -38 {} -43 {} 0 {} -29 {} -37 {} -37 {} -15 {} -28 {} -56 {} -43 {} -49 {} -6 {} -8 {} -27 {} 0 {} -66 {} -27 {} -44 {} -52 {} 0 {} -39 {} -27 {} 0 {} 0 {} -42 {} 0 {} -37 {} -9 {} -17 {} 0 {} -23 {} -72 {} 0 {} 0 {} -47 {} -49 {} -45 {} 0 {} -38 {} 0 {} 0 {} 0 {} -56 {} -23 {} 0 {} -15 {} -31 {} -12 {} -29 {} -30 {} -11 {} -29 {} -18 {} -31 {} -36 {} -23 {} -31 {} -40 {} -40 {} -32 {} -11 {} -30 {} -20 {} -44 {} -21 {} -13 {} -20 {} -7 {} -25 {} -34 {} -47 {} -34 {} -25 {} -26 {} -32 {} -29 {} -70 {} -55 {} -29 {} -66 {} -40 {} -10 {} -52 {} -32 {} -43 {} -46 {} -28 {} 2 {} -41 {} 0 {} -15 {} -9 {} -35 {} -30 {} 0 {} -29 {} -28 {} 0 {} 0 {} -68 {} -55 {} -52 {} 1 {} 15 {} 0 {} -20 {} -37 {} -36 {} 0 {} -41 {} -17 {} -32 {} 0 {} -31 {} 0 {} 0 {} 0 {} -55 {} -21 {} 0 {} -6 {} -4 {} -9 {} -14 {} -15 {} -70 {} -15 {} -5 {} -10 {} -6 {} -24 {} 6 {} 5 {} 2 {} -12 {} -58 {} -16 {} -14 {} 5 {} -32 {} -78 {} -6 {} -89 {} -24 {} 5 {} -27 {} -20 {} -7 {} -15 {} -88 {} -93 {} -58 {} 0 {} -23 {} -56 {} -32 {} -8 {} -26 {} -32 {} -15 {} -16 {} -3 {} -73 {} -59 {} 0 {} -35 {} -71 {} -10 {} -100 {} 0 {} -96 {} -22 {} 0 {} 0 {} -57 {} 0 {} -31 {} -6 {} -10 {} 0 {} -3 {} -91 {} 0 {} 0 {} -11 {} -10 {} -15 {} 0 {} -77 {} 0 {} 0 {} 0 {} -107 {} -3 {} 0 {} -15 {} -43 {} -23 {} -25 {} -28 {} 0 {} -27 {} -42 {} -23 {} -33 {} -22 {} -41 {} -69 {} -63 {} -32 {} -119 {} -21 {} -18 {} -69 {} -102 {} -6 {} -11 {} -112 {} -22 {} -55 {} -83 {} -109 {} -18 {} -24 {} -25 {} -26 {} -71 {} -87 {} -29 {} -60 {} -43 {} -21 {} -52 {} -116 {} -106 {} -116 {} -34 {} 0 {} -36 {} 0 {} -113 {} -2 {} -111 {} -36 {} 0 {} -26 {} -28 {} 0 {} 0 {} -69 {} -85 {} -83 {} -22 {} -22 {} 0 {} -72 {} -60 {} -39 {} 0 {} -101 {} -100 {} -105 {} 0 {} -22 {} 0 {} 0 {} 0 {} -51 {} -4 {} 0 {} -10 {} 0 {} -9 {} -2 {} 1 {} -15 {} 1 {} -8 {} -15 {} -10 {} -7 {} -2 {} -6 {} -8 {} -5 {} -10 {} -1 {} -2 {} -9 {} -13 {} -14 {} -15 {} -8 {} -10 {} -3 {} 0 {} -27 {} -13 {} -19 {} -35 {} -35 {} -41 {} -41 {} -21 {} -34 {} -34 {} -7 {} -26 {} -27 {} -28 {} -30 {} 0 {} -1 {} -22 {} 0 {} -14 {} -12 {} -23 {} -27 {} 0 {} -36 {} -20 {} 0 {} 0 {} -39 {} -39 {} -35 {} 0 {} 0 {} 0 {} -3 {} -37 {} -39 {} 0 {} -24 {} -23 {} -25 {} 0 {} -35 {} 0 {} 0 {} 0 {} -56 {} -21 {} 0 {} -8 {} 1 {} -5 {} -3 {} -2 {} -42 {} -1 {} -2 {} -10 {} -7 {} -10 {} -1 {} -3 {} -4 {} -4 {} -7 {} -3 {} -6 {} -7 {} -10 {} -19 {} -22 {} -6 {} -13 {} -1 {} -28 {} -23 {} -21 {} -27 {} -57 {} -59 {} -37 {} -36 {} -20 {} -32 {} -36 {} -4 {} -24 {} -21 {} -24 {} -26 {} 1 {} -31 {} -21 {} 0 {} -7 {} -21 {} -19 {} -28 {} 0 {} -59 {} -20 {} 0 {} 0 {} -36 {} -34 {} -31 {} 16 {} 28 {} 0 {} 0 {} -37 {} -40 {} 0 {} -20 {} -9 {} -21 {} 0 {} -57 {} 0 {} 0 {} 0 {} -106 {} -31 {} 0 {} -11 {} -14 {} -13 {} -7 {} -7 {} -19 {} -7 {} -20 {} -13 {} -16 {} -15 {} -23 {} -28 {} -28 {} -22 {} -112 {} -7 {} -9 {} -32 {} -71 {} -26 {} -24 {} -52 {} -15 {} -26 {} -40 {} -59 {} -23 {} -29 {} -36 {} -38 {} -46 {} 0 {} -29 {} -39 {} -42 {} -13 {} -33 {} -59 {} -63 {} -74 {} -11 {} -7 {} -29 {} 0 {} -79 {} -24 {} -80 {} -48 {} 0 {} -39 {} -30 {} 0 {} 0 {} -44 {} 0 {} -43 {} -13 {} -13 {} 0 {} -50 {} -54 {} 0 {} 0 {} -74 {} -76 {} -62 {} 0 {} -35 {} 0 {} 0 {} 0 {} -55 {} -23 {} 0 {} -10 {} -6 {} -11 {} -5 {} -3 {} -23 {} -3 {} -7 {} -17 {} -13 {} -11 {} -6 {} -9 {} -9 {} -12 {} -18 {} -5 {} -5 {} -12 {} -22 {} -17 {} -17 {} -15 {} -12 {} -7 {} -36 {} -26 {} -16 {} -22 {} -37 {} -38 {} -44 {} 0 {} -26 {} -37 {} -37 {} -7 {} -28 {} -29 {} -35 {} -35 {} -4 {} -8 {} -27 {} 0 {} -18 {} -22 {} -25 {} -26 {} 0 {} -39 {} -21 {} 0 {} 0 {} -42 {} 0 {} -37 {} 0 {} 0 {} 0 {} -13 {} -35 {} 0 {} 0 {} -31 {} -27 {} -31 {} 0 {} -32 {} 0 {} 0 {} 0 {} -12 {} -23 {} 0 {} 0 {} 5 {} -6 {} 0 {} -2 {} -43 {} -2 {} 1 {} -7 {} -4 {} -10 {} 0 {} -4 {} -4 {} -4 {} -59 {} -2 {} -1 {} -6 {} -38 {} -44 {} -19 {} -52 {} -10 {} 0 {} -18 {} -35 {} -16 {} -18 {} -61 {} -67 {} -28 {} -25 {} -22 {} -26 {} -28 {} -5 {} -17 {} -49 {} -27 {} -34 {} 12 {} -41 {} -18 {} 0 {} -42 {} -65 {} -32 {} -76 {} 0 {} -66 {} -22 {} 0 {} 0 {} -27 {} -24 {} -21 {} 9 {} 4 {} 0 {} -3 {} -97 {} -96 {} 0 {} -38 {} -25 {} -30 {} 0 {} -57 {} 0 {} 0 {} 0 {} -119 {} -31 {} 0 {} -10 {} -8 {} -13 {} 0 {} 0 {} -19 {} 0 {} -14 {} -4 {} -10 {} -9 {} -16 {} -20 {} -21 {} -15 {} -104 {} -1 {} -2 {} -25 {} -64 {} -26 {} -19 {} -110 {} -9 {} -18 {} -34 {} -64 {} -17 {} -22 {} -33 {} -34 {} -40 {} 0 {} -27 {} -33 {} -38 {} -3 {} -27 {} -79 {} -60 {} -66 {} -6 {} -5 {} -23 {} 0 {} -74 {} -22 {} -71 {} -53 {} 0 {} -35 {} -25 {} 0 {} 0 {} -38 {} 0 {} -37 {} -12 {} -13 {} 0 {} -41 {} -71 {} 0 {} 0 {} -70 {} -60 {} -61 {} 0 {} -35 {} 0 {} 0 {} 0 {} -56 {} -22 {} 0 {} 1 {} -2 {} -3 {} 6 {} 0 {} -29 {} 0 {} -3 {} -3 {} 0 {} -2 {} -8 {} -15 {} -13 {} -3 {} -105 {} 3 {} 2 {} -19 {} -58 {} -32 {} -23 {} -55 {} -2 {} -11 {} -23 {} -55 {} -17 {} -22 {} -38 {} -39 {} -19 {} 0 {} -22 {} -14 {} -34 {} -1 {} -16 {} -69 {} -60 {} -69 {} 1 {} -14 {} -9 {} 0 {} -70 {} -52 {} -76 {} -68 {} 0 {} -42 {} -21 {} 0 {} 0 {} -18 {} 0 {} -23 {} -3 {} -3 {} 0 {} -44 {} -65 {} 0 {} 0 {} -79 {} -78 {} -56 {} 0 {} -40 {} 0 {} 0 {} 0 {} -95 {} -42 {} 0 {} -1 {} -2 {} -10 {} -4 {} -2 {} -35 {} -2 {} -1 {} -15 {} -12 {} -15 {} 0 {} 0 {} -3 {} 0 {} -51 {} -4 {} -15 {} -2 {} -32 {} -33 {} -19 {} -41 {} -18 {} 0 {} -44 {} -27 {} -19 {} -26 {} -50 {} -54 {} -39 {} -56 {} -24 {} -23 {} -32 {} -8 {} -26 {} -39 {} -19 {} -23 {} 2 {} -23 {} -7 {} 0 {} -35 {} -50 {} -22 {} -63 {} 0 {} -56 {} -23 {} 0 {} 0 {} -39 {} -53 {} -51 {} 10 {} 0 {} 0 {} -2 {} -84 {} -85 {} 0 {} -23 {} -7 {} -24 {} 0 {} -53 {} 0 {} 0 {} 0 {} -107 {} -27 {} 0 {} -3 {} 0 {} -6 {} 7 {} 2 {} -23 {} 3 {} 0 {} -8 {} -4 {} -7 {} -6 {} -5 {} -7 {} -1 {} -54 {} 4 {} -3 {} -9 {} -38 {} -21 {} -19 {} -47 {} -8 {} -6 {} -30 {} -39 {} -24 {} -25 {} -40 {} -37 {} -32 {} -33 {} -20 {} -26 {} -35 {} -5 {} -21 {} -48 {} -31 {} -35 {} 5 {} -7 {} -14 {} 0 {} -40 {} -34 {} -33 {} -66 {} 0 {} -39 {} -20 {} 0 {} 0 {} -30 {} -32 {} -30 {} 6 {} 0 {} 0 {} -4 {} -86 {} -75 {} 0 {} -33 {} -9 {} -35 {} 0 {} -43 {} 0 {} 0 {} 0 {} -97 {} -30 {} 0 {} 0 {} 3 {} -5 {} -2 {} -3 {} -39 {} -2 {} 1 {} -8 {} -4 {} -13 {} -2 {} -3 {} -4 {} -4 {} -53 {} -2 {} -7 {} -6 {} -36 {} -37 {} -25 {} -45 {} -13 {} -2 {} -24 {} -36 {} -20 {} -26 {} -55 {} -60 {} -26 {} -27 {} -24 {} -23 {} -35 {} -4 {} -18 {} -46 {} -29 {} -31 {} 5 {} -31 {} -13 {} 0 {} -38 {} -56 {} -30 {} -67 {} 0 {} -61 {} -23 {} 0 {} 0 {} -25 {} -26 {} -25 {} 10 {} 5 {} 0 {} -2 {} -88 {} -89 {} 0 {} -31 {} -30 {} -33 {} 0 {} -52 {} 0 {} 0 {} 0 {} -111 {} -31 {} 0 {} 1 {} 0 {} -1 {} -1 {} -2 {} -17 {} 0 {} 2 {} -5 {} -2 {} -5 {} -3 {} -1 {} -3 {} 1 {} -41 {} -1 {} -2 {} -2 {} -27 {} -12 {} -17 {} -20 {} -1 {} -3 {} -43 {} -30 {} -17 {} -26 {} -31 {} -31 {} -26 {} -48 {} -17 {} -18 {} -36 {} -2 {} -17 {} -34 {} -26 {} -26 {} 7 {} -2 {} -3 {} 0 {} -29 {} -26 {} -22 {} -48 {} 0 {} -32 {} -16 {} 0 {} 0 {} -23 {} -45 {} -41 {} 21 {} 12 {} 0 {} -1 {} -68 {} -64 {} 0 {} -17 {} -3 {} -26 {} 0 {} -37 {} 0 {} 0 {} 0 {} -89 {} -22 {} 0 {} -10 {} -59 {} -19 {} -104 {} -105 {} -119 {} -48 {} -7 {} -84 {} 0 {} -43 {} -53 {} -58 {} -62 {} -48 {} 0 {} -103 {} -96 {} -61 {} 0 {} -11 {} -79 {} 0 {} -107 {} -57 {} -108 {} -18 {} -86 {} -98 {} -134 {} -134 {} -154 {} -117 {} -26 {} -151 {} -107 {} -13 {} -85 {} -17 {} -36 {} -38 {} -53 {} -105 {} -143 {} 0 {} 0 {} -4 {} -29 {} -18 {} 0 {} -164 {} -26 {} 0 {} 0 {} -153 {} -116 {} -111 {} 18 {} 2 {} 0 {} -23 {} -23 {} -28 {} 0 {} -36 {} -36 {} -14 {} 0 {} -129 {} 0 {} 0 {} 0 {} -143 {} -80 {} 0 {} -1 {} -3 {} -4 {} 5 {} 7 {} -27 {} 6 {} -4 {} -4 {} 0 {} -8 {} -7 {} -14 {} -12 {} -3 {} -101 {} 4 {} 3 {} -18 {} -59 {} -31 {} -24 {} -107 {} -8 {} -10 {} -21 {} -64 {} -15 {} -19 {} -37 {} -37 {} -19 {} 0 {} -21 {} -15 {} -33 {} -2 {} -17 {} -76 {} -61 {} -67 {} 0 {} -9 {} -12 {} 0 {} -69 {} -47 {} -73 {} -75 {} 0 {} -39 {} -20 {} 0 {} 0 {} -18 {} 0 {} -20 {} -4 {} -4 {} 0 {} -43 {} -93 {} 0 {} 0 {} -74 {} -74 {} -61 {} 0 {} -39 {} 0 {} 0 {} 0 {} -89 {} -40 {} 0 {} -5 {} -4 {} -10 {} -3 {} -2 {} -25 {} -2 {} -10 {} -10 {} -9 {} -7 {} -3 {} -15 {} -14 {} -5 {} -99 {} -4 {} 0 {} -19 {} -63 {} -22 {} -19 {} -109 {} -7 {} -5 {} -18 {} -59 {} -11 {} -14 {} -29 {} -30 {} -39 {} 0 {} -22 {} -32 {} -29 {} -7 {} -21 {} -72 {} -55 {} -63 {} -3 {} -4 {} -13 {} 0 {} -72 {} -41 {} -68 {} -67 {} 0 {} -31 {} -24 {} 0 {} 0 {} -38 {} 0 {} -24 {} -10 {} -10 {} 0 {} -35 {} -64 {} 0 {} 0 {} -71 {} -71 {} -57 {} 0 {} -42 {} 0 {} 0 {} 0 {} -87 {} -39 {} 0 {} -8 {} -4 {} -9 {} -12 {} -13 {} -63 {} -13 {} -4 {} -9 {} -6 {} -21 {} 5 {} 2 {} 0 {} -17 {} -62 {} -13 {} -11 {} 2 {} -36 {} -65 {} -9 {} -90 {} -22 {} 2 {} -26 {} -25 {} -11 {} -18 {} -77 {} -81 {} -51 {} 0 {} -26 {} -49 {} -31 {} -8 {} -27 {} -36 {} -22 {} -24 {} -3 {} -55 {} -50 {} 0 {} -39 {} -70 {} -21 {} -99 {} 0 {} -82 {} -24 {} 0 {} 0 {} -49 {} 0 {} -28 {} -7 {} -9 {} 0 {} -6 {} -96 {} 0 {} 0 {} -15 {} -15 {} -22 {} 0 {} -75 {} 0 {} 0 {} 0 {} -92 {} -8 {} 0 {} -1 {} -11 {} -10 {} -27 {} -29 {} 0 {} -28 {} -10 {} -15 {} -20 {} -22 {} -2 {} -2 {} -6 {} -16 {} -43 {} -22 {} -19 {} -5 {} -30 {} -5 {} -6 {} -27 {} -23 {} -4 {} -46 {} -30 {} -10 {} -17 {} -26 {} -30 {} -79 {} -55 {} -17 {} -78 {} -36 {} -8 {} -36 {} -36 {} -25 {} -26 {} -8 {} 0 {} -50 {} 0 {} -30 {} 0 {} -20 {} -21 {} 0 {} -31 {} -17 {} 0 {} 0 {} -77 {} -54 {} -49 {} 15 {} 6 {} 0 {} 1 {} -52 {} -24 {} 0 {} -21 {} -21 {} -26 {} 0 {} -14 {} 0 {} 0 {} 0 {} -49 {} 0 {} 0 {} -13 {} -38 {} -19 {} -57 {} -58 {} -102 {} -43 {} -10 {} -56 {} -53 {} -46 {} -29 {} -31 {} -36 {} -36 {} 0 {} -57 {} -53 {} -35 {} -11 {} -21 {} -57 {} -3 {} -66 {} -29 {} -71 {} -25 {} -59 {} -68 {} -116 {} -121 {} -91 {} -78 {} -32 {} -91 {} -73 {} -17 {} -65 {} -23 {} -37 {} -38 {} -36 {} -82 {} -82 {} 0 {} -4 {} -13 {} -28 {} -27 {} 0 {} -121 {} -32 {} 0 {} 0 {} -90 {} -77 {} -75 {} 12 {} 17 {} 0 {} -14 {} -36 {} -39 {} 0 {} -33 {} -32 {} -22 {} 0 {} -117 {} 0 {} 0 {} 0 {} -119 {} -56 {} 0 {} -8 {} -39 {} -9 {} -35 {} -39 {} -6 {} -30 {} -13 {} -27 {} -36 {} -20 {} -34 {} -45 {} -48 {} -24 {} -4 {} -34 {} -19 {} -46 {} -13 {} -8 {} -16 {} -2 {} -23 {} -41 {} -98 {} -25 {} -20 {} -24 {} -27 {} -25 {} -111 {} -108 {} -23 {} -75 {} -47 {} -8 {} -58 {} -24 {} -33 {} -34 {} -31 {} 3 {} -42 {} 0 {} -6 {} -6 {} -26 {} -23 {} 0 {} -25 {} -22 {} 0 {} 0 {} -107 {} -106 {} -102 {} 16 {} 0 {} 0 {} -10 {} -30 {} -32 {} 0 {} -28 {} -27 {} -25 {} 0 {} -28 {} 0 {} 0 {} 0 {} -53 {} -17 {} 0 {} 0 {} -3 {} -4 {} 5 {} 7 {} -27 {} 7 {} -3 {} -4 {} 0 {} -8 {} -7 {} -13 {} -12 {} -3 {} 0 {} 4 {} 3 {} -18 {} -42 {} -18 {} -24 {} -17 {} -8 {} -10 {} 0 {} -33 {} -15 {} -19 {} -37 {} -37 {} -19 {} 0 {} -18 {} -15 {} -33 {} -1 {} -16 {} -55 {} -45 {} -52 {} 0 {} -9 {} -12 {} 0 {} -19 {} -36 {} -46 {} -48 {} 0 {} -39 {} -18 {} 0 {} 0 {} -18 {} 0 {} -20 {} 5 {} 2 {} 0 {} -24 {} -55 {} 0 {} 0 {} -46 {} -45 {} -46 {} 0 {} -39 {} 0 {} 0 {} 0 {} 0 {} -40 {} 0 {} 7 {} 2 {} 1 {} 17 {} 16 {} -10 {} 16 {} 1 {} 1 {} 4 {} 8 {} 0 {} -6 {} -6 {} -1 {} -92 {} 16 {} 8 {} -9 {} -50 {} -10 {} -3 {} -103 {} 8 {} -1 {} -22 {} -53 {} -3 {} -9 {} -18 {} -16 {} -36 {} 0 {} -15 {} -22 {} -17 {} 3 {} -11 {} -65 {} -49 {} -53 {} 12 {} 0 {} -8 {} 0 {} -61 {} -21 {} -57 {} -61 {} 0 {} -17 {} -13 {} 0 {} 0 {} -33 {} 0 {} -27 {} 2 {} 1 {} 0 {} -19 {} -77 {} 0 {} 0 {} -64 {} -62 {} -49 {} 0 {} -27 {} 0 {} 0 {} 0 {} -71 {} -20 {} 0 {} -13 {} -13 {} -14 {} -19 {} -20 {} -9 {} -20 {} -17 {} -14 {} -13 {} -15 {} 0 {} -1 {} -5 {} -27 {} -77 {} -19 {} -12 {} -4 {} -51 {} -15 {} -12 {} -89 {} -15 {} -3 {} -37 {} -42 {} -15 {} -18 {} -27 {} -26 {} -71 {} 0 {} -26 {} -71 {} -33 {} -13 {} -33 {} -51 {} -31 {} -40 {} -10 {} 0 {} -43 {} 0 {} -56 {} -15 {} -35 {} -47 {} 0 {} -26 {} -25 {} 0 {} 0 {} -69 {} 0 {} -42 {} -9 {} -14 {} 0 {} -12 {} -66 {} 0 {} 0 {} -37 {} -36 {} -37 {} 0 {} -26 {} 0 {} 0 {} 0 {} -52 {} -11 {} 0 {} 0 {} 5 {} -7 {} -2 {} -3 {} -44 {} -3 {} 1 {} -8 {} -5 {} -10 {} 0 {} -4 {} -7 {} -4 {} -61 {} -2 {} -2 {} -7 {} -40 {} -47 {} -19 {} -56 {} -12 {} 0 {} -18 {} -35 {} -18 {} -18 {} -63 {} -70 {} -29 {} -25 {} -22 {} -26 {} -28 {} -5 {} -18 {} -50 {} -29 {} -35 {} 11 {} -46 {} -20 {} 0 {} -43 {} -68 {} -33 {} -79 {} 0 {} -71 {} -23 {} 0 {} 0 {} -27 {} -24 {} -21 {} 8 {} 1 {} 0 {} -3 {} -98 {} -100 {} 0 {} -40 {} -10 {} -31 {} 0 {} -58 {} 0 {} 0 {} 0 {} -126 {} -32 {} 0 {} -19 {} -59 {} -28 {} -36 {} -40 {} -7 {} -41 {} -53 {} -28 {} -39 {} -24 {} -52 {} -87 {} -74 {} -39 {} -139 {} -35 {} -22 {} -81 {} -105 {} -11 {} -17 {} -127 {} -24 {} -68 {} -135 {} -134 {} -22 {} -26 {} -28 {} -26 {} -139 {} -220 {} -32 {} -76 {} -47 {} -26 {} -64 {} -126 {} -127 {} -207 {} -48 {} 2 {} -42 {} 0 {} -129 {} -9 {} -204 {} -48 {} 0 {} -26 {} -31 {} 0 {} 0 {} -117 {} -214 {} -204 {} -28 {} -28 {} 0 {} -91 {} -68 {} -43 {} 0 {} -110 {} -113 {} -197 {} 0 {} -29 {} 0 {} 0 {} 0 {} -53 {} -19 {} 0 {} -3 {} 0 {} -4 {} -1 {} -1 {} -7 {} -2 {} -1 {} -5 {} -3 {} -6 {} 0 {} 0 {} -2 {} 1 {} -35 {} -1 {} -3 {} -2 {} -23 {} -12 {} -5 {} -15 {} -6 {} 0 {} -38 {} -23 {} -8 {} -17 {} -26 {} -28 {} -42 {} -51 {} -13 {} -30 {} -33 {} -2 {} -21 {} -29 {} -18 {} -19 {} 5 {} 2 {} -16 {} 0 {} -23 {} -6 {} -13 {} -38 {} 0 {} -29 {} -11 {} 0 {} 0 {} -41 {} -49 {} -43 {} 15 {} 6 {} 0 {} 3 {} -62 {} -40 {} 0 {} -14 {} -4 {} -19 {} 0 {} -30 {} 0 {} 0 {} 0 {} -55 {} -13 {} 0 {} -8 {} -52 {} -12 {} 0 {} -109 {} -112 {} -49 {} -6 {} -66 {} 0 {} -42 {} -53 {} -89 {} -90 {} -37 {} 0 {} -109 {} -108 {} 0 {} -3 {} -6 {} 0 {} 3 {} -115 {} -62 {} -117 {} 0 {} -117 {} -112 {} -132 {} -133 {} -153 {} -153 {} -25 {} -148 {} -154 {} -10 {} -74 {} 0 {} -28 {} -29 {} -43 {} -95 {} -134 {} 0 {} -1 {} -7 {} -16 {} -16 {} 0 {} -152 {} -25 {} 0 {} 0 {} -150 {} -150 {} -143 {} 1 {} 32 {} 0 {} -15 {} -29 {} -32 {} 0 {} -26 {} -5 {} -12 {} 0 {} -121 {} 0 {} 0 {} 0 {} -131 {} -90 {} 0 {} -9 {} -70 {} -21 {} -51 {} -57 {} 0 {} -53 {} -21 {} -30 {} -47 {} -33 {} -46 {} -85 {} -80 {} -48 {} -12 {} -37 {} -37 {} -50 {} -14 {} -6 {} -16 {} -8 {} -33 {} -74 {} -153 {} -40 {} -24 {} -33 {} -32 {} -34 {} -116 {} -165 {} -32 {} -98 {} -55 {} -18 {} -75 {} -38 {} -57 {} -59 {} -56 {} -1 {} -55 {} 0 {} -8 {} -1 {} -51 {} -23 {} 0 {} -35 {} -32 {} 0 {} 0 {} -114 {} -162 {} -157 {} -5 {} 0 {} 0 {} -50 {} -30 {} -32 {} 0 {} -59 {} -58 {} -37 {} 0 {} -25 {} 0 {} 0 {} 0 {} -49 {} -2 {} 0 {} -9 {} -63 {} -19 {} -44 {} -48 {} 0 {} -40 {} -21 {} -24 {} -44 {} -27 {} -44 {} -80 {} -76 {} -38 {} -1 {} -28 {} -28 {} -48 {} -11 {} -3 {} -14 {} -6 {} -29 {} -66 {} -126 {} -38 {} -19 {} -28 {} -27 {} -29 {} -98 {} -131 {} -28 {} -83 {} -50 {} -17 {} -67 {} -35 {} -56 {} -59 {} -48 {} 0 {} -51 {} 0 {} -6 {} 0 {} -51 {} -21 {} 0 {} -29 {} -27 {} 0 {} 0 {} -96 {} -127 {} -122 {} -1 {} 0 {} 0 {} -45 {} -29 {} -30 {} 0 {} -58 {} -56 {} -34 {} 0 {} -23 {} 0 {} 0 {} 0 {} -49 {} -2 {} 0 {} 0 {} 0 {} -5 {} 4 {} 6 {} -26 {} 6 {} -3 {} -5 {} 0 {} -1 {} -7 {} -14 {} -12 {} -4 {} -102 {} 4 {} 2 {} -19 {} -57 {} -31 {} -22 {} -109 {} -1 {} -10 {} -21 {} -65 {} -16 {} -21 {} -37 {} -38 {} -21 {} 0 {} -21 {} -16 {} -33 {} -3 {} -16 {} -78 {} -61 {} -67 {} 4 {} -13 {} -10 {} 0 {} -68 {} -49 {} -73 {} -75 {} 0 {} -39 {} -21 {} 0 {} 0 {} -20 {} 0 {} -24 {} -5 {} -5 {} 0 {} -40 {} -94 {} 0 {} 0 {} -74 {} -73 {} -62 {} 0 {} -39 {} 0 {} 0 {} 0 {} -89 {} -39 {} 0 {} -33 {} -18 {} -36 {} -23 {} -23 {} -83 {} -23 {} -28 {} 0 {} -32 {} -38 {} -21 {} -25 {} -26 {} -56 {} -108 {} -22 {} -25 {} -30 {} -71 {} -105 {} -52 {} -117 {} -38 {} -21 {} -28 {} -66 {} -33 {} -38 {} -135 {} -135 {} 0 {} 0 {} -51 {} -54 {} -41 {} -33 {} -42 {} -82 {} -63 {} -73 {} -17 {} -110 {} -76 {} -42 {} -78 {} -125 {} -76 {} -121 {} -40 {} 0 {} 0 {} -38 {} -47 {} -57 {} -36 {} -34 {} 0 {} 0 {} -28 {} -41 {} -130 {} -129 {} 0 {} 0 {} 0 {} 0 {} -115 {} -90 {} -75 {} -80 {} -74 {} 0 {} -62 {} 0 {} -21 {} -23 {} -23 {} -23 {} -23 {} -29 {} 0 {} -21 {} 0 {} -26 {} 0 {} -19 {} -23 {} -26 {} -28 {} -27 {} -23 {} -20 {} -27 {} -33 {} -28 {} -29 {} -26 {} -29 {} -21 {} 0 {} -39 {} -27 {} -34 {} -41 {} -42 {} -65 {} -59 {} -30 {} -57 {} -44 {} -20 {} 0 {} -40 {} -40 {} -45 {} -21 {} -13 {} -48 {} -25 {} -31 {} -32 {} -37 {} -42 {} -19 {} 0 {} 0 {} -28 {} -34 {} -65 {} -58 {} -54 {} 0 {} 0 {} -14 {} -20 {} -44 {} -48 {} 0 {} 0 {} 0 {} 0 {} -23 {} 0 {} -24 {} -13 {} -10 {} 0 {} -35 {} 0 {} -9 {} -14 {} -11 {} -30 {} -35 {} 0 {} -34 {} -12 {} -11 {} -14 {} -23 {} 4 {} -9 {} -9 {} -18 {} -70 {} -22 {} -21 {} -1 {} -46 {} -5 {} -3 {} -88 {} -23 {} 2 {} -52 {} -32 {} -6 {} -21 {} -20 {} -26 {} -97 {} 0 {} -21 {} -83 {} -37 {} -9 {} -39 {} -48 {} -25 {} -28 {} -12 {} 0 {} -54 {} 0 {} -50 {} 0 {} -25 {} -20 {} 0 {} -26 {} -24 {} 0 {} 0 {} -95 {} 0 {} -56 {} -9 {} -11 {} 0 {} -3 {} -59 {} 0 {} 0 {} -14 {} -14 {} -26 {} 0 {} -11 {} 0 {} 0 {} 0 {} -49 {} -11 {} 0 {} -8 {} -16 {} -10 {} -24 {} -27 {} 0 {} -27 {} -15 {} -10 {} -13 {} -17 {} 3 {} 0 {} 0 {} -20 {} -71 {} -21 {} -15 {} -1 {} -47 {} -2 {} -3 {} -88 {} -17 {} 2 {} -52 {} -35 {} -6 {} -15 {} -17 {} -21 {} -89 {} 0 {} -18 {} -73 {} -34 {} -9 {} -36 {} -50 {} -29 {} -30 {} -14 {} 0 {} -46 {} 0 {} -52 {} 0 {} -28 {} -19 {} 0 {} -21 {} -19 {} 0 {} 0 {} -87 {} 0 {} -57 {} -9 {} -10 {} 0 {} -2 {} -56 {} 0 {} 0 {} -16 {} -16 {} -29 {} 0 {} -9 {} 0 {} 0 {} 0 {} -49 {} 2 {} 0 {} -11 {} -15 {} -16 {} -48 {} -51 {} -87 {} 0 {} -8 {} 0 {} -24 {} 0 {} -2 {} -1 {} -3 {} -18 {} -21 {} -47 {} -38 {} -2 {} -21 {} -31 {} -24 {} -10 {} -49 {} -2 {} 0 {} -16 {} -28 {} -38 {} -108 {} -114 {} -97 {} -60 {} -25 {} -99 {} -54 {} -12 {} -45 {} -17 {} -11 {} -11 {} 0 {} -80 {} -113 {} -31 {} -18 {} -39 {} -7 {} -39 {} 0 {} 0 {} 0 {} 0 {} 0 {} -95 {} -58 {} -56 {} 0 {} 0 {} 0 {} 0 {} -60 {} -69 {} 0 {} 0 {} 0 {} 0 {} 0 {} -92 {} 0 {} 0 {} 0 {} 0 {} -27 {} 0 {} -4 {} -3 {} -10 {} -12 {} -11 {} -70 {} -11 {} -3 {} -10 {} -6 {} -17 {} 12 {} 12 {} 8 {} -13 {} -60 {} -11 {} -9 {} 5 {} -30 {} -76 {} -4 {} -84 {} -17 {} 12 {} -23 {} -22 {} -6 {} -12 {} -101 {} -110 {} -68 {} 0 {} -22 {} -60 {} -27 {} -8 {} -22 {} -30 {} -18 {} -20 {} -2 {} -77 {} -99 {} 0 {} -35 {} -75 {} -12 {} -97 {} 0 {} -110 {} -21 {} 0 {} 0 {} -65 {} 0 {} -31 {} -6 {} -9 {} 0 {} -4 {} -93 {} 0 {} 0 {} -12 {} -11 {} -19 {} 0 {} -76 {} 0 {} 0 {} 0 {} -101 {} -10 {} 0 {} -1 {} -5 {} -5 {} -12 {} -15 {} -6 {} -15 {} -10 {} -5 {} -9 {} -6 {} 8 {} 3 {} 0 {} -15 {} -65 {} -12 {} -4 {} 3 {} -38 {} -7 {} 0 {} -77 {} -6 {} 7 {} -33 {} -29 {} 0 {} -10 {} -17 {} -15 {} -69 {} 0 {} -17 {} -64 {} -23 {} -3 {} -28 {} -37 {} -20 {} -29 {} -5 {} 2 {} -35 {} 0 {} -42 {} -4 {} -21 {} -39 {} 0 {} -15 {} -16 {} 0 {} 0 {} -67 {} 0 {} -41 {} -4 {} -5 {} 0 {} 0 {} -58 {} 0 {} 0 {} -22 {} -21 {} -26 {} 0 {} -17 {} 0 {} 0 {} 0 {} -43 {} -5 {} 0 {} -19 {} -18 {} -21 {} -21 {} -22 {} -25 {} 0 {} -27 {} 0 {} -23 {} 0 {} -10 {} -14 {} -18 {} -35 {} -99 {} -22 {} -14 {} -18 {} -68 {} -27 {} -22 {} -112 {} -21 {} -11 {} 0 {} -58 {} 0 {} 0 {} 0 {} 0 {} -68 {} 0 {} 0 {} -67 {} -35 {} -20 {} -41 {} -71 {} 0 {} -57 {} -18 {} -8 {} -45 {} -23 {} -73 {} -31 {} -61 {} -62 {} -26 {} 0 {} 0 {} -29 {} -39 {} -65 {} 0 {} -43 {} 0 {} 0 {} -16 {} -32 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -89 {} 0 {} -33 {} -15 {} -14 {} 0 {} -29 {} 0 {} -35 {} -61 {} -37 {} -38 {} -39 {} -25 {} 0 {} -57 {} 0 {} -44 {} 0 {} -57 {} -88 {} -77 {} -41 {} -134 {} -38 {} -25 {} -86 {} -116 {} -30 {} -30 {} -132 {} -29 {} -73 {} 0 {} -135 {} -31 {} 0 {} -36 {} 0 {} -85 {} -135 {} -42 {} -71 {} -50 {} 0 {} -68 {} -135 {} -135 {} 0 {} -52 {} -8 {} -45 {} -27 {} -132 {} -31 {} -135 {} -58 {} -35 {} 0 {} 0 {} -38 {} -44 {} -83 {} -135 {} -135 {} 0 {} 0 {} -44 {} -104 {} -77 {} -52 {} 0 {} 0 {} 0 {} 0 {} -90 {} -41 {} -36 {} -18 {} -17 {} 0 {} -33 {} 0 {} 0 {} -4 {} -2 {} -32 {} -35 {} -60 {} -21 {} 0 {} -16 {} -11 {} -29 {} 3 {} -1 {} -1 {} 0 {} 0 {} -32 {} -30 {} -1 {} 0 {} 0 {} -3 {} 0 {} -37 {} 3 {} 0 {} 14 {} -11 {} -29 {} -80 {} -89 {} 0 {} 0 {} 0 {} -81 {} 0 {} -1 {} 0 {} 13 {} 2 {} 5 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -1 {} 0 {} -89 {} 1 {} 0 {} 0 {} -85 {} 0 {} -58 {} 0 {} 0 {} 0 {} 0 {} 6 {} 0 {} 0 {} 8 {} 12 {} 11 {} 0 {} -70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -43 {} -30 {} -17 {} -26 {} -31 {} -30 {} 0 {} 0 {} -17 {} -18 {} -36 {} 0 {} -17 {} -34 {} -26 {} -26 {} 6 {} 0 {} 0 {} 0 {} 0 {} 0 {} -22 {} -48 {} 13 {} 0 {} 0 {} -3 {} -1 {} -23 {} -45 {} -41 {} 0 {} 0 {} -1 {} -3 {} -68 {} -64 {} 0 {} 0 {} 0 {} 0 {} -29 {} -37 {} 0 {} 3 {} 16 {} 0 {} 0 {} 0 {} 7 {} -1 {} 1 {} 11 {} 13 {} -23 {} 13 {} -2 {} 1 {} 4 {} -5 {} -4 {} -9 {} -8 {} -1 {} 0 {} 11 {} 9 {} -15 {} 0 {} 0 {} -20 {} -63 {} -5 {} -6 {} 0 {} -54 {} -13 {} -14 {} -33 {} -33 {} -17 {} 0 {} -16 {} -10 {} -29 {} 2 {} -12 {} -71 {} -51 {} -62 {} 0 {} -6 {} -9 {} 0 {} -58 {} 0 {} 0 {} -70 {} 0 {} -35 {} -15 {} 0 {} 0 {} -16 {} 0 {} -18 {} 2 {} 1 {} 0 {} -29 {} -84 {} 0 {} 0 {} -62 {} -62 {} -51 {} 0 {} -35 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} -36 {} -68 {} -38 {} -38 {} -41 {} -26 {} -42 {} -60 {} 0 {} -43 {} -28 {} -62 {} -93 {} -82 {} -44 {} -135 {} -41 {} -25 {} -95 {} -121 {} -27 {} -27 {} -133 {} -28 {} -73 {} 0 {} -135 {} 0 {} -36 {} 0 {} -36 {} -96 {} -135 {} -42 {} -80 {} -52 {} -36 {} -70 {} 0 {} 0 {} -135 {} -63 {} -9 {} -48 {} -27 {} -132 {} -32 {} -135 {} -62 {} -37 {} -36 {} 0 {} -39 {} -51 {} -93 {} -135 {} -135 {} 0 {} 0 {} -45 {} -113 {} -87 {} -59 {} 0 {} 0 {} 0 {} 0 {} -93 {} -43 {} -39 {} -17 {} -15 {} 0 {} -33 {} 0 {} -41 {} -28 {} -43 {} -22 {} -19 {} -71 {} -19 {} -37 {} -43 {} -40 {} -50 {} -52 {} -56 {} -51 {} -42 {} -154 {} -21 {} -44 {} -61 {} -91 {} -79 {} -76 {} -153 {} -50 {} -59 {} 0 {} -118 {} -62 {} -68 {} -85 {} -95 {} -44 {} 0 {} -65 {} -41 {} -79 {} -41 {} -49 {} -117 {} -115 {} -123 {} -26 {} -96 {} -46 {} -44 {} -102 {} -100 {} 0 {} -134 {} -31 {} 0 {} 0 {} -47 {} -29 {} 0 {} 0 {} 0 {} 0 {} 0 {} -49 {} -112 {} -137 {} 0 {} 0 {} 0 {} 0 {} 0 {} -117 {} -80 {} -39 {} -83 {} -58 {} 0 {} -101 {} 0 {} -41 {} -25 {} 0 {} 0 {} 0 {} -87 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} -117 {} 0 {} 0 {} 0 {} -78 {} -108 {} 0 {} -153 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} -135 {} -135 {} 0 {} -44 {} -59 {} -58 {} -50 {} 0 {} -48 {} -90 {} -70 {} -81 {} -25 {} -137 {} -75 {} -49 {} -86 {} -135 {} 0 {} 0 {} -47 {} 0 {} 0 {} -47 {} -51 {} 0 {} 0 {} 0 {} 0 {} 0 {} -39 {} -55 {} 0 {} -139 {} 0 {} 0 {} 0 {} 0 {} -136 {} -94 {} -81 {} -95 {} -79 {} 0 {} 0 {} 0 {} -14 {} -5 {} -15 {} -4 {} -2 {} -22 {} -2 {} 0 {} -17 {} -12 {} -11 {} -5 {} -9 {} -9 {} -12 {} 0 {} -4 {} -3 {} -11 {} 0 {} -17 {} -16 {} 0 {} -11 {} -6 {} -35 {} -34 {} -15 {} 0 {} -37 {} 0 {} -43 {} 0 {} 0 {} -36 {} -36 {} 0 {} -28 {} -34 {} -35 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -33 {} 0 {} 0 {} 0 {} 0 {} 0 {} -41 {} 0 {} -37 {} 0 {} 0 {} 0 {} 0 {} -39 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -37 {} 0 {} 0 {} 0 {} 0 {} -23 {} 0 {} -8 {} 0 {} -11 {} -1 {} 1 {} -18 {} 2 {} 0 {} -13 {} -9 {} -8 {} -1 {} -6 {} -6 {} -8 {} 0 {} -1 {} -1 {} -9 {} 0 {} -11 {} -13 {} 0 {} -8 {} -1 {} -32 {} -24 {} 0 {} -17 {} 0 {} -34 {} -39 {} 0 {} 0 {} -33 {} -33 {} -5 {} -25 {} -29 {} 0 {} -32 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -25 {} 0 {} 0 {} -18 {} 0 {} 0 {} -37 {} 0 {} -34 {} 0 {} 0 {} 0 {} 0 {} -43 {} 0 {} 0 {} 0 {} -25 {} 0 {} 0 {} -34 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} -15 {} -5 {} -11 {} -5 {} -3 {} -23 {} -3 {} 0 {} -17 {} -13 {} -11 {} -6 {} -10 {} -9 {} -9 {} 0 {} -5 {} -5 {} -12 {} 0 {} -18 {} -17 {} 0 {} -12 {} -7 {} -36 {} -33 {} -16 {} -22 {} -37 {} -38 {} -43 {} 0 {} 0 {} -37 {} -37 {} -8 {} -28 {} -33 {} -33 {} -35 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} -22 {} 0 {} 0 {} -42 {} 0 {} -37 {} 0 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} 0 {} -27 {} 0 {} 0 {} -38 {} 0 {} 0 {} 0 {} 0 {} -23 {} 0 {} -34 {} -28 {} -37 {} -34 {} -33 {} -43 {} -33 {} -36 {} -37 {} -36 {} -32 {} -21 {} -30 {} -31 {} -46 {} -107 {} -34 {} -27 {} -34 {} -73 {} -45 {} -35 {} -154 {} -32 {} -21 {} -41 {} -65 {} -33 {} -35 {} -50 {} -52 {} -79 {} -50 {} -44 {} -77 {} -40 {} -35 {} -52 {} -83 {} -62 {} -71 {} -27 {} -24 {} -55 {} -32 {} -79 {} -52 {} -76 {} -78 {} -39 {} -52 {} 0 {} -41 {} -41 {} -77 {} -49 {} -47 {} 0 {} 0 {} -25 {} -37 {} -100 {} -81 {} -39 {} 0 {} 0 {} 0 {} -97 {} -56 {} -44 {} -34 {} -27 {} 0 {} -44 {} 0 {} -34 {} -26 {} -37 {} -16 {} -14 {} -60 {} -14 {} -32 {} -37 {} -33 {} -37 {} -52 {} -53 {} -49 {} -28 {} -151 {} -16 {} -35 {} -58 {} -91 {} -72 {} -69 {} -148 {} -37 {} -57 {} -54 {} -106 {} -58 {} -67 {} -71 {} -79 {} -41 {} -58 {} -56 {} -33 {} -77 {} -35 {} -44 {} -121 {} -103 {} -116 {} -25 {} -58 {} -31 {} -37 {} -102 {} -86 {} -119 {} -117 {} -21 {} -81 {} 0 {} -28 {} -15 {} -41 {} -54 {} -50 {} 0 {} 0 {} -31 {} -83 {} -126 {} -114 {} -92 {} 0 {} 0 {} 0 {} -109 {} -72 {} -25 {} -65 {} -42 {} 0 {} -87 {} 0 {} 9 {} 19 {} 3 {} 22 {} 24 {} -6 {} 24 {} 16 {} -1 {} 4 {} 10 {} 11 {} 11 {} 9 {} 5 {} -5 {} 22 {} 17 {} 5 {} -6 {} 9 {} 4 {} -4 {} 9 {} 10 {} -19 {} -11 {} 0 {} -2 {} 0 {} -20 {} -24 {} 0 {} 0 {} -18 {} -18 {} 5 {} -9 {} -10 {} 0 {} -18 {} 20 {} 7 {} -14 {} 0 {} -5 {} -6 {} -9 {} -12 {} 0 {} -21 {} -3 {} 0 {} 0 {} -23 {} 0 {} -20 {} 7 {} 7 {} 0 {} 3 {} -24 {} 0 {} 0 {} 0 {} -11 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} -56 {} -6 {} 0 {} 10 {} 23 {} 8 {} 25 {} 28 {} -3 {} 29 {} 0 {} 6 {} 8 {} 11 {} 12 {} 13 {} 10 {} 15 {} 11 {} 25 {} 21 {} 7 {} 0 {} 0 {} 7 {} 7 {} 11 {} 11 {} 0 {} 0 {} 4 {} 1 {} -14 {} -17 {} -21 {} 0 {} 0 {} -15 {} -15 {} 8 {} -4 {} 0 {} 2 {} -1 {} 26 {} 10 {} -10 {} 0 {} 0 {} 0 {} 6 {} 0 {} 0 {} -18 {} 0 {} 0 {} 0 {} -20 {} 0 {} -17 {} 11 {} 0 {} 0 {} 5 {} 0 {} 0 {} 0 {} -1 {} 0 {} 0 {} 0 {} -15 {} 0 {} 0 {} 0 {} 0 {} -3 {} 0 {} 0 {} 10 {} -4 {} 0 {} 0 {} -39 {} 0 {} 1 {} -6 {} -3 {} -8 {} 0 {} -3 {} -3 {} -2 {} -49 {} 0 {} 0 {} -5 {} -36 {} -38 {} -18 {} -41 {} -9 {} 0 {} -17 {} -32 {} -15 {} -18 {} -55 {} -59 {} -27 {} -25 {} -22 {} -25 {} -27 {} -4 {} -15 {} -46 {} -24 {} -32 {} 12 {} -35 {} -17 {} -9 {} -39 {} -58 {} -26 {} -64 {} 4 {} -59 {} 0 {} -2 {} -5 {} -27 {} -23 {} -21 {} 0 {} 0 {} 7 {} -4 {} -85 {} -84 {} -14 {} 0 {} 0 {} 0 {} -37 {} -55 {} -3 {} -6 {} -1 {} 0 {} -28 {} 0 {} -26 {} -17 {} -28 {} -16 {} -16 {} -53 {} -16 {} -23 {} -28 {} -25 {} -28 {} -20 {} -23 {} -26 {} -29 {} -83 {} -16 {} -21 {} -30 {} -64 {} -55 {} -37 {} -73 {} -28 {} -21 {} -42 {} -58 {} -34 {} -39 {} -68 {} -70 {} -50 {} -48 {} -44 {} -44 {} -52 {} -27 {} -38 {} -70 {} -54 {} -62 {} -14 {} -44 {} -40 {} -33 {} -64 {} -70 {} -59 {} -90 {} -19 {} 0 {} 0 {} -28 {} -27 {} -48 {} -47 {} -45 {} 0 {} 0 {} -19 {} -30 {} -108 {} -107 {} 0 {} 0 {} 0 {} 0 {} -71 {} -68 {} -31 {} -34 {} -26 {} 0 {} -49 {} 0 {} -27 {} -49 {} -29 {} -79 {} -80 {} -116 {} -69 {} -21 {} -57 {} -52 {} -61 {} -27 {} -31 {} -36 {} -44 {} -17 {} -78 {} -71 {} -34 {} -23 {} -34 {} -54 {} -13 {} -81 {} -29 {} -83 {} -30 {} -62 {} -70 {} 0 {} -135 {} -117 {} -90 {} -39 {} -121 {} -83 {} -28 {} -71 {} -29 {} -33 {} -37 {} -46 {} 0 {} 0 {} -52 {} -18 {} -32 {} -27 {} -34 {} -36 {} 0 {} 0 {} -45 {} -112 {} 0 {} -88 {} -87 {} 0 {} 0 {} -26 {} -13 {} -41 {} -45 {} -22 {} 0 {} 0 {} 0 {} -10 {} -117 {} -32 {} -24 {} -24 {} 0 {} -60 {} 0 {} -32 {} -66 {} -29 {} -38 {} -43 {} -19 {} -43 {} -59 {} -35 {} -43 {} -29 {} -58 {} -91 {} -79 {} -46 {} -126 {} -32 {} -26 {} -58 {} -118 {} -24 {} -24 {} -124 {} -29 {} -73 {} -126 {} -135 {} -28 {} 0 {} -30 {} 0 {} -109 {} -126 {} -41 {} -79 {} -51 {} 0 {} -69 {} 0 {} -128 {} 0 {} -54 {} -2 {} -47 {} -22 {} -123 {} -25 {} -126 {} 0 {} -38 {} 0 {} 0 {} -41 {} -44 {} -105 {} -126 {} -126 {} 0 {} 0 {} -45 {} -104 {} 0 {} 0 {} -53 {} 0 {} 0 {} 0 {} -88 {} -24 {} -40 {} -14 {} -12 {} 0 {} -27 {} 0 {} -39 {} -84 {} -34 {} -51 {} -55 {} -25 {} -54 {} -75 {} -42 {} -53 {} -37 {} -65 {} -100 {} -89 {} -58 {} -166 {} -35 {} -35 {} -62 {} -126 {} -30 {} -30 {} -153 {} -37 {} -82 {} -135 {} -135 {} 0 {} -40 {} 0 {} -33 {} -119 {} -135 {} -47 {} -98 {} -56 {} -40 {} -80 {} 0 {} 0 {} -135 {} -70 {} -9 {} -61 {} -28 {} 0 {} -26 {} -135 {} 0 {} -49 {} -41 {} 0 {} -53 {} -65 {} -117 {} -135 {} -135 {} 0 {} 0 {} -58 {} -116 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} -90 {} -25 {} -52 {} -20 {} -20 {} 0 {} -30 {} 0 {} -20 {} -28 {} -30 {} -61 {} -64 {} -106 {} -50 {} -16 {} -43 {} -39 {} -51 {} -12 {} -15 {} -23 {} -36 {} -15 {} -61 {} -56 {} -20 {} -24 {} -39 {} -39 {} -19 {} -63 {} -13 {} -64 {} -28 {} -46 {} 0 {} -135 {} 0 {} -115 {} -70 {} -29 {} -103 {} -63 {} 0 {} -55 {} -25 {} -27 {} 0 {} -26 {} -111 {} -128 {} -48 {} -18 {} -34 {} -25 {} -33 {} -28 {} 0 {} 0 {} -41 {} -91 {} -112 {} -69 {} -68 {} 0 {} 0 {} -14 {} -3 {} -41 {} -45 {} -14 {} 0 {} 0 {} 0 {} -17 {} -111 {} -24 {} -16 {} -16 {} 0 {} -46 {} 0 {} -27 {} -31 {} -30 {} -65 {} -67 {} -114 {} -60 {} -23 {} -47 {} -44 {} -58 {} -18 {} -14 {} -22 {} -36 {} -21 {} -65 {} -55 {} -20 {} -27 {} -44 {} -41 {} 0 {} -66 {} -19 {} -71 {} -32 {} 0 {} -54 {} 0 {} -135 {} -122 {} -78 {} -39 {} -112 {} -69 {} -28 {} -60 {} -31 {} 0 {} -32 {} -29 {} 0 {} 0 {} -51 {} -22 {} -38 {} -29 {} -39 {} -28 {} 0 {} 0 {} -44 {} -102 {} 0 {} -76 {} -74 {} 0 {} 0 {} -15 {} -9 {} -46 {} -48 {} -16 {} 0 {} 0 {} 0 {} -21 {} -118 {} -25 {} -17 {} -17 {} 0 {} -48 {} 0 {} -31 {} -52 {} -31 {} -93 {} -96 {} -126 {} -68 {} -26 {} -65 {} -58 {} -60 {} -34 {} -42 {} -51 {} -44 {} -21 {} -92 {} -82 {} -49 {} -27 {} -35 {} -60 {} -15 {} -93 {} -37 {} -91 {} -31 {} 0 {} -79 {} 0 {} -135 {} -135 {} -105 {} -43 {} -135 {} -94 {} -29 {} -72 {} -30 {} 0 {} -35 {} -48 {} -120 {} -135 {} -58 {} -20 {} -37 {} -26 {} -37 {} -35 {} 0 {} 0 {} -51 {} -130 {} 0 {} -102 {} -99 {} 0 {} 0 {} -25 {} -17 {} -47 {} -51 {} -21 {} 0 {} 0 {} 0 {} -12 {} -126 {} -29 {} -21 {} -21 {} 0 {} -65 {} 0 {} -1 {} 2 {} -2 {} -1 {} 0 {} -21 {} 0 {} -1 {} -5 {} -3 {} -7 {} -6 {} -4 {} -9 {} 2 {} -38 {} -1 {} -3 {} -9 {} -28 {} -13 {} -16 {} -22 {} -7 {} -8 {} -41 {} -32 {} -18 {} -26 {} -34 {} -34 {} -33 {} -48 {} -16 {} -20 {} -38 {} -2 {} -19 {} -35 {} -27 {} -28 {} 3 {} -2 {} -6 {} 0 {} -28 {} -27 {} -22 {} -47 {} 0 {} -35 {} -15 {} 0 {} 0 {} -31 {} -46 {} -42 {} 17 {} 11 {} 0 {} -1 {} -68 {} -66 {} 0 {} -21 {} -5 {} -29 {} 0 {} -39 {} 0 {} 0 {} 0 {} -90 {} -26 {} 0 {} -9 {} -19 {} -12 {} -21 {} -21 {} -73 {} -20 {} -7 {} -42 {} -38 {} -41 {} -29 {} -38 {} -35 {} -33 {} -3 {} -22 {} -32 {} -42 {} -8 {} -15 {} -60 {} 1 {} -45 {} -31 {} -39 {} -22 {} -47 {} -49 {} -127 {} -128 {} -55 {} -44 {} -29 {} -49 {} -53 {} -10 {} -47 {} -20 {} -32 {} -35 {} -17 {} -110 {} -52 {} 0 {} -4 {} -15 {} -24 {} -23 {} 0 {} -163 {} -29 {} 0 {} 0 {} -54 {} -43 {} -40 {} 6 {} 26 {} 0 {} -17 {} -34 {} -38 {} 0 {} -34 {} -14 {} -20 {} 0 {} -88 {} 0 {} 0 {} 0 {} -205 {} -75 {} 0 {} -9 {} 0 {} -6 {} 0 {} 0 {} -29 {} 0 {} -5 {} -13 {} -9 {} -8 {} -1 {} -5 {} -5 {} -3 {} -8 {} 0 {} -2 {} -9 {} -11 {} -17 {} -18 {} -7 {} -10 {} -1 {} -31 {} -25 {} -16 {} -23 {} -44 {} -45 {} -38 {} -38 {} -24 {} -32 {} -36 {} -5 {} -24 {} -25 {} -26 {} -29 {} 1 {} -11 {} 0 {} 0 {} -11 {} -17 {} -21 {} -30 {} 0 {} -46 {} -22 {} 0 {} 0 {} -37 {} -37 {} -33 {} 12 {} 24 {} 0 {} -1 {} -38 {} -39 {} 0 {} -22 {} -8 {} -23 {} 0 {} -47 {} 0 {} 0 {} 0 {} -89 {} -29 {} 0 {} -17 {} -57 {} -26 {} -35 {} -39 {} -5 {} -39 {} -51 {} 0 {} -37 {} -22 {} 0 {} -83 {} 0 {} -36 {} -137 {} 0 {} -18 {} -77 {} -103 {} -9 {} -15 {} -121 {} -22 {} 0 {} 0 {} -131 {} -20 {} -23 {} -26 {} -24 {} -134 {} -152 {} -29 {} -74 {} -46 {} -25 {} -63 {} -124 {} -124 {} -132 {} 0 {} 3 {} -41 {} 0 {} -126 {} -8 {} 0 {} -46 {} 0 {} -24 {} -29 {} 0 {} 0 {} -128 {} -150 {} -148 {} 0 {} 0 {} 0 {} 0 {} -67 {} -41 {} 0 {} -107 {} -111 {} -138 {} 0 {} -27 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -9 {} -12 {} -10 {} -4 {} -4 {} -4 {} -4 {} -16 {} -11 {} -14 {} -9 {} -13 {} -19 {} -21 {} -9 {} -41 {} -3 {} -5 {} -22 {} -42 {} -10 {} -15 {} -41 {} -9 {} -19 {} -42 {} -52 {} -16 {} -23 {} -27 {} -26 {} -44 {} -49 {} -25 {} -38 {} -32 {} -9 {} -32 {} -52 {} -50 {} -54 {} -6 {} 2 {} -22 {} 0 {} -37 {} -3 {} -48 {} -38 {} 0 {} -27 {} -24 {} 0 {} 0 {} -43 {} -48 {} -45 {} 1 {} 1 {} 0 {} -23 {} -61 {} -38 {} 0 {} -47 {} -46 {} -49 {} 0 {} -27 {} 0 {} 0 {} 0 {} -55 {} -9 {} 0 {} -4 {} -5 {} -9 {} -26 {} -26 {} -78 {} -25 {} -2 {} -19 {} -15 {} -29 {} 0 {} 0 {} 0 {} -15 {} -33 {} -25 {} -18 {} 0 {} -21 {} -39 {} -15 {} -15 {} -31 {} 0 {} -28 {} -16 {} -15 {} -19 {} -135 {} -135 {} -71 {} -39 {} -24 {} -71 {} -40 {} -8 {} -34 {} -24 {} -13 {} -14 {} -4 {} -105 {} -84 {} 0 {} -23 {} -50 {} -9 {} -55 {} 0 {} -198 {} -23 {} 0 {} 0 {} -69 {} -37 {} -34 {} 17 {} 7 {} 0 {} 6 {} -73 {} -77 {} 0 {} -7 {} -6 {} -14 {} 0 {} -85 {} 0 {} 0 {} 0 {} -227 {} -22 {} 0 {} 5 {} 0 {} 4 {} 5 {} 6 {} 0 {} 6 {} -4 {} 4 {} 2 {} 1 {} -1 {} -8 {} -7 {} -4 {} -65 {} 7 {} 2 {} -8 {} -45 {} 2 {} -1 {} -55 {} -1 {} -4 {} -25 {} -41 {} -1 {} -5 {} -10 {} -11 {} -36 {} -33 {} -6 {} -30 {} -14 {} 5 {} -16 {} -56 {} -34 {} -42 {} 4 {} 16 {} -13 {} 0 {} -49 {} 0 {} -39 {} -21 {} 0 {} -11 {} -6 {} 0 {} 0 {} -35 {} -31 {} -29 {} 15 {} 5 {} 0 {} -5 {} -48 {} -24 {} 0 {} -41 {} -23 {} -37 {} 0 {} -9 {} 0 {} 0 {} 0 {} -49 {} 0 {} 0 {} -14 {} -42 {} -18 {} -69 {} -70 {} -113 {} -44 {} -7 {} -55 {} -63 {} 0 {} -33 {} -34 {} -39 {} -37 {} 0 {} -69 {} -68 {} -37 {} -4 {} -16 {} 0 {} -1 {} -78 {} -34 {} -78 {} -22 {} -66 {} -73 {} -132 {} -132 {} -102 {} -86 {} -31 {} -102 {} -79 {} -13 {} -69 {} -18 {} -34 {} -36 {} -38 {} -97 {} -94 {} 0 {} 0 {} -7 {} -25 {} -22 {} 0 {} -144 {} -29 {} 0 {} 0 {} -100 {} -85 {} -82 {} 16 {} 20 {} 0 {} -14 {} -32 {} -37 {} 0 {} -31 {} -30 {} -15 {} 0 {} -122 {} 0 {} 0 {} 0 {} -147 {} -62 {} 0 {} -7 {} -60 {} -12 {} -46 {} -50 {} -3 {} -43 {} -9 {} -26 {} -47 {} -28 {} -44 {} -64 {} -65 {} -36 {} 0 {} -31 {} -31 {} -66 {} -2 {} -5 {} -17 {} -1 {} -31 {} -56 {} -120 {} -26 {} -23 {} -31 {} -31 {} -32 {} -99 {} -131 {} -23 {} -84 {} -52 {} -10 {} -67 {} -24 {} -44 {} -46 {} -48 {} 0 {} -54 {} 0 {} -1 {} -5 {} -37 {} -17 {} 0 {} -32 {} -23 {} 0 {} 0 {} -96 {} -127 {} -121 {} 10 {} 19 {} 0 {} -32 {} -23 {} -24 {} 0 {} -45 {} -44 {} -20 {} 0 {} -25 {} 0 {} 0 {} 0 {} -52 {} -6 {} 0 {} -40 {} -48 {} -46 {} -77 {} -80 {} -116 {} 0 {} -38 {} 0 {} -53 {} 0 {} -20 {} -16 {} -26 {} -46 {} -69 {} -77 {} -68 {} -22 {} -60 {} -76 {} -52 {} -60 {} -77 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -44 {} 0 {} 0 {} 0 {} 0 {} 0 {} -142 {} -253 {} -59 {} -60 {} -85 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} 0 {} -37 {} -22 {} -40 {} -31 {} -30 {} -92 {} -30 {} -32 {} 0 {} -36 {} 0 {} -23 {} -26 {} -29 {} -57 {} -106 {} -30 {} -30 {} -31 {} -73 {} -123 {} -53 {} -153 {} -43 {} -24 {} 0 {} -65 {} -35 {} -40 {} -135 {} -135 {} 0 {} 0 {} -56 {} -71 {} -47 {} -37 {} -48 {} -82 {} -62 {} -71 {} -21 {} -138 {} -84 {} -50 {} -78 {} -124 {} -75 {} -137 {} -48 {} 0 {} 0 {} -45 {} -61 {} -64 {} -42 {} -38 {} 0 {} 0 {} -32 {} -40 {} -136 {} -140 {} 0 {} 0 {} 0 {} 0 {} -139 {} -97 {} -74 {} -80 {} -68 {} 0 {} -61 {} 0 {} -23 {} -32 {} -25 {} -74 {} -76 {} -111 {} 0 {} -19 {} 0 {} -41 {} 0 {} -11 {} -10 {} -21 {} -31 {} -28 {} -73 {} -64 {} -16 {} -28 {} -36 {} -39 {} -16 {} -75 {} -12 {} 0 {} -29 {} -49 {} -61 {} -135 {} -135 {} -134 {} -85 {} -37 {} -119 {} -76 {} -23 {} -60 {} -27 {} -22 {} -25 {} -29 {} -123 {} -179 {} -47 {} -25 {} -47 {} -20 {} -40 {} -22 {} 0 {} 0 {} -41 {} -109 {} -127 {} -83 {} -81 {} 0 {} 0 {} -10 {} -5 {} -62 {} -64 {} 0 {} 0 {} 0 {} 0 {} -13 {} -112 {} -20 {} -11 {} -11 {} 0 {} -45 {} 0 {} -31 {} -65 {} -25 {} -66 {} -67 {} -34 {} 0 {} -27 {} 0 {} -67 {} 0 {} -63 {} -69 {} -76 {} -55 {} -17 {} -35 {} -57 {} -48 {} -26 {} -29 {} -46 {} -15 {} -57 {} -68 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -23 {} 0 {} 0 {} 0 {} 0 {} 0 {} -24 {} -82 {} -38 {} -21 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -35 {} 0 {} -32 {} -76 {} -25 {} -74 {} -79 {} -36 {} -61 {} -28 {} -55 {} -74 {} -50 {} -67 {} -61 {} -99 {} -57 {} -18 {} -37 {} -64 {} -48 {} -27 {} -29 {} -49 {} -16 {} -66 {} -73 {} -120 {} -36 {} -54 {} -62 {} -58 {} -62 {} -134 {} 0 {} -41 {} -117 {} -78 {} -23 {} -92 {} -34 {} -51 {} -53 {} -68 {} -26 {} -86 {} -38 {} -22 {} -21 {} -41 {} -12 {} -49 {} -62 {} 0 {} -55 {} -107 {} -132 {} 0 {} -124 {} 0 {} 0 {} -42 {} -53 {} -27 {} 0 {} -33 {} 0 {} 0 {} 0 {} -13 {} -29 {} -47 {} -33 {} -30 {} 0 {} -36 {} 0 {} -28 {} -76 {} 0 {} 0 {} 0 {} -26 {} 0 {} -29 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -54 {} -18 {} 0 {} 0 {} 0 {} -28 {} -25 {} 0 {} -16 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -15 {} -63 {} -28 {} -22 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -37 {} 0 {} 0 {} -135 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -135 {} 0 {} 0 {} 0 {} 0 {} -97 {} -135 {} 0 {} -81 {} -53 {} 0 {} 0 {} 0 {} 0 {} -135 {} -64 {} 0 {} 0 {} 0 {} 0 {} 0 {} -135 {} -39 {} -36 {} 0 {} 0 {} -39 {} -53 {} -94 {} -135 {} -135 {} 0 {} 0 {} -46 {} -110 {} -51 {} -43 {} 0 {} 0 {} 0 {} 0 {} -90 {} 0 {} -38 {} -15 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -26 {} -59 {} -66 {} -135 {} -135 {} -152 {} -92 {} -38 {} 0 {} -81 {} 0 {} 0 {} -25 {} -24 {} -24 {} -33 {} 0 {} 0 {} 0 {} 0 {} 0 {} -18 {} -42 {} -23 {} 0 {} 0 {} -43 {} -116 {} -144 {} -90 {} -86 {} 0 {} 0 {} -13 {} -5 {} -59 {} -64 {} 0 {} 0 {} 0 {} 0 {} -15 {} -118 {} -16 {} -10 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} -31 {} -19 {} -26 {} -34 {} -34 {} -31 {} -47 {} -18 {} -21 {} -39 {} 0 {} -20 {} -36 {} -28 {} -28 {} 4 {} 0 {} 0 {} 0 {} 0 {} 0 {} -21 {} -48 {} 12 {} -37 {} 0 {} 0 {} 2 {} -28 {} -44 {} -41 {} 0 {} 0 {} 8 {} -1 {} -70 {} -68 {} -11 {} 0 {} 0 {} 0 {} -19 {} -41 {} 4 {} 0 {} 10 {} 0 {} 0 {} 0 {} 5 {} -3 {} -10 {} -21 {} -22 {} -57 {} -21 {} 10 {} -15 {} -11 {} -24 {} 6 {} 2 {} 0 {} -13 {} 3 {} -21 {} -16 {} 1 {} -2 {} -5 {} -8 {} 2 {} -25 {} 6 {} -30 {} 0 {} -11 {} -20 {} -71 {} -79 {} -65 {} 0 {} -12 {} -67 {} -35 {} -6 {} -28 {} 0 {} -10 {} -12 {} -2 {} -49 {} -70 {} 0 {} 1 {} -5 {} -6 {} -11 {} 0 {} -79 {} -11 {} 0 {} 0 {} -60 {} 0 {} -35 {} 12 {} 12 {} 0 {} 0 {} -19 {} 0 {} 0 {} -14 {} 19 {} -1 {} 0 {} -69 {} 0 {} 0 {} 0 {} -79 {} -14 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} -42 {} -21 {} -29 {} -37 {} -37 {} -24 {} -37 {} -23 {} -18 {} -40 {} 0 {} -20 {} -42 {} -49 {} -52 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -43 {} -41 {} 0 {} -39 {} 0 {} -1 {} 0 {} -22 {} -35 {} -33 {} 0 {} 0 {} -3 {} -28 {} -46 {} -46 {} -30 {} 0 {} 0 {} 0 {} -12 {} -41 {} 0 {} -10 {} -1 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -48 {} -50 {} -23 {} -30 {} -31 {} -36 {} -30 {} -50 {} -28 {} -14 {} -39 {} 0 {} -24 {} -52 {} -50 {} -55 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -49 {} -56 {} 3 {} -37 {} 0 {} 0 {} 4 {} -29 {} -45 {} -43 {} 0 {} 0 {} 0 {} -24 {} -60 {} -61 {} -30 {} 0 {} 0 {} 0 {} -29 {} -38 {} 0 {} -5 {} 0 {} 0 {} 0 {} 0 {} -39 {} -26 {} -42 {} -20 {} -18 {} -69 {} -18 {} -36 {} -42 {} -38 {} -48 {} -49 {} -55 {} -49 {} -42 {} -153 {} -20 {} -43 {} -59 {} -90 {} -77 {} -72 {} -150 {} -48 {} -54 {} -57 {} -114 {} -61 {} -65 {} -83 {} -93 {} 0 {} 0 {} -63 {} -41 {} -77 {} -40 {} -48 {} 0 {} -112 {} -121 {} -25 {} -91 {} -46 {} -42 {} -100 {} -99 {} -127 {} -132 {} -28 {} 0 {} 0 {} -45 {} -28 {} -42 {} 0 {} -57 {} 0 {} 0 {} -47 {} -105 {} -136 {} 0 {} 0 {} 0 {} 0 {} 0 {} -116 {} -79 {} -39 {} -80 {} -56 {} 0 {} -99 {} 0 {} -39 {} -24 {} 0 {} 0 {} 0 {} -85 {} 0 {} -34 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -63 {} -116 {} 0 {} 0 {} 0 {} -77 {} -106 {} 0 {} -150 {} 0 {} 0 {} -36 {} -71 {} 0 {} 0 {} -135 {} -135 {} 0 {} 0 {} -57 {} -54 {} -49 {} 0 {} -47 {} -88 {} -68 {} -79 {} -23 {} -134 {} -69 {} -48 {} -85 {} -131 {} -83 {} 0 {} -44 {} 0 {} 0 {} -46 {} -48 {} 0 {} -42 {} 0 {} 0 {} 0 {} -37 {} -52 {} 0 {} -137 {} 0 {} 0 {} 0 {} 0 {} -134 {} -92 {} -78 {} -91 {} -76 {} 0 {} 0 {} 0 {} -7 {} -5 {} -8 {} -3 {} -2 {} -21 {} -2 {} -4 {} -15 {} -11 {} -10 {} -5 {} -8 {} -8 {} -9 {} -12 {} -4 {} -2 {} -11 {} -16 {} -10 {} -15 {} -10 {} -11 {} -6 {} -34 {} -25 {} 0 {} -19 {} 0 {} -36 {} -42 {} 0 {} 0 {} -35 {} -35 {} -6 {} -27 {} -28 {} 0 {} -33 {} -2 {} -6 {} -25 {} 0 {} -13 {} -19 {} -23 {} -23 {} 0 {} -37 {} -19 {} 0 {} 0 {} -40 {} 0 {} -36 {} 0 {} 0 {} 0 {} -12 {} -38 {} 0 {} 0 {} 0 {} -26 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} -56 {} -22 {} 0 {} -34 {} -19 {} -36 {} -23 {} -22 {} -82 {} -22 {} -30 {} -36 {} -33 {} -41 {} -27 {} -28 {} -27 {} -56 {} -110 {} -22 {} -27 {} -33 {} -73 {} -101 {} -55 {} -141 {} -41 {} -28 {} -33 {} -70 {} -36 {} -41 {} -135 {} -134 {} 0 {} 0 {} -52 {} -49 {} -45 {} -34 {} -44 {} -86 {} -66 {} -76 {} -19 {} -127 {} -67 {} -44 {} -80 {} -122 {} -80 {} -123 {} -39 {} 0 {} 0 {} -42 {} -43 {} -55 {} 0 {} -33 {} 0 {} 0 {} -33 {} -49 {} -127 {} 0 {} 0 {} 0 {} 0 {} 0 {} -127 {} -89 {} -72 {} -86 {} -70 {} 0 {} -65 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -33 {} -27 {} -14 {} -19 {} -35 {} -35 {} -41 {} -41 {} -21 {} -34 {} -34 {} 0 {} -26 {} -27 {} -28 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -23 {} -32 {} -2 {} -36 {} 0 {} -7 {} -7 {} -39 {} -39 {} -35 {} 0 {} 0 {} 2 {} -3 {} -37 {} -39 {} -5 {} 0 {} 0 {} 0 {} -5 {} -35 {} -1 {} 1 {} 2 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -135 {} -135 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -135 {} -135 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} -95 {} -37 {} -94 {} -95 {} -61 {} -69 {} -36 {} -74 {} -94 {} -55 {} -82 {} -76 {} -96 {} -77 {} -21 {} -45 {} -88 {} -52 {} -36 {} -36 {} -69 {} -27 {} -88 {} -89 {} -129 {} -42 {} -74 {} -87 {} -79 {} -88 {} -138 {} 0 {} -42 {} -127 {} -100 {} -37 {} -109 {} -41 {} -70 {} -72 {} -87 {} -55 {} -101 {} -62 {} -30 {} -30 {} -62 {} -27 {} -69 {} -88 {} 0 {} -60 {} -103 {} -137 {} 0 {} -129 {} 0 {} 0 {} -65 {} -71 {} -27 {} 0 {} -55 {} 0 {} 0 {} 0 {} -24 {} -37 {} -69 {} -56 {} -56 {} 0 {} -67 {} 0 {} -39 {} -96 {} 0 {} 0 {} 0 {} -39 {} 0 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -75 {} -29 {} 0 {} 0 {} 0 {} -39 {} -34 {} 0 {} -32 {} 0 {} 0 {} -130 {} -46 {} 0 {} 0 {} -52 {} -58 {} 0 {} -139 {} -47 {} -114 {} -81 {} 0 {} -108 {} -45 {} -75 {} -78 {} -86 {} -30 {} -87 {} -38 {} -38 {} -32 {} -65 {} 0 {} -68 {} -59 {} 0 {} -61 {} -88 {} 0 {} -137 {} 0 {} 0 {} 0 {} -65 {} -77 {} 0 {} -28 {} -47 {} 0 {} 0 {} 0 {} -29 {} -34 {} -69 {} -33 {} -32 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -53 {} -21 {} -26 {} -28 {} -28 {} -36 {} -63 {} -27 {} -23 {} -35 {} 0 {} 0 {} -51 {} -73 {} -75 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -65 {} -43 {} 0 {} 0 {} 0 {} 0 {} 0 {} -34 {} -60 {} -56 {} 0 {} 0 {} 0 {} 0 {} -48 {} -44 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -45 {} -100 {} 0 {} -73 {} -76 {} -18 {} 0 {} -90 {} 0 {} -72 {} 0 {} -62 {} -78 {} -89 {} -82 {} -158 {} -29 {} -68 {} -48 {} -128 {} -33 {} -34 {} -147 {} -63 {} -88 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -46 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} -83 {} -27 {} -150 {} -17 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -18 {} 0 {} -30 {} -51 {} -34 {} -90 {} -94 {} -125 {} -61 {} -25 {} -64 {} -62 {} -61 {} -35 {} -41 {} -50 {} -44 {} -14 {} -91 {} -80 {} -47 {} -22 {} -33 {} -42 {} -12 {} -91 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -127 {} -195 {} -52 {} -15 {} -31 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -64 {} 0 {} -36 {} -56 {} -40 {} -95 {} -95 {} -126 {} -68 {} -31 {} -67 {} -62 {} -66 {} -39 {} -48 {} -53 {} -49 {} -19 {} -93 {} -85 {} -52 {} -27 {} -38 {} -63 {} -17 {} -96 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -119 {} -135 {} -57 {} -22 {} -37 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -68 {} 0 {} -3 {} -27 {} -9 {} -71 {} -72 {} -106 {} -45 {} 0 {} -57 {} -53 {} -65 {} -26 {} -33 {} -37 {} -21 {} 3 {} -70 {} -69 {} -34 {} 0 {} -3 {} -52 {} 5 {} -81 {} -27 {} -79 {} -9 {} -60 {} -72 {} -133 {} -134 {} -110 {} -89 {} -19 {} -106 {} -79 {} -6 {} -58 {} -9 {} -14 {} -15 {} -24 {} -91 {} -105 {} -29 {} 1 {} -2 {} -8 {} -11 {} -14 {} -143 {} 0 {} -22 {} -89 {} -108 {} -87 {} -83 {} 0 {} 0 {} -6 {} -1 {} -22 {} -27 {} -6 {} 0 {} 0 {} 0 {} 8 {} -110 {} -11 {} -4 {} -4 {} 0 {} -58 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -32 {} -32 {} -19 {} -28 {} -35 {} -35 {} -23 {} -38 {} -17 {} -16 {} -38 {} 0 {} -16 {} -35 {} -27 {} -27 {} 6 {} 0 {} 0 {} 0 {} 0 {} 0 {} -22 {} -48 {} 17 {} -37 {} 0 {} 0 {} 2 {} -21 {} -35 {} -33 {} 0 {} 0 {} 6 {} -2 {} -69 {} -67 {} -13 {} 0 {} 0 {} 0 {} -16 {} -40 {} 6 {} 3 {} 13 {} 0 {} 0 {} 0 {} -26 {} -50 {} -29 {} -70 {} -71 {} -118 {} -53 {} -21 {} -60 {} -63 {} -53 {} -41 {} -40 {} -46 {} -49 {} -9 {} -70 {} -70 {} -43 {} -20 {} -30 {} -65 {} -12 {} -79 {} -41 {} -80 {} -30 {} -68 {} -77 {} -129 {} -130 {} -102 {} -88 {} -38 {} -102 {} -82 {} -28 {} -75 {} -30 {} -44 {} -46 {} -47 {} -99 {} -100 {} -51 {} -15 {} -30 {} -36 {} -22 {} -42 {} -136 {} 0 {} -44 {} -87 {} -101 {} -86 {} -84 {} 0 {} 0 {} -34 {} -27 {} -28 {} -26 {} -31 {} 0 {} 0 {} 0 {} -11 {} -133 {} -44 {} -38 {} -38 {} 0 {} -66 {} 0 {} 0 {} 0 {} 3 {} -12 {} -15 {} 0 {} -11 {} 0 {} -1 {} -9 {} 0 {} 9 {} 3 {} 0 {} 0 {} 0 {} 0 {} -4 {} 3 {} 0 {} 0 {} 0 {} 0 {} -6 {} 7 {} 0 {} 6 {} 0 {} -10 {} -17 {} -15 {} -69 {} 0 {} 6 {} -64 {} 0 {} 3 {} -20 {} 12 {} 1 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 4 {} 0 {} -15 {} 10 {} 0 {} 0 {} -67 {} 0 {} -41 {} 0 {} 0 {} 0 {} 0 {} 9 {} 0 {} 0 {} 2 {} 6 {} 11 {} 0 {} -16 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -37 {} -29 {} -16 {} -23 {} -32 {} -31 {} -28 {} -45 {} -15 {} -19 {} -36 {} 0 {} -16 {} -32 {} -24 {} -24 {} 6 {} 0 {} 0 {} 0 {} 0 {} 0 {} -18 {} -44 {} 16 {} -34 {} 0 {} 0 {} 2 {} -25 {} -42 {} -39 {} 0 {} 0 {} 11 {} -1 {} -65 {} -63 {} -8 {} 0 {} 0 {} 0 {} -13 {} -38 {} 8 {} 4 {} 15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -32 {} -19 {} -3 {} -8 {} -13 {} -13 {} -65 {} -43 {} -4 {} -59 {} -21 {} 0 {} -22 {} -24 {} -14 {} -15 {} 3 {} 0 {} 0 {} 0 {} 0 {} 0 {} -9 {} -25 {} 4 {} -14 {} 0 {} -1 {} -12 {} -63 {} -41 {} -38 {} 0 {} 0 {} 16 {} 6 {} -49 {} -28 {} 9 {} 0 {} 0 {} 0 {} -6 {} -12 {} -1 {} 10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} -19 {} -6 {} -9 {} -13 {} -13 {} -73 {} -48 {} -5 {} -61 {} -23 {} 0 {} -25 {} -24 {} -15 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -9 {} -25 {} 3 {} -14 {} 0 {} -1 {} -16 {} -71 {} -45 {} -41 {} 0 {} 0 {} 15 {} 6 {} -49 {} -28 {} 8 {} 0 {} 0 {} 0 {} -6 {} -13 {} -2 {} 0 {} 12 {} 0 {} 0 {} 0 {} -56 {} -119 {} 0 {} -88 {} -95 {} -51 {} -95 {} -105 {} -56 {} -83 {} -72 {} -66 {} -48 {} -92 {} -99 {} -143 {} -6 {} -81 {} -17 {} -119 {} -54 {} -53 {} -131 {} -72 {} -99 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -56 {} 0 {} 0 {} 0 {} 0 {} 0 {} -47 {} -98 {} -55 {} -147 {} -51 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -49 {} 0 {} -8 {} -4 {} -9 {} -12 {} -13 {} -63 {} -13 {} 0 {} -9 {} -6 {} -21 {} 5 {} 2 {} 0 {} -17 {} 0 {} -13 {} -11 {} 2 {} 0 {} -65 {} -9 {} 0 {} -22 {} 2 {} -26 {} -25 {} -11 {} -18 {} -77 {} -81 {} -51 {} 0 {} 0 {} -49 {} -31 {} -8 {} -27 {} -36 {} -22 {} -24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -99 {} 0 {} 0 {} -24 {} 0 {} 0 {} -49 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} -96 {} 0 {} 0 {} 0 {} -15 {} 0 {} 0 {} -75 {} 0 {} 0 {} 0 {} 0 {} -8 {} 0 {} -17 {} -23 {} -21 {} -35 {} -38 {} -4 {} -38 {} -23 {} -21 {} -22 {} -31 {} -2 {} 0 {} -1 {} -28 {} -74 {} -29 {} -28 {} -2 {} -50 {} -18 {} -12 {} -90 {} -31 {} -2 {} -55 {} -42 {} -18 {} -26 {} -32 {} -32 {} -96 {} 0 {} -28 {} -83 {} -41 {} -19 {} -44 {} -53 {} -39 {} -41 {} -20 {} 0 {} -61 {} 0 {} -56 {} -4 {} -39 {} -36 {} 0 {} -33 {} -31 {} 0 {} 0 {} -93 {} 0 {} -59 {} -17 {} -21 {} 0 {} -8 {} -65 {} 0 {} 0 {} -27 {} -27 {} -40 {} 0 {} -24 {} 0 {} 0 {} 0 {} -49 {} -3 {}
+ChainSub2: coverage "'ordn' Ordinals in Latin lookup 16 contextual 1" 0 0 0 1
+ 1 1 0
+  Coverage: 3 O o
+  BCoverage: 49 zero one two three four five six seven eight nine
+ 1
+  SeqLookup: 0 "Single Substitution lookup 17"
+EndFPST
+ChainSub2: coverage "'ordn' Ordinals in Latin lookup 16 contextual 0" 0 0 0 1
+ 1 1 0
+  Coverage: 3 A a
+  BCoverage: 49 zero one two three four five six seven eight nine
+ 1
+  SeqLookup: 0 "Single Substitution lookup 17"
+EndFPST
+ChainSub2: glyph "'locl' Localized Forms in Latin lookup 13 subtable" 0 0 0 2
+ String: 14 periodcentered
+ BString: 1 l
+ FString: 1 l
+ 1
+  SeqLookup: 0 "Single Substitution lookup 14"
+ String: 14 periodcentered
+ BString: 1 L
+ FString: 1 L
+ 1
+  SeqLookup: 0 "Single Substitution lookup 15"
+EndFPST
+ChainSub2: class "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 subtable" 3 1 3 3
+  Class: 3 i j
+  Class: 7 iogonek
+  FClass: 101 uni0308 uni0307 gravecomb acutecomb uni030B uni0302 uni030C uni0306 uni030A tildecomb uni0304 uni0312
+  FClass: 15 uni0327 uni0328
+ 1 0 1
+  ClsList: 1
+  BClsList:
+  FClsList: 1
+ 1
+  SeqLookup: 0 "Single Substitution lookup 3"
+ 1 0 2
+  ClsList: 1
+  BClsList:
+  FClsList: 2 1
+ 1
+  SeqLookup: 0 "Single Substitution lookup 4"
+ 1 0 1
+  ClsList: 2
+  BClsList:
+  FClsList: 1
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 5"
+  ClassNames: "0" "1" "2"
+  BClassNames: "0"
+  FClassNames: "0" "1" "2"
+EndFPST
+TtTable: prep
+PUSHW_1
+ 511
+SCANCTRL
+PUSHB_1
+ 4
+SCANTYPE
+EndTTInstrs
+ShortTable: maxp 16
+  1
+  0
+  501
+  85
+  7
+  71
+  6
+  1
+  0
+  0
+  0
+  0
+  0
+  0
+  4
+  1
+EndShort
+LangName: 1033 "" "" "" "Multivers SemiBold" "" "Version 0.2" "" "" "" "" "" "https://noahdominic.com/" "" "Copyright (c) 2024, Noah Dominic (noahdominic.com),+AAoA-with Reserved Font Name Multivers.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "Multivers" "SemiBold" "Multivers SemiBold"
+GaspTable: 1 65535 15 1
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 38 38 13
+BeginPrivate: 0
+EndPrivate
+Grid
+-1000 78.0208358765 m 0
+ 2000 78.0208358765 l 1024
+-1000 431.729085286 m 0
+ 2000 431.729085286 l 1024
+-1000 510 m 0
+ 2000 510 l 1024
+  Named: "xheight"
+-1000 0 m 0
+ 2000 0 l 1024
+  Named: "baseline"
+-1000 -9.9924214681 m 0
+ 2000 -9.9924214681 l 1024
+  Named: "baseline-extra"
+-1000 520.068181818 m 0
+ 2000 520.068181818 l 1024
+  Named: "xh-extra"
+-300 1300 m 0
+ -300 -700 l 1024
+-1000 -158.5 m 0
+ 2000 -158.5 l 1024
+EndSplineSet
+AnchorClass2: "Anchor-0" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-1" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-2" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-3" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-4" "'mark' Mark Positioning in Latin lookup 2 subtable" "Anchor-5" "'mark' Mark Positioning in Latin lookup 2 subtable" "Anchor-6" "'mkmk' Mark to Mark in Latin lookup 3 subtable" "Anchor-7" "'mkmk' Mark to Mark in Latin lookup 4 subtable"
+EndSplineFont

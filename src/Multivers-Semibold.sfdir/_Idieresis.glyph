@@ -1,0 +1,19 @@
+StartChar: Idieresis
+Encoding: 207 207 43
+Width: 262
+GlyphClass: 2
+Flags: HW
+HStem: 0 21G<62 201> 700 20G<62 201> 803 139<-51 85 176 312>
+VStem: -51 136<803 942> 62 139<0 720> 176 136<803 942>
+AnchorPoint: "Anchor-3" 172 0 basechar 0
+AnchorPoint: "Anchor-2" 126 0 basechar 0
+AnchorPoint: "Anchor-0" 126 942 basechar 0
+LayerCount: 3
+Fore
+Refer: 39 73 N 1 0 0 1 0 0 3
+Refer: 466 776 N 1 0 0 1 -111 210 2
+Validated: 1
+Kerns2: 385 -39 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 381 -39 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 343 -35 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 43 140 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" Idieresis.ss01
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Idieresis.ss01
+EndChar

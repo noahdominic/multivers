@@ -1,0 +1,23 @@
+StartChar: equal.tf
+Encoding: 65682 -1 451
+Width: 602
+Flags: HW
+HStem: 224 94<70 531> 424 94<70 531>
+LayerCount: 3
+Fore
+SplineSet
+70 424 m 1
+ 70 518 l 1
+ 531 518 l 1
+ 531 424 l 1
+ 70 424 l 1
+70 224 m 1
+ 70 318 l 1
+ 531 318 l 1
+ 531 224 l 1
+ 70 224 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'pnum' Proportional Numbers in Latin lookup 18 subtable" equal
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" equal
+EndChar

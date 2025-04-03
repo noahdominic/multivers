@@ -1,0 +1,18 @@
+StartChar: uni0156
+Encoding: 65540 -1 79
+Width: 657
+GlyphClass: 2
+Flags: HW
+HStem: -331 58<255 302.379> -200 9<324 358.222> -200 126<255 324> 0 21G<59 188 441.306 634> 303 66<159 294> 303 99<347 431.776> 618 102<188 433.516>
+VStem: 59 129<0 303 402 618> 159 29<303 402> 255 136<-189.944 -74> 474 125<442.744 579.096>
+AnchorPoint: "Anchor-2" 323 -331 basechar 0
+AnchorPoint: "Anchor-0" 323 720 basechar 0
+LayerCount: 3
+Fore
+Refer: 76 -1 N 1 0 0 1 0 0 3
+Refer: 479 806 N 1 0 0 1 188 0 2
+Validated: 5
+Substitution2: "'calt' Contextual Alternates in Latin lookup 26 subtable" uni0156.ss05
+Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" uni0156.ss01
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" uni0156.ss01 uni0156.ss05
+EndChar

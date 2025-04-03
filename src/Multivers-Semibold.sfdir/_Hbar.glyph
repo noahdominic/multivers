@@ -1,0 +1,36 @@
+StartChar: Hbar
+Encoding: 294 294 38
+Width: 738
+GlyphClass: 2
+Flags: HW
+HStem: 0 21G<77 206 532 661> 324 102<139 591> 529 102<12 726> 700 20G<77 206 532 661>
+VStem: 77 129<0 324 426 720> 139 67<324 426> 532 129<0 324 426 720> 532 59<324 426>
+AnchorPoint: "Anchor-2" 369 0 basechar 0
+AnchorPoint: "Anchor-0" 369 720 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+12 529 m 1xf0
+ 12 631 l 1
+ 726 631 l 1
+ 726 529 l 1
+ 12 529 l 1xf0
+77 0 m 1xf8
+ 77 720 l 1
+ 206 720 l 1
+ 206 0 l 1
+ 77 0 l 1xf8
+532 0 m 1xf2
+ 532 720 l 1
+ 661 720 l 1
+ 661 0 l 1
+ 532 0 l 1xf2
+139 426 m 1xf5
+ 591 426 l 1
+ 591 324 l 1
+ 139 324 l 1
+ 139 426 l 1xf5
+EndSplineSet
+Validated: 5
+Kerns2: 214 -6 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 172 -6 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 150 -14 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 38 34 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 1 -21 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

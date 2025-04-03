@@ -1,0 +1,39 @@
+StartChar: yen
+Encoding: 165 165 433
+Width: 634
+Flags: HW
+HStem: 0 21G<253 382> 246 88<49 280 368 586> 388 88<49 232 426 586> 700 20G<20 183.974 463.077 614>
+VStem: 253 129<0 303>
+LayerCount: 3
+Fore
+SplineSet
+253 0 m 1
+ 253 303 l 1
+ 20 720 l 1
+ 174 720 l 1
+ 368 331 l 1
+ 280 331 l 1
+ 473 720 l 1
+ 614 720 l 1
+ 382 303 l 1
+ 382 0 l 1
+ 253 0 l 1
+49 246 m 1
+ 49 334 l 1
+ 586 334 l 1
+ 586 246 l 1
+ 49 246 l 1
+276 388 m 1
+ 49 388 l 1
+ 49 476 l 1
+ 232 476 l 1
+ 276 388 l 1
+426 476 m 1
+ 586 476 l 1
+ 586 388 l 1
+ 379 388 l 1
+ 426 476 l 1
+EndSplineSet
+Validated: 5
+Kerns2: 368 -98 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 367 -98 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 357 -71 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

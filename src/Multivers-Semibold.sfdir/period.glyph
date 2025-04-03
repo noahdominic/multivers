@@ -1,0 +1,20 @@
+StartChar: period
+Encoding: 46 46 344
+Width: 281
+Flags: HW
+HStem: 0 144<69 213>
+VStem: 69 144<0 144>
+LayerCount: 3
+Fore
+SplineSet
+69 0 m 1
+ 69 144 l 1
+ 213 144 l 1
+ 213 0 l 1
+ 69 0 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 403 -135 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 351 -120 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 318 -135 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 317 -135 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" period.ss01
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" period.ss01
+EndChar

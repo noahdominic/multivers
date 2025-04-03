@@ -1,0 +1,23 @@
+StartChar: arrowup
+Encoding: 8593 8593 456
+Width: 814
+Flags: HW
+VStem: 349 116<5 571>
+LayerCount: 3
+Fore
+SplineSet
+349 5 m 1
+ 349 641 l 1
+ 399 571 l 1
+ 65 237 l 1
+ 65 395 l 1
+ 407 736 l 1
+ 749 395 l 1
+ 749 236 l 1
+ 415 571 l 1
+ 465 641 l 1
+ 465 5 l 1
+ 349 5 l 1
+EndSplineSet
+Validated: 5
+EndChar

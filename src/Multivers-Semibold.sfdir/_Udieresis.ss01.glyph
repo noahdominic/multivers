@@ -1,0 +1,17 @@
+StartChar: Udieresis.ss01
+Encoding: 65556 -1 130
+Width: 696
+GlyphClass: 2
+Flags: HW
+HStem: -10 105<272.583 429.368> 700 20G<59 209 497 637> 800 152<734.174 838.826 962.174 1066.83>
+VStem: 59 150<168.612 720> 497 140<170.005 720> 712 149<823.205 930.341> 940 149<823.205 930.341>
+AnchorPoint: "Anchor-3" 489 20 basechar 0
+AnchorPoint: "Anchor-2" 343 0 basechar 0
+AnchorPoint: "Anchor-1" 670 720 basechar 0
+AnchorPoint: "Anchor-0" 343 952 basechar 0
+LayerCount: 3
+Fore
+Refer: 89 85 N 1 0 0 1 0 0 3
+Refer: 482 -1 N 1 0 0 1 652 210 2
+Validated: 1
+EndChar

@@ -1,0 +1,24 @@
+StartChar: one
+Encoding: 49 49 320
+Width: 392
+Flags: HW
+HStem: 0 21G<200 326> 700 20G<191.231 326>
+VStem: 200 126<0 594>
+LayerCount: 3
+Fore
+SplineSet
+200 0 m 1
+ 200 608 l 1
+ 219 594 l 1
+ 219 594 219 594 22 465 c 1
+ 22 590 l 5
+ 222 720 l 1
+ 326 720 l 1
+ 326 0 l 1
+ 200 0 l 1
+EndSplineSet
+Validated: 5
+Kerns2: 438 -27 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 426 -24 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 399 -28 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 391 -31 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 372 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 359 -18 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 318 -19 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 317 -17 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 256 -21 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 231 -2 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 172 1 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 150 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 13 -12 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 1 -15 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Substitution2: "'tnum' Tabular Numbers in Latin lookup 19 subtable" one.tf
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" one.tf
+EndChar

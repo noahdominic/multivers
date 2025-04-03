@@ -1,0 +1,17 @@
+StartChar: Ubreve
+Encoding: 364 364 91
+Width: 696
+GlyphClass: 2
+Flags: HW
+HStem: -10 105<272.583 429.368> 700 20G<59 209 497 637> 786 91<839.258 961>
+VStem: 59 150<168.612 720> 497 140<170.005 720> 731 87<897.113 950> 982 87<897.113 950>
+AnchorPoint: "Anchor-3" 489 20 basechar 0
+AnchorPoint: "Anchor-2" 343 0 basechar 0
+AnchorPoint: "Anchor-1" 670 720 basechar 0
+AnchorPoint: "Anchor-0" 343 950 basechar 0
+LayerCount: 3
+Fore
+Refer: 89 85 N 1 0 0 1 0 0 3
+Refer: 474 774 N 1 0 0 1 671 210 2
+Validated: 1
+EndChar

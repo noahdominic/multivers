@@ -1,0 +1,16 @@
+StartChar: Aogonek
+Encoding: 260 260 9
+Width: 722
+GlyphClass: 2
+Flags: HW
+HStem: -216 67<606.129 677.648> 0 21G<32 177.611 544.389 690> 179 103<165 548> 700 20G<279.917 442.083>
+VStem: 515 86<-143.38 -65.6772>
+AnchorPoint: "Anchor-3" 685 0 basechar 0
+AnchorPoint: "Anchor-2" 356 0 basechar 0
+AnchorPoint: "Anchor-0" 356 720 basechar 0
+LayerCount: 3
+Fore
+Refer: 1 65 N 1 0 0 1 0 0 3
+Refer: 481 808 N 1 0 0 1 455 0 2
+Validated: 5
+EndChar

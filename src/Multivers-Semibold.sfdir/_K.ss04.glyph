@@ -1,0 +1,33 @@
+StartChar: K.ss04
+Encoding: 65559 -1 133
+Width: 704
+GlyphClass: 2
+Flags: HW
+HStem: 0 21G<67 196 507.733 679> 700 20G<67 196 481.033 660>
+VStem: 67 129<0 155 298 720>
+AnchorPoint: "Anchor-2" 357 0 basechar 0
+AnchorPoint: "Anchor-0" 353 720 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+67 0 m 1
+ 67 720 l 1
+ 196 720 l 1
+ 196 0 l 1
+ 67 0 l 1
+140 298 m 1
+ 498 720 l 1
+ 660 720 l 1
+ 346 358 l 1
+ 324 350 l 1
+ 155 155 l 1
+ 140 298 l 1
+521 0 m 1
+ 253 404 l 1
+ 373 442 l 1
+ 679 0 l 1
+ 521 0 l 1
+EndSplineSet
+Validated: 5
+Kerns2: 261 -46 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

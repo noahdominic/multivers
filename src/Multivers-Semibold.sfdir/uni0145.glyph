@@ -1,0 +1,17 @@
+StartChar: uni0145
+Encoding: 325 325 60
+Width: 718
+GlyphClass: 2
+Flags: HW
+HStem: -331 58<290 337.379> -200 9<359 393.222> -200 126<290 359> 0 21G<67 206 481.216 651> 700 20G<67 236.752 512 651>
+VStem: 67 139<0 625> 290 136<-189.944 -74> 512 139<95 720>
+AnchorPoint: "Anchor-2" 354 -331 basechar 0
+AnchorPoint: "Anchor-0" 354 720 basechar 0
+LayerCount: 3
+Fore
+Refer: 57 78 N 1 0 0 1 0 0 3
+Refer: 479 806 N 1 0 0 1 223 0 2
+Validated: 5
+Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" uni0145.ss01
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni0145.ss01
+EndChar

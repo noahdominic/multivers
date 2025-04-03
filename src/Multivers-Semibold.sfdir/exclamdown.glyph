@@ -1,0 +1,26 @@
+StartChar: exclamdown
+Encoding: 161 161 350
+Width: 301
+Flags: HW
+HStem: 366 144<79 223>
+VStem: 79 144<-205 -57.3636 366 510> 100 101<88.0526 259>
+LayerCount: 3
+Fore
+SplineSet
+81 -205 m 1xa0
+ 100 259 l 1
+ 201 259 l 1
+ 220 -205 l 1
+ 81 -205 l 1xa0
+223 510 m 1xc0
+ 223 366 l 1
+ 79 366 l 1
+ 79 510 l 1
+ 223 510 l 1xc0
+EndSplineSet
+Validated: 1
+Kerns2: 106 -88 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 99 -71 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 86 -96 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" exclamdown.ss01
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 20 subtable" exclamdown.case
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" exclamdown.case exclamdown.ss01
+EndChar

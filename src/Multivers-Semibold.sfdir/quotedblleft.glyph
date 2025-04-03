@@ -1,0 +1,15 @@
+StartChar: quotedblleft
+Encoding: 8220 8220 402
+Width: 476
+Flags: HW
+HStem: 477 246<171 206 366 401>
+VStem: 78 182 273 182
+LayerCount: 3
+Fore
+Refer: 404 8216 N 1 0 0 1 200 0 2
+Refer: 404 8216 N 1 0 0 1 5 0 2
+Validated: 1
+Kerns2: 401 -222 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 384 -223 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 352 -114 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 348 -225 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" quotedblleft.ss01
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" quotedblleft.ss01
+EndChar

@@ -1,0 +1,18 @@
+StartChar: gdotaccent
+Encoding: 289 289 185
+Width: 618
+GlyphClass: 2
+Flags: HW
+HStem: -169 107<197.36 382.092> 12 100<226.101 348.772> 420 100<225.221 356.643> 490 20G<429.328 552> 594 138<226 362>
+VStem: 35 140<167.984 364.745> 226 136<594 732> 415 133<169.692 367.934> 422 9<102.667 136 391 427.667> 430 122<394 510>
+AnchorPoint: "Anchor-2" 304 -205 basechar 0
+AnchorPoint: "Anchor-0" 289 732 basechar 0
+LayerCount: 3
+Fore
+Refer: 182 103 N 1 0 0 1 0 0 3
+Refer: 467 775 N 1 0 0 1 166 0 2
+Validated: 5
+Kerns2: 198 -4 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" gdotaccent.ss01
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" gdotaccent.ss01
+EndChar

@@ -1,0 +1,12 @@
+StartChar: periodcentered.loclCAT.case.ss01
+Encoding: 65658 -1 380
+Width: 171
+Flags: HW
+HStem: 347 161<29.2369 141.248>
+VStem: 5 161<371.639 483.363>
+LayerCount: 3
+Fore
+Refer: 367 -1 N 1 0 0 1 -50 357 2
+Validated: 513
+Kerns2: 389 -80 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 111 -69 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 105 -78 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 86 -69 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 48 -78 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 1 -68 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

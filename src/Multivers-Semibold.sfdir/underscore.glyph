@@ -1,0 +1,11 @@
+StartChar: underscore
+Encoding: 95 95 384
+Width: 466
+Flags: HW
+HStem: -152 96<5 462>
+LayerCount: 3
+Fore
+Refer: 382 8211 N 1 0 0 1 -60 -376 2
+Validated: 1
+Kerns2: 415 -225 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 411 -126 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 410 -221 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 403 -223 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 388 -87 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 384 41 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 355 -211 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 329 -52 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 328 -94 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 327 -92 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 326 -85 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 325 -102 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 324 -93 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 323 -198 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 322 -93 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 320 -102 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 319 -110 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

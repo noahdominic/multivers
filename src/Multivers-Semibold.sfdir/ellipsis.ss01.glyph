@@ -1,0 +1,14 @@
+StartChar: ellipsis.ss01
+Encoding: 65649 -1 371
+Width: 728
+Flags: HW
+HStem: -10 161<84.2369 196.248 307.237 419.248 531.237 643.248>
+VStem: 60 161<14.639 126.363> 283 161<14.639 126.363> 507 161<14.639 126.363>
+LayerCount: 3
+Fore
+Refer: 367 -1 N 1 0 0 1 5 0 2
+Refer: 367 -1 N 1 0 0 1 228 0 2
+Refer: 367 -1 N 1 0 0 1 452 0 2
+Validated: 1
+Kerns2: 415 -232 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 414 -233 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 411 -126 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 410 -222 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 399 -42 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 374 -126 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

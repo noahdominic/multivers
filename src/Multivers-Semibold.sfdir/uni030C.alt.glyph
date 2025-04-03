@@ -1,0 +1,19 @@
+StartChar: uni030C.alt
+Encoding: 65687 -1 471
+Width: 10
+GlyphClass: 4
+Flags: HW
+HStem: 490 230<65 148>
+VStem: 65 109<658.077 720> 65 83<490 551.923>
+AnchorPoint: "Anchor-1" 65 720 mark 0
+LayerCount: 3
+Fore
+SplineSet
+148 490 m 1xa0
+ 65 490 l 1xa0
+ 65 720 l 1
+ 174 720 l 1xc0
+ 148 490 l 1xa0
+EndSplineSet
+Validated: 1
+EndChar

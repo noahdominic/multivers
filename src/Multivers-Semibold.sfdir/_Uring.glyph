@@ -1,0 +1,17 @@
+StartChar: Uring
+Encoding: 366 366 98
+Width: 696
+GlyphClass: 2
+Flags: HW
+HStem: -10 105<272.583 429.368> 700 20G<59 209 497 637> 771 65<867.981 931.736> 921 65<867.101 931.478>
+VStem: 59 150<168.612 720> 497 140<170.005 720> 792 67<845.199 912.208> 940 67<845.199 912.208>
+AnchorPoint: "Anchor-3" 489 20 basechar 0
+AnchorPoint: "Anchor-2" 343 0 basechar 0
+AnchorPoint: "Anchor-1" 670 720 basechar 0
+AnchorPoint: "Anchor-0" 343 986 basechar 0
+LayerCount: 3
+Fore
+Refer: 89 85 N 1 0 0 1 0 0 3
+Refer: 475 778 N 1 0 0 1 732 210 2
+Validated: 1
+EndChar

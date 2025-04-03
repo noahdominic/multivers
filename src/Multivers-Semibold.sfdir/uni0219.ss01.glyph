@@ -1,0 +1,15 @@
+StartChar: uni0219.ss01
+Encoding: 65595 -1 283
+Width: 492
+GlyphClass: 2
+Flags: HW
+HStem: -331 58<197 245.008> -10 88<178.186 334.434> 432 88<181.229 320.206>
+VStem: 29 113<109.906 158> 51 113<343.36 417.456> 182 150<-186.373 -91.7563> 355 113<95.632 175.958>
+AnchorPoint: "Anchor-2" 253 -331 basechar 0
+AnchorPoint: "Anchor-0" 242 510 basechar 0
+LayerCount: 3
+Fore
+Refer: 231 115 N 1 0 0 1 0 0 3
+Refer: 485 -1 N 1 0 0 1 122 0 2
+Validated: 5
+EndChar

@@ -1,0 +1,16 @@
+StartChar: ij.ss01
+Encoding: 65587 -1 275
+Width: 512
+GlyphClass: 2
+Flags: HW
+HStem: -167 97<220 301.559> 0 21G<70 196> 490 20G<70 196 316 442> 578 165<78.8177 188.278 323.818 433.278>
+VStem: 52 162<605.039 717.627> 70 126<0 510> 297 162<605.039 717.627> 316 126<-59.1676 510>
+AnchorPoint: "Anchor-3" 196 0 basechar 0
+LayerCount: 3
+Fore
+Refer: 189 305 N 1 0 0 1 5 0 2
+Refer: 483 -1 N 1 0 0 1 -8 0 2
+Refer: 199 567 N 1 0 0 1 251 0 2
+Refer: 483 -1 N 1 0 0 1 237 0 2
+Validated: 1
+EndChar

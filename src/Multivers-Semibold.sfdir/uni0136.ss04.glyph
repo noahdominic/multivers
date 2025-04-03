@@ -1,0 +1,16 @@
+StartChar: uni0136.ss04
+Encoding: 65560 -1 134
+Width: 704
+GlyphClass: 2
+Flags: HW
+HStem: -331 58<284 331.379> -200 9<353 387.222> -200 126<284 353> 0 21G<62 191 502.733 674> 700 20G<62 191 476.033 655>
+VStem: 62 129<0 155 298 720> 284 136<-189.944 -74>
+AnchorPoint: "Anchor-2" 352 -331 basechar 0
+AnchorPoint: "Anchor-0" 348 720 basechar 0
+LayerCount: 3
+Fore
+Refer: 133 -1 N 1 0 0 1 0 0 3
+Refer: 479 806 N 1 0 0 1 217 0 2
+Validated: 5
+Kerns2: 196 8 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

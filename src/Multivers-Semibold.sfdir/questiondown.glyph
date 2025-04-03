@@ -1,0 +1,43 @@
+StartChar: questiondown
+Encoding: 191 191 352
+Width: 576
+Flags: HW
+HStem: -169 105<189.198 390.265> 437 144<205 349>
+VStem: 30 129<-35.417 82.2931> 205 144<437 581> 217 121<255.684 330>
+LayerCount: 3
+Fore
+SplineSet
+338 330 m 5xe8
+ 338 296 333.666992188 267.5 325 244.5 c 4
+ 316.333007812 221.5 305.166015625 202 291.5 186 c 4
+ 277.833007812 170 263.5 155.833007812 248.5 143.5 c 4
+ 233.630859375 131.274414062 219.297851562 119.44140625 205.5 108 c 4
+ 191.833007812 96.6669921875 180.666015625 84.1669921875 172 70.5 c 4
+ 163.333007812 56.8330078125 159 40.666015625 159 22 c 4
+ 159 -6 168.833007812 -27.3330078125 188.5 -42 c 4
+ 208.166992188 -56.6669921875 235.333984375 -64 270 -64 c 4
+ 324 -64.6669921875 370.333007812 -54.333984375 409 -33 c 5
+ 411 -144 l 5
+ 372.333007812 -161.333007812 324.666015625 -169.666015625 268 -169 c 4
+ 220 -169 178.333007812 -161.166992188 143 -145.5 c 4
+ 107.666992188 -129.833007812 80 -107.666015625 60 -79 c 4
+ 40 -50.3330078125 30 -17 30 21 c 4
+ 30 49.6669921875 34.5 74 43.5 94 c 4
+ 52.5 114 64 131.333007812 78 146 c 4
+ 92 160.666992188 107.166992188 174 123.5 186 c 4
+ 139.833007812 198 155 210.666992188 169 224 c 4
+ 183 237.333007812 194.5 252.333007812 203.5 269 c 4
+ 212.5 285.666992188 217 306 217 330 c 5
+ 338 330 l 5xe8
+349 581 m 5xf0
+ 349 437 l 5
+ 205 437 l 5
+ 205 581 l 5
+ 349 581 l 5xf0
+EndSplineSet
+Validated: 33
+Kerns2: 226 -73 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 172 -76 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 163 -76 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 145 -100 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 106 -160 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 99 -151 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 86 -146 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 80 -82 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 75 -100 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 63 -100 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 14 -99 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" questiondown.ss01
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 20 subtable" questiondown.case
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" questiondown.case questiondown.ss01
+EndChar

@@ -1,0 +1,47 @@
+StartChar: U
+Encoding: 85 85 89
+Width: 696
+GlyphClass: 2
+Flags: HW
+HStem: -10 105<272.583 429.368> 700 20G<59 209 497 637>
+VStem: 59 150<168.612 720> 497 140<170.005 720>
+AnchorPoint: "Anchor-3" 494 20 basechar 0
+AnchorPoint: "Anchor-2" 348 0 basechar 0
+AnchorPoint: "Anchor-1" 675 720 basechar 0
+AnchorPoint: "Anchor-0" 338 720 basechar 0
+LayerCount: 3
+Back
+SplineSet
+347 -10 m 4
+ 252.333007812 -10 180.666992188 16.8330078125 132 70.5 c 132
+ 83.3330078125 124.166992188 59 201.333007812 59 302 c 6
+ 59 720 l 5
+ 198 720 l 5
+ 198 282 l 6
+ 198 222.841796875 213.553710938 95 348 95 c 260
+ 419.09375 95 508 126.154296875 508 282 c 6
+ 508 720 l 5
+ 637 720 l 5
+ 637 301 l 6
+ 637 201 612.5 124.166992188 563.5 70.5 c 132
+ 514.5 16.8330078125 442.333007812 -10 347 -10 c 4
+EndSplineSet
+Fore
+SplineSet
+347 -10 m 0
+ 252.333007812 -10 180.666992188 16.8330078125 132 70.5 c 0
+ 83.3330078125 124.166992188 59 171.333007812 59 302 c 2
+ 59 720 l 1
+ 209 720 l 1
+ 209 282 l 2
+ 209 134 282 93 348 95 c 256
+ 419.060546875 97.1533203125 497 126.154296875 497 282 c 2
+ 497 720 l 1
+ 637 720 l 1
+ 637 301 l 2
+ 637 161 612.5 124.166992188 563.5 70.5 c 0
+ 514.5 16.8330078125 442.333007812 -10 347 -10 c 0
+EndSplineSet
+Validated: 33
+Kerns2: 443 -34 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 359 -16 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 139 -15 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 85 -9 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

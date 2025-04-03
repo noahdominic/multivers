@@ -1,0 +1,22 @@
+StartChar: greater
+Encoding: 62 62 441
+Width: 554
+Flags: HW
+LayerCount: 3
+Fore
+SplineSet
+58 166 m 1
+ 58 266 l 1
+ 401 382 l 1
+ 401 359 l 1
+ 58 473 l 1
+ 58 573 l 1
+ 496 423 l 1
+ 496 319 l 1
+ 58 166 l 1
+EndSplineSet
+Validated: 5
+Kerns2: 441 -51 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 389 -127 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 326 -127 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 256 -57 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 111 -104 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 106 -106 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 105 -120 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 100 -70 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 99 -76 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 86 -136 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 80 -54 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 48 -128 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 1 -81 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Substitution2: "'tnum' Tabular Numbers in Latin lookup 19 subtable" greater.tf
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" greater.tf
+EndChar

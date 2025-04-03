@@ -1,0 +1,15 @@
+StartChar: Zdotaccent.ss01
+Encoding: 65558 -1 132
+Width: 626
+GlyphClass: 2
+Flags: HW
+HStem: 0 102<205 579> 618 102<64 413> 788 165<258.818 368.278>
+VStem: 232 162<815.039 927.627>
+AnchorPoint: "Anchor-2" 309 0 basechar 0
+AnchorPoint: "Anchor-0" 309 953 basechar 0
+LayerCount: 3
+Fore
+Refer: 111 90 N 1 0 0 1 0 0 3
+Refer: 483 -1 N 1 0 0 1 172 210 2
+Validated: 5
+EndChar

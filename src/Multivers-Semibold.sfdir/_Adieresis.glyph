@@ -1,0 +1,19 @@
+StartChar: Adieresis
+Encoding: 196 196 6
+Width: 722
+GlyphClass: 2
+Flags: HW
+HStem: 0 21G<32 177.611 544.389 690> 179 103<165 548> 700 20G<279.917 442.083> 803 139<179 315 406 542>
+VStem: 179 136<803 942> 406 136<803 942>
+AnchorPoint: "Anchor-3" 685 0 basechar 0
+AnchorPoint: "Anchor-2" 356 0 basechar 0
+AnchorPoint: "Anchor-0" 356 942 basechar 0
+LayerCount: 3
+Fore
+Refer: 1 65 N 1 0 0 1 0 0 3
+Refer: 466 776 N 1 0 0 1 119 210 2
+Validated: 5
+Kerns2: 85 -15 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" Adieresis.ss01
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Adieresis.ss01
+EndChar

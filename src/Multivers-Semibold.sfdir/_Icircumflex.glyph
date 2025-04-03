@@ -1,0 +1,17 @@
+StartChar: Icircumflex
+Encoding: 206 206 42
+Width: 262
+GlyphClass: 2
+Flags: HW
+HStem: 0 21G<62 201> 700 20G<62 201> 793 157
+VStem: 62 139<0 720>
+AnchorPoint: "Anchor-3" 172 0 basechar 0
+AnchorPoint: "Anchor-2" 126 0 basechar 0
+AnchorPoint: "Anchor-0" 126 950 basechar 0
+LayerCount: 3
+Fore
+Refer: 39 73 N 1 0 0 1 0 0 3
+Refer: 472 770 N 1 0 0 1 -123 210 2
+Validated: 5
+Kerns2: 262 -15 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

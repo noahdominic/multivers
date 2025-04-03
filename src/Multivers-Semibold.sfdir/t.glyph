@@ -1,0 +1,31 @@
+StartChar: t
+Encoding: 116 116 237
+Width: 407
+GlyphClass: 2
+Flags: W
+HStem: 0 93.0205<247.789 375> 412 98<20 376>
+VStem: 115 126<104.464 624>
+AnchorPoint: "Anchor-2" 262 0 basechar 0
+AnchorPoint: "Anchor-1" 318 786 basechar 0
+AnchorPoint: "Anchor-0" 162 510 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+295 0 m 0
+ 155.880859375 0 115 44.4287109375 115 164 c 2
+ 115 624 l 1
+ 241 692 l 1
+ 241 162 l 2
+ 241 100 250.749023438 96.447265625 321 93.0205078125 c 6
+ 321 93.0205078125 321 93.0205078125 375 93.0205078125 c 5
+ 376 0 l 1
+ 335 0 335 0 295 0 c 0
+20 412 m 1
+ 20 510 l 1
+ 376 510 l 1
+ 376 412 l 1
+ 20 412 l 1
+EndSplineSet
+Validated: 5
+Kerns2: 443 -52 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 440 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 425 -75 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 391 -34 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 326 -63 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 323 -24 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 172 -15 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 163 -15 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

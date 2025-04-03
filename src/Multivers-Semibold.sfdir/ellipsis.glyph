@@ -1,0 +1,16 @@
+StartChar: ellipsis
+Encoding: 8230 8230 348
+Width: 728
+Flags: HW
+HStem: 0 144<69 213 292 436 516 660>
+VStem: 69 144<0 144> 292 144<0 144> 516 144<0 144>
+LayerCount: 3
+Fore
+Refer: 344 46 N 1 0 0 1 5 0 2
+Refer: 344 46 N 1 0 0 1 228 0 2
+Refer: 344 46 N 1 0 0 1 452 0 2
+Validated: 1
+Kerns2: 410 -222 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 407 -46 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 405 -135 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 404 -128 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 403 -225 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 402 -225 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 393 -54 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 389 -74 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 388 -63 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 251 -72 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 86 -139 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" ellipsis.ss01
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" ellipsis.ss01
+EndChar

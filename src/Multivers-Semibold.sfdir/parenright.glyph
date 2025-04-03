@@ -1,0 +1,25 @@
+StartChar: parenright
+Encoding: 41 41 389
+Width: 443
+Flags: HW
+VStem: 246 119<173.671 476.749>
+LayerCount: 3
+Fore
+SplineSet
+170 754 m 1
+ 236.666992188 691.333007812 285.833007812 623.166992188 317.5 549.5 c 0
+ 349.166992188 475.833007812 365 400.666992188 365 324 c 0
+ 365 248.666992188 349 173.833007812 317 99.5 c 0
+ 285 25.1669921875 236 -43.3330078125 170 -106 c 1
+ 48 -106 l 1
+ 114 -43.3330078125 163.5 23.8330078125 196.5 95.5 c 0
+ 229.5 167.166992188 246 243.333007812 246 324 c 256
+ 246 404.666992188 229 480.833007812 195 552.5 c 0
+ 161 624.166992188 112 691.333007812 48 754 c 1
+ 170 754 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 444 -68 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 440 -38 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 438 -45 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 403 -55 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 391 -83 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 374 -55 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 372 -44 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 20 subtable" parenright.case
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" parenright.case
+EndChar

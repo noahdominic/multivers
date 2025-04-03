@@ -1,0 +1,25 @@
+StartChar: uni030C
+Encoding: 780 780 473
+Width: 10
+GlyphClass: 4
+Flags: HW
+HStem: 583 157
+AnchorPoint: "Anchor-7" 259 740 basemark 0
+AnchorPoint: "Anchor-7" 259 510 mark 0
+AnchorPoint: "Anchor-4" 259 510 mark 0
+AnchorPoint: "Anchor-0" 259 510 mark 0
+LayerCount: 3
+Fore
+SplineSet
+194 583 m 1
+ 65 740 l 1
+ 171 740 l 1
+ 313 610 l 1
+ 206 610 l 1
+ 348 740 l 1
+ 454 740 l 1
+ 325 583 l 1
+ 194 583 l 1
+EndSplineSet
+Validated: 5
+EndChar

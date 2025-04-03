@@ -1,0 +1,16 @@
+StartChar: racute
+Encoding: 341 341 228
+Width: 393
+GlyphClass: 2
+Flags: HW
+HStem: 0 21G<70 196> 400 120<262.914 371.716> 490 20G<70 192> 583 157<229 239>
+VStem: 70 126<0 269 387 510> 128 271
+AnchorPoint: "Anchor-2" 126 0 basechar 0
+AnchorPoint: "Anchor-0" 212 740 basechar 0
+LayerCount: 3
+Fore
+Refer: 227 114 N 1 0 0 1 0 0 3
+Refer: 469 769 N 1 0 0 1 68 0 2
+Validated: 5
+Kerns2: 381 -65 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 368 -110 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 367 -110 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 345 -101 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 344 -101 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 237 12 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 231 -9 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 210 -9 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 168 -12 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

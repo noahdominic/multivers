@@ -1,0 +1,47 @@
+StartChar: braceleft
+Encoding: 123 123 390
+Width: 443
+Flags: HW
+HStem: -108 99<248.505 385> 271 100<38 139.247> 651 99<248.505 385>
+CounterMasks: 1 e0
+LayerCount: 3
+Fore
+SplineSet
+291 -108 m 2
+ 245.666992188 -108 209.666992188 -100.166992188 183 -84.5 c 0
+ 156.333007812 -68.8330078125 138.5 -47.6669921875 129.5 -21 c 0
+ 120.5 5.6669921875 119.333007812 36 126 70 c 2
+ 148 173 l 2
+ 155.333007812 207 153 231.833007812 141 247.5 c 0
+ 129 263.166992188 107 271 75 271 c 2
+ 38 271 l 1
+ 38 371 l 1
+ 75 371 l 2
+ 107 371 129 379 141 395 c 0
+ 153 411 155.333007812 435.666992188 148 469 c 2
+ 126 572 l 2
+ 119.333007812 606 120.5 636.333007812 129.5 663 c 0
+ 138.5 689.666992188 156.333007812 710.833007812 183 726.5 c 0
+ 209.666992188 742.166992188 245.666992188 750 291 750 c 2
+ 385 750 l 1
+ 385 651 l 1
+ 299 651 l 2
+ 275.666992188 651 258.666992188 644 248 630 c 0
+ 237.333007812 616 235 596.666992188 241 572 c 2
+ 264 473 l 2
+ 274 433.666992188 271.5 401 256.5 375 c 0
+ 241.5 349 218.333007812 331 187 321 c 1
+ 218.333007812 311 241.5 293 256.5 267 c 0
+ 271.5 241 274 208.333007812 264 169 c 2
+ 241 70 l 2
+ 235 45.3330078125 237.333007812 26 248 12 c 0
+ 258.666992188 -2 275.666992188 -9 299 -9 c 2
+ 385 -9 l 1
+ 385 -108 l 1
+ 291 -108 l 2
+EndSplineSet
+Validated: 33
+Kerns2: 388 -83 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 381 -106 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 343 -104 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 323 -82 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 320 -46 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 319 -62 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 20 subtable" braceleft.case
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" braceleft.case
+EndChar

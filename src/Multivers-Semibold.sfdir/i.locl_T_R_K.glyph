@@ -1,0 +1,19 @@
+StartChar: i.loclTRK
+Encoding: 65572 -1 193
+Width: 266
+GlyphClass: 2
+Flags: HW
+HStem: 0 21G<70 196> 490 20G<70 196> 594 138<65 201>
+VStem: 65 136<594 732> 70 126<0 510>
+AnchorPoint: "Anchor-3" 191 0 basechar 0
+AnchorPoint: "Anchor-2" 128 0 basechar 0
+AnchorPoint: "Anchor-0" 128 732 basechar 0
+LayerCount: 3
+Fore
+Refer: 189 305 N 1 0 0 1 0 0 3
+Refer: 467 775 N 1 0 0 1 5 0 2
+Validated: 1
+Kerns2: 221 28 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 169 17 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" i.loclTRK.ss01
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" i.loclTRK.ss01
+EndChar

@@ -1,0 +1,13 @@
+StartChar: colon.ss01
+Encoding: 65647 -1 369
+Width: 281
+Flags: HW
+HStem: -10 161<79.2369 191.248> 334 161<79.2369 191.248>
+VStem: 55 161<14.639 126.363 358.639 470.363>
+LayerCount: 3
+Fore
+Refer: 367 -1 N 1 0 0 1 0 0 3
+Refer: 367 -1 N 1 0 0 1 0 344 2
+Validated: 1
+Kerns2: 389 -86 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

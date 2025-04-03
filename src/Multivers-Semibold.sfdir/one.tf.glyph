@@ -1,0 +1,32 @@
+StartChar: one.tf
+Encoding: 65626 -1 331
+Width: 602
+Flags: HW
+HStem: 0 102<116 283 413 552> 30 72<283 413> 465 125<123 186> 700 20G<298.333 413>
+VStem: 283 130<30 594>
+LayerCount: 3
+Fore
+SplineSet
+283 30 m 1x78
+ 283 608 l 1
+ 300 594 l 1
+ 290 573.333007812 276.5 554.333007812 259.5 537 c 0
+ 242.5 519.666992188 222.5 504.666992188 199.5 492 c 0
+ 176.5 479.333007812 151 470.333007812 123 465 c 1
+ 123 590 l 1
+ 147 594.666992188 171 603.5 195 616.5 c 0
+ 219 629.5 240.666992188 645.166992188 260 663.5 c 0
+ 279.333007812 681.833007812 293.666992188 700.666992188 303 720 c 1
+ 413 720 l 1
+ 413 30 l 1
+ 283 30 l 1x78
+116 0 m 1xb8
+ 116 102 l 1
+ 552 102 l 1
+ 552 0 l 1
+ 116 0 l 1xb8
+EndSplineSet
+Validated: 5
+Substitution2: "'pnum' Proportional Numbers in Latin lookup 18 subtable" one
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" one
+EndChar

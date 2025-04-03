@@ -1,0 +1,18 @@
+StartChar: atilde
+Encoding: 227 227 160
+Width: 556
+GlyphClass: 2
+Flags: HW
+HStem: -10 95<186.639 304.329> 0 21G<378.333 504> 426 94<221.149 348.76> 592 87<305.549 396.603> 649 86<170.047 261.93>
+VStem: 45 124<100.588 208.428> 82 78<599 635.076> 366 125<0.843262 100 176 244 325 404.855> 380 124<0 99.002> 406 79<692.924 729>
+AnchorPoint: "Anchor-3" 500 0 basechar 0
+AnchorPoint: "Anchor-2" 278 0 basechar 0
+AnchorPoint: "Anchor-0" 278 735 basechar 0
+LayerCount: 3
+Fore
+Refer: 150 97 N 1 0 0 1 0 0 3
+Refer: 476 771 N 1 0 0 1 22 0 2
+Validated: 5
+Substitution2: "'ss02' Style Set 2 in Latin lookup 23 subtable" atilde.ss02
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" atilde.ss02
+EndChar

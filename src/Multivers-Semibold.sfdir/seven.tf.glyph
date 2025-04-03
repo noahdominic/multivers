@@ -1,0 +1,25 @@
+StartChar: seven.tf
+Encoding: 65632 -1 337
+Width: 602
+Flags: HW
+HStem: 0 21G<177 325> 618 102<64 413>
+VStem: 177 144<0 148.299>
+LayerCount: 3
+Fore
+SplineSet
+177 0 m 1
+ 186.333007812 114.666992188 211.5 225.5 252.5 332.5 c 0
+ 293.5 439.5 347 542.333007812 413 641 c 1
+ 419 618 l 1
+ 64 618 l 1
+ 64 720 l 1
+ 537 720 l 1
+ 537 627 l 1
+ 475.666992188 525 426.333007812 423 389 321 c 0
+ 351.666992188 219 329 112 321 0 c 1
+ 177 0 l 1
+EndSplineSet
+Validated: 5
+Substitution2: "'pnum' Proportional Numbers in Latin lookup 18 subtable" seven
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" seven
+EndChar

@@ -1,0 +1,16 @@
+StartChar: aacute.ss02
+Encoding: 65602 -1 290
+Width: 618
+GlyphClass: 2
+Flags: HW
+HStem: -10 103<216.419 350.116> 0 21G<421 543> 417 103<216.771 353.506> 490 20G<421 543> 583 157<316 326>
+VStem: 30 130<154.691 355.109> 215 271 421 122<0 111 157.317 353.335 392 510>
+AnchorPoint: "Anchor-3" 543 0 basechar 0
+AnchorPoint: "Anchor-2" 304 0 basechar 0
+AnchorPoint: "Anchor-0" 304 740 basechar 0
+LayerCount: 3
+Fore
+Refer: 289 -1 N 1 0 0 1 0 0 3
+Refer: 469 769 N 1 0 0 1 155 0 2
+Validated: 5
+EndChar

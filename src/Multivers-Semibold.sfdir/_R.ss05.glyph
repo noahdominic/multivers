@@ -1,0 +1,39 @@
+StartChar: R.ss05
+Encoding: 82 82 135
+Width: 650
+GlyphClass: 2
+Flags: HW
+HStem: 0 21G<67 206 503.556 648.879> 304 98<129 411.017> 618 102<206 427.605>
+VStem: 67 139<0 304 402 618> 129 77<304 402> 468 139<443.895 579.101>
+AnchorPoint: "Anchor-2" 332 0 basechar 0
+AnchorPoint: "Anchor-0" 326 720 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+67 0 m 1xf4
+ 67 720 l 1xf4
+ 366 720 l 2
+ 416 720 459 712 495 696 c 0
+ 531 680 558.666992188 657.166992188 578 627.5 c 0
+ 597.333007812 597.833007812 607 562.666992188 607 522 c 0
+ 607 423.333007812 544.333007812 366.333007812 419 351 c 1
+ 422 363 l 1
+ 456.666992188 365.666992188 489.923828125 355.064453125 521.770507812 331.194335938 c 0
+ 558.58984375 304.3984375 576.837890625 252.666992188 596.578125 183.432617188 c 6
+ 651.87890625 0 l 5
+ 512.87890625 0 l 1
+ 468 184.5 l 2
+ 450.924018433 263.502131589 408.333007812 304 331 304 c 2
+ 129 304 l 1
+ 129 402 l 1xec
+ 341 402 l 2
+ 381.666992188 402 413 411.666992188 435 431 c 0
+ 457 450.333007812 468 477 468 511 c 0
+ 468 545.666992188 457.166992188 572.166992188 435.5 590.5 c 0
+ 413.833007812 608.833007812 382.333007812 618 341 618 c 2
+ 206 618 l 1
+ 206 0 l 1
+ 67 0 l 1xf4
+EndSplineSet
+Kerns2: 430 1 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 420 -3 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 329 12 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 328 13 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 327 8 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 322 6 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 221 8 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 196 4 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 70 3 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

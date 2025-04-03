@@ -1,0 +1,17 @@
+StartChar: lacute
+Encoding: 314 314 203
+Width: 266
+GlyphClass: 2
+Flags: HW
+HStem: 0 21G<70 196> 700 20G<70 196> 793 157<145 155>
+VStem: 44 271 70 126<0 720>
+AnchorPoint: "Anchor-2" 128 0 basechar 0
+AnchorPoint: "Anchor-1" 247 720 basechar 0
+AnchorPoint: "Anchor-0" 128 950 basechar 0
+LayerCount: 3
+Fore
+Refer: 202 108 N 1 0 0 1 0 0 3
+Refer: 469 769 N 1 0 0 1 -16 210 2
+Validated: 1
+Kerns2: 264 -16 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 262 -16 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 210 -17 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

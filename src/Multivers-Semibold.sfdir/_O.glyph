@@ -1,0 +1,40 @@
+StartChar: O
+Encoding: 79 79 63
+Width: 782
+GlyphClass: 2
+Flags: HW
+HStem: -10 105<297.966 479.614> 625 105<297.255 487.514>
+VStem: 41 141<233.129 493.303> 599 141<235.292 495.961>
+AnchorPoint: "Anchor-3" 537 20 basechar 0
+AnchorPoint: "Anchor-2" 391 0 basechar 0
+AnchorPoint: "Anchor-1" 757 720 basechar 0
+AnchorPoint: "Anchor-0" 391 720 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+391 -10 m 0
+ 339.666992188 -10 292.833007812 -1 250.5 17 c 0
+ 208.166992188 35 171.333007812 60.5 140 93.5 c 0
+ 108.666992188 126.5 84.3330078125 165.833007812 67 211.5 c 0
+ 49.6669921875 257.166992188 41 307.666992188 41 363 c 0
+ 41 436.333007812 55.8330078125 500.5 85.5 555.5 c 0
+ 115.166992188 610.5 156.333007812 653.333007812 209 684 c 0
+ 261.666992188 714.666992188 322 730 390 730 c 0
+ 458.666992188 730 519.333007812 714.666992188 572 684 c 0
+ 624.666992188 653.333007812 665.833007812 610.333007812 695.5 555 c 0
+ 725.166992188 499.666992188 740 435.333007812 740 362 c 0
+ 740 307.333007812 731.333007812 257.166992188 714 211.5 c 0
+ 696.666992188 165.833007812 672.5 126.5 641.5 93.5 c 0
+ 610.5 60.5 573.666992188 35 531 17 c 0
+ 488.333007812 -1 441.666992188 -10 391 -10 c 0
+390 95 m 256
+ 520.985351562 95 599 205.919921875 599 364 c 0
+ 599 394.278320312 602.043945312 625 390 625 c 256
+ 260.0625 625 182 526.889648438 182 364 c 4
+ 182 201.057617188 260.342773438 95 390 95 c 256
+EndSplineSet
+Validated: 33
+Kerns2: 444 -48 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 425 -70 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 399 -76 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 391 -65 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 326 -49 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 139 -12 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Substitution2: "Single Substitution lookup 17 subtable" ordmasculine
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" ordmasculine
+EndChar

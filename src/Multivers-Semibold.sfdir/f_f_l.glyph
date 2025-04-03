@@ -1,0 +1,51 @@
+StartChar: f_f_l
+Encoding: 65618 -1 311
+Width: 945
+GlyphClass: 3
+LigCaretCntFixed: 1
+Flags: HW
+HStem: 0 21G<109 234 429 554 749 874> 405 105<20 653> 614 106<253.599 352.594 573.599 811>
+VStem: 109 125<0 594.402> 429 125<0 594.402> 749 125<0 614> 749 62<614 720>
+LayerCount: 3
+Fore
+SplineSet
+429 0 m 1xfa
+ 429 549 l 2
+ 429 605 444.333007812 647.5 475 676.5 c 0
+ 505.666992188 705.5 551.666992188 720 613 720 c 2
+ 811 720 l 1
+ 811 614 l 1
+ 631 614 l 2
+ 605 614 585.666992188 607.666992188 573 595 c 0
+ 560.333007812 582.333007812 554 564 554 540 c 2
+ 554 0 l 1
+ 429 0 l 1xfa
+109 0 m 1
+ 109 549 l 2
+ 109 605 124.333007812 647.5 155 676.5 c 0
+ 185.666992188 705.5 231.333007812 720 292 720 c 0
+ 305.333007812 720 316.666992188 719.333007812 326 718 c 0
+ 335.333007812 716.666992188 344.333007812 714.666992188 353 712 c 1
+ 353 608 l 1
+ 348.333007812 610 342.5 611.5 335.5 612.5 c 0
+ 328.5 613.5 320.333007812 614 311 614 c 0
+ 285 614 265.666992188 607.666992188 253 595 c 0
+ 240.333007812 582.333007812 234 564 234 540 c 2
+ 234 0 l 1
+ 109 0 l 1
+20 405 m 1
+ 20 510 l 1
+ 653 510 l 1
+ 653 405 l 1
+ 20 405 l 1
+749 0 m 1xfc
+ 749 720 l 1xfa
+ 874 720 l 1
+ 874 0 l 1
+ 749 0 l 1xfc
+EndSplineSet
+Validated: 5
+Kerns2: 443 -41 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 403 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 384 -56 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 371 -39 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 355 -28 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 221 1 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Ligature2: "'liga' Standard Ligatures in Latin lookup 21 subtable" f f l
+LCarets2: 2 312 623
+EndChar

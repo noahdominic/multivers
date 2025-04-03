@@ -1,0 +1,32 @@
+StartChar: k.ss04
+Encoding: 65612 -1 305
+Width: 557
+GlyphClass: 2
+Flags: HW
+HStem: 0 21G<70 196 392.259 545> 490 20G<366.4 531> 700 20G<70 196>
+VStem: 70 126<0 131 235 720>
+AnchorPoint: "Anchor-2" 286 0 basechar 0
+AnchorPoint: "Anchor-0" 279 740 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+70 0 m 1
+ 70 720 l 1
+ 196 720 l 1
+ 196 0 l 1
+ 70 0 l 1
+142 235 m 1
+ 384 510 l 1
+ 531 510 l 1
+ 320 276 l 1
+ 311 275 l 1
+ 177 131 l 1
+ 142 235 l 1
+337 315 m 1
+ 545 0 l 1
+ 405 0 l 1
+ 233 270 l 1
+ 337 315 l 1
+EndSplineSet
+Validated: 5
+EndChar

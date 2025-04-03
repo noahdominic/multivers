@@ -1,0 +1,16 @@
+StartChar: Tcaron
+Encoding: 356 356 87
+Width: 654
+GlyphClass: 2
+Flags: HW
+HStem: 0 21G<258 397> 618 102<32 258 397 622> 793 157
+VStem: 258 139<0 618>
+AnchorPoint: "Anchor-2" 322 0 basechar 0
+AnchorPoint: "Anchor-0" 322 950 basechar 0
+LayerCount: 3
+Fore
+Refer: 86 84 N 1 0 0 1 0 0 3
+Refer: 473 780 N 1 0 0 1 73 210 2
+Validated: 5
+Kerns2: 289 -109 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 240 -90 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 227 -106 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 224 -106 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 208 -106 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 207 -106 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

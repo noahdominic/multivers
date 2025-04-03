@@ -1,0 +1,14 @@
+StartChar: Racute.ss05
+Encoding: 340 340 136
+Width: 650
+GlyphClass: 2
+Flags: HW
+HStem: 0 21G<67 206 501.586 645.879> 304 98<129 411.967> 618 102<206 427.605> 793 157<338 348>
+VStem: 67 139<0 304 402 618> 129 77<304 402> 237 271 468 139<443.895 579.101>
+AnchorPoint: "Anchor-2" 327 0 basechar 0
+AnchorPoint: "Anchor-0" 321 950 basechar 0
+LayerCount: 3
+Fore
+Refer: 135 82 N 1 0 0 1 0 0 3
+Refer: 469 769 N 1 0 0 1 177 210 2
+EndChar

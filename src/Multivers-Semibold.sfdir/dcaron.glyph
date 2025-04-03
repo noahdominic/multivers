@@ -1,0 +1,16 @@
+StartChar: dcaron
+Encoding: 271 271 170
+Width: 699
+GlyphClass: 2
+Flags: HW
+HStem: -10 103<222.736 351.698> 0 21G<430.123 553> 417 103<222.433 355.153> 490 230<603 686> 700 20G<422 548>
+VStem: 35 130<154.691 354.328> 422 13<79.3333 114 390 427> 435 113<0 88.6667 387 444.118> 603 83<490 551.923> 603 109<658.077 720>
+AnchorPoint: "Anchor-2" 309 0 basechar 0
+AnchorPoint: "Anchor-1" 603 720 basechar 0
+AnchorPoint: "Anchor-0" 309 738 basechar 0
+LayerCount: 3
+Fore
+Refer: 168 100 N 1 0 0 1 5 0 2
+Refer: 471 -1 N 1 0 0 1 543 0 2
+Validated: 5
+EndChar

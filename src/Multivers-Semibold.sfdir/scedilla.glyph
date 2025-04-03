@@ -1,0 +1,19 @@
+StartChar: scedilla
+Encoding: 351 351 234
+Width: 492
+GlyphClass: 2
+Flags: HW
+HStem: -215 63<213.147 280.486> -90 102<225 268.429> -10 88<178.186 334.434> 432 88<181.229 320.206>
+VStem: 29 113<109.906 158> 51 113<343.36 417.456> 287 86<-147.691 -101.519> 355 113<95.632 175.958>
+AnchorPoint: "Anchor-2" 243 -215 basechar 0
+AnchorPoint: "Anchor-0" 242 510 basechar 0
+LayerCount: 3
+Fore
+Refer: 231 115 N 1 0 0 1 0 0 3
+Refer: 480 807 N 1 0 0 1 62 0 2
+Validated: 5
+Kerns2: 368 -14 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Substitution2: "'locl' Localized Forms in Latin lookup 12 subtable" uni0219
+Substitution2: "'locl' Localized Forms in Latin lookup 11 subtable" uni0219
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni0219
+EndChar

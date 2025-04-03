@@ -1,0 +1,22 @@
+StartChar: bracketleft.case
+Encoding: 65666 -1 398
+Width: 443
+Flags: HW
+HStem: -40 99<206 385> 661 99<206 385>
+VStem: 88 297<-40 59 661 760> 88 118<59 661>
+LayerCount: 3
+Fore
+SplineSet
+88 -40 m 1xe0
+ 88 760 l 1
+ 385 760 l 1
+ 385 661 l 1xe0
+ 206 661 l 1
+ 206 59 l 1xd0
+ 385 59 l 1
+ 385 -40 l 1
+ 88 -40 l 1xe0
+EndSplineSet
+Validated: 1
+Kerns2: 385 -132 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 371 -41 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 323 -71 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 320 -59 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

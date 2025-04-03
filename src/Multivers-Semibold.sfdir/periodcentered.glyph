@@ -1,0 +1,15 @@
+StartChar: periodcentered
+Encoding: 183 183 353
+Width: 154
+Flags: HW
+HStem: 305 144<5 149>
+VStem: 5 144<305 449>
+LayerCount: 3
+Fore
+Refer: 344 46 N 1 0 0 1 -59 305 2
+Validated: 1
+Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" periodcentered.ss01
+Substitution2: "Single Substitution lookup 15 subtable" periodcentered.loclCAT.case
+Substitution2: "Single Substitution lookup 14 subtable" periodcentered.loclCAT
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" periodcentered.loclCAT periodcentered.ss01 periodcentered.loclCAT.case
+EndChar

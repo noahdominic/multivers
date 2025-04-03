@@ -1,0 +1,18 @@
+StartChar: yacute
+Encoding: 65574 -1 258
+Width: 543
+GlyphClass: 2
+Flags: HW
+HStem: -207 103<63 156.042> 490 20G<12 153.35 394.953 527> 583 157<276 286>
+VStem: 175 271
+AnchorPoint: "Anchor-2" 264 0 basechar 0
+AnchorPoint: "Anchor-0" 264 740 basechar 0
+LayerCount: 3
+Fore
+Refer: 257 -1 N 1 0 0 1 0 0 3
+Refer: 469 769 N 1 0 0 1 115 0 2
+Validated: 5
+Kerns2: 389 -52 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 169 -26 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Substitution2: "'calt' Contextual Alternates in Latin lookup 24 subtable" yacute.ss03
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" yacute.ss03
+EndChar

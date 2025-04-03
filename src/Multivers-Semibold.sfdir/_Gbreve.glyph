@@ -1,0 +1,17 @@
+StartChar: Gbreve
+Encoding: 286 286 34
+Width: 752
+GlyphClass: 2
+Flags: HW
+HStem: -10 104<302.921 556.135> 287 102<405 560> 625 105<293.346 483.883> 786 91<325.258 447>
+VStem: 41 141<225.013 488.472> 217 87<897.113 950> 468 87<897.113 950> 560 139<105.594 287 485 549.373>
+AnchorPoint: "Anchor-2" 381 0 basechar 0
+AnchorPoint: "Anchor-0" 381 950 basechar 0
+LayerCount: 3
+Fore
+Refer: 33 71 N 1 0 0 1 0 0 3
+Refer: 474 774 N 1 0 0 1 157 210 2
+Validated: 1
+Substitution2: "'ss07' Style Set 7 in Latin lookup 28 subtable" Gbreve.ss07
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Gbreve.ss07
+EndChar

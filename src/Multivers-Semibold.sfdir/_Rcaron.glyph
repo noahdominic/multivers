@@ -1,0 +1,17 @@
+StartChar: Rcaron
+Encoding: 65539 -1 78
+Width: 657
+GlyphClass: 2
+Flags: HW
+HStem: 0 21G<59 188 441.306 634> 303 66<159 294> 303 99<347 431.776> 618 102<188 433.516> 793 157
+VStem: 59 129<0 303 402 618> 159 29<303 402> 474 125<442.744 579.096>
+AnchorPoint: "Anchor-2" 323 0 basechar 0
+AnchorPoint: "Anchor-0" 323 950 basechar 0
+LayerCount: 3
+Fore
+Refer: 76 -1 N 1 0 0 1 0 0 3
+Refer: 473 780 N 1 0 0 1 69 210 2
+Validated: 5
+Substitution2: "'calt' Contextual Alternates in Latin lookup 26 subtable" Rcaron.ss05
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Rcaron.ss05
+EndChar

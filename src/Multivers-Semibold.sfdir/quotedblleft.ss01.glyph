@@ -1,0 +1,13 @@
+StartChar: quotedblleft.ss01
+Encoding: 65670 -1 414
+Width: 491
+Flags: HW
+HStem: 678 62<172.672 224 367.672 419>
+VStem: 69 162<471.506 571.583> 264 162<471.506 571.583>
+LayerCount: 3
+Fore
+Refer: 416 -1 N 1 0 0 1 5 0 2
+Refer: 416 -1 N 1 0 0 1 200 0 2
+Validated: 5
+Kerns2: 413 -233 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 384 -226 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 381 -147 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 375 -121 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 374 -25 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 373 -53 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 372 -38 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 371 -233 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 364 -112 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 144 -185 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 48 -123 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 22 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

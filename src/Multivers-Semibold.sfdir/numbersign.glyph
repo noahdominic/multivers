@@ -1,0 +1,32 @@
+StartChar: numbersign
+Encoding: 35 35 356
+Width: 716
+Flags: HW
+HStem: 0 21G<131 242.778 376 487.778> 198 103<39 653> 429 103<64 678> 700 20G<228.222 340 473.222 585>
+LayerCount: 3
+Fore
+SplineSet
+131 0 m 1
+ 231 720 l 1
+ 340 720 l 1
+ 240 0 l 1
+ 131 0 l 1
+376 0 m 1
+ 476 720 l 1
+ 585 720 l 1
+ 485 0 l 1
+ 376 0 l 1
+64 532 m 1
+ 678 532 l 1
+ 678 429 l 1
+ 64 429 l 1
+ 64 532 l 1
+39 301 m 1
+ 653 301 l 1
+ 653 198 l 1
+ 39 198 l 1
+ 39 301 l 1
+EndSplineSet
+Validated: 5
+Kerns2: 389 -75 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 368 -79 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 367 -79 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 326 -43 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 324 -21 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 323 -16 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 150 -27 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 86 -44 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 48 -64 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 1 -59 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

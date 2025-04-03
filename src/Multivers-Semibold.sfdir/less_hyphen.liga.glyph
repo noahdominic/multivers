@@ -1,0 +1,28 @@
+StartChar: less_hyphen.liga
+Encoding: 65674 -1 418
+Width: 843
+GlyphClass: 3
+LigCaretCntFixed: 1
+Flags: HW
+HStem: 302 116<230 795>
+LayerCount: 3
+Fore
+SplineSet
+795 302 m 1
+ 160 302 l 1
+ 230 352 l 1
+ 564 18 l 1
+ 406 18 l 1
+ 65 360 l 1
+ 406 702 l 1
+ 565 702 l 1
+ 230 368 l 1
+ 160 418 l 1
+ 795 418 l 1
+ 795 302 l 1
+EndSplineSet
+Validated: 5
+Kerns2: 430 -56 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 413 -198 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 412 -135 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 401 -194 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 375 -118 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 374 -98 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 221 -22 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 192 -36 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 191 -36 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 187 -36 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 70 -19 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 47 -34 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 43 -34 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 42 -34 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 38 -39 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Ligature2: "'liga' Standard Ligatures in Latin lookup 21 subtable" less hyphen
+LCarets2: 1 417
+EndChar

@@ -1,0 +1,17 @@
+StartChar: ycircumflex
+Encoding: 65575 -1 259
+Width: 543
+GlyphClass: 2
+Flags: HW
+HStem: -207 103<63 156.042> 490 20G<12 153.35 394.953 527> 583 157
+AnchorPoint: "Anchor-2" 264 0 basechar 0
+AnchorPoint: "Anchor-0" 264 740 basechar 0
+LayerCount: 3
+Fore
+Refer: 257 -1 N 1 0 0 1 0 0 3
+Refer: 472 770 N 1 0 0 1 10 0 2
+Validated: 5
+Kerns2: 411 -25 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Substitution2: "'calt' Contextual Alternates in Latin lookup 24 subtable" ycircumflex.ss03
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" ycircumflex.ss03
+EndChar

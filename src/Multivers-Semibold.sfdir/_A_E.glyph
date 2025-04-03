@@ -1,0 +1,38 @@
+StartChar: AE
+Encoding: 198 198 12
+Width: 955
+Flags: HW
+HStem: 0 102<537 900> 320 101<233 866> 618 102<329 890>
+VStem: 475 129<102 720> 537 67<0 102>
+LayerCount: 3
+Fore
+SplineSet
+32 0 m 1xe0
+ 287 720 l 1
+ 399 720 l 1
+ 159 0 l 1
+ 32 0 l 1xe0
+475 0 m 1xf0
+ 475 720 l 1
+ 604 720 l 1xf0
+ 604 0 l 1xe8
+ 475 0 l 1xf0
+537 0 m 1xe8
+ 537 102 l 1
+ 900 102 l 1
+ 900 0 l 1
+ 537 0 l 1xe8
+233 320 m 1
+ 233 421 l 1
+ 866 421 l 1
+ 866 320 l 1
+ 233 320 l 1
+329 618 m 1
+ 329 720 l 1
+ 890 720 l 1
+ 890 618 l 1
+ 329 618 l 1
+EndSplineSet
+Validated: 5
+Kerns2: 169 -33 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

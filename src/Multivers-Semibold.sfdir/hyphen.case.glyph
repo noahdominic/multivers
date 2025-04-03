@@ -1,0 +1,17 @@
+StartChar: hyphen.case
+Encoding: 65659 -1 385
+Width: 491
+Flags: HW
+HStem: 307 106<70 421>
+LayerCount: 3
+Fore
+SplineSet
+70 307 m 1
+ 70 413 l 1
+ 421 413 l 1
+ 421 307 l 1
+ 70 307 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 413 -208 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 399 -132 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 38 -46 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar
