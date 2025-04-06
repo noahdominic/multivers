@@ -1,15 +1,14 @@
 StartChar: Gcommaaccent.ss01.ss07
-Encoding: 65570 -1 148
-Width: 728
+Encoding: 65570 -1 145
+Width: 777
 GlyphClass: 2
 Flags: HW
-HStem: -175 110<340 414> -10 72<281 489> 295 30<604 623> 295 70<406 604> 647 72<283 489>
-VStem: 59 81<218 486> 324 112<-160 -86> 589 80<484 550>
-AnchorPoint: "Anchor-2" 369 -288 basechar 0
-AnchorPoint: "Anchor-0" 369 708 basechar 0
+HStem: -182 114<354 431> -10 75<292 509> 307 31<629 648> 307 73<423 629> 673 75<295 509>
+VStem: 61 84<227 506> 337 117<-167 -89> 613 83<504 572>
+AnchorPoint: "Anchor-2" 384 -300 basechar 0
+AnchorPoint: "Anchor-0" 384 737 basechar 0
 LayerCount: 3
 Fore
-Refer: 140 -1 N 1 0 0 1 0 0 3
-Refer: 485 -1 N 1 0 0 1 254 0 2
-Validated: 5
+Refer: 137 -1 N 1 0 0 1 0 0 3
+Refer: 476 -1 N 1 0 0 1 264 0 2
 EndChar

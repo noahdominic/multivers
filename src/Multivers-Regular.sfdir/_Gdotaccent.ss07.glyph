@@ -1,15 +1,14 @@
 StartChar: Gdotaccent.ss07
-Encoding: 65565 -1 143
-Width: 728
+Encoding: 65565 -1 140
+Width: 777
 GlyphClass: 2
 Flags: HW
-HStem: -10 72<281 489> 295 30<604 623> 295 70<406 604> 647 72<283 489> 824 91<335 425>
-VStem: 59 81<218 486> 335 89<824 915> 589 80<484 550>
-AnchorPoint: "Anchor-2" 369 0 basechar 0
-AnchorPoint: "Anchor-0" 369 915 basechar 0
+HStem: -10 75<292 509> 307 31<629 648> 307 73<423 629> 673 75<295 509> 857 95<349 442>
+VStem: 61 84<227 506> 349 93<857 952> 613 83<504 572>
+AnchorPoint: "Anchor-2" 384 0 basechar 0
+AnchorPoint: "Anchor-0" 384 952 basechar 0
 LayerCount: 3
 Fore
-Refer: 140 -1 N 1 0 0 1 0 0 3
-Refer: 467 775 N 1 0 0 1 265 207 2
-Validated: 5
+Refer: 137 -1 N 1 0 0 1 0 0 3
+Refer: 458 775 N 1 0 0 1 276 215 2
 EndChar

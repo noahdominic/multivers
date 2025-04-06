@@ -1,15 +1,14 @@
 StartChar: Ygrave
-Encoding: 7922 7922 110
-Width: 599
+Encoding: 7922 7922 107
+Width: 707
 GlyphClass: 2
 Flags: HW
-HStem: 0 21G<262 351> 689 19G<5 123 497 598> 780 155
-VStem: 164 225 262 88<0 322>
-AnchorPoint: "Anchor-2" 319 0 basechar 0
-AnchorPoint: "Anchor-0" 319 935 basechar 0
+HStem: 0 22G<315 407> 717 20G<47 170 559 664> 812 161
+VStem: 213 234 315 92<0 335>
+AnchorPoint: "Anchor-2" 332 0 basechar 0
+AnchorPoint: "Anchor-0" 332 973 basechar 0
 LayerCount: 3
 Fore
-Refer: 106 89 N 1 0 0 1 0 0 3
-Refer: 468 768 N 1 0 0 1 94 207 2
-Validated: 5
+Refer: 103 89 N 1 0 0 1 0 0 3
+Refer: 459 768 N 1 0 0 1 140 215 2
 EndChar

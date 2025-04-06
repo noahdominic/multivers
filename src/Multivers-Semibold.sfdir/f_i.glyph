@@ -1,51 +1,49 @@
 StartChar: f_i
 Encoding: 65619 -1 312
-Width: 609
+Width: 623
 GlyphClass: 3
 LigCaretCntFixed: 1
 Flags: HW
-HStem: 0 21G<109 234 429 554> 405 105<20 468> 587 133<427 557> 624 106<253.083 351.594>
-VStem: 109 125<0 604.402> 429 125<0 405 587 720> 429 39<405 510>
-AnchorPoint: "Anchor-5" 155 0 baselig 0
-AnchorPoint: "Anchor-4" 155 740 baselig 0
-AnchorPoint: "Anchor-5" 454 0 baselig 1
-AnchorPoint: "Anchor-4" 454 740 baselig 1
+HStem: 0 22G<112 240 439 567> 415 108<20 479> 601 136<437 570> 639 109<259 360>
+VStem: 112 128<0 619> 439 128<0 415 601 737> 439 40<415 522>
+AnchorPoint: "Anchor-5" 159 0 baselig 0
+AnchorPoint: "Anchor-4" 159 758 baselig 0
+AnchorPoint: "Anchor-5" 465 0 baselig 1
+AnchorPoint: "Anchor-4" 465 758 baselig 1
 LayerCount: 3
 Fore
 SplineSet
-109 0 m 1xd8
- 109 559 l 2
- 109 615 124.333007812 657.5 155 686.5 c 0
- 185.666992188 715.5 231 730 291 730 c 0
- 304.333007812 730 315.666992188 729.333007812 325 728 c 0
- 334.333007812 726.666992188 343.333007812 724.666992188 352 722 c 1
- 352 618 l 1
- 347.333007812 620 341.5 621.5 334.5 622.5 c 0
- 327.5 623.5 319.333007812 624 310 624 c 0
- 284 624 264.833007812 617.666992188 252.5 605 c 0
- 240.166992188 592.333007812 234 574 234 550 c 2
- 234 0 l 1
- 109 0 l 1xd8
-429 0 m 1xcc
- 429 510 l 1xca
- 554 510 l 1
- 554 0 l 1
- 429 0 l 1xcc
-20 405 m 1
- 20 510 l 1
- 468 510 l 1
- 468 405 l 1
- 20 405 l 1
-427 587 m 1xe8
- 427 720 l 1
- 557 720 l 1
- 557 587 l 1
- 427 587 l 1xe8
+112 0 m 1xd8
+ 112 572 l 2
+ 112 629 128 673 159 703 c 0
+ 190 733 237 748 298 748 c 0
+ 312 748 323 746 333 745 c 0
+ 343 744 351 742 360 739 c 1
+ 360 633 l 1
+ 355 635 350 636 343 637 c 0
+ 336 638 327 639 317 639 c 0
+ 290 639 272 633 259 620 c 0
+ 246 607 240 588 240 563 c 2
+ 240 0 l 1
+ 112 0 l 1xd8
+439 0 m 1xcc
+ 439 522 l 1xca
+ 567 522 l 1
+ 567 0 l 1
+ 439 0 l 1xcc
+20 415 m 1
+ 20 522 l 1
+ 479 522 l 1
+ 479 415 l 1
+ 20 415 l 1
+437 601 m 1xe8
+ 437 737 l 1
+ 570 737 l 1
+ 570 601 l 1
+ 437 601 l 1xe8
 EndSplineSet
-Validated: 5
-Kerns2: 403 -31 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 351 -31 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" f_i.ss01
 Ligature2: "'liga' Standard Ligatures in Latin lookup 21 subtable" f i
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" f_i.ss01
-LCarets2: 1 300
+LCarets2: 1 307
 EndChar

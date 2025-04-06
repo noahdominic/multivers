@@ -1,20 +1,18 @@
 StartChar: quoteright
 Encoding: 8217 8217 405
-Width: 281
+Width: 287
 Flags: HW
-HStem: 477 246<138 174>
-VStem: 82 185
+HStem: 488 252<141 178>
+VStem: 84 189
 LayerCount: 3
 Fore
 SplineSet
-174 477 m 5
- 82 477 l 1
- 138 723 l 1
- 267 723 l 5
- 174 477 l 5
+178 488 m 5
+ 84 488 l 1
+ 141 740 l 1
+ 273 740 l 5
+ 178 488 l 5
 EndSplineSet
-Validated: 1
-Kerns2: 408 -135 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 406 -135 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 389 -42 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 381 -135 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 345 -135 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 344 -135 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" quoteright.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" quoteright.ss01
 EndChar

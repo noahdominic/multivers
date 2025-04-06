@@ -1,17 +1,16 @@
 StartChar: ydieresis
 Encoding: 65576 -1 260
-Width: 543
+Width: 556
 GlyphClass: 2
 Flags: HW
-HStem: -207 103<63 156.042> 490 20G<12 153.35 394.953 527> 593 139<82 218 309 445>
-VStem: 82 136<593 732> 309 136<593 732>
-AnchorPoint: "Anchor-2" 264 0 basechar 0
-AnchorPoint: "Anchor-0" 264 732 basechar 0
+HStem: -212 105<65 160> 502 20G<12 157 404 540> 607 142<84 223 316 456>
+VStem: 84 139<607 750> 316 139<607 750>
+AnchorPoint: "Anchor-2" 270 0 basechar 0
+AnchorPoint: "Anchor-0" 270 750 basechar 0
 LayerCount: 3
 Fore
 Refer: 257 -1 N 1 0 0 1 0 0 3
-Refer: 466 776 N 1 0 0 1 22 0 2
-Validated: 5
+Refer: 466 776 N 1 0 0 1 23 0 2
 Substitution2: "'calt' Contextual Alternates in Latin lookup 24 subtable" ydieresis.ss03
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" ydieresis.ss01
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" ydieresis.ss01 ydieresis.ss03

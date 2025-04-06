@@ -1,16 +1,15 @@
 StartChar: eogonek
-Encoding: 281 281 180
-Width: 518
+Encoding: 281 281 177
+Width: 581
 GlyphClass: 2
 Flags: HW
-HStem: -193 50<307 380> -10 61<207 358> 229 65<92 405> 451 61<203 348>
-VStem: 92 34<229 293> 245 57<-136 -50> 401 87<95 159>
-AnchorPoint: "Anchor-3" 388 19 basechar 0
-AnchorPoint: "Anchor-2" 268 0 basechar 0
-AnchorPoint: "Anchor-0" 279 502 basechar 0
+HStem: -201 52<340 416> -10 63<236 394> 238 68<117 442> 469 63<232 383>
+VStem: 117 35<238 305> 276 59<-142 -52> 438 91<99 165>
+AnchorPoint: "Anchor-3" 404 20 basechar 0
+AnchorPoint: "Anchor-2" 279 0 basechar 0
+AnchorPoint: "Anchor-0" 290 522 basechar 0
 LayerCount: 3
 Fore
-Refer: 172 101 N 1 0 0 1 0 0 3
-Refer: 481 808 N 1 0 0 1 175 19 2
-Validated: 5
+Refer: 169 101 N 1 0 0 1 0 0 3
+Refer: 472 808 N 1 0 0 1 203 20 2
 EndChar

@@ -1,18 +1,17 @@
 StartChar: idieresis
-Encoding: 239 239 192
-Width: 242
+Encoding: 239 239 189
+Width: 271
 GlyphClass: 2
 Flags: HW
-HStem: 0 21G<79 165> 482 19G<79 165> 617 91<-23 66 197 286>
-VStem: -23 89<617 708> 79 86<0 502> 197 89<617 708>
-AnchorPoint: "Anchor-3" 155 0 basechar 0
-AnchorPoint: "Anchor-2" 115 0 basechar 0
-AnchorPoint: "Anchor-0" 115 708 basechar 0
+HStem: 0 22G<93 183> 502 20G<93 183> 642 95<-13 80 216 309>
+VStem: -13 93<642 737> 93 89<0 522> 216 93<642 737>
+AnchorPoint: "Anchor-3" 162 0 basechar 0
+AnchorPoint: "Anchor-2" 121 0 basechar 0
+AnchorPoint: "Anchor-0" 121 737 basechar 0
 LayerCount: 3
 Fore
-Refer: 189 305 N 1 0 0 1 0 0 3
-Refer: 466 776 N 1 0 0 1 -93 0 2
-Validated: 1
+Refer: 186 305 N 1 0 0 1 1 0 3
+Refer: 457 776 N 1 0 0 1 -86 0 2
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" idieresis.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" idieresis.ss01
 EndChar

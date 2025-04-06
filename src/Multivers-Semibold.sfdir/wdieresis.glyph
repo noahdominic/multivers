@@ -1,17 +1,16 @@
 StartChar: wdieresis
 Encoding: 7813 7813 254
-Width: 797
+Width: 816
 GlyphClass: 2
 Flags: HW
-HStem: 0 21G<168.039 297.91 499.142 628.961> 490 20G<22 167.648 337.256 463.796 633.405 775> 593 139<217 353 444 580>
-VStem: 217 136<593 732> 444 136<593 732>
-AnchorPoint: "Anchor-2" 394 0 basechar 0
-AnchorPoint: "Anchor-0" 394 732 basechar 0
+HStem: 0 22G<172 305 511 644> 502 20G<23 172 345 475 649 794> 607 142<222 361 455 594>
+VStem: 222 139<607 750> 455 139<607 750>
+AnchorPoint: "Anchor-2" 403 0 basechar 0
+AnchorPoint: "Anchor-0" 403 750 basechar 0
 LayerCount: 3
 Fore
 Refer: 251 119 N 1 0 0 1 0 0 3
-Refer: 466 776 N 1 0 0 1 157 0 2
-Validated: 5
+Refer: 466 776 N 1 0 0 1 161 0 2
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" wdieresis.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" wdieresis.ss01
 EndChar

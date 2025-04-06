@@ -1,17 +1,16 @@
 StartChar: umacron
-Encoding: 363 363 247
-Width: 566
+Encoding: 363 363 244
+Width: 615
 GlyphClass: 2
 Flags: HW
-HStem: -10 62<197 340> 0 21G<411 499> 482 19G<68 155 406 493> 632 55<126 456>
-VStem: 68 86<101 502> 406 86<0 76 232 502>
-AnchorPoint: "Anchor-3" 484 0 basechar 0
-AnchorPoint: "Anchor-2" 281 0 basechar 0
-AnchorPoint: "Anchor-1" 541 502 basechar 0
-AnchorPoint: "Anchor-0" 281 688 basechar 0
+HStem: -10 65<218 367> 0 22G<441 532> 502 20G<84 174 436 526> 658 57<144 488>
+VStem: 84 89<105 522> 436 89<0 79 241 522>
+AnchorPoint: "Anchor-3" 504 0 basechar 0
+AnchorPoint: "Anchor-2" 292 0 basechar 0
+AnchorPoint: "Anchor-1" 563 522 basechar 0
+AnchorPoint: "Anchor-0" 292 716 basechar 0
 LayerCount: 3
 Fore
-Refer: 240 117 N 1 0 0 1 0 0 3
-Refer: 477 772 N 1 0 0 1 56 0 2
-Validated: 5
+Refer: 237 117 N 1 0 0 1 0 0 3
+Refer: 468 772 N 1 0 0 1 71 0 2
 EndChar

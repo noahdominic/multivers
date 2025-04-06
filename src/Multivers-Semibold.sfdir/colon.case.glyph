@@ -1,13 +1,11 @@
 StartChar: colon.case
 Encoding: 65637 -1 359
-Width: 281
+Width: 287
 Flags: HW
-HStem: 131 144<64 208> 474 144<64 208>
-VStem: 64 144<131 275 474 618>
+HStem: 134 147<66 213> 485 147<66 213>
+VStem: 66 147<134 282 485 633>
 LayerCount: 3
 Fore
-Refer: 344 46 N 1 0 0 1 0 131 3
-Refer: 344 46 N 1 0 0 1 0 474 2
-Validated: 1
-Kerns2: 395 -90 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 394 -45 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 319 -21 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 86 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 1 -52 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Refer: 344 46 N 1 0 0 1 0 134 3
+Refer: 344 46 N 1 0 0 1 0 485 2
 EndChar

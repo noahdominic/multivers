@@ -1,16 +1,15 @@
 StartChar: Agrave
 Encoding: 192 192 7
-Width: 634
+Width: 739
 GlyphClass: 2
 Flags: HW
-HStem: 0 21G<10 102 526 624> 215 74<139 491> 689 19G<261 372> 780 155
-VStem: 179 225
-AnchorPoint: "Anchor-3" 649 0 basechar 0
-AnchorPoint: "Anchor-2" 341 0 basechar 0
-AnchorPoint: "Anchor-0" 341 935 basechar 0
+HStem: 0 22G<50 146 587 689> 224 77<185 551> 717 20G<312 427> 812 161
+VStem: 226 234
+AnchorPoint: "Anchor-3" 675 0 basechar 0
+AnchorPoint: "Anchor-2" 355 0 basechar 0
+AnchorPoint: "Anchor-0" 355 973 basechar 0
 LayerCount: 3
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 3
-Refer: 468 768 N 1 0 0 1 110 207 2
-Validated: 5
+Refer: 459 768 N 1 0 0 1 154 215 2
 EndChar

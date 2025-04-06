@@ -1,15 +1,14 @@
 StartChar: kcommaaccent.ss04
-Encoding: 65613 -1 306
-Width: 520
+Encoding: 65613 -1 298
+Width: 569
 GlyphClass: 2
 Flags: HW
-HStem: -170 5<291 320> -170 99<234 291> 0 21G<87 165 406 508> 482 19G<382 496> 689 19G<87 165>
-VStem: 87 78<0 133 232 708> 155 11<133 232> 234 102<-164 -71>
-AnchorPoint: "Anchor-2" 276 -288 basechar 0
-AnchorPoint: "Anchor-0" 256 728 basechar 0
+HStem: -177 5<303 333> -177 103<244 303> 0 22G<91 172 423 529> 502 20G<398 516> 717 20G<91 172>
+VStem: 91 81<0 138 241 737> 161 11<138 241> 244 106<-171 -74>
+AnchorPoint: "Anchor-2" 287 -300 basechar 0
+AnchorPoint: "Anchor-0" 266 758 basechar 0
 LayerCount: 3
 Fore
-Refer: 305 -1 N 1 0 0 1 0 0 3
-Refer: 479 806 N 1 0 0 1 160 0 2
-Validated: 5
+Refer: 297 -1 N 1 0 0 1 0 0 3
+Refer: 470 806 N 1 0 0 1 167 0 2
 EndChar

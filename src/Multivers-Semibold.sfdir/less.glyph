@@ -1,22 +1,20 @@
 StartChar: less
 Encoding: 60 60 442
-Width: 554
+Width: 567
 Flags: HW
 LayerCount: 3
 Fore
 SplineSet
-496 576 m 1
- 496 476 l 1
- 153 360 l 1
- 153 383 l 1
- 496 269 l 1
- 496 169 l 1
- 58 319 l 1
- 58 423 l 1
- 496 576 l 1
+508 590 m 1
+ 508 487 l 1
+ 157 369 l 1
+ 157 392 l 1
+ 508 275 l 1
+ 508 173 l 1
+ 59 327 l 1
+ 59 433 l 1
+ 508 590 l 1
 EndSplineSet
-Validated: 5
-Kerns2: 442 -52 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 389 -96 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 111 -47 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 106 -59 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 105 -72 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 86 -51 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 48 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'tnum' Tabular Numbers in Latin lookup 19 subtable" less.tf
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" less.tf
 EndChar

@@ -1,12 +1,10 @@
 StartChar: quotesinglbase.ss01
 Encoding: 65668 -1 412
-Width: 297
+Width: 304
 Flags: HW
-HStem: -178 62<73 126.806>
-VStem: 66 162<-10.4297 87.4268>
+HStem: -182 63<75 130>
+VStem: 68 166<-11 90>
 LayerCount: 3
 Fore
-Refer: 417 -1 N 1 0 0 1 12 -634 2
-Validated: 5
-Kerns2: 198 -2 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 106 -135 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 99 -133 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 86 -134 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 70 -38 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Refer: 417 -1 N 1 0 0 1 12 -649 2
 EndChar

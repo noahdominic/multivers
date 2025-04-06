@@ -1,22 +1,21 @@
 StartChar: exclamdown.case
-Encoding: 65640 -1 362
-Width: 274
+Encoding: 65640 -1 354
+Width: 307
 Flags: HW
-HStem: 0 21G<95 179> 483 19G<106 168> 609 99<87 188>
-VStem: 87 100<609 708> 95 84<0 293> 107 60<209 503>
+HStem: 0 22G<110 197> 503 20G<121 186> 634 103<102 207>
+VStem: 102 104<634 737> 110 87<0 305> 122 62<217 523>
 LayerCount: 3
 Fore
 SplineSet
-95 0 m 1xe8
- 107 503 l 1
- 167 503 l 1xe4
- 179 0 l 1
- 95 0 l 1xe8
-188 708 m 1xf0
- 188 609 l 1
- 87 609 l 1
- 87 708 l 1
- 188 708 l 1xf0
+110 0 m 1xe8
+ 122 523 l 1
+ 185 523 l 1xe4
+ 197 0 l 1
+ 110 0 l 1xe8
+207 737 m 1xf0
+ 207 634 l 1
+ 102 634 l 1
+ 102 737 l 1
+ 207 737 l 1xf0
 EndSplineSet
-Validated: 1
 EndChar

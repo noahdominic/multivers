@@ -1,13 +1,12 @@
 StartChar: dotaccent
 Encoding: 729 729 487
-Width: 266
+Width: 272
 Flags: HW
-HStem: 594 138<65 201>
-VStem: 65 136<594 732>
+HStem: 608 141<67 206>
+VStem: 67 139<608 750>
 LayerCount: 3
 Fore
 Refer: 467 775 N 1 0 0 1 5 0 2
-Validated: 1
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" dotaccent.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" dotaccent.ss01
 EndChar

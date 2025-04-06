@@ -1,17 +1,15 @@
 StartChar: Aring
 Encoding: 197 197 10
-Width: 722
+Width: 739
 GlyphClass: 2
 Flags: HW
-HStem: 0 21G<32 177.611 544.389 690> 179 103<165 548> 700 20G<279.917 442.083> 771 65<328.981 392.736> 921 65<328.101 392.478>
-VStem: 253 67<845.199 912.208> 401 67<845.199 912.208>
-AnchorPoint: "Anchor-3" 685 0 basechar 0
-AnchorPoint: "Anchor-2" 356 0 basechar 0
-AnchorPoint: "Anchor-0" 356 986 basechar 0
+HStem: 0 22G<33 182 557 707> 183 105<169 561> 717 20G<287 453> 790 67<337 402> 943 67<336 402>
+VStem: 259 69<865 934> 411 69<865 934>
+AnchorPoint: "Anchor-3" 701 0 basechar 0
+AnchorPoint: "Anchor-2" 365 0 basechar 0
+AnchorPoint: "Anchor-0" 365 1010 basechar 0
 LayerCount: 3
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 3
-Refer: 475 778 N 1 0 0 1 193 210 2
-Validated: 5
-Kerns2: 237 -53 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 231 -17 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 182 -19 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 168 -24 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Refer: 475 778 N 1 0 0 1 198 215 2
 EndChar

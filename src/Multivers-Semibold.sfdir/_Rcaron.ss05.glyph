@@ -1,14 +1,14 @@
 StartChar: Rcaron.ss05
 Encoding: 344 344 137
-Width: 650
+Width: 665
 GlyphClass: 2
 Flags: HW
-HStem: 0 21G<67 206 501.586 645.879> 304 98<129 411.967> 618 102<206 427.605> 793 157
-VStem: 67 139<0 304 402 618> 129 77<304 402> 468 139<443.895 579.101>
-AnchorPoint: "Anchor-2" 327 0 basechar 0
-AnchorPoint: "Anchor-0" 321 950 basechar 0
+HStem: 0 22G<69 211 514 661> 311 100<132 422> 633 104<211 438> 812 161
+VStem: 69 142<0 311 412 633> 132 79<311 412> 479 142<455 593>
+AnchorPoint: "Anchor-2" 335 0 basechar 0
+AnchorPoint: "Anchor-0" 329 973 basechar 0
 LayerCount: 3
 Fore
 Refer: 135 82 N 1 0 0 1 0 0 3
-Refer: 473 780 N 1 0 0 1 72 210 2
+Refer: 473 780 N 1 0 0 1 74 215 2
 EndChar

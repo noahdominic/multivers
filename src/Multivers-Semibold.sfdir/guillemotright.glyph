@@ -1,25 +1,23 @@
 StartChar: guillemotright
 Encoding: 187 187 407
-Width: 549
+Width: 562
 Flags: HW
 LayerCount: 3
 Fore
 SplineSet
-367 434 m 1
- 497 251 l 1
- 367 68 l 1
- 247 68 l 1
- 373 251 l 1
- 247 434 l 1
- 367 434 l 1
-182 434 m 1
- 312 251 l 1
- 182 68 l 1
- 63 68 l 1
- 188 251 l 1
- 63 434 l 1
- 182 434 l 1
+376 444 m 1
+ 509 257 l 1
+ 376 70 l 1
+ 253 70 l 1
+ 382 257 l 1
+ 253 444 l 1
+ 376 444 l 1
+186 444 m 1
+ 319 257 l 1
+ 186 70 l 1
+ 65 70 l 1
+ 193 257 l 1
+ 65 444 l 1
+ 186 444 l 1
 EndSplineSet
-Validated: 1
-Kerns2: 412 -94 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 374 -118 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 360 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar

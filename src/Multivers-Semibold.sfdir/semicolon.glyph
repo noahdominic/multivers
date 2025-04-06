@@ -1,15 +1,13 @@
 StartChar: semicolon
 Encoding: 59 59 347
-Width: 281
+Width: 287
 Flags: HW
-HStem: -119 247<96 133> 344 144<64 208>
-VStem: 36 202 64 144<344 488>
+HStem: -122 253<98 136> 352 147<66 213>
+VStem: 37 207 66 147<352 500>
 LayerCount: 3
 Fore
 Refer: 345 44 N 1 0 0 1 0 0 3
-Refer: 344 46 N 1 0 0 1 0 344 2
-Validated: 1
-Kerns2: 389 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Refer: 344 46 N 1 0 0 1 0 352 2
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" semicolon.ss01
 Substitution2: "'case' Case-Sensitive Forms in Latin lookup 20 subtable" semicolon.case
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" semicolon.case semicolon.ss01

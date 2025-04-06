@@ -1,16 +1,15 @@
 StartChar: imacron
-Encoding: 299 299 196
-Width: 242
+Encoding: 299 299 193
+Width: 271
 GlyphClass: 2
 Flags: HW
-HStem: 0 21G<79 165> 482 19G<79 165> 632 55<-34 297>
-VStem: 79 86<0 502>
-AnchorPoint: "Anchor-3" 155 0 basechar 0
-AnchorPoint: "Anchor-2" 115 0 basechar 0
-AnchorPoint: "Anchor-0" 115 688 basechar 0
+HStem: 0 22G<93 183> 502 20G<93 183> 658 57<-24 320>
+VStem: 93 89<0 522>
+AnchorPoint: "Anchor-3" 162 0 basechar 0
+AnchorPoint: "Anchor-2" 121 0 basechar 0
+AnchorPoint: "Anchor-0" 121 716 basechar 0
 LayerCount: 3
 Fore
-Refer: 189 305 N 1 0 0 1 0 0 3
-Refer: 477 772 N 1 0 0 1 -103 0 2
-Validated: 1
+Refer: 186 305 N 1 0 0 1 1 0 3
+Refer: 468 772 N 1 0 0 1 -96 0 2
 EndChar

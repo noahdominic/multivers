@@ -1,17 +1,16 @@
 StartChar: Otilde
 Encoding: 213 213 71
-Width: 720
+Width: 799
 GlyphClass: 2
 Flags: HW
-HStem: -10 77<262 453> 791 58<401 485> 859 58<256 342>
-VStem: 43 93<215 496> 191 55<801 845> 496 55<864 907> 584 93<220 497>
-AnchorPoint: "Anchor-3" 502 19 basechar 0
-AnchorPoint: "Anchor-2" 369 0 basechar 0
-AnchorPoint: "Anchor-1" 719 708 basechar 0
-AnchorPoint: "Anchor-0" 369 917 basechar 0
+HStem: -10 80<298 496> 823 60<442 530> 894 60<291 381>
+VStem: 70 97<224 516> 224 57<834 879> 541 57<899 944> 633 97<229 517>
+AnchorPoint: "Anchor-3" 522 20 basechar 0
+AnchorPoint: "Anchor-2" 384 0 basechar 0
+AnchorPoint: "Anchor-1" 748 737 basechar 0
+AnchorPoint: "Anchor-0" 384 954 basechar 0
 LayerCount: 3
 Fore
 Refer: 63 79 N 1 0 0 1 0 0 3
-Refer: 476 771 N 1 0 0 1 121 207 2
-Validated: 1
+Refer: 467 771 N 1 0 0 1 151 215 2
 EndChar

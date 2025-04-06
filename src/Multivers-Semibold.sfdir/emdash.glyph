@@ -1,19 +1,17 @@
 StartChar: emdash
 Encoding: 8212 8212 383
-Width: 889
+Width: 910
 Flags: HW
-HStem: 224 96<70 818>
+HStem: 229 98<72 838>
 LayerCount: 3
 Fore
 SplineSet
-70 224 m 1
- 70 320 l 1
- 818 320 l 1
- 818 224 l 1
- 70 224 l 1
+72 229 m 1
+ 72 328 l 1
+ 838 328 l 1
+ 838 229 l 1
+ 72 229 l 1
 EndSplineSet
-Validated: 1
-Kerns2: 403 -144 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 375 -109 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 374 -141 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'case' Case-Sensitive Forms in Latin lookup 20 subtable" emdash.case
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" emdash.case
 EndChar

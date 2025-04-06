@@ -1,24 +1,23 @@
 StartChar: guillemotright
-Encoding: 187 187 407
-Width: 487
+Encoding: 187 187 399
+Width: 562
 Flags: HW
 LayerCount: 3
 Fore
 SplineSet
-303 427 m 1
- 429 247 l 1
- 303 67 l 1
- 226 67 l 1
- 348 247 l 1
- 226 427 l 1
- 303 427 l 1
-147 427 m 1
- 274 247 l 1
- 147 67 l 1
- 69 67 l 1
- 191 247 l 1
- 69 427 l 1
- 147 427 l 1
+343 444 m 1
+ 474 257 l 1
+ 343 70 l 1
+ 263 70 l 1
+ 390 257 l 1
+ 263 444 l 1
+ 343 444 l 1
+181 444 m 1
+ 313 257 l 1
+ 181 70 l 1
+ 100 70 l 1
+ 227 257 l 1
+ 100 444 l 1
+ 181 444 l 1
 EndSplineSet
-Validated: 1
 EndChar

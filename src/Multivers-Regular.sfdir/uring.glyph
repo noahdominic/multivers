@@ -1,17 +1,16 @@
 StartChar: uring
-Encoding: 367 367 249
-Width: 566
+Encoding: 367 367 246
+Width: 615
 GlyphClass: 2
 Flags: HW
-HStem: -10 62<197 340> 0 21G<411 499> 482 19G<68 155 406 493> 552 48<249 332> 715 48<250 332>
-VStem: 68 86<101 502> 185 50<614 701> 347 50<614 701> 406 86<0 76 232 502>
-AnchorPoint: "Anchor-3" 484 0 basechar 0
-AnchorPoint: "Anchor-2" 281 0 basechar 0
-AnchorPoint: "Anchor-1" 541 502 basechar 0
-AnchorPoint: "Anchor-0" 281 764 basechar 0
+HStem: -10 65<218 367> 0 22G<441 532> 502 20G<84 174 436 526> 574 50<272 358> 744 50<273 358>
+VStem: 84 89<105 522> 206 52<639 729> 374 52<639 729> 436 89<0 79 241 522>
+AnchorPoint: "Anchor-3" 504 0 basechar 0
+AnchorPoint: "Anchor-2" 292 0 basechar 0
+AnchorPoint: "Anchor-1" 563 522 basechar 0
+AnchorPoint: "Anchor-0" 292 795 basechar 0
 LayerCount: 3
 Fore
-Refer: 240 117 N 1 0 0 1 0 0 3
-Refer: 475 778 N 1 0 0 1 115 0 2
-Validated: 5
+Refer: 237 117 N 1 0 0 1 0 0 3
+Refer: 466 778 N 1 0 0 1 133 0 2
 EndChar

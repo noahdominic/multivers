@@ -1,19 +1,17 @@
 StartChar: idieresis
 Encoding: 239 239 192
-Width: 266
+Width: 272
 GlyphClass: 2
 Flags: HW
-HStem: 0 21G<70 196> 490 20G<70 196> 593 139<-49 87 178 314>
-VStem: -49 136<593 732> 70 126<0 510> 178 136<593 732>
-AnchorPoint: "Anchor-3" 191 0 basechar 0
-AnchorPoint: "Anchor-2" 128 0 basechar 0
-AnchorPoint: "Anchor-0" 128 732 basechar 0
+HStem: 0 22G<72 201> 502 20G<72 201> 607 142<-50 89 182 322>
+VStem: -50 139<607 750> 72 129<0 522> 182 139<607 750>
+AnchorPoint: "Anchor-3" 196 0 basechar 0
+AnchorPoint: "Anchor-2" 131 0 basechar 0
+AnchorPoint: "Anchor-0" 131 750 basechar 0
 LayerCount: 3
 Fore
 Refer: 189 305 N 1 0 0 1 0 0 3
-Refer: 466 776 N 1 0 0 1 -109 0 2
-Validated: 1
-Kerns2: 381 -42 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 368 -38 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 367 -38 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 343 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 314 -9 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 256 -23 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 251 -9 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 250 -9 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 237 -6 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 231 -5 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 226 -4 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 168 -4 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 150 -11 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Refer: 466 776 N 1 0 0 1 -112 0 2
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" idieresis.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" idieresis.ss01
 EndChar

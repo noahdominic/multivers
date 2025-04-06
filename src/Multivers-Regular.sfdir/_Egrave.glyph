@@ -1,16 +1,15 @@
 StartChar: Egrave
 Encoding: 200 200 29
-Width: 568
+Width: 635
 GlyphClass: 2
 Flags: HW
-HStem: 0 75<120 530> 330 74<120 496> 633 75<120 523> 780 155
-VStem: 120 48<0 75 330 404 633 708> 169 225
-AnchorPoint: "Anchor-3" 503 0 basechar 0
-AnchorPoint: "Anchor-2" 300 0 basechar 0
-AnchorPoint: "Anchor-0" 310 935 basechar 0
+HStem: 0 78<147 574> 343 77<147 538> 659 78<147 566> 812 161
+VStem: 147 50<0 78 343 420 659 737> 198 234
+AnchorPoint: "Anchor-3" 523 0 basechar 0
+AnchorPoint: "Anchor-2" 312 0 basechar 0
+AnchorPoint: "Anchor-0" 323 973 basechar 0
 LayerCount: 3
 Fore
 Refer: 23 69 N 1 0 0 1 0 0 3
-Refer: 468 768 N 1 0 0 1 100 207 2
-Validated: 5
+Refer: 459 768 N 1 0 0 1 126 215 2
 EndChar

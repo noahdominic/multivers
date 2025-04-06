@@ -1,26 +1,25 @@
 StartChar: arrowupdn
-Encoding: 8597 8597 465
-Width: 778
+Encoding: 8597 8597 456
+Width: 833
 Flags: HW
-VStem: 355 69<44 665>
+VStem: 381 72<46 692>
 LayerCount: 3
 Fore
 SplineSet
-390 -86 m 1
- 65 235 l 1
- 65 332 l 1
- 355 44 l 1
- 355 665 l 1
- 65 377 l 1
- 65 474 l 1
- 390 795 l 1
- 715 473 l 1
- 715 376 l 1
- 424 665 l 1
- 424 44 l 1
- 715 332 l 1
- 715 236 l 1
- 390 -86 l 1
+418 -89 m 1
+ 80 245 l 1
+ 80 345 l 1
+ 381 46 l 1
+ 381 692 l 1
+ 80 392 l 1
+ 80 493 l 1
+ 418 827 l 1
+ 756 492 l 1
+ 756 391 l 1
+ 453 692 l 1
+ 453 46 l 1
+ 756 345 l 1
+ 756 246 l 1
+ 418 -89 l 1
 EndSplineSet
-Validated: 1
 EndChar

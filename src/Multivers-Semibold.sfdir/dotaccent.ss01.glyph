@@ -1,11 +1,10 @@
 StartChar: dotaccent.ss01
 Encoding: 65693 -1 500
-Width: 292
+Width: 299
 Flags: HW
-HStem: 578 165<91.818 201.278>
-VStem: 65 162<605.039 717.627>
+HStem: 592 169<94 206>
+VStem: 67 166<620 735>
 LayerCount: 3
 Fore
 Refer: 483 -1 N 1 0 0 1 5 0 2
-Validated: 1
 EndChar

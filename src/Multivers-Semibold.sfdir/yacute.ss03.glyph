@@ -1,16 +1,14 @@
 StartChar: yacute.ss03
 Encoding: 253 253 301
-Width: 536
+Width: 548
 GlyphClass: 2
 Flags: HW
-HStem: 490 20G<11 154.309 385.723 525> 583 157<283 293>
-VStem: 182 271
-AnchorPoint: "Anchor-2" 264 0 basechar 0
-AnchorPoint: "Anchor-0" 266 740 basechar 0
+HStem: 502 20G<11 158 395 538> 597 161<290 300>
+VStem: 186 278
+AnchorPoint: "Anchor-2" 270 0 basechar 0
+AnchorPoint: "Anchor-0" 272 758 basechar 0
 LayerCount: 3
 Fore
 Refer: 300 121 N 1 0 0 1 0 0 3
-Refer: 469 769 N 1 0 0 1 122 0 2
-Validated: 5
-Kerns2: 169 -24 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Refer: 469 769 N 1 0 0 1 125 0 2
 EndChar

@@ -1,16 +1,15 @@
 StartChar: Idotaccent.ss01
 Encoding: 65548 -1 122
-Width: 262
+Width: 268
 GlyphClass: 2
 Flags: HW
-HStem: 0 21G<62 201> 700 20G<62 201> 788 165<76.8177 186.278>
-VStem: 50 162<815.039 927.627> 62 139<0 720>
-AnchorPoint: "Anchor-3" 172 0 basechar 0
-AnchorPoint: "Anchor-2" 126 0 basechar 0
-AnchorPoint: "Anchor-0" 126 953 basechar 0
+HStem: 0 22G<63 206> 717 20G<63 206> 807 169<79 191>
+VStem: 51 166<835 950> 63 142<0 737>
+AnchorPoint: "Anchor-3" 176 0 basechar 0
+AnchorPoint: "Anchor-2" 129 0 basechar 0
+AnchorPoint: "Anchor-0" 129 976 basechar 0
 LayerCount: 3
 Fore
 Refer: 39 73 N 1 0 0 1 0 0 3
-Refer: 483 -1 N 1 0 0 1 -10 210 2
-Validated: 1
+Refer: 483 -1 N 1 0 0 1 -10 215 2
 EndChar

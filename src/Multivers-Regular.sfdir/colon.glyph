@@ -1,14 +1,13 @@
 StartChar: colon
-Encoding: 58 58 346
-Width: 257
+Encoding: 58 58 338
+Width: 287
 Flags: HW
-HStem: 0 100<84 184> 374 100<84 184>
-VStem: 84 100<0 100 374 474>
+HStem: 0 104<87 191> 389 104<87 191>
+VStem: 87 104<0 104 389 493>
 LayerCount: 3
 Fore
-Refer: 344 46 N 1 0 0 1 0 0 3
-Refer: 344 46 N 1 0 0 1 0 374 2
-Validated: 1
+Refer: 336 46 N 1 0 0 1 0 0 3
+Refer: 336 46 N 1 0 0 1 0 389 2
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" colon.ss01
 Substitution2: "'case' Case-Sensitive Forms in Latin lookup 20 subtable" colon.case
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" colon.case colon.ss01

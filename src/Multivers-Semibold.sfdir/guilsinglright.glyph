@@ -1,19 +1,17 @@
 StartChar: guilsinglright
 Encoding: 8250 8250 409
-Width: 364
+Width: 372
 Flags: HW
-VStem: 63 249
+VStem: 65 255
 LayerCount: 3
 Fore
 SplineSet
-182 68 m 1
- 63 68 l 1
- 188 251 l 1
- 63 434 l 1
- 182 434 l 1
- 312 251 l 1
- 182 68 l 1
+186 70 m 1
+ 65 70 l 1
+ 193 257 l 1
+ 65 444 l 1
+ 186 444 l 1
+ 319 257 l 1
+ 186 70 l 1
 EndSplineSet
-Validated: 1
-Kerns2: 412 -94 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar

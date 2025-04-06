@@ -1,18 +1,17 @@
 StartChar: aring
 Encoding: 229 229 159
-Width: 556
+Width: 569
 GlyphClass: 2
 Flags: HW
-HStem: -10 95<186.639 304.329> 0 21G<378.333 504> 426 94<221.149 348.76> 561 65<250.981 314.736> 711 65<250.101 314.478>
-VStem: 45 124<100.588 208.428> 175 67<635.199 702.208> 323 67<635.199 702.208> 366 125<0.843262 100 176 244 325 404.855> 380 124<0 99.002>
-AnchorPoint: "Anchor-3" 500 0 basechar 0
-AnchorPoint: "Anchor-2" 278 0 basechar 0
-AnchorPoint: "Anchor-0" 278 776 basechar 0
+HStem: -10 97<191 312> 0 22G<387 516> 436 96<226 357> 574 67<257 322> 728 67<256 322>
+VStem: 46 127<103 213> 179 69<650 719> 331 69<650 719> 375 128<1 102 180 250 333 415> 389 127<0 101>
+AnchorPoint: "Anchor-3" 512 0 basechar 0
+AnchorPoint: "Anchor-2" 285 0 basechar 0
+AnchorPoint: "Anchor-0" 285 795 basechar 0
 LayerCount: 3
 Fore
 Refer: 150 97 N 1 0 0 1 0 0 3
-Refer: 475 778 N 1 0 0 1 115 0 2
-Validated: 5
+Refer: 475 778 N 1 0 0 1 118 0 2
 Substitution2: "'ss02' Style Set 2 in Latin lookup 23 subtable" aring.ss02
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" aring.ss02
 EndChar

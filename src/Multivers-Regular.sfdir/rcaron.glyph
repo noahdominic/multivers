@@ -1,15 +1,14 @@
 StartChar: rcaron
-Encoding: 345 345 229
-Width: 355
+Encoding: 345 345 226
+Width: 401
 GlyphClass: 2
 Flags: HW
-HStem: 0 21G<71 157> 436 76<223 336> 482 19G<71 149> 574 155
-VStem: 71 78<397 502> 71 86<0 377>
-AnchorPoint: "Anchor-2" 115 0 basechar 0
-AnchorPoint: "Anchor-0" 205 728 basechar 0
+HStem: 0 22G<90 179> 454 79<248 366> 502 20G<90 171> 597 161
+VStem: 90 81<413 522> 90 89<0 392>
+AnchorPoint: "Anchor-2" 120 0 basechar 0
+AnchorPoint: "Anchor-0" 213 758 basechar 0
 LayerCount: 3
 Fore
-Refer: 227 114 N 1 0 0 1 0 0 3
-Refer: 473 780 N 1 0 0 1 -29 0 2
-Validated: 5
+Refer: 224 114 N 1 0 0 1 0 0 3
+Refer: 464 780 N 1 0 0 1 -14 0 2
 EndChar

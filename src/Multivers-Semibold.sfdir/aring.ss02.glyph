@@ -1,16 +1,15 @@
 StartChar: aring.ss02
 Encoding: 65610 -1 298
-Width: 618
+Width: 632
 GlyphClass: 2
 Flags: HW
-HStem: -10 103<216.419 350.116> 0 21G<421 543> 417 103<216.771 353.506> 490 20G<421 543> 561 65<271.981 335.736> 711 65<271.101 335.478>
-VStem: 30 130<154.691 355.109> 196 67<635.199 702.208> 344 67<635.199 702.208> 421 122<0 111 157.317 353.335 392 510>
-AnchorPoint: "Anchor-3" 543 0 basechar 0
-AnchorPoint: "Anchor-2" 304 0 basechar 0
-AnchorPoint: "Anchor-0" 304 776 basechar 0
+HStem: -10 105<222 359> 0 22G<431 556> 427 105<222 362> 502 20G<431 556> 574 67<279 344> 728 67<278 344>
+VStem: 31 133<158 364> 201 69<650 719> 352 69<650 719> 431 125<0 114 161 362 401 522>
+AnchorPoint: "Anchor-3" 556 0 basechar 0
+AnchorPoint: "Anchor-2" 311 0 basechar 0
+AnchorPoint: "Anchor-0" 311 795 basechar 0
 LayerCount: 3
 Fore
 Refer: 289 -1 N 1 0 0 1 0 0 3
-Refer: 475 778 N 1 0 0 1 136 0 2
-Validated: 5
+Refer: 475 778 N 1 0 0 1 139 0 2
 EndChar

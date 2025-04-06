@@ -1,16 +1,14 @@
 StartChar: Ygrave
 Encoding: 7922 7922 110
-Width: 692
+Width: 708
 GlyphClass: 2
 Flags: HW
-HStem: 0 21G<281 416> 700 20G<20 180.057 520.997 673> 793 157<324 334>
-VStem: 164 271 281 135<0 304>
-AnchorPoint: "Anchor-2" 341 0 basechar 0
-AnchorPoint: "Anchor-0" 341 950 basechar 0
+HStem: 0 22G<288 426> 717 20G<20 184 534 689> 812 161<332 342>
+VStem: 168 278 288 138<0 311>
+AnchorPoint: "Anchor-2" 349 0 basechar 0
+AnchorPoint: "Anchor-0" 349 973 basechar 0
 LayerCount: 3
 Fore
 Refer: 106 89 N 1 0 0 1 0 0 3
-Refer: 468 768 N 1 0 0 1 104 210 2
-Validated: 5
-Kerns2: 227 -86 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 224 -85 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 208 -85 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 207 -85 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Refer: 468 768 N 1 0 0 1 106 215 2
 EndChar

@@ -1,19 +1,18 @@
 StartChar: udieresis
-Encoding: 252 252 244
-Width: 566
+Encoding: 252 252 241
+Width: 615
 GlyphClass: 2
 Flags: HW
-HStem: -10 62<197 340> 0 21G<411 499> 482 19G<68 155 406 493> 617 91<135 226 356 446>
-VStem: 68 86<101 502> 135 89<617 708> 356 89<617 708> 406 86<0 76 232 502>
-AnchorPoint: "Anchor-3" 484 0 basechar 0
-AnchorPoint: "Anchor-2" 281 0 basechar 0
-AnchorPoint: "Anchor-1" 541 502 basechar 0
-AnchorPoint: "Anchor-0" 281 708 basechar 0
+HStem: -10 65<218 367> 0 22G<441 532> 502 20G<84 174 436 526> 642 95<153 248 383 477>
+VStem: 84 89<105 522> 153 93<642 737> 383 93<642 737> 436 89<0 79 241 522>
+AnchorPoint: "Anchor-3" 504 0 basechar 0
+AnchorPoint: "Anchor-2" 292 0 basechar 0
+AnchorPoint: "Anchor-1" 563 522 basechar 0
+AnchorPoint: "Anchor-0" 292 737 basechar 0
 LayerCount: 3
 Fore
-Refer: 240 117 N 1 0 0 1 0 0 3
-Refer: 466 776 N 1 0 0 1 66 0 2
-Validated: 5
+Refer: 237 117 N 1 0 0 1 0 0 3
+Refer: 457 776 N 1 0 0 1 82 0 2
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" udieresis.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" udieresis.ss01
 EndChar

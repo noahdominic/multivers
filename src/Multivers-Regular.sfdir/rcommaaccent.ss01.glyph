@@ -1,15 +1,14 @@
 StartChar: rcommaaccent.ss01
-Encoding: 65594 -1 282
-Width: 355
+Encoding: 65594 -1 274
+Width: 401
 GlyphClass: 2
 Flags: HW
-HStem: -175 110<89 163> 0 21G<71 157> 436 76<223 336> 482 19G<71 149>
-VStem: 71 78<397 502> 71 86<0 377> 73 112<-160 -86>
-AnchorPoint: "Anchor-2" 115 -288 basechar 0
-AnchorPoint: "Anchor-0" 205 502 basechar 0
+HStem: -182 114<109 186> 0 22G<90 179> 454 79<248 366> 502 20G<90 171>
+VStem: 90 81<413 522> 90 89<0 392> 92 117<-167 -89>
+AnchorPoint: "Anchor-2" 120 -300 basechar 0
+AnchorPoint: "Anchor-0" 213 522 basechar 0
 LayerCount: 3
 Fore
-Refer: 227 114 N 1 0 0 1 0 0 3
-Refer: 485 -1 N 1 0 0 1 3 0 2
-Validated: 5
+Refer: 224 114 N 1 0 0 1 0 0 3
+Refer: 476 -1 N 1 0 0 1 19 0 2
 EndChar

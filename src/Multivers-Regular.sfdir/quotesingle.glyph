@@ -1,17 +1,16 @@
 StartChar: quotesingle
-Encoding: 39 39 411
-Width: 274
+Encoding: 39 39 403
+Width: 267
 Flags: HW
-HStem: 521 208<93 163>
-VStem: 93 70<521 592.635>
+HStem: 542 216<88 161>
+VStem: 88 73<542 617>
 LayerCount: 3
 Fore
 SplineSet
-163 521 m 5
- 93 521 l 5
- 78 729 l 5
- 183 729 l 5
- 163 521 l 5
+161 542 m 5
+ 88 542 l 5
+ 72 759 l 5
+ 181 759 l 5
+ 161 542 l 5
 EndSplineSet
-Validated: 1
 EndChar

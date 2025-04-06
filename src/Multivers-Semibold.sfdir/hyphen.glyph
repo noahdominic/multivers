@@ -1,19 +1,17 @@
 StartChar: hyphen
 Encoding: 45 45 381
-Width: 491
+Width: 502
 Flags: HW
-HStem: 219 106<70 421>
+HStem: 224 109<72 431>
 LayerCount: 3
 Fore
 SplineSet
-70 219 m 1
- 70 325 l 1
- 421 325 l 1
- 421 219 l 1
- 70 219 l 1
+72 224 m 1
+ 72 333 l 1
+ 431 333 l 1
+ 431 224 l 1
+ 72 224 l 1
 EndSplineSet
-Validated: 1
-Kerns2: 430 -42 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 413 -116 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 411 -116 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 410 -144 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 403 -140 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 401 -108 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 391 -106 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 375 -106 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 374 -141 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 351 -141 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 221 -18 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 192 -42 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 191 -42 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 187 -42 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 70 -27 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 55 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 47 -39 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 43 -39 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 42 -39 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 38 -46 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 22 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'case' Case-Sensitive Forms in Latin lookup 20 subtable" hyphen.case
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" hyphen.case
 EndChar

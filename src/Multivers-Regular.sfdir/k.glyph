@@ -1,30 +1,29 @@
 StartChar: k
-Encoding: 107 107 200
-Width: 489
+Encoding: 107 107 197
+Width: 592
 GlyphClass: 2
 Flags: HW
-HStem: 0 21G<71 157 369.308 500> 482 20G<357.901 491> 688 20G<71 157>
-VStem: 71 86<0 708>
-AnchorPoint: "Anchor-2" 278 0 basechar 0
-AnchorPoint: "Anchor-0" 258 708 basechar 0
+HStem: 0 22G<116 205 426 562> 502 21G<414 553> 716 21G<116 205>
+VStem: 116 89<0 737>
+AnchorPoint: "Anchor-2" 331 0 basechar 0
+AnchorPoint: "Anchor-0" 310 737 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-71 0 m 1
- 71 708 l 5
- 157 708 l 5
- 157 0 l 1
- 71 0 l 1
-387 0 m 1
- 157 260 l 1
- 376 502 l 1
- 491 502 l 1
- 232 239 l 1
- 236 284 l 1
- 500 0 l 1
- 387 0 l 1
+116 0 m 1
+ 116 737 l 5
+ 205 737 l 5
+ 205 0 l 1
+ 116 0 l 1
+445 0 m 1
+ 205 271 l 1
+ 433 522 l 1
+ 553 522 l 1
+ 283 249 l 1
+ 288 296 l 1
+ 562 0 l 1
+ 445 0 l 1
 EndSplineSet
-Validated: 5
 Substitution2: "'ss04' Style Set 4 in Latin lookup 25 subtable" k.ss04
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" k.ss04
 EndChar

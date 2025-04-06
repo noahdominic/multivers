@@ -1,15 +1,14 @@
 StartChar: ncaron
-Encoding: 328 328 210
-Width: 564
+Encoding: 328 328 207
+Width: 622
 GlyphClass: 2
 Flags: HW
-HStem: 0 21G<75 161 413 499> 448 63<229 369> 481 19G<69 157> 574 155
-VStem: 75 86<0 502> 413 86<0 396>
-AnchorPoint: "Anchor-2" 299 0 basechar 0
-AnchorPoint: "Anchor-0" 313 728 basechar 0
+HStem: 0 22G<96 186 448 537> 466 66<256 402> 501 20G<90 181> 597 161
+VStem: 96 89<0 522> 448 89<0 412>
+AnchorPoint: "Anchor-2" 311 0 basechar 0
+AnchorPoint: "Anchor-0" 326 758 basechar 0
 LayerCount: 3
 Fore
-Refer: 208 110 N 1 0 0 1 0 0 3
-Refer: 473 780 N 1 0 0 1 77 0 2
-Validated: 5
+Refer: 205 110 N 1 0 0 1 0 0 3
+Refer: 464 780 N 1 0 0 1 98 0 2
 EndChar

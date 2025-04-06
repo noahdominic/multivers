@@ -1,16 +1,15 @@
 StartChar: i.loclTRK.ss01
 Encoding: 65586 -1 274
-Width: 266
+Width: 272
 GlyphClass: 2
 Flags: HW
-HStem: 0 21G<70 196> 490 20G<70 196> 578 165<78.8177 188.278>
-VStem: 52 162<605.039 717.627> 70 126<0 510>
-AnchorPoint: "Anchor-3" 191 0 basechar 0
-AnchorPoint: "Anchor-2" 128 0 basechar 0
-AnchorPoint: "Anchor-0" 128 743 basechar 0
+HStem: 0 22G<72 201> 502 20G<72 201> 592 169<81 193>
+VStem: 53 166<620 735> 72 129<0 522>
+AnchorPoint: "Anchor-3" 196 0 basechar 0
+AnchorPoint: "Anchor-2" 131 0 basechar 0
+AnchorPoint: "Anchor-0" 131 761 basechar 0
 LayerCount: 3
 Fore
 Refer: 189 305 N 1 0 0 1 0 0 3
 Refer: 483 -1 N 1 0 0 1 -8 0 2
-Validated: 1
 EndChar

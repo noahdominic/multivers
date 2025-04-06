@@ -1,15 +1,14 @@
 StartChar: ydieresis.ss01.ss03
-Encoding: 65615 -1 308
-Width: 472
+Encoding: 65615 -1 300
+Width: 547
 GlyphClass: 2
 Flags: HW
-HStem: 482 19G<-7 96 389 485> 598 110<109 184 330 406>
-VStem: 92 109<613 691> 314 109<613 691>
-AnchorPoint: "Anchor-2" 250 0 basechar 0
-AnchorPoint: "Anchor-0" 252 706 basechar 0
+HStem: 502 20G<22 129 434 534> 622 114<142 220 372 452>
+VStem: 125 113<638 719> 356 113<638 719>
+AnchorPoint: "Anchor-2" 261 0 basechar 0
+AnchorPoint: "Anchor-0" 263 735 basechar 0
 LayerCount: 3
 Fore
-Refer: 300 121 N 1 0 0 1 0 0 3
-Refer: 482 -1 N 1 0 0 1 23 0 2
-Validated: 5
+Refer: 292 121 N 1 0 0 1 1 0 3
+Refer: 473 -1 N 1 0 0 1 53 0 2
 EndChar

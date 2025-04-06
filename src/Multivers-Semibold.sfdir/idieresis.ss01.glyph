@@ -1,16 +1,15 @@
 StartChar: idieresis.ss01
 Encoding: 65585 -1 273
-Width: 266
+Width: 272
 GlyphClass: 2
 Flags: HW
-HStem: 0 21G<70 196> 490 20G<70 196> 590 152<-32.8256 71.8258 195.174 299.826>
-VStem: -55 149<613.205 720.341> 70 126<0 510> 173 149<613.205 720.341>
-AnchorPoint: "Anchor-3" 191 0 basechar 0
-AnchorPoint: "Anchor-2" 128 0 basechar 0
-AnchorPoint: "Anchor-0" 128 742 basechar 0
+HStem: 0 22G<72 201> 502 20G<72 201> 604 156<-34 74 200 307>
+VStem: -56 153<628 738> 72 129<0 522> 177 153<628 738>
+AnchorPoint: "Anchor-3" 196 0 basechar 0
+AnchorPoint: "Anchor-2" 131 0 basechar 0
+AnchorPoint: "Anchor-0" 131 760 basechar 0
 LayerCount: 3
 Fore
 Refer: 189 305 N 1 0 0 1 0 0 3
-Refer: 482 -1 N 1 0 0 1 -115 0 2
-Validated: 1
+Refer: 482 -1 N 1 0 0 1 -118 0 2
 EndChar

@@ -1,17 +1,16 @@
 StartChar: Omacron
 Encoding: 332 332 69
-Width: 720
+Width: 799
 GlyphClass: 2
 Flags: HW
-HStem: -10 77<262 453> 839 55<205 536>
-VStem: 43 93<215 496> 584 93<220 497>
-AnchorPoint: "Anchor-3" 502 19 basechar 0
-AnchorPoint: "Anchor-2" 369 0 basechar 0
-AnchorPoint: "Anchor-1" 719 708 basechar 0
-AnchorPoint: "Anchor-0" 369 895 basechar 0
+HStem: -10 80<298 496> 873 57<238 583>
+VStem: 70 97<224 516> 633 97<229 517>
+AnchorPoint: "Anchor-3" 522 20 basechar 0
+AnchorPoint: "Anchor-2" 384 0 basechar 0
+AnchorPoint: "Anchor-1" 748 737 basechar 0
+AnchorPoint: "Anchor-0" 384 931 basechar 0
 LayerCount: 3
 Fore
 Refer: 63 79 N 1 0 0 1 0 0 3
-Refer: 477 772 N 1 0 0 1 135 207 2
-Validated: 1
+Refer: 468 772 N 1 0 0 1 165 215 2
 EndChar

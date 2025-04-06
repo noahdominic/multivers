@@ -1,30 +1,29 @@
 StartChar: U
-Encoding: 85 85 89
-Width: 669
+Encoding: 85 85 86
+Width: 712
 GlyphClass: 2
 Flags: HW
-HStem: -10 70<242.335 425.341> 688 20G<76 165 504 595>
-VStem: 76 89<146.537 708> 504 91<146.062 708>
-AnchorPoint: "Anchor-3" 465 19 basechar 0
-AnchorPoint: "Anchor-2" 334 0 basechar 0
-AnchorPoint: "Anchor-1" 651 708 basechar 0
-AnchorPoint: "Anchor-0" 334 708 basechar 0
+HStem: -10 73<260 451> 716 21G<87 180 532 627>
+VStem: 87 93<152 737> 532 95<152 737>
+AnchorPoint: "Anchor-3" 492 20 basechar 0
+AnchorPoint: "Anchor-2" 356 0 basechar 0
+AnchorPoint: "Anchor-1" 685 737 basechar 0
+AnchorPoint: "Anchor-0" 356 737 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-333 -10 m 0
- 251 -10 189 15 144 65 c 0
- 99 115 76 186 76 275 c 2
- 76 708 l 1
- 165 708 l 1
- 165 264 l 2
- 165 152.78125 202.583984375 60 328 60 c 0
- 373.787109375 60 504 60 504 264 c 2
- 504 708 l 1
- 595 708 l 1
- 595 274 l 2
- 595 186 570 115 525 65 c 0
- 480 15 416 -10 333 -10 c 0
+355 -10 m 0
+ 270 -10 205 16 158 68 c 0
+ 111 120 87 193 87 286 c 2
+ 87 737 l 1
+ 180 737 l 1
+ 180 275 l 2
+ 180 159 218 62 349 62 c 0
+ 397 62 532 63 532 275 c 2
+ 532 737 l 1
+ 627 737 l 1
+ 627 285 l 2
+ 627 193 601 120 554 68 c 0
+ 507 16 441 -10 355 -10 c 0
 EndSplineSet
-Validated: 1
 EndChar

@@ -1,15 +1,14 @@
 StartChar: wgrave
 Encoding: 7809 7809 255
-Width: 797
+Width: 816
 GlyphClass: 2
 Flags: HW
-HStem: 0 21G<168.039 297.91 499.142 628.961> 490 20G<22 167.648 337.256 463.796 633.405 775> 583 157<376 386>
-VStem: 216 271
-AnchorPoint: "Anchor-2" 394 0 basechar 0
-AnchorPoint: "Anchor-0" 394 740 basechar 0
+HStem: 0 22G<172 305 511 644> 502 20G<23 172 345 475 649 794> 597 161<385 395>
+VStem: 221 278
+AnchorPoint: "Anchor-2" 403 0 basechar 0
+AnchorPoint: "Anchor-0" 403 758 basechar 0
 LayerCount: 3
 Fore
 Refer: 251 119 N 1 0 0 1 0 0 3
-Refer: 468 768 N 1 0 0 1 156 0 2
-Validated: 5
+Refer: 468 768 N 1 0 0 1 160 0 2
 EndChar

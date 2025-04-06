@@ -1,12 +1,11 @@
 StartChar: semicolon.case
-Encoding: 65638 -1 360
-Width: 274
+Encoding: 65638 -1 352
+Width: 287
 Flags: HW
-HStem: 22 209<109 130> 504 100<84 184>
-VStem: 60 154 84 100<504 604>
+HStem: 23 217<113 135> 524 104<87 191>
+VStem: 62 160 87 104<524 629>
 LayerCount: 3
 Fore
-Refer: 345 44 N 1 0 0 1 0 130 3
-Refer: 344 46 N 1 0 0 1 0 504 2
-Validated: 1
+Refer: 337 44 N 1 0 0 1 0 135 3
+Refer: 336 46 N 1 0 0 1 0 524 2
 EndChar

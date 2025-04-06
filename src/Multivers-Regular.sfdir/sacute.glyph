@@ -1,15 +1,14 @@
 StartChar: sacute
-Encoding: 347 347 232
-Width: 457
+Encoding: 347 347 229
+Width: 503
 GlyphClass: 2
 Flags: HW
-HStem: -10 62<148 312> 448 64<154 302> 574 155
-VStem: 32 79<86 155> 46 82<333 423> 155 225 327 79<363 421> 340 86<79 180>
-AnchorPoint: "Anchor-2" 236 0 basechar 0
-AnchorPoint: "Anchor-0" 228 728 basechar 0
+HStem: -10 65<168 339> 466 67<174 328> 597 161
+VStem: 47 82<89 161> 62 85<347 440> 175 234 354 82<378 438> 368 89<82 187>
+AnchorPoint: "Anchor-2" 246 0 basechar 0
+AnchorPoint: "Anchor-0" 237 758 basechar 0
 LayerCount: 3
 Fore
-Refer: 231 115 N 1 0 0 1 0 0 3
-Refer: 469 769 N 1 0 0 1 85 0 2
-Validated: 1
+Refer: 228 115 N 1 0 0 1 0 0 3
+Refer: 460 769 N 1 0 0 1 102 0 2
 EndChar

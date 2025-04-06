@@ -1,11 +1,10 @@
 StartChar: ogonek
-Encoding: 731 731 498
-Width: 275
+Encoding: 731 731 489
+Width: 284
 Flags: HW
-HStem: -212 50<138 211>
-VStem: 76 57<-157 -69>
+HStem: -221 52<143 219>
+VStem: 78 59<-163 -72>
 LayerCount: 3
 Fore
-Refer: 481 808 N 1 0 0 1 6 0 2
-Validated: 1
+Refer: 472 808 N 1 0 0 1 5 0 2
 EndChar

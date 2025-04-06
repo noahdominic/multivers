@@ -1,15 +1,14 @@
 StartChar: Racute
-Encoding: 340 340 136
-Width: 619
+Encoding: 340 340 133
+Width: 672
 GlyphClass: 2
 Flags: HW
-HStem: 0 21G<82 173 495 597> 311 76<141 376> 331 26<386 436> 633 75<173 412> 780 155
-VStem: 82 89<0 311 386 633> 141 32<311 386> 242 225 472 88<26 177 446 580>
-AnchorPoint: "Anchor-2" 317 0 basechar 0
-AnchorPoint: "Anchor-0" 308 935 basechar 0
+HStem: 0 22G<99 194 529 635> 324 79<161 405> 344 27<416 468> 659 78<194 443> 812 161
+VStem: 99 93<0 324 402 659> 161 33<324 402> 266 234 505 92<27 184 464 604>
+AnchorPoint: "Anchor-2" 330 0 basechar 0
+AnchorPoint: "Anchor-0" 321 973 basechar 0
 LayerCount: 3
 Fore
-Refer: 135 82 N 1 0 0 1 0 0 3
-Refer: 469 769 N 1 0 0 1 173 207 2
-Validated: 5
+Refer: 132 82 N 1 0 0 1 0 0 3
+Refer: 460 769 N 1 0 0 1 194 215 2
 EndChar

@@ -1,42 +1,40 @@
 StartChar: f_l
 Encoding: 65620 -1 313
-Width: 625
+Width: 640
 GlyphClass: 3
 LigCaretCntFixed: 1
 Flags: HW
-HStem: 0 21G<109 234 429 554> 405 105<20 333> 614 106<253.599 491>
-VStem: 109 125<0 594.402> 429 125<0 614> 429 62<614 720>
-AnchorPoint: "Anchor-5" 159 0 baselig 0
-AnchorPoint: "Anchor-4" 159 740 baselig 0
-AnchorPoint: "Anchor-5" 466 0 baselig 1
-AnchorPoint: "Anchor-4" 466 740 baselig 1
+HStem: 0 22G<112 240 439 567> 415 108<20 341> 629 109<260 503>
+VStem: 112 128<0 609> 439 128<0 629> 439 63<629 737>
+AnchorPoint: "Anchor-5" 163 0 baselig 0
+AnchorPoint: "Anchor-4" 163 758 baselig 0
+AnchorPoint: "Anchor-5" 477 0 baselig 1
+AnchorPoint: "Anchor-4" 477 758 baselig 1
 LayerCount: 3
 Fore
 SplineSet
-109 0 m 1xf4
- 109 549 l 2
- 109 605 124.333007812 647.5 155 676.5 c 0
- 185.666992188 705.5 231.666992188 720 293 720 c 2
- 491 720 l 1
- 491 614 l 1
- 311 614 l 2
- 285 614 265.666992188 607.666992188 253 595 c 0
- 240.333007812 582.333007812 234 564 234 540 c 2
- 234 0 l 1
- 109 0 l 1xf4
-20 405 m 1
- 20 510 l 1
- 333 510 l 1
- 333 405 l 1
- 20 405 l 1
-429 0 m 1xf8
- 429 720 l 1xf4
- 554 720 l 1
- 554 0 l 1
- 429 0 l 1xf8
+112 0 m 1xf4
+ 112 562 l 2
+ 112 619 128 663 159 693 c 0
+ 190 723 237 737 300 737 c 2
+ 503 737 l 1
+ 503 629 l 1
+ 318 629 l 2
+ 291 629 272 622 259 609 c 0
+ 246 596 240 578 240 553 c 2
+ 240 0 l 1
+ 112 0 l 1xf4
+20 415 m 1
+ 20 522 l 1
+ 341 522 l 1
+ 341 415 l 1
+ 20 415 l 1
+439 0 m 1xf8
+ 439 737 l 1xf4
+ 567 737 l 1
+ 567 0 l 1
+ 439 0 l 1xf8
 EndSplineSet
-Validated: 5
-Kerns2: 443 -41 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 403 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 384 -56 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 371 -39 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 355 -28 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 221 1 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Ligature2: "'liga' Standard Ligatures in Latin lookup 21 subtable" f l
-LCarets2: 1 308
+LCarets2: 1 315
 EndChar

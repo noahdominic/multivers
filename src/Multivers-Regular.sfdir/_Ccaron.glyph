@@ -1,15 +1,14 @@
 StartChar: Ccaron
 Encoding: 268 268 16
-Width: 683
+Width: 752
 GlyphClass: 2
 Flags: HW
-HStem: -10 77<277 452> 502 21G<529 627> 642 77<277 461> 780 155
-VStem: 43 100<222 484> 537 94<151 230 502 562>
-AnchorPoint: "Anchor-2" 365 0 basechar 0
-AnchorPoint: "Anchor-0" 365 935 basechar 0
+HStem: -10 80<309 491> 522 22G<572 673> 668 80<309 501> 812 161
+VStem: 66 104<231 504> 580 98<157 239 522 585>
+AnchorPoint: "Anchor-2" 380 0 basechar 0
+AnchorPoint: "Anchor-0" 380 973 basechar 0
 LayerCount: 3
 Fore
 Refer: 14 67 N 1 0 0 1 0 0 3
-Refer: 473 780 N 1 0 0 1 136 207 2
-Validated: 5
+Refer: 464 780 N 1 0 0 1 163 215 2
 EndChar

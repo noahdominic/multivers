@@ -1,16 +1,15 @@
 StartChar: adieresis.ss02
 Encoding: 65606 -1 294
-Width: 618
+Width: 632
 GlyphClass: 2
 Flags: HW
-HStem: -10 103<216.419 350.116> 0 21G<421 543> 417 103<216.771 353.506> 490 20G<421 543> 593 139<122 258 349 485>
-VStem: 30 130<154.691 355.109> 122 136<593 732> 349 136<593 732> 421 122<0 111 157.317 353.335 392 510>
-AnchorPoint: "Anchor-3" 543 0 basechar 0
-AnchorPoint: "Anchor-2" 304 0 basechar 0
-AnchorPoint: "Anchor-0" 304 732 basechar 0
+HStem: -10 105<222 359> 0 22G<431 556> 427 105<222 362> 502 20G<431 556> 607 142<125 264 357 497>
+VStem: 31 133<158 364> 125 139<607 750> 357 139<607 750> 431 125<0 114 161 362 401 522>
+AnchorPoint: "Anchor-3" 556 0 basechar 0
+AnchorPoint: "Anchor-2" 311 0 basechar 0
+AnchorPoint: "Anchor-0" 311 750 basechar 0
 LayerCount: 3
 Fore
 Refer: 289 -1 N 1 0 0 1 0 0 3
-Refer: 466 776 N 1 0 0 1 62 0 2
-Validated: 5
+Refer: 466 776 N 1 0 0 1 63 0 2
 EndChar

@@ -1,17 +1,16 @@
 StartChar: rcommaaccent
-Encoding: 343 343 230
-Width: 355
+Encoding: 343 343 227
+Width: 401
 GlyphClass: 2
 Flags: HW
-HStem: -170 5<134 163> -170 99<78 134> 0 21G<71 157> 436 76<223 336> 482 19G<71 149>
-VStem: 71 78<397 502> 71 86<0 377> 78 102<-164 -71>
-AnchorPoint: "Anchor-2" 115 -288 basechar 0
-AnchorPoint: "Anchor-0" 205 502 basechar 0
+HStem: -177 5<155 186> -177 103<97 155> 0 22G<90 179> 454 79<248 366> 502 20G<90 171>
+VStem: 90 81<413 522> 90 89<0 392> 97 106<-171 -74>
+AnchorPoint: "Anchor-2" 120 -300 basechar 0
+AnchorPoint: "Anchor-0" 213 522 basechar 0
 LayerCount: 3
 Fore
-Refer: 227 114 N 1 0 0 1 0 0 3
-Refer: 479 806 N 1 0 0 1 3 0 2
-Validated: 5
+Refer: 224 114 N 1 0 0 1 0 0 3
+Refer: 470 806 N 1 0 0 1 19 0 2
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" rcommaaccent.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" rcommaaccent.ss01
 EndChar

@@ -1,16 +1,14 @@
 StartChar: ccaron
 Encoding: 269 269 165
-Width: 550
+Width: 563
 GlyphClass: 2
 Flags: HW
-HStem: -10 101<355.696 493.013> 419 101<354.655 492.611> 583 157
-VStem: 168 133<150.854 360.307>
-AnchorPoint: "Anchor-2" 276 0 basechar 0
-AnchorPoint: "Anchor-0" 285 740 basechar 0
+HStem: -10 103<364 505> 429 103<363 504> 597 161
+VStem: 172 136<154 369>
+AnchorPoint: "Anchor-2" 283 0 basechar 0
+AnchorPoint: "Anchor-0" 292 758 basechar 0
 LayerCount: 3
 Fore
 Refer: 163 99 N 1 0 0 1 0 0 3
-Refer: 473 780 N 1 0 0 1 171 0 2
-Validated: 5
-Kerns2: 410 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 188 -5 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Refer: 473 780 N 1 0 0 1 175 0 2
 EndChar

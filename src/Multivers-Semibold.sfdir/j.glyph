@@ -1,18 +1,16 @@
 StartChar: j
 Encoding: 106 106 198
-Width: 266
+Width: 272
 GlyphClass: 2
 Flags: HW
-HStem: -167 97<-26 55.5588> 490 20G<70 196> 594 138<65 201>
-VStem: 65 136<594 732> 70 126<-59.1676 510>
-AnchorPoint: "Anchor-2" 128 -205 basechar 0
-AnchorPoint: "Anchor-0" 128 732 basechar 0
+HStem: -171 99<-27 57> 502 20G<72 201> 608 141<67 206>
+VStem: 67 139<608 750> 72 129<-61 522>
+AnchorPoint: "Anchor-2" 131 -210 basechar 0
+AnchorPoint: "Anchor-0" 131 750 basechar 0
 LayerCount: 3
 Fore
 Refer: 199 567 N 1 0 0 1 0 0 3
 Refer: 467 775 N 1 0 0 1 5 0 2
-Validated: 1
-Kerns2: 221 2 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 198 0 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" j.ss01
 Substitution2: "Single Substitution lookup 4 subtable" uni0237
 Substitution2: "Single Substitution lookup 3 subtable" uni0237

@@ -1,17 +1,16 @@
 StartChar: Scedilla
-Encoding: 350 350 83
-Width: 568
+Encoding: 350 350 80
+Width: 645
 GlyphClass: 2
 Flags: HW
-HStem: -211 50<318 425> -85 96<360 400> -9 75<204 397> 505 21G<431 523> 645 75<196 379>
-VStem: 37 94<135 227> 67 87<474 606> 258 54<-154 -125> 427 57<-156 -99> 432 90<505 594> 445 86<110 255>
-AnchorPoint: "Anchor-2" 287 -211 basechar 0
-AnchorPoint: "Anchor-0" 296 708 basechar 0
+HStem: -220 52<358 469> -88 100<402 443> -9 78<239 440> 526 22G<476 571> 671 78<231 421>
+VStem: 66 98<140 236> 97 91<493 631> 295 56<-160 -130> 471 59<-162 -103> 477 94<526 618> 490 89<114 265>
+AnchorPoint: "Anchor-2" 299 -220 basechar 0
+AnchorPoint: "Anchor-0" 308 737 basechar 0
 LayerCount: 3
 Fore
-Refer: 80 83 N 1 0 0 1 0 0 3
-Refer: 480 807 N 1 0 0 1 189 0 2
-Validated: 5
+Refer: 77 83 N 1 0 0 1 0 0 3
+Refer: 471 807 N 1 0 0 1 224 0 2
 Substitution2: "'locl' Localized Forms in Latin lookup 12 subtable" Scommaaccent
 Substitution2: "'locl' Localized Forms in Latin lookup 11 subtable" Scommaaccent
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Scommaaccent

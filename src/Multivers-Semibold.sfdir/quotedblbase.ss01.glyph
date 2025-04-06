@@ -1,13 +1,11 @@
 StartChar: quotedblbase.ss01
 Encoding: 65669 -1 413
-Width: 491
+Width: 502
 Flags: HW
-HStem: -178 62<73 126.806 267 320.806>
-VStem: 66 162<-10.4297 87.4268> 260 162<-10.4297 87.4268>
+HStem: -182 63<75 130 273 329>
+VStem: 68 166<-11 90> 266 166<-11 90>
 LayerCount: 3
 Fore
-Refer: 417 -1 N 1 0 0 1 12 -634 2
-Refer: 417 -1 N 1 0 0 1 206 -634 2
-Validated: 5
-Kerns2: 440 -119 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 415 -232 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 414 -233 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 374 -129 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 198 -2 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 191 -42 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 99 -148 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 70 -38 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 55 -44 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 47 -17 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 42 -39 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 22 -47 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Refer: 417 -1 N 1 0 0 1 12 -649 2
+Refer: 417 -1 N 1 0 0 1 211 -649 2
 EndChar

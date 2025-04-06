@@ -1,15 +1,13 @@
 StartChar: colon
 Encoding: 58 58 346
-Width: 281
+Width: 287
 Flags: HW
-HStem: 0 144<64 208> 344 144<64 208>
-VStem: 64 144<0 144 344 488>
+HStem: 0 147<66 213> 352 147<66 213>
+VStem: 66 147<0 147 352 500>
 LayerCount: 3
 Fore
 Refer: 344 46 N 1 0 0 1 0 0 3
-Refer: 344 46 N 1 0 0 1 0 344 2
-Validated: 1
-Kerns2: 410 -62 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 389 -73 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 388 -38 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 326 -84 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 324 -23 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 323 -32 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 322 -25 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 320 -23 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 319 -15 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 106 -86 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 99 -66 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 86 -117 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Refer: 344 46 N 1 0 0 1 0 352 2
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" colon.ss01
 Substitution2: "'case' Case-Sensitive Forms in Latin lookup 20 subtable" colon.case
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" colon.case colon.ss01

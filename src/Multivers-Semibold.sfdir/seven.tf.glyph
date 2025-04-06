@@ -1,25 +1,24 @@
 StartChar: seven.tf
 Encoding: 65632 -1 337
-Width: 602
+Width: 616
 Flags: HW
-HStem: 0 21G<177 325> 618 102<64 413>
-VStem: 177 144<0 148.299>
+HStem: 0 22G<181 333> 633 104<66 423>
+VStem: 181 147<0 152>
 LayerCount: 3
 Fore
 SplineSet
-177 0 m 1
- 186.333007812 114.666992188 211.5 225.5 252.5 332.5 c 0
- 293.5 439.5 347 542.333007812 413 641 c 1
- 419 618 l 1
- 64 618 l 1
- 64 720 l 1
- 537 720 l 1
- 537 627 l 1
- 475.666992188 525 426.333007812 423 389 321 c 0
- 351.666992188 219 329 112 321 0 c 1
- 177 0 l 1
+181 0 m 1
+ 191 117 217 230 259 340 c 0
+ 301 450 355 555 423 656 c 1
+ 429 633 l 1
+ 66 633 l 1
+ 66 737 l 1
+ 550 737 l 1
+ 550 642 l 1
+ 487 538 436 433 398 329 c 0
+ 360 225 337 115 329 0 c 1
+ 181 0 l 1
 EndSplineSet
-Validated: 5
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 18 subtable" seven
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" seven
 EndChar

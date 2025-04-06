@@ -1,13 +1,12 @@
 StartChar: quotesinglbase
 Encoding: 8218 8218 400
-Width: 278
+Width: 284
 Flags: HW
-HStem: -151 247<98 135>
-VStem: 38 202
+HStem: -155 253<100 138>
+VStem: 39 207
 LayerCount: 3
 Fore
-Refer: 345 44 N 1 0 0 1 2 -32 2
-Validated: 1
+Refer: 345 44 N 1 0 0 1 2 -33 2
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" quotesinglbase.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" quotesinglbase.ss01
 EndChar

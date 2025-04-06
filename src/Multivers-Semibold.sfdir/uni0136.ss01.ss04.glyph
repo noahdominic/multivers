@@ -1,15 +1,14 @@
 StartChar: uni0136.ss01.ss04
 Encoding: 65568 -1 146
-Width: 704
+Width: 720
 GlyphClass: 2
 Flags: HW
-HStem: -331 58<292 340.008> 0 21G<62 191 502.733 674> 700 20G<62 191 476.033 655>
-VStem: 62 129<0 155 298 720> 277 150<-186.373 -91.7563>
-AnchorPoint: "Anchor-2" 352 -331 basechar 0
-AnchorPoint: "Anchor-0" 348 720 basechar 0
+HStem: -339 59<299 348> 0 22G<63 196 515 690> 717 20G<63 196 487 671>
+VStem: 63 132<0 159 305 737> 284 154<-191 -94>
+AnchorPoint: "Anchor-2" 360 -339 basechar 0
+AnchorPoint: "Anchor-0" 356 737 basechar 0
 LayerCount: 3
 Fore
 Refer: 133 -1 N 1 0 0 1 0 0 3
-Refer: 485 -1 N 1 0 0 1 217 0 2
-Validated: 5
+Refer: 485 -1 N 1 0 0 1 222 0 2
 EndChar

@@ -1,14 +1,13 @@
 StartChar: quotedblbase
-Encoding: 8222 8222 401
-Width: 397
+Encoding: 8222 8222 393
+Width: 481
 Flags: HW
-HStem: -109 209<108 130 255 278>
-VStem: 60 154 207 154
+HStem: -113 217<146 169 299 323>
+VStem: 96 160 249 160
 LayerCount: 3
 Fore
-Refer: 345 44 N 1 0 0 1 148 0 2
-Refer: 345 44 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 337 44 N 1 0 0 1 188 0 2
+Refer: 337 44 N 1 0 0 1 34 0 2
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" quotedblbase.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" quotedblbase.ss01
 EndChar

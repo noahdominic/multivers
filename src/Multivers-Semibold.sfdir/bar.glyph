@@ -1,16 +1,15 @@
 StartChar: bar
 Encoding: 124 124 427
-Width: 242
+Width: 247
 Flags: HW
-VStem: 67 109<-130 790>
+VStem: 69 112<-133 809>
 LayerCount: 3
 Fore
 SplineSet
-67 -130 m 1
- 67 790 l 1
- 176 790 l 1
- 176 -130 l 1
- 67 -130 l 1
+69 -133 m 1
+ 69 809 l 1
+ 180 809 l 1
+ 180 -133 l 1
+ 69 -133 l 1
 EndSplineSet
-Validated: 1
 EndChar

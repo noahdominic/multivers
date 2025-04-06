@@ -1,29 +1,28 @@
 StartChar: O
 Encoding: 79 79 63
-Width: 720
+Width: 799
 GlyphClass: 2
 Flags: HW
-HStem: -10 70<266.755 457.758> 649 69<263.822 452.085>
-VStem: 43 93<209.041 493.124> 584 94<213.248 496.324>
-AnchorPoint: "Anchor-3" 493 19 basechar 0
-AnchorPoint: "Anchor-2" 360 0 basechar 0
-AnchorPoint: "Anchor-1" 709 708 basechar 0
-AnchorPoint: "Anchor-0" 360 708 basechar 0
+HStem: -10 73<303 501> 675 72<300 495>
+VStem: 70 97<218 513> 633 98<222 516>
+AnchorPoint: "Anchor-3" 538 20 basechar 0
+AnchorPoint: "Anchor-2" 400 0 basechar 0
+AnchorPoint: "Anchor-1" 763 737 basechar 0
+AnchorPoint: "Anchor-0" 400 737 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-359.502929688 -10 m 0
- 169.391601562 -10 43 133.1015625 43 350 c 0
- 43 567.802734375 170.205078125 718 356.02734375 718 c 3
- 554.513671875 718 678 577.16015625 678 350 c 0
- 678 137.1171875 549.401367188 -10 359.502929688 -10 c 0
-363 60 m 260
- 501.836914062 60 584 168.647460938 584 348 c 256
- 584 543.357421875 504.833984375 649 351.915039062 649 c 256
- 218.48828125 649 136 536.005859375 136 350 c 0
- 136 166.125 217.309570312 60 363 60 c 260
+399 -10 m 0
+ 201 -10 70 138 70 364 c 0
+ 70 591 202 747 395 747 c 3
+ 602 747 731 600 731 364 c 0
+ 731 142 597 -10 399 -10 c 0
+403 62 m 260
+ 547 62 633 175 633 362 c 256
+ 633 565 550 675 391 675 c 256
+ 252 675 167 558 167 364 c 0
+ 167 173 251 62 403 62 c 260
 EndSplineSet
-Validated: 1
 Substitution2: "Single Substitution lookup 17 subtable" ordmasculine
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" ordmasculine
 EndChar

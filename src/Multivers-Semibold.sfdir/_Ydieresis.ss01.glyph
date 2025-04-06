@@ -1,16 +1,14 @@
 StartChar: Ydieresis.ss01
 Encoding: 65557 -1 131
-Width: 692
+Width: 708
 GlyphClass: 2
 Flags: HW
-HStem: 0 21G<281 416> 700 20G<20 180.057 520.997 673> 800 152<180.174 284.826 408.174 512.826>
-VStem: 158 149<823.205 930.341> 281 135<0 304> 386 149<823.205 930.341>
-AnchorPoint: "Anchor-2" 341 0 basechar 0
-AnchorPoint: "Anchor-0" 341 952 basechar 0
+HStem: 0 22G<288 426> 717 20G<20 184 534 689> 819 156<184 292 418 525>
+VStem: 162 153<843 953> 288 138<0 311> 395 153<843 953>
+AnchorPoint: "Anchor-2" 349 0 basechar 0
+AnchorPoint: "Anchor-0" 349 975 basechar 0
 LayerCount: 3
 Fore
 Refer: 106 89 N 1 0 0 1 0 0 3
-Refer: 482 -1 N 1 0 0 1 98 210 2
-Validated: 5
-Kerns2: 227 -86 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 224 -85 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 208 -85 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 207 -85 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Refer: 482 -1 N 1 0 0 1 100 215 2
 EndChar

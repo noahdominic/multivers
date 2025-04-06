@@ -1,17 +1,16 @@
 StartChar: ubreve
-Encoding: 365 365 242
-Width: 566
+Encoding: 365 365 239
+Width: 615
 GlyphClass: 2
 Flags: HW
-HStem: -10 62<197 340> 0 21G<411 499> 482 19G<68 155 406 493> 570 65<223 358>
-VStem: 68 86<101 502> 132 61<665 728> 388 62<665 728> 406 86<0 76 232 502>
-AnchorPoint: "Anchor-3" 484 0 basechar 0
-AnchorPoint: "Anchor-2" 281 0 basechar 0
-AnchorPoint: "Anchor-1" 541 502 basechar 0
-AnchorPoint: "Anchor-0" 281 728 basechar 0
+HStem: -10 65<218 367> 0 22G<441 532> 502 20G<84 174 436 526> 593 68<245 386>
+VStem: 84 89<105 522> 150 63<692 758> 417 65<692 758> 436 89<0 79 241 522>
+AnchorPoint: "Anchor-3" 504 0 basechar 0
+AnchorPoint: "Anchor-2" 292 0 basechar 0
+AnchorPoint: "Anchor-1" 563 522 basechar 0
+AnchorPoint: "Anchor-0" 292 758 basechar 0
 LayerCount: 3
 Fore
-Refer: 240 117 N 1 0 0 1 0 0 3
-Refer: 474 774 N 1 0 0 1 63 0 2
-Validated: 5
+Refer: 237 117 N 1 0 0 1 0 0 3
+Refer: 465 774 N 1 0 0 1 79 0 2
 EndChar

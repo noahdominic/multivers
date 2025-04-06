@@ -1,22 +1,21 @@
 StartChar: multiply.tf
-Encoding: 65680 -1 449
-Width: 589
+Encoding: 65680 -1 440
+Width: 616
 Flags: HW
 LayerCount: 3
 Fore
 SplineSet
-461 171 m 1
- 82 514 l 1
- 128 560 l 1
- 506 217 l 1
- 461 171 l 1
-128 171 m 1
- 82 217 l 1
- 461 560 l 1
- 506 514 l 1
- 128 171 l 1
+482 178 m 1
+ 87 535 l 1
+ 135 583 l 1
+ 529 226 l 1
+ 482 178 l 1
+135 178 m 1
+ 87 226 l 1
+ 482 583 l 1
+ 529 535 l 1
+ 135 178 l 1
 EndSplineSet
-Validated: 5
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 18 subtable" multiply
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" multiply
 EndChar

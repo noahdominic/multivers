@@ -1,17 +1,16 @@
 StartChar: iogonek.ss01
-Encoding: 65588 -1 276
-Width: 242
+Encoding: 65588 -1 268
+Width: 271
 GlyphClass: 2
 Flags: HW
-HStem: -212 50<83 155> 0 21G<79 165> 482 19G<79 165> 598 110<94 170>
-VStem: 21 57<-157 -69> 78 109<613 691> 79 86<0 502>
-AnchorPoint: "Anchor-3" 155 0 basechar 0
-AnchorPoint: "Anchor-2" 115 0 basechar 0
-AnchorPoint: "Anchor-0" 115 706 basechar 0
+HStem: -221 52<96 171> 0 22G<92 182> 502 20G<92 182> 622 114<108 187>
+VStem: 32 59<-163 -72> 91 113<638 719> 92 89<0 522>
+AnchorPoint: "Anchor-3" 161 0 basechar 0
+AnchorPoint: "Anchor-2" 120 0 basechar 0
+AnchorPoint: "Anchor-0" 120 735 basechar 0
 LayerCount: 3
 Fore
-Refer: 189 305 N 1 0 0 1 0 0 3
-Refer: 483 -1 N 1 0 0 1 7 0 2
-Refer: 481 808 N 1 0 0 1 -49 0 2
-Validated: 5
+Refer: 186 305 N 1 0 0 1 0 0 3
+Refer: 474 -1 N 1 0 0 1 17 0 2
+Refer: 472 808 N 1 0 0 1 -41 0 2
 EndChar

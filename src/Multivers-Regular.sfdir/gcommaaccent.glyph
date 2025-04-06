@@ -1,17 +1,16 @@
 StartChar: gcommaaccent
-Encoding: 291 291 184
-Width: 575
+Encoding: 291 291 181
+Width: 632
 GlyphClass: 2
 Flags: HW
-HStem: -163 56<183 356> 21 67<192 343> 444 67<193 349> 482 19G<425 506> 572 99<400 456> 666 5<371 400>
-VStem: 36 88<160 369> 52 86<-62 4> 354 102<572 665> 415 85<-45 142 158 374> 427 80<380 502>
-AnchorPoint: "Anchor-2" 288 -202 basechar 0
-AnchorPoint: "Anchor-0" 274 789 basechar 0
+HStem: -170 58<207 387> 22 70<217 374> 462 70<218 380> 502 20G<459 544> 595 103<433 492> 693 5<403 433>
+VStem: 54 92<167 384> 71 89<-65 4> 385 106<595 692> 449 88<-47 148 164 389> 461 83<395 522>
+AnchorPoint: "Anchor-2" 300 -210 basechar 0
+AnchorPoint: "Anchor-0" 285 821 basechar 0
 LayerCount: 3
 Fore
-Refer: 182 103 N 1 0 0 1 0 0 3
-Refer: 478 786 N 1 0 0 1 279 0 2
-Validated: 5
+Refer: 179 103 N 1 0 0 1 0 0 3
+Refer: 469 786 N 1 0 0 1 307 0 2
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" gcommaaccent.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" gcommaaccent.ss01
 EndChar

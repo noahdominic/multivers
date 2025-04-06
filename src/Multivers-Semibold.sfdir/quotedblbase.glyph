@@ -1,15 +1,13 @@
 StartChar: quotedblbase
 Encoding: 8222 8222 401
-Width: 470
+Width: 481
 Flags: HW
-HStem: -151 247<98 135 290 327>
-VStem: 38 202 230 202
+HStem: -155 253<100 138 297 335>
+VStem: 39 207 236 207
 LayerCount: 3
 Fore
-Refer: 345 44 N 1 0 0 1 194 -32 2
-Refer: 345 44 N 1 0 0 1 2 -32 2
-Validated: 1
-Kerns2: 403 -222 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Refer: 345 44 N 1 0 0 1 199 -33 2
+Refer: 345 44 N 1 0 0 1 2 -33 2
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" quotedblbase.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" quotedblbase.ss01
 EndChar

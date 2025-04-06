@@ -1,27 +1,34 @@
 StartChar: y.ss03
-Encoding: 121 121 300
-Width: 536
+Encoding: 65573 -1 257
+Width: 556
 GlyphClass: 2
 Flags: HW
-HStem: 490 20G<11 154.309 385.723 525>
-AnchorPoint: "Anchor-2" 269 0 basechar 0
-AnchorPoint: "Anchor-0" 269 510 basechar 0
+HStem: -212 105<70 165> 502 20G<17 162 410 545>
+AnchorPoint: "Anchor-2" 275 0 basechar 0
+AnchorPoint: "Anchor-0" 278 522 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-123 -158.5 m 1
- 231 91 l 1
- 254 128 l 1
- 393 510 l 1
- 525 510 l 1
- 249 -158.5 l 1
- 123 -158.5 l 1
-231 18 m 5
- 11 510 l 1
- 147 510 l 1
- 332 67 l 5
- 231 18 l 5
+130 -212 m 0
+ 99 -212 100 -212 70 -212 c 1
+ 70 -106 l 1
+ 92 -106 91 -106 114 -106 c 0
+ 139 -106 155 -103 165 -95 c 0
+ 178 -85 190 -67 200 -41 c 2
+ 248 90 l 1
+ 278 127 l 1
+ 417 522 l 1
+ 545 522 l 1
+ 301 -92 l 2
+ 289 -121 276 -146 260 -165 c 0
+ 244 -184 225 -197 204 -203 c 0
+ 183 -209 158 -212 130 -212 c 0
+225 4 m 1
+ 17 522 l 1
+ 155 522 l 1
+ 324 62 l 1
+ 225 4 l 1
 EndSplineSet
-Validated: 5
-Kerns2: 169 -24 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Substitution2: "'calt' Contextual Alternates in Latin lookup 24 subtable" y
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" y
 EndChar

@@ -1,13 +1,11 @@
 StartChar: quotedblright.ss01
 Encoding: 65671 -1 415
-Width: 491
+Width: 502
 Flags: HW
-HStem: 456 62<73 126.806 267 320.806>
-VStem: 66 162<623.57 721.427> 260 162<623.57 721.427>
+HStem: 467 63<75 130 273 329>
+VStem: 68 166<639 739> 266 166<639 739>
 LayerCount: 3
 Fore
 Refer: 417 -1 N 1 0 0 1 12 0 2
-Refer: 417 -1 N 1 0 0 1 206 0 2
-Validated: 5
-Kerns2: 412 -135 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 381 -170 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 371 -232 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 233 -47 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 221 -96 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 70 -52 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Refer: 417 -1 N 1 0 0 1 211 0 2
 EndChar

@@ -1,17 +1,16 @@
 StartChar: Zdotaccent
-Encoding: 379 379 114
-Width: 539
+Encoding: 379 379 111
+Width: 640
 GlyphClass: 2
 Flags: HW
-HStem: 0 75<113 519> 633 75<39 426> 824 91<233 323>
-VStem: 233 89<824 915>
-AnchorPoint: "Anchor-2" 296 0 basechar 0
-AnchorPoint: "Anchor-0" 296 915 basechar 0
+HStem: 0 78<158 580> 659 78<81 483> 857 95<282 376>
+VStem: 282 93<857 952>
+AnchorPoint: "Anchor-2" 308 0 basechar 0
+AnchorPoint: "Anchor-0" 308 952 basechar 0
 LayerCount: 3
 Fore
-Refer: 111 90 N 1 0 0 1 0 0 3
-Refer: 467 775 N 1 0 0 1 163 207 2
-Validated: 5
+Refer: 108 90 N 1 0 0 1 0 0 3
+Refer: 458 775 N 1 0 0 1 210 215 2
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" Zdotaccent.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Zdotaccent.ss01
 EndChar

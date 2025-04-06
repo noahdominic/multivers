@@ -1,12 +1,11 @@
 StartChar: quotedblright.ss01
-Encoding: 65671 -1 415
-Width: 418
+Encoding: 65671 -1 407
+Width: 502
 Flags: HW
-HStem: 504 39<88 132 240 283> 628 110<102 178 253 329>
-VStem: 88 111<645 719> 240 111<645 719>
+HStem: 524 41<126 171 284 329> 654 114<140 219 297 376>
+VStem: 126 116<671 748> 284 116<671 748>
 LayerCount: 3
 Fore
-Refer: 417 -1 N 1 0 0 1 9 0 2
-Refer: 417 -1 N 1 0 0 1 161 0 2
-Validated: 5
+Refer: 409 -1 N 1 0 0 1 43 0 2
+Refer: 409 -1 N 1 0 0 1 202 0 2
 EndChar

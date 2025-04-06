@@ -1,17 +1,16 @@
 StartChar: Ugrave
 Encoding: 217 217 94
-Width: 696
+Width: 712
 GlyphClass: 2
 Flags: HW
-HStem: -10 105<272.583 429.368> 700 20G<59 209 497 637> 793 157<878 888>
-VStem: 59 150<168.612 720> 497 140<170.005 720> 718 271
-AnchorPoint: "Anchor-3" 489 20 basechar 0
-AnchorPoint: "Anchor-2" 343 0 basechar 0
-AnchorPoint: "Anchor-1" 670 720 basechar 0
-AnchorPoint: "Anchor-0" 343 950 basechar 0
+HStem: -10 108<279 440> 717 20G<60 214 509 652> 812 161<899 909>
+VStem: 60 154<173 737> 509 143<174 737> 735 278
+AnchorPoint: "Anchor-3" 501 20 basechar 0
+AnchorPoint: "Anchor-2" 351 0 basechar 0
+AnchorPoint: "Anchor-1" 686 737 basechar 0
+AnchorPoint: "Anchor-0" 351 973 basechar 0
 LayerCount: 3
 Fore
 Refer: 89 85 N 1 0 0 1 0 0 3
-Refer: 468 768 N 1 0 0 1 658 210 2
-Validated: 1
+Refer: 468 768 N 1 0 0 1 674 215 2
 EndChar

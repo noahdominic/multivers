@@ -1,17 +1,16 @@
 StartChar: Odieresis.ss01
 Encoding: 65552 -1 126
-Width: 782
+Width: 800
 GlyphClass: 2
 Flags: HW
-HStem: -10 105<297.966 479.614> 625 105<297.255 487.514> 800 152<224.174 328.826 452.174 556.826>
-VStem: 41 141<233.129 493.303> 202 149<823.205 930.341> 430 149<823.205 930.341> 599 141<235.292 495.961>
-AnchorPoint: "Anchor-3" 532 20 basechar 0
-AnchorPoint: "Anchor-2" 386 0 basechar 0
-AnchorPoint: "Anchor-1" 752 720 basechar 0
-AnchorPoint: "Anchor-0" 386 952 basechar 0
+HStem: -10 108<305 491> 640 108<304 499> 819 156<230 337 463 570>
+VStem: 42 144<239 505> 207 153<843 953> 440 153<843 953> 613 144<241 508>
+AnchorPoint: "Anchor-3" 545 20 basechar 0
+AnchorPoint: "Anchor-2" 395 0 basechar 0
+AnchorPoint: "Anchor-1" 770 737 basechar 0
+AnchorPoint: "Anchor-0" 395 975 basechar 0
 LayerCount: 3
 Fore
 Refer: 63 79 N 1 0 0 1 0 0 3
-Refer: 482 -1 N 1 0 0 1 142 210 2
-Validated: 1
+Refer: 482 -1 N 1 0 0 1 145 215 2
 EndChar

@@ -1,16 +1,14 @@
 StartChar: uni021A.ss01
 Encoding: 65555 -1 129
-Width: 654
+Width: 669
 GlyphClass: 2
 Flags: HW
-HStem: -331 58<267 315.008> 0 21G<258 397> 618 102<32 258 397 622>
-VStem: 252 150<-186.373 -91.7563> 258 139<0 618>
-AnchorPoint: "Anchor-2" 322 -331 basechar 0
-AnchorPoint: "Anchor-0" 322 720 basechar 0
+HStem: -339 59<273 323> 0 22G<264 407> 633 104<33 264 407 637>
+VStem: 258 154<-191 -94> 264 142<0 633>
+AnchorPoint: "Anchor-2" 330 -339 basechar 0
+AnchorPoint: "Anchor-0" 330 737 basechar 0
 LayerCount: 3
 Fore
 Refer: 86 84 N 1 0 0 1 0 0 3
-Refer: 485 -1 N 1 0 0 1 192 0 2
-Validated: 5
-Kerns2: 291 -68 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 289 -109 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 240 -90 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 227 -106 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 224 -106 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 208 -106 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 207 -106 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Refer: 485 -1 N 1 0 0 1 197 0 2
 EndChar

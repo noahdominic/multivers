@@ -1,16 +1,15 @@
 StartChar: Eacute
 Encoding: 201 201 24
-Width: 622
+Width: 636
 GlyphClass: 2
 Flags: HW
-HStem: 0 102<129 568> 320 101<129 534> 618 102<129 558> 793 157<334 344>
-VStem: 129 77<0 102 320 421 618 720> 233 271
-AnchorPoint: "Anchor-3" 526 0 basechar 0
-AnchorPoint: "Anchor-2" 307 0 basechar 0
-AnchorPoint: "Anchor-0" 317 950 basechar 0
+HStem: 0 104<132 582> 328 103<132 547> 633 104<132 571> 812 161<342 352>
+VStem: 132 79<0 104 328 431 633 737> 239 278
+AnchorPoint: "Anchor-3" 539 0 basechar 0
+AnchorPoint: "Anchor-2" 314 0 basechar 0
+AnchorPoint: "Anchor-0" 325 973 basechar 0
 LayerCount: 3
 Fore
 Refer: 23 69 N 1 0 0 1 0 0 3
-Refer: 469 769 N 1 0 0 1 173 210 2
-Validated: 5
+Refer: 469 769 N 1 0 0 1 177 215 2
 EndChar

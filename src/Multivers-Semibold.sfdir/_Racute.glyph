@@ -1,17 +1,16 @@
 StartChar: Racute
 Encoding: 65538 -1 77
-Width: 657
+Width: 672
 GlyphClass: 2
 Flags: HW
-HStem: 0 21G<59 188 441.306 634> 303 66<159 294> 303 99<347 431.776> 618 102<188 433.516> 793 157<335 345>
-VStem: 59 129<0 303 402 618> 159 29<303 402> 234 271 474 125<442.744 579.096>
-AnchorPoint: "Anchor-2" 323 0 basechar 0
-AnchorPoint: "Anchor-0" 323 950 basechar 0
+HStem: 0 22G<60 193 452 649> 310 68<163 301> 310 101<355 442> 633 104<193 444> 812 161<343 353>
+VStem: 60 132<0 310 412 633> 163 30<310 412> 240 278 485 128<453 593>
+AnchorPoint: "Anchor-2" 331 0 basechar 0
+AnchorPoint: "Anchor-0" 331 973 basechar 0
 LayerCount: 3
 Fore
 Refer: 76 -1 N 1 0 0 1 0 0 3
-Refer: 469 769 N 1 0 0 1 174 210 2
-Validated: 5
+Refer: 469 769 N 1 0 0 1 178 215 2
 Substitution2: "'calt' Contextual Alternates in Latin lookup 26 subtable" Racute.ss05
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Racute.ss05
 EndChar

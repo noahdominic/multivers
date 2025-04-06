@@ -1,18 +1,16 @@
 StartChar: uni0136
 Encoding: 310 310 50
-Width: 704
+Width: 720
 GlyphClass: 2
 Flags: HW
-HStem: -331 58<289 336.379> -200 9<358 392.222> -200 126<289 358> 0 21G<67 206 529.711 716> 700 20G<67 206 513.156 700>
-VStem: 67 139<0 720> 289 136<-189.944 -74>
-AnchorPoint: "Anchor-2" 352 -331 basechar 0
-AnchorPoint: "Anchor-0" 348 720 basechar 0
+HStem: -339 59<296 344> -205 9<367 402> -205 129<296 367> 0 22G<69 211 542 733> 717 20G<69 211 525 717>
+VStem: 69 142<0 737> 296 139<-195 -76>
+AnchorPoint: "Anchor-2" 360 -339 basechar 0
+AnchorPoint: "Anchor-0" 356 737 basechar 0
 LayerCount: 3
 Fore
 Refer: 49 75 N 1 0 0 1 0 0 3
-Refer: 479 806 N 1 0 0 1 222 0 2
-Validated: 5
-Kerns2: 227 -15 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 196 7 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Refer: 479 806 N 1 0 0 1 227 0 2
 Substitution2: "'ss04' Style Set 4 in Latin lookup 25 subtable" uni0136.ss04
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" uni0136.ss01
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" uni0136.ss01 uni0136.ss04

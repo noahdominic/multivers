@@ -1,23 +1,21 @@
 StartChar: multiply
 Encoding: 215 215 438
-Width: 554
+Width: 567
 Flags: HW
 LayerCount: 3
 Fore
 SplineSet
-427 154 m 1
- 60 522 l 1
- 128 590 l 1
- 495 222 l 1
- 427 154 l 1
-128 154 m 1
- 60 222 l 1
- 427 590 l 1
- 495 522 l 1
- 128 154 l 1
+437 158 m 1
+ 61 535 l 1
+ 131 604 l 1
+ 507 227 l 1
+ 437 158 l 1
+131 158 m 1
+ 61 227 l 1
+ 437 604 l 1
+ 507 535 l 1
+ 131 158 l 1
 EndSplineSet
-Validated: 5
-Kerns2: 389 -107 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 329 -16 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 326 -66 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 324 -26 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 323 -21 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 322 -18 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 320 -16 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 86 -71 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 1 -63 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'tnum' Tabular Numbers in Latin lookup 19 subtable" multiply.tf
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" multiply.tf
 EndChar

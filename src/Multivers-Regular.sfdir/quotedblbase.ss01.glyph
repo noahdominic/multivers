@@ -1,12 +1,11 @@
 StartChar: quotedblbase.ss01
-Encoding: 65669 -1 413
-Width: 419
+Encoding: 65669 -1 405
+Width: 502
 Flags: HW
-HStem: -119 39<88 132 241 284> 5 110<102 178 253 330>
-VStem: 88 111<20 95> 241 111<20 95>
+HStem: -124 41<125 170 284 329> 5 114<139 218 296 376>
+VStem: 125 116<21 99> 284 116<21 99>
 LayerCount: 3
 Fore
-Refer: 417 -1 N 1 0 0 1 9 -624 2
-Refer: 417 -1 N 1 0 0 1 162 -624 2
-Validated: 5
+Refer: 409 -1 N 1 0 0 1 42 -649 2
+Refer: 409 -1 N 1 0 0 1 202 -649 2
 EndChar

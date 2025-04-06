@@ -1,21 +1,20 @@
 StartChar: dotlessi
 Encoding: 305 305 189
-Width: 266
+Width: 272
 GlyphClass: 2
 Flags: HW
-HStem: 0 21G<70 196> 490 20G<70 196>
-VStem: 70 126<0 510>
-AnchorPoint: "Anchor-3" 196 0 basechar 0
-AnchorPoint: "Anchor-2" 133 0 basechar 0
-AnchorPoint: "Anchor-0" 133 510 basechar 0
+HStem: 0 22G<72 201> 502 20G<72 201>
+VStem: 72 129<0 522>
+AnchorPoint: "Anchor-3" 201 0 basechar 0
+AnchorPoint: "Anchor-2" 136 0 basechar 0
+AnchorPoint: "Anchor-0" 136 522 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-70 0 m 1
- 70 510 l 1
- 196 510 l 1
- 196 0 l 1
- 70 0 l 1
+72 0 m 1
+ 72 522 l 1
+ 201 522 l 1
+ 201 0 l 1
+ 72 0 l 1
 EndSplineSet
-Validated: 1
 EndChar

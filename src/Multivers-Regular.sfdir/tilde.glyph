@@ -1,11 +1,10 @@
 StartChar: tilde
-Encoding: 732 732 495
-Width: 456
+Encoding: 732 732 486
+Width: 472
 Flags: HW
-HStem: 584 58<285 370> 652 58<142 227>
-VStem: 76 55<594 638> 380 55<656 701>
+HStem: 608 60<296 384> 679 60<147 235>
+VStem: 78 57<618 664> 394 57<683 729>
 LayerCount: 3
 Fore
-Refer: 476 771 N 1 0 0 1 6 0 2
-Validated: 1
+Refer: 467 771 N 1 0 0 1 5 0 2
 EndChar

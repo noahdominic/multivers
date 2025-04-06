@@ -1,23 +1,21 @@
 StartChar: seven
 Encoding: 55 55 326
-Width: 558
+Width: 571
 Flags: HW
-HStem: 0 21G<155 302.592> 610 110<88 411>
+HStem: 0 22G<159 310> 625 113<90 421>
 LayerCount: 3
 Fore
 SplineSet
-155 0 m 1
- 155 0 155 0 411 641 c 5
- 421 610 l 1
- 88 610 l 1
- 88 720 l 1
- 533 720 l 1
- 533 627 l 1
- 295 0 l 1
- 155 0 l 1
+159 0 m 1
+ 159 0 159 0 421 656 c 5
+ 431 625 l 1
+ 90 625 l 1
+ 90 737 l 1
+ 546 737 l 1
+ 546 642 l 1
+ 302 0 l 1
+ 159 0 l 1
 EndSplineSet
-Validated: 5
-Kerns2: 443 -97 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 438 -46 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 426 -7 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 384 -130 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 359 -29 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 325 -23 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'tnum' Tabular Numbers in Latin lookup 19 subtable" seven.tf
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" seven.tf
 EndChar

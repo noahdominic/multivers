@@ -1,21 +1,19 @@
 StartChar: asciicircum
 Encoding: 94 94 444
-Width: 554
+Width: 567
 Flags: HW
-HStem: 491 249
+HStem: 503 255
 LayerCount: 3
 Fore
 SplineSet
-168 491 m 1
- 73 491 l 1
- 224 740 l 1
- 330 740 l 1
- 481 491 l 1
- 386 491 l 1
- 242 699 l 1
- 313 699 l 1
- 168 491 l 1
+172 503 m 1
+ 75 503 l 1
+ 229 758 l 1
+ 338 758 l 1
+ 493 503 l 1
+ 395 503 l 1
+ 248 716 l 1
+ 321 716 l 1
+ 172 503 l 1
 EndSplineSet
-Validated: 5
-Kerns2: 395 -104 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 389 -101 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 388 -69 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 381 -198 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 370 -65 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 368 -135 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 367 -135 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 355 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 345 -135 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 344 -135 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 343 -81 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 329 -27 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 323 -109 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 322 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar

@@ -1,23 +1,22 @@
 StartChar: arrowleft
 Encoding: 8592 8592 462
-Width: 860
+Width: 880
 Flags: HW
-HStem: 302 116<230 795>
+HStem: 309 119<236 814>
 LayerCount: 3
 Fore
 SplineSet
-795 302 m 1
- 160 302 l 1
- 230 352 l 1
- 564 18 l 1
- 406 18 l 1
- 65 360 l 1
- 406 702 l 1
- 565 702 l 1
- 230 368 l 1
- 160 418 l 1
- 795 418 l 1
- 795 302 l 1
+814 309 m 1
+ 164 309 l 1
+ 236 360 l 1
+ 578 18 l 1
+ 416 18 l 1
+ 67 369 l 1
+ 416 719 l 1
+ 579 719 l 1
+ 236 377 l 1
+ 164 428 l 1
+ 814 428 l 1
+ 814 309 l 1
 EndSplineSet
-Validated: 5
 EndChar

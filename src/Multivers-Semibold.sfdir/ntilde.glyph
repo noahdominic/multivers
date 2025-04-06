@@ -1,16 +1,14 @@
 StartChar: ntilde
 Encoding: 241 241 212
-Width: 609
+Width: 623
 GlyphClass: 2
 Flags: HW
-HStem: 0 21G<70 196 419 545> 417 103<279.439 394.482> 490 20G<66 188.678> 592 87<350.549 441.603> 649 86<215.047 306.93>
-VStem: 66 122<414.531 510> 70 126<0 280 392 495.25> 127 78<599 635.076> 419 126<0 392.377> 451 79<692.924 729>
-AnchorPoint: "Anchor-2" 310 0 basechar 0
-AnchorPoint: "Anchor-0" 323 735 basechar 0
+HStem: 0 22G<72 201 429 558> 427 105<286 404> 502 20G<68 193> 606 89<359 452> 665 88<220 314>
+VStem: 68 125<424 522> 72 129<0 287 401 507> 130 80<613 650> 429 129<0 402> 462 81<710 746>
+AnchorPoint: "Anchor-2" 317 0 basechar 0
+AnchorPoint: "Anchor-0" 331 753 basechar 0
 LayerCount: 3
 Fore
 Refer: 208 110 N 1 0 0 1 0 0 3
-Refer: 476 771 N 1 0 0 1 67 0 2
-Validated: 5
-Kerns2: 410 -61 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Refer: 476 771 N 1 0 0 1 69 0 2
 EndChar

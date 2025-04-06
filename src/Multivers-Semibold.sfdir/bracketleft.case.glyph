@@ -1,22 +1,20 @@
 StartChar: bracketleft.case
 Encoding: 65666 -1 398
-Width: 443
+Width: 453
 Flags: HW
-HStem: -40 99<206 385> 661 99<206 385>
-VStem: 88 297<-40 59 661 760> 88 118<59 661>
+HStem: -41 101<211 394> 677 101<211 394>
+VStem: 90 304<-41 60 677 778> 90 121<60 677>
 LayerCount: 3
 Fore
 SplineSet
-88 -40 m 1xe0
- 88 760 l 1
- 385 760 l 1
- 385 661 l 1xe0
- 206 661 l 1
- 206 59 l 1xd0
- 385 59 l 1
- 385 -40 l 1
- 88 -40 l 1xe0
+90 -41 m 1xe0
+ 90 778 l 1
+ 394 778 l 1
+ 394 677 l 1xe0
+ 211 677 l 1
+ 211 60 l 1xd0
+ 394 60 l 1
+ 394 -41 l 1
+ 90 -41 l 1xe0
 EndSplineSet
-Validated: 1
-Kerns2: 385 -132 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 371 -41 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 323 -71 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 320 -59 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar

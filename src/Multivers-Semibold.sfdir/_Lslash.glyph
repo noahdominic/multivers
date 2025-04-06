@@ -1,36 +1,35 @@
 StartChar: Lslash
 Encoding: 321 321 55
-Width: 587
+Width: 601
 GlyphClass: 2
 Flags: HW
-HStem: 0 102<135 541> 494 20G<300.683 348> 700 20G<73 202>
-VStem: 73 129<102 331 432 720> 135 67<0 102> 154 48<339 432>
-AnchorPoint: "Anchor-2" 322 0 basechar 0
-AnchorPoint: "Anchor-1" 373 720 basechar 0
-AnchorPoint: "Anchor-0" 137 720 basechar 0
+HStem: 0 104<138 554> 506 20G<308 356> 717 20G<75 207>
+VStem: 75 132<104 339 442 737> 138 69<0 104> 158 49<347 442>
+AnchorPoint: "Anchor-2" 330 0 basechar 0
+AnchorPoint: "Anchor-1" 382 737 basechar 0
+AnchorPoint: "Anchor-0" 140 737 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-155 331 m 1xe4
- 5 270 l 1
- 5 363 l 1
- 154 424 l 1
- 155 331 l 1xe4
-154 432 m 1
- 348 514 l 1
- 348 421 l 1
- 155 339 l 1
- 154 432 l 1
-73 0 m 1xf0
- 73 720 l 1
- 202 720 l 1xf0
- 202 0 l 1xe8
- 73 0 l 1xf0
-135 0 m 1xe8
- 135 102 l 1
- 541 102 l 1
- 541 0 l 1
- 135 0 l 1xe8
+159 339 m 1xe4
+ 5 276 l 1
+ 5 372 l 1
+ 158 434 l 1
+ 159 339 l 1xe4
+158 442 m 1
+ 356 526 l 1
+ 356 431 l 1
+ 159 347 l 1
+ 158 442 l 1
+75 0 m 1xf0
+ 75 737 l 1
+ 207 737 l 1xf0
+ 207 0 l 1xe8
+ 75 0 l 1xf0
+138 0 m 1xe8
+ 138 104 l 1
+ 554 104 l 1
+ 554 0 l 1
+ 138 0 l 1xe8
 EndSplineSet
-Validated: 5
 EndChar

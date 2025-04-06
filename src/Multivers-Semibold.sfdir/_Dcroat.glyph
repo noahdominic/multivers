@@ -1,14 +1,13 @@
 StartChar: Dcroat
 Encoding: 272 272 22
-Width: 755
+Width: 773
 GlyphClass: 2
 Flags: HW
-HStem: 0 103<157 446.852> 310 102<12 386> 617 103<160 449.862>
-VStem: 157 51<0 103 617 720> 585 131<244.338 481.715>
-AnchorPoint: "Anchor-2" 382 0 basechar 0
-AnchorPoint: "Anchor-0" 382 720 basechar 0
+HStem: 0 105<161 458> 317 104<12 395> 632 105<164 461>
+VStem: 161 52<0 105 632 737> 599 134<250 493>
+AnchorPoint: "Anchor-2" 391 0 basechar 0
+AnchorPoint: "Anchor-0" 391 737 basechar 0
 LayerCount: 3
 Fore
 Refer: 20 208 N 1 0 0 1 0 0 3
-Validated: 5
 EndChar

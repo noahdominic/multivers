@@ -1,18 +1,17 @@
 StartChar: ij
-Encoding: 307 307 195
-Width: 469
+Encoding: 307 307 192
+Width: 526
 GlyphClass: 2
 Flags: HW
-HStem: -166 63<212 311> 0 21G<89 176> 482 19G<89 176 320 406> 617 91<87 177 316 405>
-VStem: 87 89<617 708> 89 86<0 502> 316 89<617 708> 320 86<-94 502>
-AnchorPoint: "Anchor-3" 160 0 basechar 0
+HStem: -173 66<240 343> 0 22G<112 202> 502 20G<112 202 352 442> 642 95<110 203 348 440>
+VStem: 110 93<642 737> 112 89<0 522> 348 93<642 737> 352 89<-98 522>
+AnchorPoint: "Anchor-3" 186 0 basechar 0
 LayerCount: 3
 Fore
-Refer: 189 305 N 1 0 0 1 6 0 2
-Refer: 467 775 N 1 0 0 1 18 0 2
-Refer: 199 567 N 1 0 0 1 234 0 2
-Refer: 467 775 N 1 0 0 1 246 0 2
-Validated: 1
+Refer: 186 305 N 1 0 0 1 25 0 2
+Refer: 458 775 N 1 0 0 1 38 0 2
+Refer: 196 567 N 1 0 0 1 263 0 2
+Refer: 458 775 N 1 0 0 1 275 0 2
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" ij.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" ij.ss01
 EndChar

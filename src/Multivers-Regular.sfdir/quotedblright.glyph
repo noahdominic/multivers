@@ -1,14 +1,13 @@
 StartChar: quotedblright
-Encoding: 8221 8221 403
-Width: 408
+Encoding: 8221 8221 395
+Width: 486
 Flags: HW
-HStem: 500 209<140 161 291 313>
-VStem: 91 148 243 148
+HStem: 520 217<177 199 334 357>
+VStem: 126 154 284 154
 LayerCount: 3
 Fore
-Refer: 405 8217 N 1 0 0 1 157 0 2
-Refer: 405 8217 N 1 0 0 1 6 0 2
-Validated: 1
+Refer: 397 8217 N 1 0 0 1 194 0 2
+Refer: 397 8217 N 1 0 0 1 37 0 2
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" quotedblright.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" quotedblright.ss01
 EndChar

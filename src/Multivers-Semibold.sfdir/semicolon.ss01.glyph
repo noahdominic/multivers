@@ -1,13 +1,11 @@
 StartChar: semicolon.ss01
 Encoding: 65648 -1 370
-Width: 283
+Width: 289
 Flags: HW
-HStem: 334 161<86.2369 198.248>
-VStem: 60 161<18.6127 120.928> 62 161<358.639 470.363>
+HStem: 342 165<88 203>
+VStem: 61 165<19 124> 63 165<367 482>
 LayerCount: 3
 Fore
 Refer: 368 -1 N 1 0 0 1 5 0 2
-Refer: 367 -1 N 1 0 0 1 7 344 2
-Validated: 5
-Kerns2: 389 -52 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Refer: 367 -1 N 1 0 0 1 7 352 2
 EndChar

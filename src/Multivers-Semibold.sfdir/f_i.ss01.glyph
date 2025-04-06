@@ -1,52 +1,50 @@
 StartChar: f_i.ss01
 Encoding: 65623 -1 316
-Width: 632
+Width: 647
 GlyphClass: 3
 LigCaretCntFixed: 1
 Flags: HW
-HStem: 0 21G<109 234 429 554> 405 105<20 468> 578 152<440.205 544.826> 624 106<253.083 351.594>
-VStem: 109 125<0 604.402> 417 150<600.69 708.341> 429 125<0 405> 429 39<405 510>
-AnchorPoint: "Anchor-5" 161 0 baselig 0
-AnchorPoint: "Anchor-4" 161 740 baselig 0
-AnchorPoint: "Anchor-5" 471 0 baselig 1
-AnchorPoint: "Anchor-4" 471 740 baselig 1
+HStem: 0 22G<112 240 439 567> 415 108<20 479> 592 156<451 558> 639 109<259 360>
+VStem: 112 128<0 619> 427 154<615 725> 439 128<0 415> 439 40<415 522>
+AnchorPoint: "Anchor-5" 165 0 baselig 0
+AnchorPoint: "Anchor-4" 165 758 baselig 0
+AnchorPoint: "Anchor-5" 482 0 baselig 1
+AnchorPoint: "Anchor-4" 482 758 baselig 1
 LayerCount: 3
 Fore
 SplineSet
-109 0 m 1xd8
- 109 559 l 2
- 109 615 124.333007812 657.5 155 686.5 c 0
- 185.666992188 715.5 231 730 291 730 c 0
- 304.333007812 730 315.666992188 729.333007812 325 728 c 0
- 334.333007812 726.666992188 343.333007812 724.666992188 352 722 c 1
- 352 618 l 1
- 347.333007812 620 341.5 621.5 334.5 622.5 c 0
- 327.5 623.5 319.333007812 624 310 624 c 0
- 284 624 264.833007812 617.666992188 252.5 605 c 0
- 240.166992188 592.333007812 234 574 234 550 c 2
- 234 0 l 1
- 109 0 l 1xd8
-429 0 m 1xca
- 429 510 l 1xc9
- 554 510 l 1
- 554 0 l 1
- 429 0 l 1xca
-493 578 m 256xec
- 472.333007812 578 454.5 585.333007812 439.5 600 c 0
- 424.5 614.666992188 417 632.666992188 417 654 c 0
- 417 676.666992188 424.5 695 439.5 709 c 0
- 454.5 723 472.333007812 730 493 730 c 256
- 513.666992188 730 531.166992188 723 545.5 709 c 0
- 559.833007812 695 567 676.666992188 567 654 c 0
- 567 632.666992188 559.833007812 614.666992188 545.5 600 c 0
- 531.166992188 585.333007812 513.666992188 578 493 578 c 256xec
-20 405 m 1
- 20 510 l 1
- 468 510 l 1
- 468 405 l 1xc9
- 20 405 l 1
+112 0 m 1xd8
+ 112 572 l 2
+ 112 629 128 673 159 703 c 0
+ 190 733 237 748 298 748 c 0
+ 312 748 323 746 333 745 c 0
+ 343 744 351 742 360 739 c 1
+ 360 633 l 1
+ 355 635 350 636 343 637 c 0
+ 336 638 327 639 317 639 c 0
+ 290 639 272 633 259 620 c 0
+ 246 607 240 588 240 563 c 2
+ 240 0 l 1
+ 112 0 l 1xd8
+439 0 m 1xca
+ 439 522 l 1xc9
+ 567 522 l 1
+ 567 0 l 1
+ 439 0 l 1xca
+505 592 m 256xec
+ 484 592 465 599 450 614 c 0
+ 435 629 427 648 427 670 c 0
+ 427 693 435 712 450 726 c 0
+ 465 740 484 748 505 748 c 256
+ 526 748 544 740 559 726 c 0
+ 574 712 581 693 581 670 c 0
+ 581 648 574 629 559 614 c 0
+ 544 599 526 592 505 592 c 256xec
+20 415 m 1
+ 20 522 l 1
+ 479 522 l 1
+ 479 415 l 1xc9
+ 20 415 l 1
 EndSplineSet
-Validated: 5
-Kerns2: 443 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 440 -23 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 384 -56 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 371 -35 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 221 5 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 198 -7 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 169 -3 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 100 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 86 -12 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
-LCarets2: 1 311
+LCarets2: 1 318
 EndChar

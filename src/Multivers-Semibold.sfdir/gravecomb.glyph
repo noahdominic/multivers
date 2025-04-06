@@ -3,20 +3,19 @@ Encoding: 768 768 468
 Width: 10
 GlyphClass: 4
 Flags: HW
-HStem: 583 157<225 235>
-VStem: 65 271
-AnchorPoint: "Anchor-7" 247 740 basemark 0
-AnchorPoint: "Anchor-7" 247 510 mark 0
-AnchorPoint: "Anchor-4" 247 510 mark 0
-AnchorPoint: "Anchor-0" 247 510 mark 0
+HStem: 597 161<230 241>
+VStem: 67 278
+AnchorPoint: "Anchor-7" 253 758 basemark 0
+AnchorPoint: "Anchor-7" 253 522 mark 0
+AnchorPoint: "Anchor-4" 253 522 mark 0
+AnchorPoint: "Anchor-0" 253 522 mark 0
 LayerCount: 3
 Fore
 SplineSet
-225 583 m 1
- 65 740 l 1
- 235 740 l 1
- 336 583 l 1
- 225 583 l 1
+230 597 m 1
+ 67 758 l 1
+ 241 758 l 1
+ 344 597 l 1
+ 230 597 l 1
 EndSplineSet
-Validated: 1
 EndChar

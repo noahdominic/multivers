@@ -1,27 +1,25 @@
 StartChar: exclamdown.ss01
 Encoding: 65651 -1 373
-Width: 318
+Width: 325
 Flags: HW
-HStem: 359 161<103.782 215.278>
-VStem: 78 161<384.361 494.635> 89 139<-205 -34.0526> 108 101<88.0526 259>
+HStem: 368 165<106 220>
+VStem: 80 165<394 507> 91 142<-210 -35> 111 103<90 265>
 LayerCount: 3
 Fore
 SplineSet
-89 -205 m 1xa0
- 108 259 l 1
- 209 259 l 1x90
- 228 -205 l 1
- 89 -205 l 1xa0
-158 520 m 0
- 181.333007812 520 200.666992188 512.5 216 497.5 c 0
- 231.333007812 482.5 239 463 239 439 c 0
- 239 415.666992188 231.333007812 396.5 216 381.5 c 0
- 200.666992188 366.5 181.333007812 359 158 359 c 0
- 138 359 119.666992188 366.5 103 381.5 c 0
- 86.3330078125 396.5 78 415.666992188 78 439 c 0xc0
- 78 463.666992188 86.3330078125 483.333007812 103 498 c 0
- 119.666992188 512.666992188 138 520 158 520 c 0
+91 -210 m 1xa0
+ 111 265 l 1
+ 214 265 l 1x90
+ 233 -210 l 1
+ 91 -210 l 1xa0
+162 532 m 0
+ 186 532 205 524 221 509 c 0
+ 237 494 245 475 245 450 c 0
+ 245 426 237 406 221 391 c 0
+ 205 376 186 368 162 368 c 0
+ 142 368 122 376 105 391 c 0
+ 88 406 80 426 80 450 c 0xc0
+ 80 475 88 495 105 510 c 0
+ 122 525 142 532 162 532 c 0
 EndSplineSet
-Validated: 1
-Kerns2: 410 -69 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 373 -29 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 106 -96 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 99 -74 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 89 -25 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 86 -96 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 80 -29 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 75 -21 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 63 -21 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 33 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 14 -21 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 13 -22 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 1 -36 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar

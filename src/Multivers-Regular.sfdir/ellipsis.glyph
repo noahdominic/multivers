@@ -1,16 +1,15 @@
 StartChar: ellipsis
-Encoding: 8230 8230 348
-Width: 640
+Encoding: 8230 8230 340
+Width: 744
 Flags: HW
-HStem: 0 100<89 190 281 381 474 573>
-VStem: 89 100<0 100> 281 100<0 100> 474 100<0 100>
+HStem: 0 104<132 237 331 435 532 635>
+VStem: 132 104<0 104> 331 104<0 104> 532 104<0 104>
 CounterMasks: 1 70
 LayerCount: 3
 Fore
-Refer: 344 46 N 1 0 0 1 6 0 2
-Refer: 344 46 N 1 0 0 1 198 0 2
-Refer: 344 46 N 1 0 0 1 390 0 2
-Validated: 1
+Refer: 336 46 N 1 0 0 1 45 0 2
+Refer: 336 46 N 1 0 0 1 245 0 2
+Refer: 336 46 N 1 0 0 1 445 0 2
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" ellipsis.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" ellipsis.ss01
 EndChar

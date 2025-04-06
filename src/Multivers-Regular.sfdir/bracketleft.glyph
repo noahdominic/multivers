@@ -1,23 +1,22 @@
 StartChar: bracketleft
-Encoding: 91 91 392
-Width: 402
+Encoding: 91 91 384
+Width: 452
 Flags: HW
-HStem: -107 63<165 339> 676 62<165 339>
-VStem: 93 72<-44 676>
+HStem: -111 66<189 370> 703 65<189 370>
+VStem: 114 75<-46 703>
 LayerCount: 3
 Fore
 SplineSet
-93 -107 m 1
- 93 738 l 1
- 339 738 l 1
- 339 676 l 1
- 165 676 l 1
- 165 -44 l 1
- 339 -44 l 1
- 339 -107 l 1
- 93 -107 l 1
+114 -111 m 1
+ 114 768 l 1
+ 370 768 l 1
+ 370 703 l 1
+ 189 703 l 1
+ 189 -46 l 1
+ 370 -46 l 1
+ 370 -111 l 1
+ 114 -111 l 1
 EndSplineSet
-Validated: 1
 Substitution2: "'case' Case-Sensitive Forms in Latin lookup 20 subtable" bracketleft.case
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" bracketleft.case
 EndChar

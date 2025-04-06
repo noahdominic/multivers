@@ -1,19 +1,18 @@
 StartChar: iogonek
 Encoding: 303 303 197
-Width: 266
+Width: 272
 GlyphClass: 2
 Flags: HW
-HStem: -216 67<113.129 184.648> 0 21G<70 196> 490 20G<70 196> 594 138<65 201>
-VStem: 22 86<-143.38 -65.6772> 65 136<594 732> 70 126<0 510>
-AnchorPoint: "Anchor-3" 191 0 basechar 0
-AnchorPoint: "Anchor-2" 128 0 basechar 0
-AnchorPoint: "Anchor-0" 128 732 basechar 0
+HStem: -221 69<116 189> 0 22G<72 201> 502 20G<72 201> 608 141<67 206>
+VStem: 23 88<-147 -67> 67 139<608 750> 72 129<0 522>
+AnchorPoint: "Anchor-3" 196 0 basechar 0
+AnchorPoint: "Anchor-2" 131 0 basechar 0
+AnchorPoint: "Anchor-0" 131 750 basechar 0
 LayerCount: 3
 Fore
 Refer: 189 305 N 1 0 0 1 0 0 3
 Refer: 467 775 N 1 0 0 1 5 0 2
-Refer: 481 808 N 1 0 0 1 -38 0 2
-Validated: 5
+Refer: 481 808 N 1 0 0 1 -39 0 2
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" iogonek.ss01
 MultipleSubs2: "Multiple Substitution lookup 5 subtable" dotlessi uni0328
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" iogonek.ss01
