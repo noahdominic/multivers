@@ -18,6 +18,7 @@ SplineSet
  331 119 312 71 273 39 c 0
  232 6 175 -10 103 -10 c 3
 EndSplineSet
+Validated: 1
 Substitution2: "'ss08' Style Set 8 in Latin lookup 29 subtable" J.ss08
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" J.ss08
 EndChar

@@ -11,6 +11,7 @@ LayerCount: 3
 Fore
 Refer: 197 107 N 1 0 0 1 0 0 3
 Refer: 476 -1 N 1 0 0 1 457 0 2
+Validated: 1048581
 Substitution2: "'ss04' Style Set 4 in Latin lookup 25 subtable" kcommaaccent.ss01.ss04
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" kcommaaccent.ss01.ss04
 EndChar

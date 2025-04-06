@@ -12,6 +12,7 @@ SplineSet
  508 332 l 1
  59 332 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "'tnum' Tabular Numbers in Latin lookup 19 subtable" minus.tf
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" minus.tf
 EndChar

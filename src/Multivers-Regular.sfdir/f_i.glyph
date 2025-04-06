@@ -40,6 +40,7 @@ SplineSet
  443 454 l 1
  39 454 l 1
 EndSplineSet
+Validated: 5
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" f_i.ss01
 Ligature2: "'liga' Standard Ligatures in Latin lookup 21 subtable" f i
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" f_i.ss01

@@ -18,6 +18,7 @@ SplineSet
  228 670 168 574 168 373 c 0
  168 285 174 68 344 68 c 260
 EndSplineSet
+Validated: 1
 Substitution2: "'tnum' Tabular Numbers in Latin lookup 19 subtable" zero.tf
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" zero.tf
 EndChar

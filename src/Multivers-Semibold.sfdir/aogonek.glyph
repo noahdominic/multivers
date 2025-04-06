@@ -12,6 +12,7 @@ LayerCount: 3
 Fore
 Refer: 150 97 N 1 0 0 1 0 0 3
 Refer: 481 808 N 1 0 0 1 278 0 2
+Validated: 1048581
 Substitution2: "'ss02' Style Set 2 in Latin lookup 23 subtable" aogonek.ss02
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" aogonek.ss02
 EndChar

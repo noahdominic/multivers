@@ -26,6 +26,7 @@ SplineSet
  71 231 58 298 58 370 c 0
  58 597 189 747 387 747 c 0
 EndSplineSet
+Validated: 37
 Substitution2: "'ss09' Style Set 9 in Latin lookup 30 subtable" Q.ss09
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Q.ss09
 EndChar

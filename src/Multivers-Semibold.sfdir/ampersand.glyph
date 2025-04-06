@@ -55,6 +55,7 @@ SplineSet
  515 38 479 20 439 8 c 0
  399 -4 357 -10 313 -10 c 0xb6
 EndSplineSet
+Validated: 5
 Substitution2: "'calt' Contextual Alternates in Latin lookup 32 subtable" ampersand.ss11
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" ampersand.ss11
 EndChar

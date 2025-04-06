@@ -32,6 +32,7 @@ SplineSet
  459 399 548 317 548 198 c 0
  548 80 449 -10 304 -10 c 0xb1
 EndSplineSet
+Validated: 37
 Substitution2: "'tnum' Tabular Numbers in Latin lookup 19 subtable" three.tf
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" three.tf
 EndChar

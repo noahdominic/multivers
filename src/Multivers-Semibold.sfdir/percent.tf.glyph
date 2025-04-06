@@ -57,6 +57,7 @@ SplineSet
  110 517 114 487 125 469 c 0
  136 451 149 442 163 442 c 256
 EndSplineSet
+Validated: 1
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 18 subtable" percent
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" percent
 EndChar

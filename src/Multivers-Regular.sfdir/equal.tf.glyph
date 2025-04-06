@@ -17,6 +17,7 @@ SplineSet
  534 244 l 1
  85 244 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 18 subtable" equal
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" equal
 EndChar

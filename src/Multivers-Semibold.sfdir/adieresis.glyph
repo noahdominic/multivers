@@ -12,6 +12,7 @@ LayerCount: 3
 Fore
 Refer: 150 97 N 1 0 0 1 0 0 3
 Refer: 466 776 N 1 0 0 1 42 0 2
+Validated: 1048581
 Substitution2: "'ss02' Style Set 2 in Latin lookup 23 subtable" adieresis.ss02
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" adieresis.ss01
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" adieresis.ss01 adieresis.ss02

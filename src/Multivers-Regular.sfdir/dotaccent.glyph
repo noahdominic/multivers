@@ -7,6 +7,7 @@ VStem: 102 93<642 737>
 LayerCount: 3
 Fore
 Refer: 458 775 N 1 0 0 1 29 0 2
+Validated: 1
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" dotaccent.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" dotaccent.ss01
 EndChar

@@ -8,6 +8,7 @@ LayerCount: 3
 Fore
 Refer: 337 44 S 1 0 0 1 -7 0 3
 Refer: 336 46 N 1 0 0 1 0 389 2
+Validated: 1
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" semicolon.ss01
 Substitution2: "'case' Case-Sensitive Forms in Latin lookup 20 subtable" semicolon.case
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" semicolon.case semicolon.ss01

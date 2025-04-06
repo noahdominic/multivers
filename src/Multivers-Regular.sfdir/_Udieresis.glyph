@@ -13,6 +13,7 @@ LayerCount: 3
 Fore
 Refer: 86 85 N 1 0 0 1 0 0 3
 Refer: 457 776 N 1 0 0 1 133 215 2
+Validated: 1
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" Udieresis.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Udieresis.ss01
 EndChar

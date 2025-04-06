@@ -13,6 +13,7 @@ SplineSet
  266 740 l 1
  211 488 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" quoteleft.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" quoteleft.ss01
 EndChar

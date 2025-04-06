@@ -33,6 +33,7 @@ SplineSet
  321 349 449 350 449 503 c 4
  449 610 387 670 298 670 c 4
 EndSplineSet
+Validated: 37
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 18 subtable" nine
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" nine
 EndChar

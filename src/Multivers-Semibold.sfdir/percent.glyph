@@ -57,6 +57,7 @@ SplineSet
  126 524 133 496 147 477 c 0
  161 458 181 449 204 449 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "'tnum' Tabular Numbers in Latin lookup 19 subtable" percent.tf
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" percent.tf
 EndChar

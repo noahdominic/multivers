@@ -34,6 +34,7 @@ SplineSet
  212 190 230 158 254 135 c 0
  278 112 308 100 343 100 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "'tnum' Tabular Numbers in Latin lookup 19 subtable" zero.tf
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" zero.tf
 EndChar

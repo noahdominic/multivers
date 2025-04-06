@@ -1,7 +1,7 @@
 import fontforge
 
-source = fontforge.open("Multivers-Semibold.sfdir")
-target = fontforge.open("Multivers-Regular.sfdir")
+source = fontforge.open("/home/noahdominic/.local/share/fonts/multivers/Multivers-Semibold.ttf")
+target = fontforge.open("Multivers-Semibold.sfdir")
 
 print(target)
 source_glyphs = list([glyph.glyphname for glyph in source.glyphs()])

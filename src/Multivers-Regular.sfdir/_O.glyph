@@ -23,6 +23,7 @@ SplineSet
  252 675 167 558 167 364 c 0
  167 173 251 62 403 62 c 260
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 17 subtable" ordmasculine
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" ordmasculine
 EndChar

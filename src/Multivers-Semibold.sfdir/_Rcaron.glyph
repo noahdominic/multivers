@@ -11,6 +11,7 @@ LayerCount: 3
 Fore
 Refer: 76 -1 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 71 215 2
+Validated: 1048581
 Substitution2: "'calt' Contextual Alternates in Latin lookup 26 subtable" Rcaron.ss05
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Rcaron.ss05
 EndChar

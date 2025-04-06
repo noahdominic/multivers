@@ -2,9 +2,9 @@ StartChar: d
 Encoding: 100 100 165
 Width: 630
 GlyphClass: 2
-Flags: HW
-HStem: -9 65<228.381 369.381> 466 67<220.381 367.381>
-VStem: 53.381 94<149 376> 449.381 88<0 128 145 371>
+Flags: W
+HStem: -9 64<228.326 368.379> 466 67<220.207 366.878>
+VStem: 53.3809 93<148.995 375.917> 449.381 88<0.0947266 128 144.404 371.127>
 AnchorPoint: "Anchor-0" 345.381 735 basechar 0
 AnchorPoint: "Anchor-1" 55.3809 716 basechar 0
 AnchorPoint: "Anchor-2" 321.381 0 basechar 0
@@ -31,4 +31,5 @@ SplineSet
  391.380859375 466 453.380859375 364 453.380859375 261 c 0
  453.380859375 144 383.380859375 55 302.380859375 55 c 0
 EndSplineSet
+Validated: 1048613
 EndChar

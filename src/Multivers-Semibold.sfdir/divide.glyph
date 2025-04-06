@@ -31,6 +31,7 @@ SplineSet
  353 180 346 163 332 150 c 0
  318 137 303 130 285 130 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "'tnum' Tabular Numbers in Latin lookup 19 subtable" divide.tf
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" divide.tf
 EndChar

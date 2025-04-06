@@ -39,6 +39,7 @@ SplineSet
  432 104 l 1
  427 87 390 -10 238 -10 c 0xb880
 EndSplineSet
+Validated: 1048613
 Substitution2: "'ss02' Style Set 2 in Latin lookup 23 subtable" a.ss02
 Substitution2: "Single Substitution lookup 17 subtable" ordfeminine
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" a.ss02 ordfeminine

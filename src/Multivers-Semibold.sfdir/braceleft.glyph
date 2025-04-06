@@ -40,6 +40,7 @@ SplineSet
  394 -111 l 1
  298 -111 l 2
 EndSplineSet
+Validated: 33
 Substitution2: "'case' Case-Sensitive Forms in Latin lookup 20 subtable" braceleft.case
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" braceleft.case
 EndChar

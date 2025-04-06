@@ -13,6 +13,7 @@ SplineSet
  254 306 l 1
  98 306 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" bullet.ss01
 Substitution2: "'case' Case-Sensitive Forms in Latin lookup 20 subtable" bullet.case
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" bullet.case bullet.ss01

@@ -16,6 +16,7 @@ SplineSet
  302 0 l 1
  159 0 l 1
 EndSplineSet
+Validated: 5
 Substitution2: "'tnum' Tabular Numbers in Latin lookup 19 subtable" seven.tf
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" seven.tf
 EndChar

@@ -31,6 +31,7 @@ SplineSet
  543 0 l 1
  37 0 l 1
 EndSplineSet
+Validated: 5
 Substitution2: "'ss10' Style Set 10 in Latin lookup 31 subtable" two.ss10
 Substitution2: "'tnum' Tabular Numbers in Latin lookup 19 subtable" two.tf
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" two.ss10 two.tf

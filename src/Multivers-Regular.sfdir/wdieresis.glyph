@@ -11,6 +11,7 @@ LayerCount: 3
 Fore
 Refer: 248 119 N 1 0 0 1 0 0 3
 Refer: 457 776 N 1 0 0 1 189 0 2
+Validated: 1048581
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" wdieresis.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" wdieresis.ss01
 EndChar

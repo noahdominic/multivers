@@ -12,6 +12,7 @@ LayerCount: 3
 Fore
 Refer: 23 69 N 1 0 0 1 0 0 3
 Refer: 467 775 N 1 0 0 1 199 215 2
+Validated: 1048581
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" Edotaccent.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Edotaccent.ss01
 EndChar

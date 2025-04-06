@@ -12,6 +12,7 @@ SplineSet
  582 244 l 5
  31 244 l 5
 EndSplineSet
+Validated: 1
 Substitution2: "'case' Case-Sensitive Forms in Latin lookup 20 subtable" endash.case
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" endash.case
 EndChar

@@ -10,6 +10,7 @@ AnchorPoint: "Anchor-0" 331 737 basechar 0
 LayerCount: 3
 Fore
 Refer: 470 806 N 1 0 0 1 211 0 2
+Validated: 1048581
 Substitution2: "'calt' Contextual Alternates in Latin lookup 26 subtable" Rcommaaccent
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" uni0156.ss01
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" uni0156.ss01 Rcommaaccent

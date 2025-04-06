@@ -35,6 +35,7 @@ SplineSet
  700 39 647 23 557 3 c 0
  519 -6 470 -10 411 -10 c 0
 EndSplineSet
+Validated: 1048577
 Substitution2: "'ss07' Style Set 7 in Latin lookup 28 subtable" G.ss07
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" G.ss07
 EndChar

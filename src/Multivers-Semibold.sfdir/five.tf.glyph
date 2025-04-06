@@ -36,6 +36,7 @@ SplineSet
  501 68 473 39 437 19 c 0
  401 -1 358 -10 310 -10 c 0xdc
 EndSplineSet
+Validated: 5
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 18 subtable" five
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" five
 EndChar

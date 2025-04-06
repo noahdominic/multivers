@@ -46,6 +46,7 @@ SplineSet
  470 52 442 30 408 14 c 0
  374 -2 336 -10 294 -10 c 0
 EndSplineSet
+Validated: 1048581
 Substitution2: "'ss12' Style Set 12 in Latin lookup 33 subtable" cent.ss12
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" cent.ss12
 EndChar

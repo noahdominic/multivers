@@ -42,6 +42,7 @@ SplineSet
  215 138 231 122 252 111 c 0
  273 100 297 94 323 94 c 0
 EndSplineSet
+Validated: 5
 Substitution2: "'tnum' Tabular Numbers in Latin lookup 19 subtable" six.tf
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" six.tf
 EndChar

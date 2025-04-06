@@ -10,6 +10,7 @@ AnchorPoint: "Anchor-0" 274 735 basechar 0
 LayerCount: 3
 Fore
 Refer: 473 -1 N 1 0 0 1 41 0 2
+Validated: 1048577
 Substitution2: "'calt' Contextual Alternates in Latin lookup 24 subtable" ydieresis.ss01.ss03
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" ydieresis.ss01.ss03
 EndChar

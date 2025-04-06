@@ -15,6 +15,7 @@ SplineSet
  500 341 l 5
  68 177 l 5
 EndSplineSet
+Validated: 5
 Substitution2: "'tnum' Tabular Numbers in Latin lookup 19 subtable" greater.tf
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" greater.tf
 EndChar

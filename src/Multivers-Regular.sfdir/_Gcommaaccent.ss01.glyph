@@ -11,6 +11,7 @@ LayerCount: 3
 Fore
 Refer: 33 71 N 1 0 0 1 0 0 3
 Refer: 476 -1 N 1 0 0 1 396 0 2
+Validated: 1048581
 Substitution2: "'ss07' Style Set 7 in Latin lookup 28 subtable" Gcommaaccent.ss01.ss07
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Gcommaaccent.ss01.ss07
 EndChar

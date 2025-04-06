@@ -42,6 +42,7 @@ SplineSet
  873 0 l 1
  784 0 l 1xfc
 EndSplineSet
+Validated: 5
 Ligature2: "'liga' Standard Ligatures in Latin lookup 21 subtable" f f l
 LCarets2: 2 306 611
 EndChar

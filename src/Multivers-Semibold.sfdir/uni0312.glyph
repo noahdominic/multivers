@@ -24,6 +24,7 @@ SplineSet
  213 597 l 1
  74 597 l 1xb0
 EndSplineSet
+Validated: 5
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" uni0312.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni0312.ss01
 EndChar
