@@ -1,16 +1,15 @@
 StartChar: Edotaccent.ss01
 Encoding: 65544 -1 118
-Width: 636
+Width: 630
 GlyphClass: 2
 Flags: HW
-HStem: 0 104<132 582> 328 103<132 547> 633 104<132 571> 807 169<274 386>
-VStem: 132 79<0 104 328 431 633 737> 247 166<835 950>
+HStem: 0 104<129 579> 328 103<129 544> 633 104<129 568> 807 169<271 383>
+VStem: 129 79<0 104 328 431 633 737> 244 166<835 950>
 AnchorPoint: "Anchor-3" 539 0 basechar 0
 AnchorPoint: "Anchor-2" 314 0 basechar 0
 AnchorPoint: "Anchor-0" 325 976 basechar 0
 LayerCount: 3
 Fore
 Refer: 23 69 N 1 0 0 1 0 0 3
-Refer: 483 -1 N 1 0 0 1 185 215 2
-Validated: 1048581
+Refer: 483 -1 N 1 0 0 1 182 215 2
 EndChar

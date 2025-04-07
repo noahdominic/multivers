@@ -1,16 +1,15 @@
 StartChar: icircumflex
 Encoding: 238 238 188
-Width: 271
+Width: 259
 GlyphClass: 2
 Flags: HW
-HStem: 0 22G<93 183> 502 20G<93 183> 597 161 717 20G<108 188>
-VStem: 93 89<0 522>
-AnchorPoint: "Anchor-3" 162 0 basechar 0
-AnchorPoint: "Anchor-2" 121 0 basechar 0
-AnchorPoint: "Anchor-0" 121 758 basechar 0
+HStem: 0 22G<89 179> 502 20G<89 179> 597 161 717 20G<104 184>
+VStem: 89 89<0 522>
+AnchorPoint: "Anchor-3" 164 0 basechar 0
+AnchorPoint: "Anchor-2" 123 0 basechar 0
+AnchorPoint: "Anchor-0" 123 758 basechar 0
 LayerCount: 3
 Fore
-Refer: 186 305 N 1 0 0 1 1 0 3
-Refer: 463 770 N 1 0 0 1 -110 0 2
-Validated: 1048581
+Refer: 186 305 N 1 0 0 1 3 0 3
+Refer: 463 770 N 1 0 0 1 -114 0 2
 EndChar

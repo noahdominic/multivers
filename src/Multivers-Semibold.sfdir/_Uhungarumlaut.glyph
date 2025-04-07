@@ -1,10 +1,10 @@
 StartChar: Uhungarumlaut
 Encoding: 368 368 95
-Width: 712
+Width: 704
 GlyphClass: 2
 Flags: HW
-HStem: -10 108<279 440> 717 20G<60 214 509 652> 812 161<806 846 1021 1061>
-VStem: 60 154<173 737> 509 143<174 737>
+HStem: -10 108<275 436> 717 20G<56 210 505 648> 812 161<802 842 1017 1057>
+VStem: 56 154<173 737> 505 143<174 737>
 AnchorPoint: "Anchor-3" 501 20 basechar 0
 AnchorPoint: "Anchor-2" 351 0 basechar 0
 AnchorPoint: "Anchor-1" 686 737 basechar 0
@@ -12,6 +12,5 @@ AnchorPoint: "Anchor-0" 351 973 basechar 0
 LayerCount: 3
 Fore
 Refer: 89 85 N 1 0 0 1 0 0 3
-Refer: 470 779 N 1 0 0 1 687 215 2
-Validated: 1
+Refer: 470 779 N 1 0 0 1 683 215 2
 EndChar

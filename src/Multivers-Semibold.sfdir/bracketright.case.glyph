@@ -1,21 +1,20 @@
 StartChar: bracketright.case
 Encoding: 65667 -1 399
-Width: 453
+Width: 439
 Flags: HW
-HStem: -41 101<59 243> 677 101<59 243>
-VStem: 59 304<-41 60 677 778> 243 121<60 677>
+HStem: -41 101<52 236> 677 101<52 236>
+VStem: 52 304<-41 60 677 778> 236 121<60 677>
 LayerCount: 3
 Fore
 SplineSet
-364 778 m 1xe0
- 364 -41 l 1
- 59 -41 l 1
- 59 60 l 1xe0
- 243 60 l 1
- 243 677 l 1xd0
- 59 677 l 1
- 59 778 l 1
- 364 778 l 1xe0
+357 778 m 1xe0
+ 357 -41 l 1
+ 52 -41 l 1
+ 52 60 l 1xe0
+ 236 60 l 1
+ 236 677 l 1xd0
+ 52 677 l 1
+ 52 778 l 1
+ 357 778 l 1xe0
 EndSplineSet
-Validated: 1
 EndChar

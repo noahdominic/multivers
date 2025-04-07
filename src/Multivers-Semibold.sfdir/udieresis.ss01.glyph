@@ -1,10 +1,10 @@
 StartChar: udieresis.ss01
 Encoding: 65597 -1 285
-Width: 615
+Width: 603
 GlyphClass: 2
 Flags: HW
-HStem: -10 105<219 330> 0 22G<422 547> 502 20G<66 195 415 543> 604 156<137 245 371 478>
-VStem: 66 129<119 522> 115 153<628 738> 348 153<628 738> 415 128<15 121 236 522> 423 124<0 109>
+HStem: -10 105<213 324> 0 22G<416 541> 502 20G<60 189 409 537> 604 156<131 239 365 472>
+VStem: 60 129<119 522> 109 153<628 738> 342 153<628 738> 409 128<15 121 236 522> 417 124<0 109>
 AnchorPoint: "Anchor-3" 538 0 basechar 0
 AnchorPoint: "Anchor-2" 303 0 basechar 0
 AnchorPoint: "Anchor-1" 585 522 basechar 0
@@ -12,6 +12,5 @@ AnchorPoint: "Anchor-0" 303 760 basechar 0
 LayerCount: 3
 Fore
 Refer: 240 117 N 1 0 0 1 0 0 3
-Refer: 482 -1 N 1 0 0 1 53 0 2
-Validated: 5
+Refer: 482 -1 N 1 0 0 1 47 0 2
 EndChar

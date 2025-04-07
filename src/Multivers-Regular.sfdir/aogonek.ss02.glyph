@@ -1,6 +1,6 @@
 StartChar: aogonek.ss02
 Encoding: 65609 -1 289
-Width: 632
+Width: 620
 GlyphClass: 2
 Flags: HW
 HStem: -221 52<441 517> -10 71<212 378> 0 22G<457 531> 461 71<213 378> 502 20G<457 531>
@@ -12,5 +12,4 @@ LayerCount: 3
 Fore
 Refer: 281 -1 N 1 0 0 1 0 0 3
 Refer: 472 808 N 1 0 0 1 303 0 2
-Validated: 1048581
 EndChar

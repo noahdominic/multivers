@@ -1,15 +1,14 @@
 StartChar: Nacute
 Encoding: 323 323 58
-Width: 735
+Width: 725
 GlyphClass: 2
 Flags: HW
-HStem: 0 22G<69 211 493 667> 717 20G<69 242 524 667> 812 161<380 390>
-VStem: 69 142<0 640> 276 278 524 142<97 737>
+HStem: 0 22G<64 206 488 662> 717 20G<64 237 519 662> 812 161<375 385>
+VStem: 64 142<0 640> 271 278 519 142<97 737>
 AnchorPoint: "Anchor-2" 362 0 basechar 0
 AnchorPoint: "Anchor-0" 362 973 basechar 0
 LayerCount: 3
 Fore
 Refer: 57 78 N 1 0 0 1 0 0 3
-Refer: 469 769 N 1 0 0 1 215 215 2
-Validated: 1048581
+Refer: 469 769 N 1 0 0 1 210 215 2
 EndChar

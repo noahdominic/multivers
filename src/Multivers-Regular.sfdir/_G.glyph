@@ -1,33 +1,32 @@
 StartChar: G
 Encoding: 71 71 33
-Width: 769
+Width: 763
 GlyphClass: 2
 Flags: HW
-HStem: -10 73<323 577> 306 73<432 602> 675 73<317 498>
-VStem: 64 97<222 482> 600 93<85 306 504 573>
-AnchorPoint: "Anchor-2" 401 0 basechar 0
-AnchorPoint: "Anchor-0" 401 737 basechar 0
+HStem: -10 73<320 574> 306 73<429 599> 675 73<314 495>
+VStem: 61 97<222 482> 597 93<85 306 504 573>
+AnchorPoint: "Anchor-2" 398 0 basechar 0
+AnchorPoint: "Anchor-0" 398 737 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-692 379 m 1
- 692 37 l 1
- 667 23 556 -10 435 -10 c 0
- 261 -10 64 60 64 365 c 1
- 64 601 204 749 427 749 c 0
- 538 749 672 678 692 504 c 1
- 599 504 l 1
- 589 549 564 672 422 672 c 0
- 271 672 162 562 161 365 c 0
- 161 364 161 363 161 362 c 4
- 161 181 254 62 450 62 c 4
- 498 62 518 65 602 94 c 1
- 602 306 l 1
- 432 306 l 1
- 432 307 432 298 432 379 c 1
- 692 379 l 1
+689 379 m 1
+ 689 37 l 1
+ 664 23 553 -10 432 -10 c 0
+ 258 -10 61 60 61 365 c 1
+ 61 601 201 749 424 749 c 0
+ 535 749 669 678 689 504 c 1
+ 596 504 l 1
+ 586 549 561 672 419 672 c 0
+ 268 672 159 562 158 365 c 0
+ 158 364 158 363 158 362 c 4
+ 158 181 251 62 447 62 c 4
+ 495 62 515 65 599 94 c 1
+ 599 306 l 1
+ 429 306 l 1
+ 429 307 429 298 429 379 c 1
+ 689 379 l 1
 EndSplineSet
-Validated: 1048609
 Substitution2: "'ss07' Style Set 7 in Latin lookup 28 subtable" G.ss07
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" G.ss07
 EndChar

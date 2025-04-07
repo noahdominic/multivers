@@ -1,39 +1,38 @@
 StartChar: O
 Encoding: 79 79 63
-Width: 800
+Width: 794
 GlyphClass: 2
 Flags: HW
-HStem: -10 108<305 491> 640 108<304 499>
-VStem: 42 144<239 505> 613 144<241 508>
-AnchorPoint: "Anchor-3" 550 20 basechar 0
-AnchorPoint: "Anchor-2" 400 0 basechar 0
-AnchorPoint: "Anchor-1" 775 737 basechar 0
-AnchorPoint: "Anchor-0" 400 737 basechar 0
+HStem: -10 108<302 488> 640 108<301 496>
+VStem: 39 144<239 505> 610 144<241 508>
+AnchorPoint: "Anchor-3" 547 20 basechar 0
+AnchorPoint: "Anchor-2" 397 0 basechar 0
+AnchorPoint: "Anchor-1" 772 737 basechar 0
+AnchorPoint: "Anchor-0" 397 737 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-400 -10 m 0
- 347 -10 300 -1 257 17 c 0
- 214 35 175 62 143 96 c 0
- 111 130 87 170 69 217 c 0
- 51 264 42 315 42 372 c 0
- 42 447 58 513 88 569 c 0
- 118 625 160 669 214 700 c 0
- 268 731 329 748 399 748 c 0
- 469 748 532 731 586 700 c 0
- 640 669 682 625 712 568 c 0
- 742 511 758 446 758 371 c 0
- 758 315 749 264 731 217 c 0
- 713 170 689 130 657 96 c 0
- 625 62 588 35 544 17 c 0
- 500 -1 452 -10 400 -10 c 0
-399 97 m 256
- 533 97 613 211 613 373 c 0
- 613 404 616 640 399 640 c 256
- 266 640 186 540 186 373 c 4
- 186 206 266 97 399 97 c 256
+397 -10 m 0
+ 344 -10 297 -1 254 17 c 0
+ 211 35 172 62 140 96 c 0
+ 108 130 84 170 66 217 c 0
+ 48 264 39 315 39 372 c 0
+ 39 447 55 513 85 569 c 0
+ 115 625 157 669 211 700 c 0
+ 265 731 326 748 396 748 c 0
+ 466 748 529 731 583 700 c 0
+ 637 669 679 625 709 568 c 0
+ 739 511 755 446 755 371 c 0
+ 755 315 746 264 728 217 c 0
+ 710 170 686 130 654 96 c 0
+ 622 62 585 35 541 17 c 0
+ 497 -1 449 -10 397 -10 c 0
+396 97 m 256
+ 530 97 610 211 610 373 c 0
+ 610 404 613 640 396 640 c 256
+ 263 640 183 540 183 373 c 4
+ 183 206 263 97 396 97 c 256
 EndSplineSet
-Validated: 33
 Substitution2: "Single Substitution lookup 17 subtable" ordmasculine
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" ordmasculine
 EndChar

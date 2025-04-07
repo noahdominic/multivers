@@ -1,21 +1,20 @@
 StartChar: less
 Encoding: 60 60 442
-Width: 567
+Width: 543
 Flags: HW
 LayerCount: 3
 Fore
 SplineSet
-508 590 m 1
- 508 487 l 1
- 157 369 l 1
- 157 392 l 1
- 508 275 l 1
- 508 173 l 1
- 59 327 l 1
- 59 433 l 1
- 508 590 l 1
+496 590 m 1
+ 496 487 l 1
+ 145 369 l 1
+ 145 392 l 1
+ 496 275 l 1
+ 496 173 l 1
+ 47 327 l 1
+ 47 433 l 1
+ 496 590 l 1
 EndSplineSet
-Validated: 5
 Substitution2: "'tnum' Tabular Numbers in Latin lookup 19 subtable" less.tf
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" less.tf
 EndChar

@@ -1,18 +1,17 @@
 StartChar: i.loclTRK
 Encoding: 65572 -1 190
-Width: 271
+Width: 259
 GlyphClass: 2
 Flags: HW
-HStem: 0 22G<92 182> 502 20G<92 182> 642 95<101 194>
-VStem: 92 89<0 522> 101 93<642 737>
+HStem: 0 22G<86 176> 502 20G<86 176> 642 95<95 188>
+VStem: 86 89<0 522> 95 93<642 737>
 AnchorPoint: "Anchor-3" 161 0 basechar 0
 AnchorPoint: "Anchor-2" 120 0 basechar 0
 AnchorPoint: "Anchor-0" 120 737 basechar 0
 LayerCount: 3
 Fore
 Refer: 186 305 N 1 0 0 1 0 0 3
-Refer: 458 775 N 1 0 0 1 29 0 2
-Validated: 1048577
+Refer: 458 775 N 1 0 0 1 23 0 2
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" i.loclTRK.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" i.loclTRK.ss01
 EndChar

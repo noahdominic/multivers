@@ -1,6 +1,6 @@
 StartChar: atilde.ss02
 Encoding: 65611 -1 291
-Width: 632
+Width: 620
 GlyphClass: 2
 Flags: HW
 HStem: -10 71<212 378> 0 22G<457 531> 461 71<213 378> 502 20G<457 531> 608 60<342 430> 679 60<193 281>
@@ -12,5 +12,4 @@ LayerCount: 3
 Fore
 Refer: 281 -1 N 1 0 0 1 0 0 3
 Refer: 467 771 N 1 0 0 1 51 0 2
-Validated: 1048581
 EndChar

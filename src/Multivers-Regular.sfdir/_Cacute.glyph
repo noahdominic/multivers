@@ -1,15 +1,14 @@
 StartChar: Cacute
 Encoding: 262 262 15
-Width: 752
+Width: 746
 GlyphClass: 2
 Flags: HW
-HStem: -10 80<309 491> 522 22G<572 673> 668 80<309 501> 812 161
-VStem: 66 104<231 504> 339 234 580 98<157 239 522 585>
+HStem: -10 80<306 488> 522 22G<569 670> 668 80<306 498> 812 161
+VStem: 63 104<231 504> 336 234 577 98<157 239 522 585>
 AnchorPoint: "Anchor-2" 380 0 basechar 0
 AnchorPoint: "Anchor-0" 380 973 basechar 0
 LayerCount: 3
 Fore
 Refer: 14 67 N 1 0 0 1 0 0 3
-Refer: 460 769 N 1 0 0 1 267 215 2
-Validated: 1048577
+Refer: 460 769 N 1 0 0 1 264 215 2
 EndChar

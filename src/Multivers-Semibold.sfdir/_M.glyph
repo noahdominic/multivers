@@ -1,31 +1,30 @@
 StartChar: M
 Encoding: 77 77 56
-Width: 912
+Width: 898
 Flags: HW
-HStem: 0 22G<69 211 378 529 701 844> 717 20G<69 279 633 844>
-VStem: 172 39<660 683> 701 142<0 602> 710 26<665 688>
+HStem: 0 22G<62 204 371 522 694 837> 717 20G<62 272 626 837>
+VStem: 165 39<660 683> 694 142<0 602> 703 26<665 688>
 LayerCount: 3
 Fore
 SplineSet
-69 0 m 1xe8
- 69 737 l 1
- 272 737 l 1
- 493 28 l 1
- 420 28 l 1
- 639 737 l 1
- 844 737 l 1
- 844 0 l 1
- 701 0 l 5xf0
- 710 688 l 5
- 735 688 l 1
- 522 0 l 1
- 384 0 l 1
- 172 683 l 1
- 211 683 l 1
- 211 0 l 1
- 69 0 l 1xe8
+62 0 m 1xe8
+ 62 737 l 1
+ 265 737 l 1
+ 486 28 l 1
+ 413 28 l 1
+ 632 737 l 1
+ 837 737 l 1
+ 837 0 l 1
+ 694 0 l 5xf0
+ 703 688 l 5
+ 728 688 l 1
+ 515 0 l 1
+ 377 0 l 1
+ 165 683 l 1
+ 204 683 l 1
+ 204 0 l 1
+ 62 0 l 1xe8
 EndSplineSet
-Validated: 5
 Substitution2: "'ss06' Style Set 6 in Latin lookup 27 subtable" M.ss06
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" M.ss06
 EndChar

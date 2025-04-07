@@ -1,16 +1,15 @@
 StartChar: uni0156.ss01
 Encoding: 65553 -1 124
-Width: 672
+Width: 664
 GlyphClass: 2
 Flags: HW
-HStem: -182 114<301 377> 0 22G<106 189 498 641> 325 43<167 256> 325 73<256 459> 665 73<189 461>
-VStem: 106 83<0 325 396 665> 167 23<325 396> 283 117<-167 -89> 521 82<455 609>
-AnchorPoint: "Anchor-2" 331 -300 basechar 0
-AnchorPoint: "Anchor-0" 331 737 basechar 0
+HStem: -182 114<297 373> 0 22G<102 185 494 637> 325 43<163 252> 325 73<252 455> 665 73<185 457>
+VStem: 102 83<0 325 396 665> 163 23<325 396> 279 117<-167 -89> 517 82<455 609>
+AnchorPoint: "Anchor-2" 327 -300 basechar 0
+AnchorPoint: "Anchor-0" 327 737 basechar 0
 LayerCount: 3
 Fore
-Refer: 476 -1 N 1 0 0 1 211 0 2
-Validated: 1048581
+Refer: 476 -1 N 1 0 0 1 207 0 2
 Substitution2: "'calt' Contextual Alternates in Latin lookup 26 subtable" uni0156.ss01.ss05
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni0156.ss01.ss05
 EndChar

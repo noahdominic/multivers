@@ -1,16 +1,15 @@
 StartChar: Igrave
 Encoding: 204 204 45
-Width: 268
+Width: 254
 GlyphClass: 2
 Flags: HW
-HStem: 0 22G<87 181> 717 20G<87 181> 812 161
-VStem: -8 234 87 93<0 737>
+HStem: 0 22G<80 174> 717 20G<80 174> 812 161
+VStem: -15 234 80 93<0 737>
 AnchorPoint: "Anchor-3" 151 0 basechar 0
 AnchorPoint: "Anchor-2" 127 0 basechar 0
 AnchorPoint: "Anchor-0" 127 973 basechar 0
 LayerCount: 3
 Fore
 Refer: 39 73 N 1 0 0 1 0 0 3
-Refer: 459 768 N 1 0 0 1 -81 215 2
-Validated: 1048577
+Refer: 459 768 N 1 0 0 1 -88 215 2
 EndChar

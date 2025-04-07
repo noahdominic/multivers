@@ -1,16 +1,15 @@
 StartChar: Iacute
 Encoding: 205 205 41
-Width: 268
+Width: 254
 GlyphClass: 2
 Flags: HW
-HStem: 0 22G<63 206> 717 20G<63 206> 812 161<146 157>
-VStem: 43 278 63 142<0 737>
+HStem: 0 22G<56 199> 717 20G<56 199> 812 161<139 150>
+VStem: 36 278 56 142<0 737>
 AnchorPoint: "Anchor-3" 176 0 basechar 0
 AnchorPoint: "Anchor-2" 129 0 basechar 0
 AnchorPoint: "Anchor-0" 129 973 basechar 0
 LayerCount: 3
 Fore
 Refer: 39 73 N 1 0 0 1 0 0 3
-Refer: 469 769 N 1 0 0 1 -18 215 2
-Validated: 1048577
+Refer: 469 769 N 1 0 0 1 -25 215 2
 EndChar

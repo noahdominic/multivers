@@ -1,32 +1,31 @@
 StartChar: two.tf
 Encoding: 65627 -1 324
-Width: 616
+Width: 600
 Flags: HW
-HStem: 0 83<151 519> 524 22G<43 156> 675 73<206 368>
-VStem: 43 108<524 611> 419 101<447 622>
+HStem: 0 83<143 511> 524 22G<35 148> 675 73<198 360>
+VStem: 35 108<524 611> 411 101<447 622>
 LayerCount: 3
 Fore
 SplineSet
-50 0 m 1
- 50 71 l 1
- 120 132 179 185 226 231 c 0
- 273 277 311 318 340 355 c 0
- 369 392 389 425 401 455 c 0
- 413 485 419 514 419 543 c 0
- 419 585 408 617 384 640 c 0
- 360 663 327 675 284 675 c 0
- 195 675 162 621 151 524 c 1
- 43 524 l 1
- 49 591 73 645 116 686 c 0
- 159 727 218 748 290 748 c 0
- 332 748 521 735 521 544 c 0
- 521 410 436 288 151 44 c 1
- 115 83 l 5
- 519 83 l 5
- 519 0 l 1
- 50 0 l 1
+42 0 m 1
+ 42 71 l 1
+ 112 132 171 185 218 231 c 0
+ 265 277 303 318 332 355 c 0
+ 361 392 381 425 393 455 c 0
+ 405 485 411 514 411 543 c 0
+ 411 585 400 617 376 640 c 0
+ 352 663 319 675 276 675 c 0
+ 187 675 154 621 143 524 c 1
+ 35 524 l 1
+ 41 591 65 645 108 686 c 0
+ 151 727 210 748 282 748 c 0
+ 324 748 513 735 513 544 c 0
+ 513 410 428 288 143 44 c 1
+ 107 83 l 5
+ 511 83 l 5
+ 511 0 l 1
+ 42 0 l 1
 EndSplineSet
-Validated: 5
 Substitution2: "'ss10' Style Set 10 in Latin lookup 31 subtable" two.tf.ss10
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 18 subtable" two
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" two two.tf.ss10

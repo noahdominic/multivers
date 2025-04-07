@@ -1,6 +1,6 @@
 StartChar: aacute.ss02
 Encoding: 65602 -1 290
-Width: 632
+Width: 620
 GlyphClass: 2
 Flags: HW
 HStem: -10 105<222 359> 0 22G<431 556> 427 105<222 362> 502 20G<431 556> 597 161<324 334>
@@ -12,5 +12,4 @@ LayerCount: 3
 Fore
 Refer: 289 -1 N 1 0 0 1 0 0 3
 Refer: 469 769 N 1 0 0 1 159 0 2
-Validated: 1048581
 EndChar

@@ -1,29 +1,28 @@
 StartChar: four.tf
 Encoding: 65629 -1 326
-Width: 616
+Width: 600
 Flags: HW
-HStem: 0 22G<391 491> 160 82<134 391 393 580> 717 20G<381 491>
-VStem: 393 97<0 214>
+HStem: 0 22G<383 483> 160 82<126 383 385 572> 717 20G<373 483>
+VStem: 385 97<0 214>
 LayerCount: 3
 Fore
 SplineSet
-391 0 m 1
- 391 194 l 1
- 393 214 l 1
- 393 631 l 1
- 428 631 l 1
- 134 209 l 1
- 97 242 l 1
- 580 242 l 1
- 580 160 l 5
- 41 160 l 5
- 41 231 l 1
- 394 737 l 1
- 491 737 l 1
- 491 0 l 1
- 391 0 l 1
+383 0 m 1
+ 383 194 l 1
+ 385 214 l 1
+ 385 631 l 1
+ 420 631 l 1
+ 126 209 l 1
+ 89 242 l 1
+ 572 242 l 1
+ 572 160 l 5
+ 33 160 l 5
+ 33 231 l 1
+ 386 737 l 1
+ 483 737 l 1
+ 483 0 l 1
+ 383 0 l 1
 EndSplineSet
-Validated: 5
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 18 subtable" four
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" four
 EndChar

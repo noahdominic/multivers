@@ -1,17 +1,16 @@
 StartChar: hyphen.case
 Encoding: 65659 -1 377
-Width: 502
+Width: 492
 Flags: HW
-HStem: 331 77<81 422>
-VStem: 81 340<331 408>
+HStem: 331 77<76 417>
+VStem: 76 340<331 408>
 LayerCount: 3
 Fore
 SplineSet
-81 331 m 1
- 81 408 l 1
- 422 408 l 1
- 422 331 l 1
- 81 331 l 1
+76 331 m 1
+ 76 408 l 1
+ 417 408 l 1
+ 417 331 l 1
+ 76 331 l 1
 EndSplineSet
-Validated: 1
 EndChar

@@ -1,15 +1,14 @@
 StartChar: Wdieresis
 Encoding: 7812 7812 100
-Width: 1050
+Width: 1086
 GlyphClass: 2
 Flags: HW
-HStem: 0 22G<244 357 693 806> 717 20G<45 149 466 588 904 1004> 857 95<375 468 604 698>
-VStem: 375 93<857 952> 604 93<857 952>
+HStem: 0 22G<262 375 711 824> 717 20G<63 167 484 606 922 1022> 857 95<393 486 622 716>
+VStem: 393 93<857 952> 622 93<857 952>
 AnchorPoint: "Anchor-2" 528 0 basechar 0
 AnchorPoint: "Anchor-0" 528 952 basechar 0
 LayerCount: 3
 Fore
 Refer: 97 87 N 1 0 0 1 0 0 3
-Refer: 457 776 N 1 0 0 1 301 215 2
-Validated: 1048581
+Refer: 457 776 N 1 0 0 1 319 215 2
 EndChar

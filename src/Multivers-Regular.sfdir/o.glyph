@@ -1,29 +1,28 @@
 StartChar: o
 Encoding: 111 111 211
-Width: 608
+Width: 596
 GlyphClass: 2
 Flags: HW
-HStem: -10 66<228 378> 466 66<227 382>
-VStem: 58 91<147 376> 459 92<148 376>
-AnchorPoint: "Anchor-3" 427 20 basechar 0
-AnchorPoint: "Anchor-2" 305 0 basechar 0
-AnchorPoint: "Anchor-1" 573 522 basechar 0
-AnchorPoint: "Anchor-0" 305 522 basechar 0
+HStem: -10 66<222 372> 466 66<221 376>
+VStem: 52 91<147 376> 453 92<148 376>
+AnchorPoint: "Anchor-3" 421 20 basechar 0
+AnchorPoint: "Anchor-2" 299 0 basechar 0
+AnchorPoint: "Anchor-1" 567 522 basechar 0
+AnchorPoint: "Anchor-0" 299 522 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-305 -10 m 256
- 156 -10 58 93 58 262 c 0
- 58 427 151 532 302 532 c 256
- 452 532 551 429 551 261 c 0
- 551 97 457 -10 305 -10 c 256
-303 55 m 256
- 399 55 459 136 459 263 c 0
- 459 388 401 466 304 466 c 256
- 207 466 149 388 149 262 c 0
- 149 136 207 55 303 55 c 256
+299 -10 m 256
+ 150 -10 52 93 52 262 c 0
+ 52 427 145 532 296 532 c 256
+ 446 532 545 429 545 261 c 0
+ 545 97 451 -10 299 -10 c 256
+297 55 m 256
+ 393 55 453 136 453 263 c 0
+ 453 388 395 466 298 466 c 256
+ 201 466 143 388 143 262 c 0
+ 143 136 201 55 297 55 c 256
 EndSplineSet
-Validated: 1
 Substitution2: "Single Substitution lookup 17 subtable" ordmasculine
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" ordmasculine
 EndChar

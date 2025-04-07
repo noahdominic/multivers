@@ -1,19 +1,18 @@
 StartChar: quoteleft
 Encoding: 8216 8216 404
-Width: 287
+Width: 275
 Flags: HW
-HStem: 488 252<175 211>
-VStem: 80 186
+HStem: 488 252<169 205>
+VStem: 74 186
 LayerCount: 3
 Fore
 SplineSet
-211 488 m 1
- 80 488 l 5
- 175 740 l 5
- 266 740 l 1
- 211 488 l 1
+205 488 m 1
+ 74 488 l 5
+ 169 740 l 5
+ 260 740 l 1
+ 205 488 l 1
 EndSplineSet
-Validated: 1
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" quoteleft.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" quoteleft.ss01
 EndChar

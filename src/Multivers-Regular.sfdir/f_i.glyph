@@ -1,46 +1,45 @@
 StartChar: f_i
 Encoding: 65619 -1 304
-Width: 623
+Width: 611
 GlyphClass: 3
 LigCaretCntFixed: 1
 Flags: HW
-HStem: 0 22G<132 222 443 533> 454 69<39 443> 642 95<437 538> 683 65<247 355>
-VStem: 132 89<0 660> 443 89<0 454 642 737>
-AnchorPoint: "Anchor-5" 170 0 baselig 0
-AnchorPoint: "Anchor-4" 170 758 baselig 0
-AnchorPoint: "Anchor-5" 467 0 baselig 1
-AnchorPoint: "Anchor-4" 467 758 baselig 1
+HStem: 0 22G<126 216 437 527> 454 69<33 437> 642 95<431 532> 683 65<241 349>
+VStem: 126 89<0 660> 437 89<0 454 642 737>
+AnchorPoint: "Anchor-5" 164 0 baselig 0
+AnchorPoint: "Anchor-4" 164 758 baselig 0
+AnchorPoint: "Anchor-5" 461 0 baselig 1
+AnchorPoint: "Anchor-4" 461 758 baselig 1
 LayerCount: 3
 Fore
 SplineSet
-437 642 m 1xec
- 437 737 l 1
- 538 737 l 1
- 538 642 l 1
- 437 642 l 1xec
-132 0 m 1
- 132 601 l 2
- 132 664 168 748 304 748 c 0
- 318 748 327 746 335 745 c 0
- 343 744 350 742 355 740 c 1
- 355 677 l 1
- 350 678 343 680 335 681 c 0
- 327 682 318 683 309 683 c 0xdc
- 279 683 257 675 243 660 c 0
- 229 645 222 624 222 596 c 2
- 222 0 l 1
- 132 0 l 1
-39 454 m 1
- 39 522 l 1
- 443 522 l 1
- 507 522 l 1
- 533 522 l 1
- 533 0 l 1
- 443 0 l 1
- 443 454 l 1
- 39 454 l 1
+431 642 m 1xec
+ 431 737 l 1
+ 532 737 l 1
+ 532 642 l 1
+ 431 642 l 1xec
+126 0 m 1
+ 126 601 l 2
+ 126 664 162 748 298 748 c 0
+ 312 748 321 746 329 745 c 0
+ 337 744 344 742 349 740 c 1
+ 349 677 l 1
+ 344 678 337 680 329 681 c 0
+ 321 682 312 683 303 683 c 0xdc
+ 273 683 251 675 237 660 c 0
+ 223 645 216 624 216 596 c 2
+ 216 0 l 1
+ 126 0 l 1
+33 454 m 1
+ 33 522 l 1
+ 437 522 l 1
+ 501 522 l 1
+ 527 522 l 1
+ 527 0 l 1
+ 437 0 l 1
+ 437 454 l 1
+ 33 454 l 1
 EndSplineSet
-Validated: 5
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" f_i.ss01
 Ligature2: "'liga' Standard Ligatures in Latin lookup 21 subtable" f i
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" f_i.ss01

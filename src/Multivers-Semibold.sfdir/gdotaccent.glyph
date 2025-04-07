@@ -1,17 +1,16 @@
 StartChar: gdotaccent
 Encoding: 289 289 185
-Width: 632
+Width: 620
 GlyphClass: 2
 Flags: HW
-HStem: -173 110<202 391> 12 102<232 357> 430 102<231 365> 502 20G<440 565> 608 141<231 371>
-VStem: 36 143<172 373> 231 139<608 750> 425 136<174 377> 432 9<105 139 400 438> 440 125<403 522>
+HStem: -173 110<196 385> 12 102<226 351> 430 102<225 359> 502 20G<434 559> 608 141<225 365>
+VStem: 30 143<172 373> 225 139<608 750> 419 136<174 377> 426 9<105 139 400 438> 434 125<403 522>
 AnchorPoint: "Anchor-2" 311 -210 basechar 0
 AnchorPoint: "Anchor-0" 296 750 basechar 0
 LayerCount: 3
 Fore
 Refer: 182 103 N 1 0 0 1 0 0 3
-Refer: 467 775 N 1 0 0 1 170 0 2
-Validated: 1048581
+Refer: 467 775 N 1 0 0 1 164 0 2
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" gdotaccent.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" gdotaccent.ss01
 EndChar

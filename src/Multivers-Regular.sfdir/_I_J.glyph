@@ -1,16 +1,15 @@
 StartChar: IJ
 Encoding: 306 306 40
-Width: 695
+Width: 681
 GlyphClass: 2
 Flags: HW
-HStem: -10 78<285 498> 0 22G<90 183> 717 20G<90 183 538 632>
-VStem: 90 93<0 737> 538 93<108 737>
-AnchorPoint: "Anchor-3" 149 0 basechar 0
-AnchorPoint: "Anchor-2" 125 0 basechar 0
-AnchorPoint: "Anchor-0" 125 737 basechar 0
+HStem: -10 78<278 491> 0 22G<83 176> 717 20G<83 176 531 625>
+VStem: 83 93<0 737> 531 93<108 737>
+AnchorPoint: "Anchor-3" 142 0 basechar 0
+AnchorPoint: "Anchor-2" 118 0 basechar 0
+AnchorPoint: "Anchor-0" 118 737 basechar 0
 LayerCount: 3
 Fore
-Refer: 39 73 N 1 0 0 1 -2 0 2
-Refer: 48 74 N 1 0 0 1 253 0 2
-Validated: 1048577
+Refer: 39 73 N 1 0 0 1 -9 0 2
+Refer: 48 74 N 1 0 0 1 246 0 2
 EndChar

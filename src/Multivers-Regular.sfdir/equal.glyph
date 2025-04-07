@@ -1,23 +1,22 @@
 StartChar: equal
 Encoding: 61 61 431
-Width: 566
+Width: 544
 Flags: HW
-HStem: 244 68<74 495> 449 68<74 495>
+HStem: 244 68<63 484> 449 68<63 484>
 LayerCount: 3
 Fore
 SplineSet
-74 449 m 1
- 74 516 l 1
- 495 516 l 1
- 495 449 l 1
- 74 449 l 1
-74 244 m 1
- 74 311 l 1
- 495 311 l 1
- 495 244 l 1
- 74 244 l 1
+63 449 m 1
+ 63 516 l 1
+ 484 516 l 1
+ 484 449 l 1
+ 63 449 l 1
+63 244 m 1
+ 63 311 l 1
+ 484 311 l 1
+ 484 244 l 1
+ 63 244 l 1
 EndSplineSet
-Validated: 1
 Substitution2: "'tnum' Tabular Numbers in Latin lookup 19 subtable" equal.tf
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" equal.tf
 EndChar

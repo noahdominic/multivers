@@ -1,23 +1,22 @@
 StartChar: one
 Encoding: 49 49 312
-Width: 400
+Width: 386
 Flags: HW
-HStem: 0 22G<229 319> 527 22G<74 162> 716 21G<219 319>
-VStem: 229 91<0 648>
+HStem: 0 22G<222 312> 527 22G<67 155> 716 21G<212 312>
+VStem: 222 91<0 648>
 LayerCount: 3
 Fore
 SplineSet
-229 0 m 1
- 229 654 l 1
- 250 648 l 1
- 250 648 250 648 74 527 c 1
- 74 617 l 1
- 250 737 l 1
- 319 737 l 5
- 319 0 l 5
- 229 0 l 1
+222 0 m 1
+ 222 654 l 1
+ 243 648 l 1
+ 243 648 243 648 67 527 c 1
+ 67 617 l 1
+ 243 737 l 1
+ 312 737 l 5
+ 312 0 l 5
+ 222 0 l 1
 EndSplineSet
-Validated: 5
 Substitution2: "'tnum' Tabular Numbers in Latin lookup 19 subtable" one.tf
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" one.tf
 EndChar

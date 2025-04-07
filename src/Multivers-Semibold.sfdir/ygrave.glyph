@@ -1,17 +1,16 @@
 StartChar: ygrave
 Encoding: 65577 -1 261
-Width: 556
+Width: 542
 GlyphClass: 2
 Flags: HW
-HStem: -212 105<65 160> 502 20G<12 157 404 540> 597 161<248 258>
-VStem: 84 278
-AnchorPoint: "Anchor-2" 270 0 basechar 0
-AnchorPoint: "Anchor-0" 270 758 basechar 0
+HStem: -212 105<55 150> 502 20G<2 147 394 530> 597 161<238 248>
+VStem: 74 278
+AnchorPoint: "Anchor-2" 260 0 basechar 0
+AnchorPoint: "Anchor-0" 260 758 basechar 0
 LayerCount: 3
 Fore
-Refer: 257 -1 N 1 0 0 1 0 0 3
-Refer: 468 768 N 1 0 0 1 23 0 2
-Validated: 1048581
+Refer: 257 -1 N 1 0 0 1 -10 0 3
+Refer: 468 768 N 1 0 0 1 13 0 2
 Substitution2: "'calt' Contextual Alternates in Latin lookup 24 subtable" ygrave.ss03
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" ygrave.ss03
 EndChar

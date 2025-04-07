@@ -1,10 +1,10 @@
 StartChar: Ucircumflex
 Encoding: 219 219 89
-Width: 712
+Width: 704
 GlyphClass: 2
 Flags: HW
-HStem: -10 80<262 448> 717 20G<87 180 532 627> 812 161 932 20G<327 407>
-VStem: 87 93<158 737> 532 93<158 737>
+HStem: -10 80<258 444> 717 20G<83 176 528 623> 812 161 932 20G<323 403>
+VStem: 83 93<158 737> 528 93<158 737>
 AnchorPoint: "Anchor-3" 485 20 basechar 0
 AnchorPoint: "Anchor-2" 349 0 basechar 0
 AnchorPoint: "Anchor-1" 679 737 basechar 0
@@ -12,6 +12,5 @@ AnchorPoint: "Anchor-0" 349 973 basechar 0
 LayerCount: 3
 Fore
 Refer: 86 85 N 1 0 0 1 0 0 3
-Refer: 463 770 N 1 0 0 1 111 215 2
-Validated: 5
+Refer: 463 770 N 1 0 0 1 107 215 2
 EndChar

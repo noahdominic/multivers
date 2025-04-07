@@ -1,16 +1,15 @@
 StartChar: Iogonek
 Encoding: 302 302 47
-Width: 268
+Width: 254
 GlyphClass: 2
 Flags: HW
-HStem: -221 69<96 170> 0 22G<63 206> 717 20G<63 206>
-VStem: 3 88<-147 -67> 63 142<0 737>
+HStem: -221 69<89 163> 0 22G<56 199> 717 20G<56 199>
+VStem: -4 88<-147 -67> 56 142<0 737>
 AnchorPoint: "Anchor-3" 176 0 basechar 0
 AnchorPoint: "Anchor-2" 129 0 basechar 0
 AnchorPoint: "Anchor-0" 129 737 basechar 0
 LayerCount: 3
 Fore
 Refer: 39 73 N 1 0 0 1 0 0 3
-Refer: 481 808 N 1 0 0 1 -58 0 2
-Validated: 1048581
+Refer: 481 808 N 1 0 0 1 -65 0 2
 EndChar

@@ -1,24 +1,23 @@
 StartChar: J
 Encoding: 74 74 48
-Width: 436
+Width: 426
 Flags: HW
-HStem: -10 81<34 197> 716 21G<238 331>
-VStem: 238 93<111 737>
+HStem: -10 81<29 192> 716 21G<233 326>
+VStem: 233 93<111 737>
 LayerCount: 3
 Fore
 SplineSet
-103 -10 m 3
- 70 -10 34 -10 34 -10 c 2
- 34 70 l 1
- 109 70 l 2
- 189 70 238 102 238 188 c 2
- 238 737 l 1
- 331 737 l 1
- 331 185 l 2
- 331 119 312 71 273 39 c 0
- 232 6 175 -10 103 -10 c 3
+98 -10 m 3
+ 65 -10 29 -10 29 -10 c 2
+ 29 70 l 1
+ 104 70 l 2
+ 184 70 233 102 233 188 c 2
+ 233 737 l 1
+ 326 737 l 1
+ 326 185 l 2
+ 326 119 307 71 268 39 c 0
+ 227 6 170 -10 98 -10 c 3
 EndSplineSet
-Validated: 1
 Substitution2: "'ss08' Style Set 8 in Latin lookup 29 subtable" J.ss08
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" J.ss08
 EndChar

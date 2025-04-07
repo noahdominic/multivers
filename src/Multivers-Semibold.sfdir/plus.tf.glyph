@@ -1,24 +1,23 @@
 StartChar: plus.tf
 Encoding: 65678 -1 447
-Width: 616
+Width: 600
 Flags: HW
-HStem: 332 96<73 544>
-VStem: 258 101<143 617>
+HStem: 332 96<65 536>
+VStem: 250 101<143 617>
 LayerCount: 3
 Fore
 SplineSet
-258 143 m 1
- 258 617 l 1
- 359 617 l 1
- 359 143 l 1
- 258 143 l 1
-73 332 m 1
- 73 428 l 1
- 544 428 l 1
- 544 332 l 1
- 73 332 l 1
+250 143 m 1
+ 250 617 l 1
+ 351 617 l 1
+ 351 143 l 1
+ 250 143 l 1
+65 332 m 1
+ 65 428 l 1
+ 536 428 l 1
+ 536 332 l 1
+ 65 332 l 1
 EndSplineSet
-Validated: 5
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 18 subtable" plus
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" plus
 EndChar

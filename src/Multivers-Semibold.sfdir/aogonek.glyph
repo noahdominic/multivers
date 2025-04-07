@@ -1,18 +1,17 @@
 StartChar: aogonek
 Encoding: 261 261 158
-Width: 569
+Width: 557
 GlyphClass: 2
 Flags: HW
-HStem: -221 69<432 505> -10 97<191 312> 0 22G<387 516> 436 96<226 357>
-VStem: 46 127<103 213> 339 88<-147 -67> 375 128<1 102 180 250 333 415> 389 127<0 101>
+HStem: -221 69<426 499> -10 97<185 306> 0 22G<381 510> 436 96<220 351>
+VStem: 40 127<103 213> 333 88<-147 -67> 369 128<1 102 180 250 333 415> 383 127<0 101>
 AnchorPoint: "Anchor-3" 512 0 basechar 0
 AnchorPoint: "Anchor-2" 285 0 basechar 0
 AnchorPoint: "Anchor-0" 285 522 basechar 0
 LayerCount: 3
 Fore
 Refer: 150 97 N 1 0 0 1 0 0 3
-Refer: 481 808 N 1 0 0 1 278 0 2
-Validated: 1048581
+Refer: 481 808 N 1 0 0 1 272 0 2
 Substitution2: "'ss02' Style Set 2 in Latin lookup 23 subtable" aogonek.ss02
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" aogonek.ss02
 EndChar

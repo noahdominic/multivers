@@ -1,18 +1,17 @@
 StartChar: acircumflex
 Encoding: 226 226 154
-Width: 569
+Width: 557
 GlyphClass: 2
 Flags: HW
-HStem: -10 97<191 312> 0 22G<387 516> 436 96<226 357> 597 161
-VStem: 46 127<103 213> 375 128<1 102 180 250 333 415> 389 127<0 101>
+HStem: -10 97<185 306> 0 22G<381 510> 436 96<220 351> 597 161
+VStem: 40 127<103 213> 369 128<1 102 180 250 333 415> 383 127<0 101>
 AnchorPoint: "Anchor-3" 512 0 basechar 0
 AnchorPoint: "Anchor-2" 285 0 basechar 0
 AnchorPoint: "Anchor-0" 285 758 basechar 0
 LayerCount: 3
 Fore
 Refer: 150 97 N 1 0 0 1 0 0 3
-Refer: 472 770 N 1 0 0 1 30 0 2
-Validated: 1048581
+Refer: 472 770 N 1 0 0 1 24 0 2
 Substitution2: "'ss02' Style Set 2 in Latin lookup 23 subtable" acircumflex.ss02
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" acircumflex.ss02
 EndChar

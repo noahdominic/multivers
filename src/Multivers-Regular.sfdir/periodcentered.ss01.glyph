@@ -1,11 +1,10 @@
 StartChar: periodcentered.ss01
 Encoding: 65654 -1 368
-Width: 174
+Width: 162
 Flags: HW
-HStem: 332 117<57 139>
-VStem: 41 117<349 432>
+HStem: 332 117<51 133>
+VStem: 35 117<349 432>
 LayerCount: 3
 Fore
-Refer: 359 -1 N 1 0 0 1 -40 342 2
-Validated: 1
+Refer: 359 -1 N 1 0 0 1 -46 342 2
 EndChar

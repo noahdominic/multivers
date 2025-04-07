@@ -1,19 +1,18 @@
 StartChar: hyphen
 Encoding: 45 45 373
-Width: 501
+Width: 493
 Flags: HW
-HStem: 241 76<100 401>
-VStem: 100 301<241 317>
+HStem: 241 76<96 397>
+VStem: 96 301<241 317>
 LayerCount: 3
 Fore
 SplineSet
-100 241 m 1
- 100 317 l 1
- 401 317 l 1
- 401 241 l 1
- 100 241 l 1
+96 241 m 1
+ 96 317 l 1
+ 397 317 l 1
+ 397 241 l 1
+ 96 241 l 1
 EndSplineSet
-Validated: 1
 Substitution2: "'case' Case-Sensitive Forms in Latin lookup 20 subtable" hyphen.case
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" hyphen.case
 EndChar

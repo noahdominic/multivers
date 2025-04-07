@@ -1,18 +1,17 @@
 StartChar: uni021B
 Encoding: 539 539 239
-Width: 416
+Width: 406
 GlyphClass: 2
 Flags: HW
-HStem: -339 59<199 247> -205 9<269 304> -205 129<199 269> 0 102<267 385> 422 100<20 385>
-VStem: 118 129<117 639> 199 139<-195 -76>
+HStem: -339 59<194 242> -205 9<264 299> -205 129<194 264> 0 102<262 380> 422 100<15 380>
+VStem: 113 129<117 639> 194 139<-195 -76>
 AnchorPoint: "Anchor-2" 263 -339 basechar 0
 AnchorPoint: "Anchor-1" 321 805 basechar 0
 AnchorPoint: "Anchor-0" 161 522 basechar 0
 LayerCount: 3
 Fore
 Refer: 237 116 N 1 0 0 1 0 0 3
-Refer: 479 806 N 1 0 0 1 130 0 2
-Validated: 1048581
+Refer: 479 806 N 1 0 0 1 125 0 2
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" uni021B.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni021B.ss01
 EndChar

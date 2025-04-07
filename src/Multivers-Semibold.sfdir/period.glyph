@@ -1,19 +1,18 @@
 StartChar: period
 Encoding: 46 46 344
-Width: 287
+Width: 275
 Flags: HW
-HStem: 0 147<71 218>
-VStem: 71 147<0 147>
+HStem: 0 147<65 212>
+VStem: 65 147<0 147>
 LayerCount: 3
 Fore
 SplineSet
-71 0 m 1
- 71 147 l 1
- 218 147 l 1
- 218 0 l 1
- 71 0 l 1
+65 0 m 1
+ 65 147 l 1
+ 212 147 l 1
+ 212 0 l 1
+ 65 0 l 1
 EndSplineSet
-Validated: 1
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" period.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" period.ss01
 EndChar

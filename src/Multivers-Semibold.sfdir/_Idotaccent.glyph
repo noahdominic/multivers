@@ -1,18 +1,17 @@
 StartChar: Idotaccent
 Encoding: 304 304 44
-Width: 268
+Width: 254
 GlyphClass: 2
 Flags: HW
-HStem: 0 22G<63 206> 717 20G<63 206> 823 141<65 204>
-VStem: 63 142<0 737> 65 139<823 965>
+HStem: 0 22G<56 199> 717 20G<56 199> 823 141<58 197>
+VStem: 56 142<0 737> 58 139<823 965>
 AnchorPoint: "Anchor-3" 176 0 basechar 0
 AnchorPoint: "Anchor-2" 129 0 basechar 0
 AnchorPoint: "Anchor-0" 129 965 basechar 0
 LayerCount: 3
 Fore
 Refer: 39 73 N 1 0 0 1 0 0 3
-Refer: 467 775 N 1 0 0 1 3 215 2
-Validated: 1048577
+Refer: 467 775 N 1 0 0 1 -4 215 2
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" Idotaccent.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Idotaccent.ss01
 EndChar

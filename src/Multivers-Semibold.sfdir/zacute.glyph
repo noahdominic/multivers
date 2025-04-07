@@ -1,15 +1,14 @@
 StartChar: zacute
 Encoding: 378 378 263
-Width: 524
+Width: 512
 GlyphClass: 2
 Flags: HW
-HStem: 0 100<183 477> 422 100<61 343> 597 161<274 285>
-VStem: 171 278
+HStem: 0 100<177 471> 422 100<55 337> 597 161<268 279>
+VStem: 165 278
 AnchorPoint: "Anchor-2" 257 0 basechar 0
 AnchorPoint: "Anchor-0" 257 758 basechar 0
 LayerCount: 3
 Fore
 Refer: 262 122 N 1 0 0 1 0 0 3
-Refer: 469 769 N 1 0 0 1 110 0 2
-Validated: 1048581
+Refer: 469 769 N 1 0 0 1 104 0 2
 EndChar

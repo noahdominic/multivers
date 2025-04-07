@@ -1,22 +1,21 @@
 StartChar: seven
 Encoding: 55 55 326
-Width: 571
+Width: 561
 Flags: HW
-HStem: 0 22G<159 310> 625 113<90 421>
+HStem: 0 22G<154 305> 625 113<85 416>
 LayerCount: 3
 Fore
 SplineSet
-159 0 m 1
- 159 0 159 0 421 656 c 5
- 431 625 l 1
- 90 625 l 1
- 90 737 l 1
- 546 737 l 1
- 546 642 l 1
- 302 0 l 1
- 159 0 l 1
+154 0 m 1
+ 154 0 154 0 416 656 c 5
+ 426 625 l 1
+ 85 625 l 1
+ 85 737 l 1
+ 541 737 l 1
+ 541 642 l 1
+ 297 0 l 1
+ 154 0 l 1
 EndSplineSet
-Validated: 5
 Substitution2: "'tnum' Tabular Numbers in Latin lookup 19 subtable" seven.tf
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" seven.tf
 EndChar

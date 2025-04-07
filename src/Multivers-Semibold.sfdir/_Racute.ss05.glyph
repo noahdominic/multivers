@@ -1,15 +1,14 @@
 StartChar: Racute.ss05
 Encoding: 340 340 136
-Width: 665
+Width: 657
 GlyphClass: 2
 Flags: HW
-HStem: 0 22G<69 211 514 661> 311 100<132 422> 633 104<211 438> 812 161<346 356>
-VStem: 69 142<0 311 412 633> 132 79<311 412> 243 278 479 142<455 593>
+HStem: 0 22G<65 207 510 657> 311 100<128 418> 633 104<207 434> 812 161<342 352>
+VStem: 65 142<0 311 412 633> 128 79<311 412> 239 278 475 142<455 593>
 AnchorPoint: "Anchor-2" 335 0 basechar 0
 AnchorPoint: "Anchor-0" 329 973 basechar 0
 LayerCount: 3
 Fore
 Refer: 135 82 N 1 0 0 1 0 0 3
-Refer: 469 769 N 1 0 0 1 181 215 2
-Validated: 1048581
+Refer: 469 769 N 1 0 0 1 177 215 2
 EndChar

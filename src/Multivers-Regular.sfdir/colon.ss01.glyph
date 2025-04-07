@@ -1,6 +1,6 @@
 StartChar: colon.ss01
 Encoding: 65647 -1 361
-Width: 287
+Width: 275
 Flags: HW
 HStem: -10 117<98 180> 379 117<98 180>
 VStem: 81 117<7 89 396 479>
@@ -8,5 +8,4 @@ LayerCount: 3
 Fore
 Refer: 359 -1 N 1 0 0 1 0 0 3
 Refer: 359 -1 N 1 0 0 1 0 389 2
-Validated: 1
 EndChar

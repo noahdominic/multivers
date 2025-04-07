@@ -1,16 +1,15 @@
 StartChar: Ecircumflex
 Encoding: 202 202 26
-Width: 635
+Width: 629
 GlyphClass: 2
 Flags: HW
-HStem: 0 78<147 574> 343 77<147 538> 659 78<147 566> 812 161 932 20G<311 391>
-VStem: 147 50<0 78 343 420 659 737>
+HStem: 0 78<144 571> 343 77<144 535> 659 78<144 563> 812 161 932 20G<308 388>
+VStem: 144 50<0 78 343 420 659 737>
 AnchorPoint: "Anchor-3" 523 0 basechar 0
 AnchorPoint: "Anchor-2" 312 0 basechar 0
 AnchorPoint: "Anchor-0" 323 973 basechar 0
 LayerCount: 3
 Fore
 Refer: 23 69 N 1 0 0 1 0 0 3
-Refer: 463 770 N 1 0 0 1 95 215 2
-Validated: 1048581
+Refer: 463 770 N 1 0 0 1 92 215 2
 EndChar

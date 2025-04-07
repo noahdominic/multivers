@@ -1,15 +1,14 @@
 StartChar: yacute.ss03
 Encoding: 253 253 301
-Width: 548
+Width: 536
 GlyphClass: 2
 Flags: HW
-HStem: 502 20G<11 158 395 538> 597 161<290 300>
-VStem: 186 278
-AnchorPoint: "Anchor-2" 270 0 basechar 0
-AnchorPoint: "Anchor-0" 272 758 basechar 0
+HStem: 502 20G<8 155 392 535> 597 161<287 297>
+VStem: 183 278
+AnchorPoint: "Anchor-2" 273 0 basechar 0
+AnchorPoint: "Anchor-0" 275 758 basechar 0
 LayerCount: 3
 Fore
-Refer: 300 121 N 1 0 0 1 0 0 3
-Refer: 469 769 N 1 0 0 1 125 0 2
-Validated: 1048581
+Refer: 300 121 N 1 0 0 1 3 0 3
+Refer: 469 769 N 1 0 0 1 122 0 2
 EndChar

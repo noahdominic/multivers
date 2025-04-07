@@ -1,16 +1,15 @@
 StartChar: slash
 Encoding: 47 47 349
-Width: 452
+Width: 444
 Flags: HW
-VStem: 65 323
+VStem: 61 323
 LayerCount: 3
 Fore
 SplineSet
-65 -61 m 5
- 307 768 l 5
- 388 768 l 5
- 145 -61 l 5
- 65 -61 l 5
+61 -61 m 5
+ 303 768 l 5
+ 384 768 l 5
+ 141 -61 l 5
+ 61 -61 l 5
 EndSplineSet
-Validated: 1
 EndChar

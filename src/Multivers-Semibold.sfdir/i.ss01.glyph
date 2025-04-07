@@ -1,16 +1,15 @@
 StartChar: i.ss01
 Encoding: 65584 -1 272
-Width: 272
+Width: 260
 GlyphClass: 2
 Flags: HW
-HStem: 0 22G<72 201> 502 20G<72 201> 592 169<81 193>
-VStem: 53 166<620 735> 72 129<0 522>
+HStem: 0 22G<66 195> 502 20G<66 195> 592 169<75 187>
+VStem: 47 166<620 735> 66 129<0 522>
 AnchorPoint: "Anchor-3" 196 0 basechar 0
 AnchorPoint: "Anchor-2" 145 0 basechar 0
 AnchorPoint: "Anchor-0" 131 761 basechar 0
 LayerCount: 3
 Fore
 Refer: 189 305 N 1 0 0 1 0 0 3
-Refer: 483 -1 N 1 0 0 1 -8 0 2
-Validated: 1048577
+Refer: 483 -1 N 1 0 0 1 -14 0 2
 EndChar

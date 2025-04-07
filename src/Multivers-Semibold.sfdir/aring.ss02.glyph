@@ -1,6 +1,6 @@
 StartChar: aring.ss02
 Encoding: 65610 -1 298
-Width: 632
+Width: 620
 GlyphClass: 2
 Flags: HW
 HStem: -10 105<222 359> 0 22G<431 556> 427 105<222 362> 502 20G<431 556> 574 67<279 344> 728 67<278 344>
@@ -12,5 +12,4 @@ LayerCount: 3
 Fore
 Refer: 289 -1 N 1 0 0 1 0 0 3
 Refer: 475 778 N 1 0 0 1 139 0 2
-Validated: 1048581
 EndChar

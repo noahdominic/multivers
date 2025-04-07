@@ -1,16 +1,15 @@
 StartChar: edotaccent.ss01
 Encoding: 65581 -1 269
-Width: 582
+Width: 570
 GlyphClass: 2
 Flags: HW
-HStem: -10 96<222 376> 223 89<113 413> 436 96<222 370> 592 169<246 358>
-VStem: 113 48<223 312> 218 166<620 735>
+HStem: -10 96<216 370> 223 89<107 407> 436 96<216 364> 592 169<240 352>
+VStem: 107 48<223 312> 212 166<620 735>
 AnchorPoint: "Anchor-3" 427 20 basechar 0
 AnchorPoint: "Anchor-2" 286 0 basechar 0
 AnchorPoint: "Anchor-0" 297 761 basechar 0
 LayerCount: 3
 Fore
 Refer: 172 101 N 1 0 0 1 0 0 3
-Refer: 483 -1 N 1 0 0 1 157 0 2
-Validated: 1048581
+Refer: 483 -1 N 1 0 0 1 151 0 2
 EndChar

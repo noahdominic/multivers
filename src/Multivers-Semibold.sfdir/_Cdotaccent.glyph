@@ -1,17 +1,16 @@
 StartChar: Cdotaccent
 Encoding: 266 266 18
-Width: 753
+Width: 747
 GlyphClass: 2
 Flags: HW
-HStem: -10 108<303 482> 640 108<306 484> 823 141<319 459>
-VStem: 42 142<242 492> 319 139<823 965> 568 147<194 271 466 545>
+HStem: -10 108<300 479> 640 108<303 481> 823 141<316 456>
+VStem: 39 142<242 492> 316 139<823 965> 565 147<194 271 466 545>
 AnchorPoint: "Anchor-2" 384 0 basechar 0
 AnchorPoint: "Anchor-0" 384 965 basechar 0
 LayerCount: 3
 Fore
 Refer: 14 67 N 1 0 0 1 0 0 3
-Refer: 467 775 N 1 0 0 1 258 215 2
-Validated: 1048577
+Refer: 467 775 N 1 0 0 1 255 215 2
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" Cdotaccent.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Cdotaccent.ss01
 EndChar

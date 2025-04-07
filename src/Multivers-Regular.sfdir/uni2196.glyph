@@ -1,23 +1,22 @@
 StartChar: uni2196
 Encoding: 8598 8598 454
-Width: 744
+Width: 720
 Flags: HW
-HStem: 574 71<181 574>
+HStem: 574 71<169 562>
 LayerCount: 3
 Fore
 SplineSet
-586 104 m 1
- 125 566 l 1
- 168 562 l 1
- 166 97 l 1
- 96 168 l 1
- 99 644 l 1
- 574 645 l 1
- 647 574 l 1
- 181 573 l 1
- 177 617 l 1
- 637 156 l 1
- 586 104 l 1
+574 104 m 1
+ 113 566 l 1
+ 156 562 l 1
+ 154 97 l 1
+ 84 168 l 1
+ 87 644 l 1
+ 562 645 l 1
+ 635 574 l 1
+ 169 573 l 1
+ 165 617 l 1
+ 625 156 l 1
+ 574 104 l 1
 EndSplineSet
-Validated: 5
 EndChar

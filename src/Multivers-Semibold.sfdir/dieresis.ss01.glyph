@@ -1,11 +1,10 @@
 StartChar: dieresis.ss01
 Encoding: 65692 -1 499
-Width: 519
+Width: 499
 Flags: HW
-HStem: 604 156<89 196 323 430>
-VStem: 67 153<628 738> 300 153<628 738>
+HStem: 604 156<79 186 313 420>
+VStem: 57 153<628 738> 290 153<628 738>
 LayerCount: 3
 Fore
-Refer: 482 -1 N 1 0 0 1 5 0 2
-Validated: 1
+Refer: 482 -1 N 1 0 0 1 -5 0 2
 EndChar

@@ -1,6 +1,6 @@
 StartChar: uni0137.ss04
 Encoding: 65613 -1 306
-Width: 570
+Width: 558
 GlyphClass: 2
 Flags: HW
 HStem: -339 59<218 267> -205 9<289 324> -205 129<218 289> 0 22G<67 196 397 553> 502 20G<370 539> 717 20G<67 196>
@@ -11,5 +11,4 @@ LayerCount: 3
 Fore
 Refer: 305 -1 N 1 0 0 1 0 0 3
 Refer: 479 806 N 1 0 0 1 150 0 2
-Validated: 1048581
 EndChar

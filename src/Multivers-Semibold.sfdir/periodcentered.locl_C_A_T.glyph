@@ -1,13 +1,12 @@
 StartChar: periodcentered.loclCAT
 Encoding: 65644 -1 366
-Width: 175
+Width: 162
 Flags: HW
-HStem: 302 165<30 145>
-VStem: 5 165<327 442>
+HStem: 302 165<23 138>
+VStem: -2 165<327 442>
 LayerCount: 3
 Fore
-Refer: 367 -1 N 1 0 0 1 -51 312 2
-Validated: 1
+Refer: 367 -1 N 1 0 0 1 -58 312 2
 Substitution2: "'case' Case-Sensitive Forms in Latin lookup 20 subtable" periodcentered.loclCAT.case
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" periodcentered.loclCAT.case
 EndChar

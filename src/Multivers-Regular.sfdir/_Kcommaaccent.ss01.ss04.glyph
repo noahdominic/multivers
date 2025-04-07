@@ -1,6 +1,6 @@
 StartChar: Kcommaaccent.ss01.ss04
 Encoding: 65568 -1 143
-Width: 720
+Width: 712
 GlyphClass: 2
 Flags: HW
 HStem: -182 114<322 398> 0 22G<97 180 549 668> 717 20G<97 180 521 647>
@@ -11,5 +11,4 @@ LayerCount: 3
 Fore
 Refer: 130 -1 N 1 0 0 1 0 0 3
 Refer: 476 -1 N 1 0 0 1 231 0 2
-Validated: 1048581
 EndChar

@@ -1,10 +1,9 @@
 StartChar: caron
 Encoding: 711 711 483
-Width: 453
+Width: 433
 Flags: HW
 HStem: 597 161
 LayerCount: 3
 Fore
-Refer: 464 780 N 1 0 0 1 6 0 2
-Validated: 5
+Refer: 464 780 N 1 0 0 1 -4 0 2
 EndChar

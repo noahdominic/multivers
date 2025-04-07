@@ -1,26 +1,25 @@
 StartChar: uni0307.ss01
 Encoding: 65689 -1 483
-Width: 10
+Width: 0
 GlyphClass: 4
 Flags: HW
-HStem: 592 169<94 206>
-VStem: 67 166<620 735>
-AnchorPoint: "Anchor-7" 150 761 basemark 0
-AnchorPoint: "Anchor-7" 150 522 mark 0
-AnchorPoint: "Anchor-4" 150 522 mark 0
-AnchorPoint: "Anchor-0" 150 522 mark 0
+HStem: 592 169<89 201>
+VStem: 62 166<620 735>
+AnchorPoint: "Anchor-7" 145 761 basemark 0
+AnchorPoint: "Anchor-7" 145 522 mark 0
+AnchorPoint: "Anchor-4" 145 522 mark 0
+AnchorPoint: "Anchor-0" 145 522 mark 0
 LayerCount: 3
 Fore
 SplineSet
-152 592 m 0
- 129 592 109 600 92 616 c 0
- 75 632 67 653 67 676 c 0
- 67 702 75 723 92 738 c 0
- 109 753 129 761 152 761 c 0
- 174 761 192 753 208 738 c 0
- 224 723 232 702 232 676 c 0
- 232 653 224 632 208 616 c 0
- 192 600 174 592 152 592 c 0
+147 592 m 0
+ 124 592 104 600 87 616 c 0
+ 70 632 62 653 62 676 c 0
+ 62 702 70 723 87 738 c 0
+ 104 753 124 761 147 761 c 0
+ 169 761 187 753 203 738 c 0
+ 219 723 227 702 227 676 c 0
+ 227 653 219 632 203 616 c 0
+ 187 600 169 592 147 592 c 0
 EndSplineSet
-Validated: 1
 EndChar

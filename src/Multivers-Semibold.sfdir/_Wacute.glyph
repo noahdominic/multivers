@@ -1,15 +1,14 @@
 StartChar: Wacute
 Encoding: 7810 7810 101
-Width: 1050
+Width: 1086
 GlyphClass: 2
 Flags: HW
-HStem: 0 22G<224 386 669 830> 717 20G<28 175 450 611 879 1026> 812 161<540 550>
-VStem: 436 278
+HStem: 0 22G<242 404 687 848> 717 20G<46 193 468 629 897 1044> 812 161<558 568>
+VStem: 454 278
 AnchorPoint: "Anchor-2" 539 0 basechar 0
 AnchorPoint: "Anchor-0" 539 973 basechar 0
 LayerCount: 3
 Fore
 Refer: 100 87 N 1 0 0 1 0 0 3
-Refer: 469 769 N 1 0 0 1 375 215 2
-Validated: 1048581
+Refer: 469 769 N 1 0 0 1 393 215 2
 EndChar

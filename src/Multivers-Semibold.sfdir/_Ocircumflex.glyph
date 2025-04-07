@@ -1,10 +1,10 @@
 StartChar: Ocircumflex
 Encoding: 212 212 65
-Width: 800
+Width: 794
 GlyphClass: 2
 Flags: HW
-HStem: -10 108<305 491> 640 108<304 499> 812 161
-VStem: 42 144<239 505> 613 144<241 508>
+HStem: -10 108<302 488> 640 108<301 496> 812 161
+VStem: 39 144<239 505> 610 144<241 508>
 AnchorPoint: "Anchor-3" 545 20 basechar 0
 AnchorPoint: "Anchor-2" 395 0 basechar 0
 AnchorPoint: "Anchor-1" 770 737 basechar 0
@@ -12,6 +12,5 @@ AnchorPoint: "Anchor-0" 395 973 basechar 0
 LayerCount: 3
 Fore
 Refer: 63 79 N 1 0 0 1 0 0 3
-Refer: 472 770 N 1 0 0 1 139 215 2
-Validated: 5
+Refer: 472 770 N 1 0 0 1 136 215 2
 EndChar

@@ -1,6 +1,6 @@
 StartChar: amacron.ss02
 Encoding: 65608 -1 288
-Width: 632
+Width: 620
 GlyphClass: 2
 Flags: HW
 HStem: -10 71<212 378> 0 22G<457 531> 461 71<213 378> 502 20G<457 531> 658 57<139 483>
@@ -12,5 +12,4 @@ LayerCount: 3
 Fore
 Refer: 281 -1 N 1 0 0 1 0 0 3
 Refer: 468 772 N 1 0 0 1 67 0 2
-Validated: 1048581
 EndChar

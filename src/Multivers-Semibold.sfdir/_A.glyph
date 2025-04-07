@@ -1,32 +1,31 @@
 StartChar: A
 Encoding: 65 65 1
-Width: 739
+Width: 733
 GlyphClass: 2
 Flags: HW
-HStem: 0 22G<33 182 557 707> 183 105<169 561> 717 20G<287 453>
-AnchorPoint: "Anchor-3" 707 0 basechar 0
-AnchorPoint: "Anchor-2" 370 0 basechar 0
-AnchorPoint: "Anchor-0" 370 737 basechar 0
+HStem: 0 22G<30 179 554 704> 183 105<166 558> 717 20G<284 450>
+AnchorPoint: "Anchor-3" 704 0 basechar 0
+AnchorPoint: "Anchor-2" 367 0 basechar 0
+AnchorPoint: "Anchor-0" 367 737 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-33 0 m 1
- 294 737 l 1
- 419 737 l 1
- 175 0 l 1
- 33 0 l 1
-564 0 m 1
- 321 737 l 1
- 445 737 l 1
- 707 0 l 1
- 564 0 l 1
-169 289 m 1
- 561 289 l 1
- 561 183 l 1
- 169 183 l 1
- 169 289 l 1
+30 0 m 1
+ 291 737 l 1
+ 416 737 l 1
+ 172 0 l 1
+ 30 0 l 1
+561 0 m 1
+ 318 737 l 1
+ 442 737 l 1
+ 704 0 l 1
+ 561 0 l 1
+166 289 m 1
+ 558 289 l 1
+ 558 183 l 1
+ 166 183 l 1
+ 166 289 l 1
 EndSplineSet
-Validated: 1048581
 Substitution2: "Single Substitution lookup 17 subtable" ordfeminine
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" ordfeminine
 EndChar

@@ -1,27 +1,26 @@
 StartChar: less_hyphen.liga
 Encoding: 65674 -1 418
-Width: 863
+Width: 849
 GlyphClass: 3
 LigCaretCntFixed: 1
 Flags: HW
-HStem: 309 119<236 814>
+HStem: 309 119<229 807>
 LayerCount: 3
 Fore
 SplineSet
-814 309 m 1
- 164 309 l 1
- 236 360 l 1
- 578 18 l 1
- 416 18 l 1
- 67 369 l 1
- 416 719 l 1
- 579 719 l 1
- 236 377 l 1
- 164 428 l 1
- 814 428 l 1
- 814 309 l 1
+807 309 m 1
+ 157 309 l 1
+ 229 360 l 1
+ 571 18 l 1
+ 409 18 l 1
+ 60 369 l 1
+ 409 719 l 1
+ 572 719 l 1
+ 229 377 l 1
+ 157 428 l 1
+ 807 428 l 1
+ 807 309 l 1
 EndSplineSet
-Validated: 5
 Ligature2: "'liga' Standard Ligatures in Latin lookup 21 subtable" less hyphen
 LCarets2: 1 427
 EndChar

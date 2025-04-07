@@ -1,11 +1,10 @@
 StartChar: periodcentered.loclCAT.case.ss01
 Encoding: 65658 -1 372
-Width: 174
+Width: 162
 Flags: HW
-HStem: 352 117<57 139>
-VStem: 41 117<369 452>
+HStem: 352 117<51 133>
+VStem: 35 117<369 452>
 LayerCount: 3
 Fore
-Refer: 359 -1 N 1 0 0 1 -40 362 2
-Validated: 513
+Refer: 359 -1 N 1 0 0 1 -46 362 2
 EndChar

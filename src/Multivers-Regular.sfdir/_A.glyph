@@ -1,34 +1,33 @@
 StartChar: A
 Encoding: 65 65 1
-Width: 739
+Width: 733
 GlyphClass: 2
 Flags: HW
-HStem: 0 22G<50 146 587 689> 224 73<185 551> 716 21G<310 427>
-AnchorPoint: "Anchor-1" 381 745 basechar 0
-AnchorPoint: "Anchor-4" 704 0 basechar 0
-AnchorPoint: "Anchor-3" 689 0 basechar 0
-AnchorPoint: "Anchor-2" 370 0 basechar 0
-AnchorPoint: "Anchor-0" 370 737 basechar 0
+HStem: 0 22G<47 143 584 686> 224 73<182 548> 716 21G<307 424>
+AnchorPoint: "Anchor-1" 378 745 basechar 0
+AnchorPoint: "Anchor-4" 701 0 basechar 0
+AnchorPoint: "Anchor-3" 686 0 basechar 0
+AnchorPoint: "Anchor-2" 367 0 basechar 0
+AnchorPoint: "Anchor-0" 367 737 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-50 0 m 1
- 318 737 l 1
- 400 737 l 1
- 139 0 l 1
- 50 0 l 1
-595 0 m 1
- 333 737 l 1
- 420 737 l 1
- 689 0 l 1
- 595 0 l 1
-185 297 m 5
- 551 297 l 5
- 551 224 l 1
- 185 224 l 1
- 185 297 l 5
+47 0 m 1
+ 315 737 l 1
+ 397 737 l 1
+ 136 0 l 1
+ 47 0 l 1
+592 0 m 1
+ 330 737 l 1
+ 417 737 l 1
+ 686 0 l 1
+ 592 0 l 1
+182 297 m 5
+ 548 297 l 5
+ 548 224 l 1
+ 182 224 l 1
+ 182 297 l 5
 EndSplineSet
-Validated: 1048581
 Substitution2: "Single Substitution lookup 17 subtable" ordfeminine
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" ordfeminine
 EndChar

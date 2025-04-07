@@ -1,27 +1,26 @@
 StartChar: hyphen_greater.liga
 Encoding: 65636 -1 335
-Width: 862
+Width: 850
 GlyphClass: 3
 LigCaretCntFixed: 1
 Flags: HW
-HStem: 333 72<71 690>
+HStem: 333 72<65 684>
 LayerCount: 3
 Fore
 SplineSet
-71 404 m 1
- 724 404 l 1
- 690 377 l 1
- 363 707 l 1
- 463 707 l 1
- 798 369 l 1
- 462 31 l 1
- 362 31 l 1
- 690 360 l 1
- 724 333 l 1
- 71 333 l 1
- 71 404 l 1
+65 404 m 1
+ 718 404 l 1
+ 684 377 l 1
+ 357 707 l 1
+ 457 707 l 1
+ 792 369 l 1
+ 456 31 l 1
+ 356 31 l 1
+ 684 360 l 1
+ 718 333 l 1
+ 65 333 l 1
+ 65 404 l 1
 EndSplineSet
-Validated: 5
 Ligature2: "'liga' Standard Ligatures in Latin lookup 21 subtable" hyphen greater
 LCarets2: 1 423
 EndChar

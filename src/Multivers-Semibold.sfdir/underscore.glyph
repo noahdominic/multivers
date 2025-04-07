@@ -1,10 +1,9 @@
 StartChar: underscore
 Encoding: 95 95 384
-Width: 477
+Width: 466
 Flags: HW
-HStem: -156 98<5 473>
+HStem: -156 98<-1 467>
 LayerCount: 3
 Fore
-Refer: 382 8211 N 1 0 0 1 -61 -385 2
-Validated: 1
+Refer: 382 8211 N 1 0 0 1 -67 -385 2
 EndChar

@@ -1,19 +1,18 @@
 StartChar: bullet.case
 Encoding: 65643 -1 357
-Width: 731
+Width: 715
 Flags: HW
-HStem: 121 560<86 646>
-VStem: 86 560<121 681>
+HStem: 121 560<78 638>
+VStem: 78 560<121 681>
 LayerCount: 3
 Fore
 SplineSet
-86 121 m 1
- 86 681 l 1
- 646 681 l 1
- 646 121 l 1
- 86 121 l 1
+78 121 m 1
+ 78 681 l 1
+ 638 681 l 1
+ 638 121 l 1
+ 78 121 l 1
 EndSplineSet
-Validated: 1
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" bullet.case.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" bullet.case.ss01
 EndChar

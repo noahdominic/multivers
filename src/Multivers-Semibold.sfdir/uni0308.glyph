@@ -1,29 +1,28 @@
 StartChar: uni0308
 Encoding: 776 776 466
-Width: 10
+Width: 0
 GlyphClass: 4
 Flags: HW
-HStem: 607 142<67 206 299 438>
-VStem: 67 139<607 750> 299 139<607 750>
-AnchorPoint: "Anchor-7" 253 750 basemark 0
-AnchorPoint: "Anchor-7" 253 522 mark 0
-AnchorPoint: "Anchor-4" 253 522 mark 0
-AnchorPoint: "Anchor-0" 253 522 mark 0
+HStem: 607 142<62 201 294 433>
+VStem: 62 139<607 750> 294 139<607 750>
+AnchorPoint: "Anchor-7" 248 750 basemark 0
+AnchorPoint: "Anchor-7" 248 522 mark 0
+AnchorPoint: "Anchor-4" 248 522 mark 0
+AnchorPoint: "Anchor-0" 248 522 mark 0
 LayerCount: 3
 Fore
 SplineSet
-299 607 m 1
- 299 750 l 1
- 438 750 l 1
- 438 607 l 1
- 299 607 l 1
-67 607 m 1
- 67 750 l 1
- 206 750 l 1
- 206 607 l 1
- 67 607 l 1
+294 607 m 1
+ 294 750 l 1
+ 433 750 l 1
+ 433 607 l 1
+ 294 607 l 1
+62 607 m 1
+ 62 750 l 1
+ 201 750 l 1
+ 201 607 l 1
+ 62 607 l 1
 EndSplineSet
-Validated: 1
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" uni0308.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni0308.ss01
 EndChar

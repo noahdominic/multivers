@@ -1,18 +1,17 @@
 StartChar: minus.tf
 Encoding: 65679 -1 439
-Width: 616
+Width: 600
 Flags: HW
-HStem: 345 68<85 534>
+HStem: 345 68<77 526>
 LayerCount: 3
 Fore
 SplineSet
-85 345 m 1
- 85 414 l 1
- 534 414 l 1
- 534 345 l 1
- 85 345 l 1
+77 345 m 1
+ 77 414 l 1
+ 526 414 l 1
+ 526 345 l 1
+ 77 345 l 1
 EndSplineSet
-Validated: 1
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 18 subtable" minus
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" minus
 EndChar

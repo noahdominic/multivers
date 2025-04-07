@@ -1,11 +1,10 @@
 StartChar: quotesinglbase.ss01
 Encoding: 65668 -1 412
-Width: 304
+Width: 290
 Flags: HW
-HStem: -182 63<75 130>
-VStem: 68 166<-11 90>
+HStem: -182 63<68 123>
+VStem: 61 166<-11 90>
 LayerCount: 3
 Fore
-Refer: 417 -1 N 1 0 0 1 12 -649 2
-Validated: 5
+Refer: 417 -1 N 1 0 0 1 5 -649 2
 EndChar

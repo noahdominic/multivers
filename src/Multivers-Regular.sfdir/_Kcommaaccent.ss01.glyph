@@ -1,17 +1,16 @@
 StartChar: Kcommaaccent.ss01
 Encoding: 65549 -1 120
-Width: 720
+Width: 712
 GlyphClass: 2
 Flags: HW
-HStem: -182 114<361 437> 0 22G<115 208 557 706> 717 20G<115 208 542 684>
-VStem: 115 93<0 737> 343 117<-167 -89>
+HStem: -182 114<357 433> 0 22G<111 204 553 702> 717 20G<111 204 538 680>
+VStem: 111 93<0 737> 339 117<-167 -89>
 AnchorPoint: "Anchor-2" 351 -300 basechar 0
 AnchorPoint: "Anchor-0" 340 737 basechar 0
 LayerCount: 3
 Fore
 Refer: 49 75 N 1 0 0 1 0 0 3
-Refer: 476 -1 N 1 0 0 1 271 0 2
-Validated: 1048581
+Refer: 476 -1 N 1 0 0 1 267 0 2
 Substitution2: "'ss04' Style Set 4 in Latin lookup 25 subtable" Kcommaaccent.ss01.ss04
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Kcommaaccent.ss01.ss04
 EndChar

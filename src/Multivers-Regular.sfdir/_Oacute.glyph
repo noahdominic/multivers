@@ -1,10 +1,10 @@
 StartChar: Oacute
 Encoding: 211 211 64
-Width: 799
+Width: 793
 GlyphClass: 2
 Flags: HW
-HStem: -10 80<298 496> 812 161
-VStem: 70 97<224 516> 331 234 633 97<229 517>
+HStem: -10 80<295 493> 812 161
+VStem: 67 97<224 516> 328 234 630 97<229 517>
 AnchorPoint: "Anchor-3" 522 20 basechar 0
 AnchorPoint: "Anchor-2" 384 0 basechar 0
 AnchorPoint: "Anchor-1" 748 737 basechar 0
@@ -12,6 +12,5 @@ AnchorPoint: "Anchor-0" 384 973 basechar 0
 LayerCount: 3
 Fore
 Refer: 63 79 N 1 0 0 1 0 0 3
-Refer: 460 769 N 1 0 0 1 259 215 2
-Validated: 1
+Refer: 460 769 N 1 0 0 1 256 215 2
 EndChar

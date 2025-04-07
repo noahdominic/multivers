@@ -1,26 +1,25 @@
 StartChar: uni030B
 Encoding: 779 779 461
-Width: 10
+Width: 0
 GlyphClass: 4
 Flags: HW
-HStem: 597 161<122 132 321 331>
-AnchorPoint: "Anchor-7" 214 758 basemark 0
-AnchorPoint: "Anchor-7" 214 522 mark 0
-AnchorPoint: "Anchor-4" 214 522 mark 0
-AnchorPoint: "Anchor-0" 214 522 mark 0
+HStem: 597 161<117 127 316 326>
+AnchorPoint: "Anchor-7" 209 758 basemark 0
+AnchorPoint: "Anchor-7" 209 522 mark 0
+AnchorPoint: "Anchor-4" 209 522 mark 0
+AnchorPoint: "Anchor-0" 209 522 mark 0
 LayerCount: 3
 Fore
 SplineSet
-132 597 m 1
- 67 597 l 1
- 122 758 l 1
- 218 758 l 1
- 132 597 l 1
-331 597 m 1
- 264 597 l 1
- 321 758 l 1
- 416 758 l 1
- 331 597 l 1
+127 597 m 1
+ 62 597 l 1
+ 117 758 l 1
+ 213 758 l 1
+ 127 597 l 1
+326 597 m 1
+ 259 597 l 1
+ 316 758 l 1
+ 411 758 l 1
+ 326 597 l 1
 EndSplineSet
-Validated: 1
 EndChar

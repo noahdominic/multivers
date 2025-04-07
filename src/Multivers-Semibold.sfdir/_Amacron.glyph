@@ -1,15 +1,14 @@
 StartChar: Amacron
 Encoding: 256 256 8
-Width: 739
+Width: 733
 GlyphClass: 2
 Flags: HW
-HStem: 0 22G<33 182 557 707> 183 105<169 561> 717 20G<287 453> 856 92<188 550>
+HStem: 0 22G<30 179 554 704> 183 105<166 558> 717 20G<284 450> 856 92<185 547>
 AnchorPoint: "Anchor-3" 701 0 basechar 0
 AnchorPoint: "Anchor-2" 365 0 basechar 0
 AnchorPoint: "Anchor-0" 365 948 basechar 0
 LayerCount: 3
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 3
-Refer: 477 772 N 1 0 0 1 127 215 2
-Validated: 1048581
+Refer: 477 772 N 1 0 0 1 124 215 2
 EndChar

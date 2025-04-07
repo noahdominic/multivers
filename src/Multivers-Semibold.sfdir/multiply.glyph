@@ -1,22 +1,21 @@
 StartChar: multiply
 Encoding: 215 215 438
-Width: 567
+Width: 543
 Flags: HW
 LayerCount: 3
 Fore
 SplineSet
-437 158 m 1
- 61 535 l 1
- 131 604 l 1
- 507 227 l 1
- 437 158 l 1
-131 158 m 1
- 61 227 l 1
- 437 604 l 1
- 507 535 l 1
- 131 158 l 1
+425 158 m 1
+ 49 535 l 1
+ 119 604 l 1
+ 495 227 l 1
+ 425 158 l 1
+119 158 m 1
+ 49 227 l 1
+ 425 604 l 1
+ 495 535 l 1
+ 119 158 l 1
 EndSplineSet
-Validated: 5
 Substitution2: "'tnum' Tabular Numbers in Latin lookup 19 subtable" multiply.tf
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" multiply.tf
 EndChar

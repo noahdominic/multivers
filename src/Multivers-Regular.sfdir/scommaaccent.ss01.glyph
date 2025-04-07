@@ -1,15 +1,14 @@
 StartChar: scommaaccent.ss01
 Encoding: 65595 -1 275
-Width: 503
+Width: 493
 GlyphClass: 2
 Flags: HW
-HStem: -182 114<224 300> -10 65<168 339> 466 67<174 328>
-VStem: 47 82<89 161> 62 85<347 440> 207 117<-167 -89> 354 82<378 438> 368 89<82 187>
+HStem: -182 114<219 295> -10 65<163 334> 466 67<169 323>
+VStem: 42 82<89 161> 57 85<347 440> 202 117<-167 -89> 349 82<378 438> 363 89<82 187>
 AnchorPoint: "Anchor-2" 246 -300 basechar 0
 AnchorPoint: "Anchor-0" 237 522 basechar 0
 LayerCount: 3
 Fore
 Refer: 228 115 N 1 0 0 1 0 0 3
-Refer: 476 -1 N 1 0 0 1 134 0 2
-Validated: 1048581
+Refer: 476 -1 N 1 0 0 1 129 0 2
 EndChar

@@ -1,6 +1,6 @@
 StartChar: semicolon
 Encoding: 59 59 339
-Width: 287
+Width: 275
 Flags: HW
 HStem: -113 217<106 128> 389 104<87 191>
 VStem: 55 159 87 104<389 493>
@@ -8,7 +8,6 @@ LayerCount: 3
 Fore
 Refer: 337 44 S 1 0 0 1 -7 0 3
 Refer: 336 46 N 1 0 0 1 0 389 2
-Validated: 1
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" semicolon.ss01
 Substitution2: "'case' Case-Sensitive Forms in Latin lookup 20 subtable" semicolon.case
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" semicolon.case semicolon.ss01

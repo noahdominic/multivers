@@ -1,16 +1,15 @@
 StartChar: Edieresis.ss01
 Encoding: 65543 -1 117
-Width: 636
+Width: 630
 GlyphClass: 2
 Flags: HW
-HStem: 0 104<132 582> 328 103<132 547> 633 104<132 571> 819 156<160 267 393 501>
-VStem: 132 79<0 104 328 431 633 737> 137 153<843 953> 371 153<843 953>
+HStem: 0 104<129 579> 328 103<129 544> 633 104<129 568> 819 156<157 264 390 498>
+VStem: 129 79<0 104 328 431 633 737> 134 153<843 953> 368 153<843 953>
 AnchorPoint: "Anchor-3" 539 0 basechar 0
 AnchorPoint: "Anchor-2" 314 0 basechar 0
 AnchorPoint: "Anchor-0" 325 975 basechar 0
 LayerCount: 3
 Fore
 Refer: 23 69 N 1 0 0 1 0 0 3
-Refer: 482 -1 N 1 0 0 1 76 215 2
-Validated: 1048581
+Refer: 482 -1 N 1 0 0 1 73 215 2
 EndChar

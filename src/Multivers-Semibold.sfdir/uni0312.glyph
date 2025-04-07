@@ -1,30 +1,29 @@
 StartChar: uni0312
 Encoding: 786 786 478
-Width: 10
+Width: 0
 GlyphClass: 4
 Flags: HW
-HStem: 597 129<143 213> 717 9<108 143> 801 59<164 213>
-VStem: 74 139<597 717>
-AnchorPoint: "Anchor-7" 143 860 basemark 0
-AnchorPoint: "Anchor-7" 143 522 mark 0
-AnchorPoint: "Anchor-4" 143 522 mark 0
-AnchorPoint: "Anchor-0" 143 522 mark 0
+HStem: 597 129<138 208> 717 9<103 138> 801 59<159 208>
+VStem: 69 139<597 717>
+AnchorPoint: "Anchor-7" 138 860 basemark 0
+AnchorPoint: "Anchor-7" 138 522 mark 0
+AnchorPoint: "Anchor-4" 138 522 mark 0
+AnchorPoint: "Anchor-0" 138 522 mark 0
 LayerCount: 3
 Fore
 SplineSet
-74 597 m 1xb0
- 74 702 l 2
- 74 746 86 782 111 811 c 0
- 136 840 169 856 213 860 c 1
- 213 801 l 1
- 190 798 173 790 161 776 c 0
- 149 762 143 742 143 717 c 1
- 97 726 l 1x70
- 213 726 l 1
- 213 597 l 1
- 74 597 l 1xb0
+69 597 m 1xb0
+ 69 702 l 2
+ 69 746 81 782 106 811 c 0
+ 131 840 164 856 208 860 c 1
+ 208 801 l 1
+ 185 798 168 790 156 776 c 0
+ 144 762 138 742 138 717 c 1
+ 92 726 l 1x70
+ 208 726 l 1
+ 208 597 l 1
+ 69 597 l 1xb0
 EndSplineSet
-Validated: 5
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" uni0312.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni0312.ss01
 EndChar

@@ -1,12 +1,11 @@
 StartChar: quotedbl
 Encoding: 34 34 402
-Width: 464
+Width: 448
 Flags: HW
-HStem: 542 216<141 214 296 369>
-VStem: 141 73<542 617> 296 73<542 617>
+HStem: 542 216<133 206 288 361>
+VStem: 133 73<542 617> 288 73<542 617>
 LayerCount: 3
 Fore
-Refer: 403 39 N 1 0 0 1 39 0 2
-Refer: 403 39 N 1 0 0 1 194 0 2
-Validated: 1
+Refer: 403 39 N 1 0 0 1 31 0 2
+Refer: 403 39 N 1 0 0 1 186 0 2
 EndChar

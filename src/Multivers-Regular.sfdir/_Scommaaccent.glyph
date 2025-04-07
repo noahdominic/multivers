@@ -1,17 +1,16 @@
 StartChar: Scommaaccent
 Encoding: 536 536 81
-Width: 645
+Width: 637
 GlyphClass: 2
 Flags: HW
-HStem: -177 5<430 459> -177 103<369 430> -9 78<239 440> 526 22G<476 571> 671 78<231 421>
-VStem: 66 98<140 236> 97 91<493 631> 369 106<-171 -74> 477 94<526 618> 490 89<114 265>
+HStem: -177 5<426 455> -177 103<365 426> -9 78<235 436> 526 22G<472 567> 671 78<227 417>
+VStem: 62 98<140 236> 93 91<493 631> 365 106<-171 -74> 473 94<526 618> 486 89<114 265>
 AnchorPoint: "Anchor-2" 308 -300 basechar 0
 AnchorPoint: "Anchor-0" 308 737 basechar 0
 LayerCount: 3
 Fore
 Refer: 77 83 N 1 0 0 1 0 0 3
-Refer: 470 806 N 1 0 0 1 291 0 2
-Validated: 1048581
+Refer: 470 806 N 1 0 0 1 287 0 2
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" Scommaaccent.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Scommaaccent.ss01
 EndChar

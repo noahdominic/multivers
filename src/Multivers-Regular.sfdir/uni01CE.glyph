@@ -1,18 +1,17 @@
 StartChar: uni01CE
 Encoding: 462 462 150
-Width: 568
+Width: 558
 GlyphClass: 2
 Flags: HW
-HStem: -10 66<185 339> 0 22G<418 500> 254 60<203 421> 466 66<221 372> 597 161
-VStem: 59 91<88 213> 98 91<378 435> 406 14<254 314> 406 81<1 96 217 254 314 431> 408 24<87 139> 420 81<0 95>
+HStem: -10 66<180 334> 0 22G<413 495> 254 60<198 416> 466 66<216 367> 597 161
+VStem: 54 91<88 213> 93 91<378 435> 401 14<254 314> 401 81<1 96 217 254 314 431> 403 24<87 139> 415 81<0 95>
 AnchorPoint: "Anchor-3" 464 0 basechar 0
 AnchorPoint: "Anchor-2" 264 0 basechar 0
 AnchorPoint: "Anchor-0" 264 758 basechar 0
 LayerCount: 3
 Fore
 Refer: 147 97 N 1 0 0 1 0 0 3
-Refer: 464 780 N 1 0 0 1 42 0 2
-Validated: 1048581
+Refer: 464 780 N 1 0 0 1 37 0 2
 Substitution2: "'ss02' Style Set 2 in Latin lookup 23 subtable" uni01CE.ss02
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni01CE.ss02
 EndChar

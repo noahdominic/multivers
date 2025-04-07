@@ -1,24 +1,23 @@
 StartChar: parenright
 Encoding: 41 41 389
-Width: 453
+Width: 439
 Flags: HW
-VStem: 252 122<178 488>
+VStem: 245 122<178 488>
 LayerCount: 3
 Fore
 SplineSet
-174 772 m 1
- 242 708 293 638 325 563 c 0
- 357 488 374 411 374 332 c 0
- 374 255 358 178 325 102 c 0
- 292 26 242 -45 174 -109 c 1
- 49 -109 l 1
- 117 -45 167 25 201 98 c 0
- 235 171 252 249 252 332 c 256
- 252 415 235 493 200 566 c 0
- 165 639 115 708 49 772 c 1
- 174 772 l 1
+167 772 m 1
+ 235 708 286 638 318 563 c 0
+ 350 488 367 411 367 332 c 0
+ 367 255 351 178 318 102 c 0
+ 285 26 235 -45 167 -109 c 1
+ 42 -109 l 1
+ 110 -45 160 25 194 98 c 0
+ 228 171 245 249 245 332 c 256
+ 245 415 228 493 193 566 c 0
+ 158 639 108 708 42 772 c 1
+ 167 772 l 1
 EndSplineSet
-Validated: 1
 Substitution2: "'case' Case-Sensitive Forms in Latin lookup 20 subtable" parenright.case
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" parenright.case
 EndChar

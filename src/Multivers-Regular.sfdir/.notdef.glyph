@@ -1,22 +1,21 @@
 StartChar: .notdef
 Encoding: 65536 -1 0
-Width: 676
+Width: 664
 Flags: HW
-HStem: 0 73<173 506> 665 72<173 506>
-VStem: 90 83<73 665> 506 82<73 665>
+HStem: 0 73<167 500> 665 72<167 500>
+VStem: 84 83<73 665> 500 82<73 665>
 LayerCount: 3
 Fore
 SplineSet
-90 0 m 1
- 90 737 l 1
- 588 737 l 1
- 588 0 l 1
- 90 0 l 1
-173 73 m 1
- 506 73 l 1
- 506 665 l 1
- 173 665 l 1
- 173 73 l 1
+84 0 m 1
+ 84 737 l 1
+ 582 737 l 1
+ 582 0 l 1
+ 84 0 l 1
+167 73 m 1
+ 500 73 l 1
+ 500 665 l 1
+ 167 665 l 1
+ 167 73 l 1
 EndSplineSet
-Validated: 1
 EndChar

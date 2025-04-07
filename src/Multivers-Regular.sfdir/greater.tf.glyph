@@ -1,21 +1,20 @@
 StartChar: greater.tf
 Encoding: 65683 -1 443
-Width: 616
+Width: 600
 Flags: HW
 LayerCount: 3
 Fore
 SplineSet
-89 177 m 1
- 89 250 l 1
- 471 392 l 1
- 471 367 l 1
- 89 500 l 1
- 89 572 l 1
- 539 419 l 1
- 539 341 l 1
- 89 177 l 1
+81 177 m 1
+ 81 250 l 1
+ 463 392 l 1
+ 463 367 l 1
+ 81 500 l 1
+ 81 572 l 1
+ 531 419 l 1
+ 531 341 l 1
+ 81 177 l 1
 EndSplineSet
-Validated: 5
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 18 subtable" greater
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" greater
 EndChar

@@ -1,15 +1,14 @@
 StartChar: Cdotaccent.ss01
 Encoding: 65542 -1 116
-Width: 753
+Width: 747
 GlyphClass: 2
 Flags: HW
-HStem: -10 108<303 482> 640 108<306 484> 807 169<334 446>
-VStem: 42 142<242 492> 306 166<835 950> 568 147<194 271 466 545>
+HStem: -10 108<300 479> 640 108<303 481> 807 169<331 443>
+VStem: 39 142<242 492> 303 166<835 950> 565 147<194 271 466 545>
 AnchorPoint: "Anchor-2" 384 0 basechar 0
 AnchorPoint: "Anchor-0" 384 976 basechar 0
 LayerCount: 3
 Fore
 Refer: 14 67 N 1 0 0 1 0 0 3
-Refer: 483 -1 N 1 0 0 1 245 215 2
-Validated: 1048577
+Refer: 483 -1 N 1 0 0 1 242 215 2
 EndChar

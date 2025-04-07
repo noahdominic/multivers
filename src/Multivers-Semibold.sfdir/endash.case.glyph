@@ -1,16 +1,15 @@
 StartChar: endash.case
 Encoding: 65660 -1 386
-Width: 611
+Width: 599
 Flags: HW
-HStem: 319 98<72 540>
+HStem: 319 98<66 534>
 LayerCount: 3
 Fore
 SplineSet
-72 319 m 1
- 72 418 l 1
- 540 418 l 1
- 540 319 l 1
- 72 319 l 1
+66 319 m 1
+ 66 418 l 1
+ 534 418 l 1
+ 534 319 l 1
+ 66 319 l 1
 EndSplineSet
-Validated: 1
 EndChar

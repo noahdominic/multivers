@@ -1,22 +1,21 @@
 StartChar: gravecomb
 Encoding: 768 768 468
-Width: 10
+Width: 0
 GlyphClass: 4
 Flags: HW
-HStem: 597 161<230 241>
-VStem: 67 278
-AnchorPoint: "Anchor-7" 253 758 basemark 0
-AnchorPoint: "Anchor-7" 253 522 mark 0
-AnchorPoint: "Anchor-4" 253 522 mark 0
-AnchorPoint: "Anchor-0" 253 522 mark 0
+HStem: 597 161<225 236>
+VStem: 62 278
+AnchorPoint: "Anchor-7" 248 758 basemark 0
+AnchorPoint: "Anchor-7" 248 522 mark 0
+AnchorPoint: "Anchor-4" 248 522 mark 0
+AnchorPoint: "Anchor-0" 248 522 mark 0
 LayerCount: 3
 Fore
 SplineSet
-230 597 m 1
- 67 758 l 1
- 241 758 l 1
- 344 597 l 1
- 230 597 l 1
+225 597 m 1
+ 62 758 l 1
+ 236 758 l 1
+ 339 597 l 1
+ 225 597 l 1
 EndSplineSet
-Validated: 1
 EndChar

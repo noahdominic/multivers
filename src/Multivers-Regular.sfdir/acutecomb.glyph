@@ -1,22 +1,21 @@
 StartChar: acutecomb
 Encoding: 769 769 460
-Width: 10
+Width: 0
 GlyphClass: 4
 Flags: HW
 HStem: 597 161
-VStem: 67 234
-AnchorPoint: "Anchor-7" 147 758 basemark 0
-AnchorPoint: "Anchor-7" 147 522 mark 0
-AnchorPoint: "Anchor-4" 147 522 mark 0
-AnchorPoint: "Anchor-0" 147 522 mark 0
+VStem: 62 234
+AnchorPoint: "Anchor-7" 142 758 basemark 0
+AnchorPoint: "Anchor-7" 142 522 mark 0
+AnchorPoint: "Anchor-4" 142 522 mark 0
+AnchorPoint: "Anchor-0" 142 522 mark 0
 LayerCount: 3
 Fore
 SplineSet
-141 597 m 1
- 67 597 l 1
- 179 758 l 1
- 301 758 l 1
- 141 597 l 1
+136 597 m 1
+ 62 597 l 1
+ 174 758 l 1
+ 296 758 l 1
+ 136 597 l 1
 EndSplineSet
-Validated: 1
 EndChar

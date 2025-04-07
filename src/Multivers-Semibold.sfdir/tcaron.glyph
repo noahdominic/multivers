@@ -1,16 +1,15 @@
 StartChar: tcaron
 Encoding: 357 357 238
-Width: 416
+Width: 406
 GlyphClass: 2
 Flags: HW
-HStem: 0 102<267 385> 422 100<20 385> 569 236<326 411>
-VStem: 118 129<117 639> 326 85<569 633> 326 112<741 805>
+HStem: 0 102<262 380> 422 100<15 380> 569 236<321 406>
+VStem: 113 129<117 639> 321 85<569 633> 321 112<741 805>
 AnchorPoint: "Anchor-2" 263 0 basechar 0
 AnchorPoint: "Anchor-1" 321 805 basechar 0
 AnchorPoint: "Anchor-0" 161 522 basechar 0
 LayerCount: 3
 Fore
 Refer: 237 116 N 1 0 0 1 0 0 3
-Refer: 471 -1 N 1 0 0 1 264 68 2
-Validated: 1048581
+Refer: 471 -1 N 1 0 0 1 259 68 2
 EndChar

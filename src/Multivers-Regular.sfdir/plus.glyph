@@ -1,24 +1,23 @@
 StartChar: plus
 Encoding: 43 43 427
-Width: 566
+Width: 544
 Flags: HW
-HStem: 345 69<74 495>
-VStem: 250 70<157 604>
+HStem: 345 69<63 484>
+VStem: 239 70<157 604>
 LayerCount: 3
 Fore
 SplineSet
-250 157 m 1
- 250 604 l 1
- 319 604 l 1
- 319 157 l 1
- 250 157 l 1
-74 345 m 1
- 74 414 l 1
- 495 414 l 1
- 495 345 l 1
- 74 345 l 1
+239 157 m 1
+ 239 604 l 1
+ 308 604 l 1
+ 308 157 l 1
+ 239 157 l 1
+63 345 m 1
+ 63 414 l 1
+ 484 414 l 1
+ 484 345 l 1
+ 63 345 l 1
 EndSplineSet
-Validated: 5
 Substitution2: "'tnum' Tabular Numbers in Latin lookup 19 subtable" plus.tf
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" plus.tf
 EndChar

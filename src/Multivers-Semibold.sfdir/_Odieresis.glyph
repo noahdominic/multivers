@@ -1,10 +1,10 @@
 StartChar: Odieresis
 Encoding: 214 214 66
-Width: 800
+Width: 794
 GlyphClass: 2
 Flags: HW
-HStem: -10 108<305 491> 640 108<304 499> 822 142<214 353 446 586>
-VStem: 42 144<239 505> 214 139<822 965> 446 139<822 965> 613 144<241 508>
+HStem: -10 108<302 488> 640 108<301 496> 822 142<211 350 443 583>
+VStem: 39 144<239 505> 211 139<822 965> 443 139<822 965> 610 144<241 508>
 AnchorPoint: "Anchor-3" 545 20 basechar 0
 AnchorPoint: "Anchor-2" 395 0 basechar 0
 AnchorPoint: "Anchor-1" 770 737 basechar 0
@@ -12,8 +12,7 @@ AnchorPoint: "Anchor-0" 395 965 basechar 0
 LayerCount: 3
 Fore
 Refer: 63 79 N 1 0 0 1 0 0 3
-Refer: 466 776 N 1 0 0 1 153 215 2
-Validated: 1
+Refer: 466 776 N 1 0 0 1 150 215 2
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" Odieresis.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Odieresis.ss01
 EndChar

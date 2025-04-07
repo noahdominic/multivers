@@ -1,18 +1,17 @@
 StartChar: endash
 Encoding: 8211 8211 382
-Width: 611
+Width: 599
 Flags: HW
-HStem: 229 98<72 540>
+HStem: 229 98<66 534>
 LayerCount: 3
 Fore
 SplineSet
-72 229 m 1
- 72 328 l 1
- 540 328 l 1
- 540 229 l 1
- 72 229 l 1
+66 229 m 1
+ 66 328 l 1
+ 534 328 l 1
+ 534 229 l 1
+ 66 229 l 1
 EndSplineSet
-Validated: 1
 Substitution2: "'case' Case-Sensitive Forms in Latin lookup 20 subtable" endash.case
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" endash.case
 EndChar

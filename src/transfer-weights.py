@@ -1,7 +1,11 @@
 import fontforge
 
-source = fontforge.open("/home/noahdominic/.local/share/fonts/multivers/Multivers-Semibold.ttf")
-target = fontforge.open("Multivers-Semibold.sfdir")
+family = "Multivers"
+weight = "Semibold"
+name = f"{family}-{weight}"
+
+source = fontforge.open(f"/home/noahdominic/.local/share/fonts/InstrumentSans/InstrumentSans-SemiBold.ttf")
+target = fontforge.open(f"{name}.sfdir")
 
 print(target)
 source_glyphs = list([glyph.glyphname for glyph in source.glyphs()])
@@ -20,4 +24,7 @@ for glyphname in source_glyphs:
         tgt_glyph.left_side_bearing = int(tgt_glyph.left_side_bearing + width_adjust)
         tgt_glyph.right_side_bearing = int(tgt_glyph.right_side_bearing + width_adjust)
 
-target.save("Multivers-Regular-temp.sfdir")
+target.save(f"{name}.sfdir")
+target.generate(f"/home/noahdominic/.local/share/fonts/multivers/{name}.ttf")
+target.generate(f"/home/noahdominic/Desktop/multivers/{name}.woff2")
+

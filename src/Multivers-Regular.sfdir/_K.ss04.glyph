@@ -1,32 +1,31 @@
 StartChar: K.ss04
 Encoding: 65559 -1 130
-Width: 720
+Width: 712
 GlyphClass: 2
 Flags: HW
-HStem: 0 22G<107 190 559 678> 717 20G<107 190 531 657>
-VStem: 107 83<0 737>
-AnchorPoint: "Anchor-2" 372 0 basechar 0
-AnchorPoint: "Anchor-0" 360 737 basechar 0
+HStem: 0 22G<103 186 555 674> 717 20G<103 186 527 653>
+VStem: 103 83<0 737>
+AnchorPoint: "Anchor-2" 368 0 basechar 0
+AnchorPoint: "Anchor-0" 356 737 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-107 0 m 1
- 107 737 l 1
- 190 737 l 1
- 190 0 l 1
- 107 0 l 1
-126 262 m 1
- 550 737 l 1
- 657 737 l 1
- 355 406 l 1
- 338 396 l 1
- 155 198 l 1
- 126 262 l 1
-573 0 m 1
- 276 423 l 1
- 369 425 l 1
- 678 0 l 1
- 573 0 l 1
+103 0 m 1
+ 103 737 l 1
+ 186 737 l 1
+ 186 0 l 1
+ 103 0 l 1
+122 262 m 1
+ 546 737 l 1
+ 653 737 l 1
+ 351 406 l 1
+ 334 396 l 1
+ 151 198 l 1
+ 122 262 l 1
+569 0 m 1
+ 272 423 l 1
+ 365 425 l 1
+ 674 0 l 1
+ 569 0 l 1
 EndSplineSet
-Validated: 1048581
 EndChar

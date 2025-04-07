@@ -1,35 +1,34 @@
 StartChar: y.ss03
 Encoding: 65573 -1 257
-Width: 556
+Width: 542
 GlyphClass: 2
 Flags: HW
-HStem: -212 105<70 165> 502 20G<17 162 410 545>
-AnchorPoint: "Anchor-2" 275 0 basechar 0
-AnchorPoint: "Anchor-0" 278 522 basechar 0
+HStem: -212 105<63 158> 502 20G<10 155 403 538>
+AnchorPoint: "Anchor-2" 268 0 basechar 0
+AnchorPoint: "Anchor-0" 271 522 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-130 -212 m 0
- 99 -212 100 -212 70 -212 c 1
- 70 -106 l 1
- 92 -106 91 -106 114 -106 c 0
- 139 -106 155 -103 165 -95 c 0
- 178 -85 190 -67 200 -41 c 2
- 248 90 l 1
- 278 127 l 1
- 417 522 l 1
- 545 522 l 1
- 301 -92 l 2
- 289 -121 276 -146 260 -165 c 0
- 244 -184 225 -197 204 -203 c 0
- 183 -209 158 -212 130 -212 c 0
-225 4 m 1
- 17 522 l 1
- 155 522 l 1
- 324 62 l 1
- 225 4 l 1
+123 -212 m 0
+ 92 -212 93 -212 63 -212 c 1
+ 63 -106 l 1
+ 85 -106 84 -106 107 -106 c 0
+ 132 -106 148 -103 158 -95 c 0
+ 171 -85 183 -67 193 -41 c 2
+ 241 90 l 1
+ 271 127 l 1
+ 410 522 l 1
+ 538 522 l 1
+ 294 -92 l 2
+ 282 -121 269 -146 253 -165 c 0
+ 237 -184 218 -197 197 -203 c 0
+ 176 -209 151 -212 123 -212 c 0
+218 4 m 1
+ 10 522 l 1
+ 148 522 l 1
+ 317 62 l 1
+ 218 4 l 1
 EndSplineSet
-Validated: 1048581
 Substitution2: "'calt' Contextual Alternates in Latin lookup 24 subtable" y
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" y
 EndChar

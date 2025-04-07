@@ -1,18 +1,17 @@
 StartChar: edotaccent
 Encoding: 279 279 177
-Width: 582
+Width: 570
 GlyphClass: 2
 Flags: HW
-HStem: -10 96<222 376> 223 89<113 413> 436 96<222 370> 608 141<232 372>
-VStem: 113 48<223 312> 232 139<608 750>
+HStem: -10 96<216 370> 223 89<107 407> 436 96<216 364> 608 141<226 366>
+VStem: 107 48<223 312> 226 139<608 750>
 AnchorPoint: "Anchor-3" 427 20 basechar 0
 AnchorPoint: "Anchor-2" 286 0 basechar 0
 AnchorPoint: "Anchor-0" 297 750 basechar 0
 LayerCount: 3
 Fore
 Refer: 172 101 N 1 0 0 1 0 0 3
-Refer: 467 775 N 1 0 0 1 171 0 2
-Validated: 1048581
+Refer: 467 775 N 1 0 0 1 165 0 2
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" edotaccent.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" edotaccent.ss01
 EndChar

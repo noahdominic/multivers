@@ -1,6 +1,6 @@
 StartChar: uni0156.ss01
 Encoding: 65553 -1 127
-Width: 672
+Width: 664
 GlyphClass: 2
 Flags: HW
 HStem: -339 59<269 318> 0 22G<60 193 452 649> 310 68<163 301> 310 101<355 442> 633 104<193 444>
@@ -11,7 +11,6 @@ LayerCount: 3
 Fore
 Refer: 76 -1 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 193 0 2
-Validated: 1048581
 Substitution2: "'calt' Contextual Alternates in Latin lookup 26 subtable" uni0156.ss01.ss05
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni0156.ss01.ss05
 EndChar

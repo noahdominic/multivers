@@ -1,11 +1,10 @@
 StartChar: ring
 Encoding: 730 730 494
-Width: 353
+Width: 335
 Flags: HW
-HStem: 574 67<144 210> 728 67<143 209>
-VStem: 67 69<650 719> 218 69<650 719>
+HStem: 574 67<135 201> 728 67<134 200>
+VStem: 58 69<650 719> 209 69<650 719>
 LayerCount: 3
 Fore
-Refer: 475 778 N 1 0 0 1 5 0 2
-Validated: 1
+Refer: 475 778 N 1 0 0 1 -4 0 2
 EndChar

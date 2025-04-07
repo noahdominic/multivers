@@ -1,16 +1,15 @@
 StartChar: lcommaaccent.ss01
 Encoding: 65591 -1 271
-Width: 272
+Width: 260
 GlyphClass: 2
 Flags: HW
-HStem: -182 114<105 181> 0 22G<92 181> 727 20G<92 181>
-VStem: 89 117<-167 -89> 92 89<0 748>
+HStem: -182 114<99 175> 0 22G<86 175> 727 20G<86 175>
+VStem: 83 117<-167 -89> 86 89<0 748>
 AnchorPoint: "Anchor-2" 120 -300 basechar 0
 AnchorPoint: "Anchor-1" 229 737 basechar 0
 AnchorPoint: "Anchor-0" 120 737 basechar 0
 LayerCount: 3
 Fore
 Refer: 199 108 N 1 0 0 1 0 0 3
-Refer: 476 -1 N 1 0 0 1 16 0 2
-Validated: 1048581
+Refer: 476 -1 N 1 0 0 1 10 0 2
 EndChar

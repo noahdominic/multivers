@@ -1,14 +1,13 @@
 StartChar: Zcaron
 Encoding: 381 381 113
-Width: 641
+Width: 631
 GlyphClass: 2
 Flags: HW
-HStem: 0 104<210 593> 633 104<66 423> 812 161
+HStem: 0 104<205 588> 633 104<61 418> 812 161
 AnchorPoint: "Anchor-2" 316 0 basechar 0
 AnchorPoint: "Anchor-0" 316 973 basechar 0
 LayerCount: 3
 Fore
 Refer: 111 90 N 1 0 0 1 0 0 3
-Refer: 473 780 N 1 0 0 1 60 215 2
-Validated: 1048581
+Refer: 473 780 N 1 0 0 1 55 215 2
 EndChar

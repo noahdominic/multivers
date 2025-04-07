@@ -1,30 +1,29 @@
 StartChar: uni0306
 Encoding: 774 774 474
-Width: 10
+Width: 0
 GlyphClass: 4
 Flags: HW
-HStem: 590 93<177 302>
-VStem: 67 89<704 758> 324 89<704 758>
-AnchorPoint: "Anchor-7" 240 758 basemark 0
-AnchorPoint: "Anchor-7" 240 522 mark 0
-AnchorPoint: "Anchor-4" 240 522 mark 0
-AnchorPoint: "Anchor-0" 240 522 mark 0
+HStem: 590 93<172 297>
+VStem: 62 89<704 758> 319 89<704 758>
+AnchorPoint: "Anchor-7" 235 758 basemark 0
+AnchorPoint: "Anchor-7" 235 522 mark 0
+AnchorPoint: "Anchor-4" 235 522 mark 0
+AnchorPoint: "Anchor-0" 235 522 mark 0
 LayerCount: 3
 Fore
 SplineSet
-240 590 m 256
- 207 590 177 597 151 611 c 0
- 125 625 104 644 89 670 c 0
- 74 696 67 725 67 758 c 1
- 156 758 l 1
- 156 735 163 716 178 703 c 0
- 193 690 214 683 240 683 c 0
- 267 683 287 690 302 703 c 0
- 317 716 324 735 324 758 c 1
- 413 758 l 1
- 413 725 405 696 390 671 c 0
- 375 646 355 625 329 611 c 0
- 303 597 273 590 240 590 c 256
+235 590 m 256
+ 202 590 172 597 146 611 c 0
+ 120 625 99 644 84 670 c 0
+ 69 696 62 725 62 758 c 1
+ 151 758 l 1
+ 151 735 158 716 173 703 c 0
+ 188 690 209 683 235 683 c 0
+ 262 683 282 690 297 703 c 0
+ 312 716 319 735 319 758 c 1
+ 408 758 l 1
+ 408 725 400 696 385 671 c 0
+ 370 646 350 625 324 611 c 0
+ 298 597 268 590 235 590 c 256
 EndSplineSet
-Validated: 1
 EndChar

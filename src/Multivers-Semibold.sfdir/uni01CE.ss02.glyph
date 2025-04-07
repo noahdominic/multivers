@@ -1,6 +1,6 @@
 StartChar: uni01CE.ss02
 Encoding: 65604 -1 292
-Width: 632
+Width: 620
 GlyphClass: 2
 Flags: HW
 HStem: -10 105<222 359> 0 22G<431 556> 427 105<222 362> 502 20G<431 556> 597 161
@@ -12,5 +12,4 @@ LayerCount: 3
 Fore
 Refer: 289 -1 N 1 0 0 1 0 0 3
 Refer: 473 780 N 1 0 0 1 51 0 2
-Validated: 1048581
 EndChar

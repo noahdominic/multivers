@@ -1,14 +1,13 @@
 StartChar: Wcircumflex
 Encoding: 372 372 99
-Width: 1050
+Width: 1086
 GlyphClass: 2
 Flags: HW
-HStem: 0 22G<244 357 693 806> 717 20G<45 149 466 588 904 1004> 812 161 932 20G<497 577>
+HStem: 0 22G<262 375 711 824> 717 20G<63 167 484 606 922 1022> 812 161 932 20G<515 595>
 AnchorPoint: "Anchor-2" 528 0 basechar 0
 AnchorPoint: "Anchor-0" 528 973 basechar 0
 LayerCount: 3
 Fore
 Refer: 97 87 N 1 0 0 1 0 0 3
-Refer: 463 770 N 1 0 0 1 280 215 2
-Validated: 1048581
+Refer: 463 770 N 1 0 0 1 298 215 2
 EndChar

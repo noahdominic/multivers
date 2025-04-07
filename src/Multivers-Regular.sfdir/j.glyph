@@ -1,17 +1,16 @@
 StartChar: j
 Encoding: 106 106 195
-Width: 272
+Width: 260
 GlyphClass: 2
 Flags: HW
-HStem: -179 65<-2 99> 502 21G<109 199> 642 95<106 200>
-VStem: 106 94<642 737> 109 89<-103 522>
-AnchorPoint: "Anchor-2" 134 -210 basechar 0
-AnchorPoint: "Anchor-0" 134 737 basechar 0
+HStem: -179 65<-14 87> 502 21G<97 187> 642 95<94 188>
+VStem: 94 94<642 737> 97 89<-103 522>
+AnchorPoint: "Anchor-2" 128 -210 basechar 0
+AnchorPoint: "Anchor-0" 128 737 basechar 0
 LayerCount: 3
 Fore
-Refer: 196 567 N 1 0 0 1 14 0 3
-Refer: 458 775 N 1 0 0 1 33 0 2
-Validated: 1048577
+Refer: 196 567 N 1 0 0 1 8 0 3
+Refer: 458 775 N 1 0 0 1 21 0 2
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" j.ss01
 Substitution2: "Single Substitution lookup 4 subtable" uni0237
 Substitution2: "Single Substitution lookup 3 subtable" uni0237

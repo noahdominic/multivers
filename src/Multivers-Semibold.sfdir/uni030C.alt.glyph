@@ -1,19 +1,18 @@
 StartChar: uni030C.alt
 Encoding: 65687 -1 471
-Width: 10
+Width: 0
 GlyphClass: 4
 Flags: HW
-HStem: 502 236<67 152>
-VStem: 67 112<674 737> 67 85<502 565>
-AnchorPoint: "Anchor-1" 67 737 mark 0
+HStem: 502 236<62 147>
+VStem: 62 112<674 737> 62 85<502 565>
+AnchorPoint: "Anchor-1" 62 737 mark 0
 LayerCount: 3
 Fore
 SplineSet
-152 502 m 1xa0
- 67 502 l 1xa0
- 67 737 l 1
- 178 737 l 1xc0
- 152 502 l 1xa0
+147 502 m 1xa0
+ 62 502 l 1xa0
+ 62 737 l 1
+ 173 737 l 1xc0
+ 147 502 l 1xa0
 EndSplineSet
-Validated: 1
 EndChar

@@ -1,11 +1,10 @@
 StartChar: acute
 Encoding: 180 180 480
-Width: 371
+Width: 353
 Flags: HW
 HStem: 597 161
-VStem: 78 234
+VStem: 69 234
 LayerCount: 3
 Fore
-Refer: 460 769 S 1 0 0 1 5 0 2
-Validated: 1
+Refer: 460 769 S 1 0 0 1 -4 0 2
 EndChar

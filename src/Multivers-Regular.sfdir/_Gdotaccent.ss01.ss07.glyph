@@ -1,6 +1,6 @@
 StartChar: Gdotaccent.ss01.ss07
 Encoding: 65571 -1 146
-Width: 777
+Width: 771
 GlyphClass: 2
 Flags: HW
 HStem: -10 75<292 509> 307 31<629 648> 307 73<423 629> 673 75<295 509> 837 114<356 435>
@@ -11,5 +11,4 @@ LayerCount: 3
 Fore
 Refer: 137 -1 N 1 0 0 1 0 0 3
 Refer: 474 -1 N 1 0 0 1 266 215 2
-Validated: 1048581
 EndChar

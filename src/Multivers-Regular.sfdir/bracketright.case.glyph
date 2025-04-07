@@ -1,21 +1,20 @@
 StartChar: bracketright.case
 Encoding: 65667 -1 391
-Width: 452
+Width: 438
 Flags: HW
-HStem: -41 65<84 265> 714 65<84 265>
-VStem: 265 75<24 714>
+HStem: -41 65<77 258> 714 65<77 258>
+VStem: 258 75<24 714>
 LayerCount: 3
 Fore
 SplineSet
-340 778 m 1
- 340 -41 l 1
- 84 -41 l 1
- 84 24 l 1
- 265 24 l 1
- 265 714 l 1
- 84 714 l 1
- 84 778 l 1
- 340 778 l 1
+333 778 m 1
+ 333 -41 l 1
+ 77 -41 l 1
+ 77 24 l 1
+ 258 24 l 1
+ 258 714 l 1
+ 77 714 l 1
+ 77 778 l 1
+ 333 778 l 1
 EndSplineSet
-Validated: 1
 EndChar

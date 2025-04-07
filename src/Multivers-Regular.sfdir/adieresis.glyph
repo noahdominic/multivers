@@ -1,18 +1,17 @@
 StartChar: adieresis
 Encoding: 228 228 152
-Width: 568
+Width: 558
 GlyphClass: 2
 Flags: HW
-HStem: -10 66<185 339> 0 22G<418 500> 254 60<203 421> 466 66<221 372> 642 95<137 229 366 459>
-VStem: 59 91<88 213> 98 91<378 435> 137 93<642 737> 366 93<642 737> 406 14<254 314> 406 81<1 96 217 254 314 431> 408 24<87 139> 420 81<0 95>
+HStem: -10 66<180 334> 0 22G<413 495> 254 60<198 416> 466 66<216 367> 642 95<132 224 361 454>
+VStem: 54 91<88 213> 93 91<378 435> 132 93<642 737> 361 93<642 737> 401 14<254 314> 401 81<1 96 217 254 314 431> 403 24<87 139> 415 81<0 95>
 AnchorPoint: "Anchor-3" 464 0 basechar 0
 AnchorPoint: "Anchor-2" 264 0 basechar 0
 AnchorPoint: "Anchor-0" 264 737 basechar 0
 LayerCount: 3
 Fore
 Refer: 147 97 N 1 0 0 1 0 0 3
-Refer: 457 776 N 1 0 0 1 64 0 2
-Validated: 1048581
+Refer: 457 776 N 1 0 0 1 59 0 2
 Substitution2: "'ss02' Style Set 2 in Latin lookup 23 subtable" adieresis.ss02
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" adieresis.ss01
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" adieresis.ss01 adieresis.ss02

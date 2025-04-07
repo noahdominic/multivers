@@ -1,12 +1,11 @@
 StartChar: semicolon.ss01
 Encoding: 65648 -1 370
-Width: 289
+Width: 277
 Flags: HW
-HStem: 342 165<88 203>
-VStem: 61 165<19 124> 63 165<367 482>
+HStem: 342 165<82 197>
+VStem: 55 165<19 124> 57 165<367 482>
 LayerCount: 3
 Fore
-Refer: 368 -1 N 1 0 0 1 5 0 2
-Refer: 367 -1 N 1 0 0 1 7 352 2
-Validated: 5
+Refer: 368 -1 N 1 0 0 1 -1 0 2
+Refer: 367 -1 N 1 0 0 1 1 352 2
 EndChar

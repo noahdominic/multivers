@@ -1,10 +1,10 @@
 StartChar: Udieresis
 Encoding: 220 220 93
-Width: 712
+Width: 704
 GlyphClass: 2
 Flags: HW
-HStem: -10 108<279 440> 717 20G<60 214 509 652> 822 142<735 874 968 1107>
-VStem: 60 154<173 737> 509 143<174 737> 735 139<822 965> 968 139<822 965>
+HStem: -10 108<275 436> 717 20G<56 210 505 648> 822 142<731 870 964 1103>
+VStem: 56 154<173 737> 505 143<174 737> 731 139<822 965> 964 139<822 965>
 AnchorPoint: "Anchor-3" 501 20 basechar 0
 AnchorPoint: "Anchor-2" 351 0 basechar 0
 AnchorPoint: "Anchor-1" 686 737 basechar 0
@@ -12,8 +12,7 @@ AnchorPoint: "Anchor-0" 351 965 basechar 0
 LayerCount: 3
 Fore
 Refer: 89 85 N 1 0 0 1 0 0 3
-Refer: 466 776 N 1 0 0 1 674 215 2
-Validated: 1
+Refer: 466 776 N 1 0 0 1 670 215 2
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" Udieresis.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Udieresis.ss01
 EndChar

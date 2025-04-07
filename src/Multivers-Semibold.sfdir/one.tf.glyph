@@ -1,32 +1,31 @@
 StartChar: one.tf
 Encoding: 65626 -1 331
-Width: 616
+Width: 600
 Flags: HW
-HStem: 0 104<119 290 423 565> 31 74<290 423> 476 128<126 190> 717 20G<305 423>
-VStem: 290 133<31 608>
+HStem: 0 104<111 282 415 557> 31 74<282 415> 476 128<118 182> 717 20G<297 415>
+VStem: 282 133<31 608>
 LayerCount: 3
 Fore
 SplineSet
-290 31 m 1x78
- 290 623 l 1
- 307 608 l 1
- 297 587 283 568 266 550 c 0
- 249 532 228 517 204 504 c 0
- 180 491 155 481 126 476 c 1
- 126 604 l 1
- 151 609 175 618 200 631 c 0
- 225 644 246 660 266 679 c 0
- 286 698 300 717 310 737 c 1
- 423 737 l 1
- 423 31 l 1
- 290 31 l 1x78
-119 0 m 1xb8
- 119 104 l 1
- 565 104 l 1
- 565 0 l 1
- 119 0 l 1xb8
+282 31 m 1x78
+ 282 623 l 1
+ 299 608 l 1
+ 289 587 275 568 258 550 c 0
+ 241 532 220 517 196 504 c 0
+ 172 491 147 481 118 476 c 1
+ 118 604 l 1
+ 143 609 167 618 192 631 c 0
+ 217 644 238 660 258 679 c 0
+ 278 698 292 717 302 737 c 1
+ 415 737 l 1
+ 415 31 l 1
+ 282 31 l 1x78
+111 0 m 1xb8
+ 111 104 l 1
+ 557 104 l 1
+ 557 0 l 1
+ 111 0 l 1xb8
 EndSplineSet
-Validated: 5
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 18 subtable" one
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" one
 EndChar

@@ -1,15 +1,14 @@
 StartChar: ydieresis
 Encoding: 255 255 295
-Width: 547
+Width: 535
 GlyphClass: 2
 Flags: HW
-HStem: 502 20G<53 160 465 565> 642 95<167 260 396 489>
-VStem: 167 93<642 737> 396 93<642 737>
+HStem: 502 20G<47 154 459 559> 642 95<161 254 390 483>
+VStem: 161 93<642 737> 390 93<642 737>
 AnchorPoint: "Anchor-2" 292 0 basechar 0
 AnchorPoint: "Anchor-0" 294 737 basechar 0
 LayerCount: 3
 Fore
 Refer: 292 121 N 1 0 0 1 32 0 3
-Refer: 457 776 N 1 0 0 1 93 0 2
-Validated: 1048581
+Refer: 457 776 N 1 0 0 1 87 0 2
 EndChar

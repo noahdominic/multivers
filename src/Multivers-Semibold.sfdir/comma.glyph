@@ -1,19 +1,18 @@
 StartChar: comma
 Encoding: 44 44 345
-Width: 287
+Width: 275
 Flags: HW
-HStem: -122 253<103 141>
-VStem: 42 207
+HStem: -122 253<97 135>
+VStem: 36 207
 LayerCount: 3
 Fore
 SplineSet
-141 -122 m 5
- 42 -122 l 1
- 103 131 l 1
- 249 131 l 5
- 141 -122 l 5
+135 -122 m 5
+ 36 -122 l 1
+ 97 131 l 1
+ 243 131 l 5
+ 135 -122 l 5
 EndSplineSet
-Validated: 1
 Substitution2: "'ss01' Style Set 1 in Latin lookup 22 subtable" comma.ss01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" comma.ss01
 EndChar

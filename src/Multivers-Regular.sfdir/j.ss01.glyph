@@ -1,15 +1,14 @@
 StartChar: j.ss01
 Encoding: 65589 -1 269
-Width: 272
+Width: 260
 GlyphClass: 2
 Flags: HW
-HStem: -173 66<-17 86> 502 20G<95 185> 622 114<109 188>
-VStem: 92 113<638 719> 95 89<-98 522>
+HStem: -173 66<-23 80> 502 20G<89 179> 622 114<103 182>
+VStem: 86 113<638 719> 89 89<-98 522>
 AnchorPoint: "Anchor-2" 120 -210 basechar 0
 AnchorPoint: "Anchor-0" 120 735 basechar 0
 LayerCount: 3
 Fore
 Refer: 196 567 N 1 0 0 1 0 0 3
-Refer: 474 -1 N 1 0 0 1 18 0 2
-Validated: 1048577
+Refer: 474 -1 N 1 0 0 1 12 0 2
 EndChar
